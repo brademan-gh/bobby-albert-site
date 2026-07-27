@@ -1,0 +1,19 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const items = (await getCollection('resources', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.dateConverted.valueOf() - a.data.dateConverted.valueOf());
+---
+<Layout title="Resources" description="PDF information sheets from Bobby Albert, available to read online or download.">
+  <h1>Resources</h1>
+  <p>Information sheets and guides, available to read here or download as the original PDF.</p>
+  <ul>
+    {items.map((item) => (
+      <li>
+        <a href={`/resources/${item.id}/`}>{item.data.title}</a>
+        {item.data.category && ` — ${item.data.category}`}
+      </li>
+    ))}
+  </ul>
+</Layout>

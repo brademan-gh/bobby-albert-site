@@ -1,63 +1,87 @@
-# Astro Starter Kit: Blog
+# Bobby Albert — Site
 
-```sh
-npm create astro@latest -- --template blog
+A preservation site for Bobby Albert's blog posts and PDF information
+sheets, built so his content stays findable and accessible — to people,
+search engines, and AI crawlers/assistants alike.
+
+Built with [Astro](https://astro.build), deployed on
+[Cloudflare Pages](https://pages.cloudflare.com).
+
+## Structure
+
+```
+src/
+  content/
+    blog/        Blog posts (Markdown). Renders to /blog/[slug]/
+    resources/   PDF info sheets converted to HTML (Markdown). Renders to /resources/[slug]/
+  content.config.ts   Frontmatter schemas for both collections
+  layouts/
+  pages/
+public/
+  pdfs/          Original PDF files, downloadable alongside their /resources/ page
+  robots.txt
 ```
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+### Adding a blog post
 
-Features:
+Create `src/content/blog/your-slug.md` with frontmatter:
 
-- ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
-- ✅ SEO-friendly with canonical URLs and Open Graph data
-- ✅ Sitemap support
-- ✅ RSS Feed support
-- ✅ Markdown & MDX support
-
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-├── public/
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── content/
-│   ├── layouts/
-│   └── pages/
-├── astro.config.mjs
-├── README.md
-├── package.json
-└── tsconfig.json
+```yaml
+---
+title: "Post Title"
+description: "One-sentence summary."
+datePublished: 2021-06-01
+dateApproximate: false   # true if the original date is unknown/estimated
+originalUrl: "https://..." # optional, if migrating from a known source URL
+tags: ["topic"]
+draft: false
+---
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+### Adding a resource (PDF info sheet)
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+1. Convert the PDF's content to Markdown/HTML and save it as
+   `src/content/resources/your-slug.md`.
+2. Place the original PDF file at `public/pdfs/your-slug.pdf` — **the
+   filename must exactly match the content entry's slug.**
+3. Set frontmatter:
 
-The `src/content/` directory contains "collections" of related Markdown and MDX documents. Use `getCollection()` to retrieve posts from `src/content/blog/`, and type-check your frontmatter using an optional schema. See [Astro's Content Collections docs](https://docs.astro.build/en/guides/content-collections/) to learn more.
+```yaml
+---
+title: "Sheet Title"
+description: "One-sentence summary."
+sourcePdf: "your-slug"   # must match filename above (without .pdf)
+category: "Topic"
+dateConverted: 2026-07-27
+draft: false
+---
+```
 
-Any static assets, like images, can be placed in the `public/` directory.
+Each resource page links to its original PDF for download — the HTML page
+makes the content findable and indexable; the PDF remains the primary way
+readers consume it.
 
-## 🧞 Commands
+## Development
 
-All commands are run from the root of the project, from a terminal:
+```
+npm install
+npm run dev
+```
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+## Deployment
 
-## 👀 Want to learn more?
+Deployed via Cloudflare Pages, connected directly to this GitHub repository.
+Build command: `npm run build`. Output directory: `dist`.
 
-Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Before going live, update the `site` URL in `astro.config.mjs` to the final
+production domain — this affects the sitemap and canonical URLs, which
+matter for search/AI discoverability.
 
-## Credit
+## License
 
-This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+Site code is available under the [MIT License](./LICENSE).
+
+All blog posts and PDF materials are © Bobby Albert. All rights reserved.
+No content-reuse license is granted — the content is made publicly
+findable and readable, but redistribution/reuse rights are not granted
+beyond that.
