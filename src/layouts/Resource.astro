@@ -1,0 +1,88 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import FormattedDate from '../components/FormattedDate.astro';
+import Header from '../components/Header.astro';
+
+type Props = CollectionEntry<'resources'>['data'] & { pdfHref: string };
+
+const { title, description, dateConverted, category, pdfHref } = Astro.props;
+---
+
+<html lang="en">
+	<head>
+		<BaseHead title={title} description={description ?? title} />
+		<style>
+			main {
+				width: calc(100% - 2em);
+				max-width: 100%;
+				margin: 0;
+			}
+			.prose {
+				width: 720px;
+				max-width: calc(100% - 2em);
+				margin: auto;
+				padding: 1em;
+				color: rgb(var(--gray-dark));
+			}
+			.title {
+				margin-bottom: 1em;
+				padding: 1em 0;
+				text-align: center;
+				line-height: 1;
+			}
+			.title h1 {
+				margin: 0 0 0.5em 0;
+			}
+			.category {
+				margin: 0;
+				text-transform: uppercase;
+				letter-spacing: 0.05em;
+				color: rgb(var(--gray));
+				font-size: 0.9em;
+			}
+			.date {
+				margin-bottom: 0.5em;
+				color: rgb(var(--gray));
+			}
+			.download {
+				text-align: center;
+			}
+			.download a {
+				display: inline-block;
+				padding: 0.6em 1.2em;
+				border-radius: 8px;
+				background: rgb(var(--accent));
+				color: white;
+				text-decoration: none;
+			}
+		</style>
+	</head>
+
+	<body>
+		<Header />
+		<main>
+			<article>
+				<div class="prose">
+					<div class="title">
+						{category && <p class="category">{category}</p>}
+						<h1>{title}</h1>
+						<p class="date">
+							Converted <FormattedDate date={dateConverted} />
+						</p>
+						<p class="download">
+							<a href={pdfHref} download>Download the original PDF &darr;</a>
+						</p>
+						<hr />
+					</div>
+					<slot />
+					<p class="download">
+						<a href={pdfHref} download>Download the original PDF &darr;</a>
+					</p>
+				</div>
+			</article>
+		</main>
+		<Footer />
+	</body>
+</html>

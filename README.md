@@ -4,7 +4,8 @@ A preservation site for Bobby Albert's blog posts and PDF information
 sheets, built so his content stays findable and accessible — to people,
 search engines, and AI crawlers/assistants alike.
 
-Built with [Astro](https://astro.build), deployed on
+Built with [Astro](https://astro.build) (starting from Astro's official
+blog starter template), deployed on
 [Cloudflare Pages](https://pages.cloudflare.com).
 
 ## Structure
@@ -12,10 +13,13 @@ Built with [Astro](https://astro.build), deployed on
 ```
 src/
   content/
-    blog/        Blog posts (Markdown). Renders to /blog/[slug]/
+    blog/        Blog posts (Markdown/MDX). Renders to /blog/[slug]/
     resources/   PDF info sheets converted to HTML (Markdown). Renders to /resources/[slug]/
   content.config.ts   Frontmatter schemas for both collections
+  components/    Header, Footer, BaseHead, etc. (from the Astro blog starter)
   layouts/
+    BlogPost.astro   Layout for blog posts and the About page
+    Resource.astro   Layout for /resources/ pages, includes the PDF download link
   pages/
 public/
   pdfs/          Original PDF files, downloadable alongside their /resources/ page
@@ -30,11 +34,12 @@ Create `src/content/blog/your-slug.md` with frontmatter:
 ---
 title: "Post Title"
 description: "One-sentence summary."
-datePublished: 2021-06-01
+pubDate: 2021-06-01
 dateApproximate: false   # true if the original date is unknown/estimated
 originalUrl: "https://..." # optional, if migrating from a known source URL
 tags: ["topic"]
 draft: false
+heroImage: ../../assets/your-image.jpg  # optional
 ---
 ```
 
@@ -73,9 +78,10 @@ npm run dev
 Deployed via Cloudflare Pages, connected directly to this GitHub repository.
 Build command: `npm run build`. Output directory: `dist`.
 
-Before going live, update the `site` URL in `astro.config.mjs` to the final
-production domain — this affects the sitemap and canonical URLs, which
-matter for search/AI discoverability.
+Before going live, update the `site` URL in `astro.config.mjs` (and the
+`Sitemap:` line in `public/robots.txt`) to the final production domain —
+this affects the sitemap and canonical URLs, which matter for search/AI
+discoverability.
 
 ## License
 

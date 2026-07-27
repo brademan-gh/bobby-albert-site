@@ -22,3 +22,6 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
+# scratch folder used while restoring/merging this repo's history — safe to delete
+_to_delete/

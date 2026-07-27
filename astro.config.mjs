@@ -1,12 +1,36 @@
-import { defineConfig } from 'astro/config';
+// @ts-check
+
+import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
+import { defineConfig, fontProviders } from 'astro/config';
 
-// Replace with the final production URL once the custom domain is attached
-// (e.g. https://bobbyalbert.com). This is required for correct sitemap /
-// canonical URL generation, which matters for search & AI crawler discovery.
-const SITE_URL = 'https://bobby-albert-site.pages.dev';
-
+// https://astro.build/config
 export default defineConfig({
-  site: SITE_URL,
-  integrations: [sitemap()],
+	// TODO: update to the final production domain once a custom domain is attached
+	site: 'https://bobby-albert-site.pages.dev',
+	integrations: [mdx(), sitemap()],
+	fonts: [
+		{
+			provider: fontProviders.local(),
+			name: 'Atkinson',
+			cssVariable: '--font-atkinson',
+			fallbacks: ['sans-serif'],
+			options: {
+				variants: [
+					{
+						src: ['./src/assets/fonts/atkinson-regular.woff'],
+						weight: 400,
+						style: 'normal',
+						display: 'swap',
+					},
+					{
+						src: ['./src/assets/fonts/atkinson-bold.woff'],
+						weight: 700,
+						style: 'normal',
+						display: 'swap',
+					},
+				],
+			},
+		},
+	],
 });

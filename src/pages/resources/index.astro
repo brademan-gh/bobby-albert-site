@@ -1,19 +1,67 @@
 ---
-import Layout from '../../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import FormattedDate from '../../components/FormattedDate.astro';
+import Header from '../../components/Header.astro';
+import { SITE_TITLE } from '../../consts';
 
-const items = (await getCollection('resources', ({ data }) => !data.draft))
-  .sort((a, b) => b.data.dateConverted.valueOf() - a.data.dateConverted.valueOf());
+const items = (await getCollection('resources', ({ data }) => !data.draft)).sort(
+	(a, b) => b.data.dateConverted.valueOf() - a.data.dateConverted.valueOf(),
+);
+const pageTitle = `Resources | ${SITE_TITLE}`;
+const description = 'Information sheets and guides from Bobby Albert, available to read here or download as the original PDF.';
 ---
-<Layout title="Resources" description="PDF information sheets from Bobby Albert, available to read online or download.">
-  <h1>Resources</h1>
-  <p>Information sheets and guides, available to read here or download as the original PDF.</p>
-  <ul>
-    {items.map((item) => (
-      <li>
-        <a href={`/resources/${item.id}/`}>{item.data.title}</a>
-        {item.data.category && ` — ${item.data.category}`}
-      </li>
-    ))}
-  </ul>
-</Layout>
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={pageTitle} description={description} />
+		<style>
+			main {
+				width: 720px;
+				max-width: calc(100% - 2em);
+				margin: auto;
+			}
+			ul {
+				list-style-type: none;
+				margin: 0;
+				padding: 0;
+			}
+			li {
+				padding: 1em 0;
+				border-bottom: 1px solid rgb(var(--gray-light));
+			}
+			li a {
+				text-decoration: none;
+				color: rgb(var(--black));
+			}
+			li a:hover {
+				color: rgb(var(--accent));
+			}
+			.category {
+				color: rgb(var(--gray));
+				font-size: 0.9em;
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<p>{description}</p>
+			<ul>
+				{
+					items.map((item) => (
+						<li>
+							<a href={`/resources/${item.id}/`}>
+								{item.data.title}
+								{item.data.category && <span class="category"> — {item.data.category}</span>}
+							</a>
+						</li>
+					))
+				}
+			</ul>
+		</main>
+		<Footer />
+	</body>
+</html>
