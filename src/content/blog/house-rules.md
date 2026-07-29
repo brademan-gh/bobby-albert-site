@@ -37,19 +37,10 @@ I’m fully convinced since our boys clearly understood the boundary lines of ou
 
 -   Learning when they made principled and wise decisions there are blessings, success, and growth, but when they made wrong and expedient decisions there were negative consequences.
 
-```{=html}
-<!-- -->
-```
 -   Understanding that with their freedoms came responsibilities.
 
-```{=html}
-<!-- -->
-```
 -   Adopting the “House Rules” as their own resulted in them enforcing the rules with their friends. They have continued even to this day to live out those “House Rules”.
 
-```{=html}
-<!-- -->
-```
 -   Maturing into honorable men who have wonderful wives (who are like daughters to my wife and me), excellent jobs, manage their money well, and are better dads than I was.  I’m so proud of them!
 
 > **“Prepare the child for the path, not the path for the child.”**
@@ -72,19 +63,10 @@ An employee’s sense of ownership over a product or process translates into…
 
 -   Better customer service,
 
-```{=html}
-<!-- -->
-```
 -   Better accuracy,
 
-```{=html}
-<!-- -->
-```
 -   Better attitude overall, and
 
-```{=html}
-<!-- -->
-```
 -   A more positive workplace, even under stress.
 
 Treat an employee like a robot, however, and watch production and satisfaction plummet. Instead of taking ownership and trying to solve problems, employees, feeling overwhelmed and disregarded, will shift blame and responsibilities to others.

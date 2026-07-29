@@ -23,9 +23,6 @@ I wanted to introduce **AQL** to our people because…
 
 -   In the past, we had, like other companies, done extensive training on *listening* skills.  However, we had never trained our people on the skills needed to *ask* good, quality discovery *questions*. And that was the main reason for our **AQL** (***A****sk* ***Q****uestions* and ***L****isten*) *QIC*-Day.
 
-```{=html}
-<!-- -->
-```
 -   I found people generally tend to and feel more comfortable (in an expedient way) to blurt out statements rather than (in a principled way) *ask questions* **and** *listen*.
 
 When I started to research about *asking questions*, I was surprised by how little material I could find on this important topic.  That is when I sensed an opportunity for me and our people to learn.
@@ -44,9 +41,6 @@ As our employees arrived for our **AQL** *QIC-*Day, we ask people to sit at pre-
 
 -   Encourage interaction and discussion
 
-```{=html}
-<!-- -->
-```
 -   Enjoy the games we were about to compete in
 
 ### **Two** **Fun Games**
@@ -55,14 +49,8 @@ Each game played was designed for our people to…
 
 -   Have fun
 
-```{=html}
-<!-- -->
-```
 -   Learn to work as a team
 
-```{=html}
-<!-- -->
-```
 -   Discover areas that need improvement
 
 **Game \# 1** – To kick off the meeting, we used an “ice breaker” game to show how well we listen (or rather *not* so well).
@@ -75,9 +63,6 @@ The traditional phrasings are:
 
 -   Who is/are..?  For people
 
-```{=html}
-<!-- -->
-```
 -   What is/are..?  For things
 
 To give emphasis to our *QIC*-Day, we called our game *QIC*-ARDY!
@@ -90,14 +75,8 @@ At our **AQL** *QIC*-Day, we divided our agenda into three parts:
 
 -   Ask Questions
 
-```{=html}
-<!-- -->
-```
 -   Listen
 
-```{=html}
-<!-- -->
-```
 -   Becoming A Lean Enterprise
 
 #### **1. Ask Questions**
@@ -108,9 +87,6 @@ I asked our people to discuss the following questions:
 
 -   What is the value of *asking questions*?
 
-```{=html}
-<!-- -->
-```
 -   Why don’t we *ask* more *questions?*
 
 **Record, Share & Play**

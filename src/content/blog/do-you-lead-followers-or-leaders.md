@@ -33,18 +33,12 @@ Drive for **results** –
 
 -   I had gotten better and better at the skills required to manage *things* for **results**
 
-```{=html}
-<!-- -->
-```
 -   I had surrounded myself with some very good managers who were even better than I was at managing *things* for **results**
 
 Enhance **relationships** –
 
 -   Since this was my *bent*, it was easy for me to maintain and enhance **relationships** by being respectful and thoughtful of *people*
 
-```{=html}
-<!-- -->
-```
 -   I had many of the attitudes of a *servant *leader
 
 ### What is your motive?
@@ -59,19 +53,10 @@ You see, my true motive was to…
 
 -   Hold on to the power instead of sharing the power
 
-```{=html}
-<!-- -->
-```
 -   Take recognition for our success instead of sharing the recognition by reproducing myself in others
 
-```{=html}
-<!-- -->
-```
 -   Spend time with people instead of invest time in them
 
-```{=html}
-<!-- -->
-```
 -   Focus on correcting people’s weaknesses instead of focusing on people’s strengths
 
 ### One missing component
@@ -94,9 +79,6 @@ Enhancing relationships has two components:
 
 -   *How* you say things
 
-```{=html}
-<!-- -->
-```
 -   *How* you **do** things
 
 It was the **doing** that I failed at.

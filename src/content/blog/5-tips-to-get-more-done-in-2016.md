@@ -27,9 +27,6 @@ In a previous two blog posts I suggested you…
 
 -   [**Pause and reflect**](/blog/your-first-step-to-an-extraordinary-2016/){target="_blank"} by asking, “Where have I been? and “Where am I now?”
 
-```{=html}
-<!-- -->
-```
 -   Then start [**dreaming**](/blog/what-do-you-dream-to-accomplish-in-2016/){target="_blank"} and *thinking* by asking yourself “Where am I going?”
 
 Effective goal setting requires that we know where we’ve been, where we are, and where we’re going. Without this process, you may find yourself off course – or worse, going nowhere.

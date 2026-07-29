@@ -54,19 +54,10 @@ Immediately after our QIC-Day, I met with our Values Leaders to cast the vision 
 
 -   I thanked them for agreeing to this very important leadership role.
 
-```{=html}
-<!-- -->
-```
 -   Informed them that they were uniquely selected by the executive team because we had already observed them having a personal commitment to “living out” these values.
 
-```{=html}
-<!-- -->
-```
 -   Explained how critical **Our Values** were to the foundation of everything our company was built on.
 
-```{=html}
-<!-- -->
-```
 -   Communicated that we did not want to just talk about **Our Values**…We wanted them “lived out”.
 
 ### **Expand the team**
@@ -75,9 +66,6 @@ Immediately after our QIC-Day, I met with our Values Leaders to cast the vision 
 
 -   I asked each Values Leader to choose a team of three to five like-minded people who had “lived out” the *one* value assigned to that leader.
 
-```{=html}
-<!-- -->
-```
 -   This allowed more people to get in on the discovery, learning and reinforcement of **Our Values**.
 
 ### Define the task
@@ -86,14 +74,8 @@ An important aspect of leadership is defining what you expect your people to do 
 
 -   I tasked every **Value Team** with the challenge of studying what we currently do, finding where any gaps might be, and developing ideas for how we might further our efforts regarding each value.
 
-```{=html}
-<!-- -->
-```
 -   Suggested they use the flip charts from the QIC-Day as a starting point to do a deeper dive into how we as a company were going to “live out” that value.
 
-```{=html}
-<!-- -->
-```
 -   Asked them to present their recommendations at a second company-wide QIC-Day scheduled for the following month.
 
 > Did you notice how I was able to create wide-spread collaboration and support of Our Values through some simple steps? —

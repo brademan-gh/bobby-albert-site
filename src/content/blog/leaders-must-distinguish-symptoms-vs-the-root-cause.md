@@ -27,14 +27,8 @@ It also meant that those suppliers had to stand-in-the-gap and quickly:
 
 -   Pull a moving crew together,
 
-```{=html}
-<!-- -->
-```
 -   Put them in a truck, and
 
-```{=html}
-<!-- -->
-```
 -   Rush them out to the customer’s home after they had already performed a full-day’s work to pick up the customer’s HHGs (the *symptom*).
 
 The cost reimbursement for this activity by my company to the supplier really was *not* adequate, compared to their actual cost (the *symptom*).
@@ -59,14 +53,8 @@ When we set measurable **goals** and began to give suppliers measurable *feedbac
 
 -   The shipment of HHGs consistently arrived at the destination city on a date later than agreed to with the customer.
 
-```{=html}
-<!-- -->
-```
 -   Cargo damage claims dramatically increased by 82%.  WOW!
 
-```{=html}
-<!-- -->
-```
 -   Customer satisfaction surveys had poor scores.
 
 But the greatest *symptom* discovered was…

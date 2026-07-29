@@ -19,24 +19,12 @@ Here are the five truths I learned from the Superman TV series:
 
 -   Be content with who you are even though you may be different.
 
-```{=html}
-<!-- -->
-```
 -   Be a person with strong character qualities.
 
-```{=html}
-<!-- -->
-```
 -   Teach your children to behave in a **principled** way, and model this in your own behavior.
 
-```{=html}
-<!-- -->
-```
 -   Use your gifts to benefit others and protect others from those who use evil means and who are *self-centered*.
 
-```{=html}
-<!-- -->
-```
 -   Always have a *positive* and an *abundance* mindset*.*
 
 > People with an *abundance* mindset believe that today’s *short-term* pain, sacrifice, and investment in time, energy, and money, will eventually bring *long-term* growth, blessings, and success.

@@ -37,14 +37,8 @@ So, what is working **ON**, not just **IN**, the business? It involves a thr
 
 -   Grow *yourself* 
 
-```{=html}
-<!-- -->
-```
 -   Grow your *people* 
 
-```{=html}
-<!-- -->
-```
 -   Grow your *business*\
 
 **“You can’t handle the truth!” **

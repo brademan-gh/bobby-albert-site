@@ -62,9 +62,6 @@ And they do so by both…
 
 -   MBWA (management by walking/wandering around) is an unstructured manner of walking/wandering through the workplace to talk with employees or inquire about the status of ongoing work.
 
-```{=html}
-<!-- -->
-```
 -   Group exercises to brainstorm and facilitate ideas and thoughts.
 
 Also, empowering leaders ask:
@@ -87,24 +84,12 @@ When you involve your people in the **goal** setting process, you can…
 
 -   Afford yourselves more resources, ideas, and energy than you would as an individual.
 
-```{=html}
-<!-- -->
-```
 -   Maximize your *team’s* potential and minimize their weakness.  Strengths and weakness are more exposed in individuals.
 
-```{=html}
-<!-- -->
-```
 -   Better devise several alternatives when *teams* provide multiple perspectives on *how* to reach a **goal**.  Individual insight is seldom as broad and deep as a *team* is when setting **goals**.
 
-```{=html}
-<!-- -->
-```
 -   Share with the *team* the credit for victories and the blame for losses.
 
-```{=html}
-<!-- -->
-```
 -   Simply do more as a *team* than as an individual.
 
 Is planning and goal setting from the *top-down or the bottom-up*?

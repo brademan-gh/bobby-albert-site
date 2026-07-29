@@ -28,14 +28,8 @@ When we had our annual **AQL**^TM^**** (***A****sk* ***Q****uestions* and ***L**
 
 -   **Ask Questions* *
 
-```{=html}
-<!-- -->
-```
 -   *Listen*
 
-```{=html}
-<!-- -->
-```
 -   Becoming A Lean Enterprise
 
 And during our session on *asking questions* we talked through some practical ways to use questions when ***selling* our services**.
@@ -64,19 +58,10 @@ Contacting a customer and *asking questions*…
 
 -   Causes the customer to give you information that helps you decide if they need your services.
 
-```{=html}
-<!-- -->
-```
 -   Gives you control of the conversation.
 
-```{=html}
-<!-- -->
-```
 -   Helps you quickly identify if you are talking to a decision-maker.
 
-```{=html}
-<!-- -->
-```
 -   Saves you from wasting time (yours and theirs) on people who have no need of what you are *selling*
 
 ### **Best Practices**
@@ -85,53 +70,26 @@ As you may know, there are two types of questions:
 
 -   Open probe questions– are more exploratory and discovery in nature.  They encourage the customer to speak freely about a topic.
 
-```{=html}
-<!-- -->
-```
 -   Close probe questions– limit the customer’s response to a “yes” or “no” answer.
 
 Discovery questions are designed to…
 
 -   Identify existing customer needs
 
-```{=html}
-<!-- -->
-```
 -   Identify problems and even challenges the customer didn’t realize existed
 
-```{=html}
-<!-- -->
-```
 -   Identify customer pain points
 
-```{=html}
-<!-- -->
-```
 -   Identify customer’s goals and a glimpse of potential objections
 
-```{=html}
-<!-- -->
-```
 -   Provide insight into what the customer knows and what they don’t know
 
-```{=html}
-<!-- -->
-```
 -   Provide insight into the top priorities that impact the customer’s decisions– decision criteria – and who is the decision-maker
 
-```{=html}
-<!-- -->
-```
 -   Help the customer evaluate what they are doing and why
 
-```{=html}
-<!-- -->
-```
 -   Demonstrate your credibility by your understanding of the product/service offering
 
-```{=html}
-<!-- -->
-```
 -   Create the image that you solve problems not just push products/services
 
 During our **AQL** *QIC-*Day, we demonstrated open probe, selling questions that invite an explanation when talking with customers.
@@ -144,68 +102,32 @@ At my company, I have learned that these questions help build “trust” with c
 
 -   What’s taking you to (destination)?
 
-```{=html}
-<!-- -->
-```
 -   Have you picked out a place to live?
 
-```{=html}
-<!-- -->
-```
 -   Where are you in your decision to select a mover?
 
-```{=html}
-<!-- -->
-```
 -   Who will be making the decision to select a moving service?
 
-```{=html}
-<!-- -->
-```
 -   When will you be making a decision to select a moving service?
 
-```{=html}
-<!-- -->
-```
 -   How will you go about making the decision?
 
-```{=html}
-<!-- -->
-```
 -   Is there anything I can do to help you make the decision?
 
 **Need/Desire Directed Questions**
 
 -   What is the most important aspect of service to you?
 
-```{=html}
-<!-- -->
-```
 -   Have you moved long-distance before?
 
-```{=html}
-<!-- -->
-```
 -   How did everything go?
 
-```{=html}
-<!-- -->
-```
 -   What did you like/dislike?
 
-```{=html}
-<!-- -->
-```
 -   Why do you want to do your own packing?
 
-```{=html}
-<!-- -->
-```
 -   What kind of flexibility do you have in the dates you’ve selected?
 
-```{=html}
-<!-- -->
-```
 -   What kind of moving services do you have in mind?
 
 > **Observation: We all are selling something – even in our family, with friends, and in the workplace or marketplace.**

@@ -16,14 +16,8 @@ During this process, I was amazed how…
 
 -   Everyone became so excited and interested in the vacation as the process went forward.
 
-```{=html}
-<!-- -->
-```
 -   These internet savvy boys and the two older boys’ wives jumped in with both feet and researched travel options online with ease.
 
-```{=html}
-<!-- -->
-```
 -   Well they interacted between themselves to make recommendations for my wife and me to consider as we made the final decision.
 
 This decision-making process worked so well, I wish I had started this process sooner when our boys were younger.
@@ -40,19 +34,10 @@ As we *engaged* in this decision-making process, we all learned to…
 
 -   Advocate for what they wanted
 
-```{=html}
-<!-- -->
-```
 -   Listen to others’ wishes
 
-```{=html}
-<!-- -->
-```
 -   Make compromises
 
-```{=html}
-<!-- -->
-```
 -   Accept being exposed to something new
 
 Recently, I’ve been writing about one of the best ways for you, as the leader, to take the first step toward *engaging* your employees with a *participative leadership style* that I call **Engage2Lead** by employing the **1-2-3 leadership tool.**
@@ -85,24 +70,12 @@ Gallup conducted studies of employee *engagement* and analyzed surveys from over
 
 -   20% higher sales
 
-```{=html}
-<!-- -->
-```
 -   24% lower turnover in high-turnover organizations
 
-```{=html}
-<!-- -->
-```
 -   59% lower turnover in low-turnover organizations
 
-```{=html}
-<!-- -->
-```
 -   41% less absenteeism
 
-```{=html}
-<!-- -->
-```
 -   70% fewer employee safety incidents
 
 As a leader, you can also begin the process to *engage* your employees by consistently using the **Engage2Lead** *participative leadership style* and the **1-2-3 leadership tool**, and in time, the process will produce extraordinary results.

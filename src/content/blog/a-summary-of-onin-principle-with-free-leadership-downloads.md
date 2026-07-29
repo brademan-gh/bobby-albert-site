@@ -27,14 +27,8 @@ It is making intentional plans to improve revenues, control costs, and enhance t
 
 -   Grow yourself
 
-```{=html}
-<!-- -->
-```
 -   Grow your people
 
-```{=html}
-<!-- -->
-```
 -   Grow your business
 
 The following is a summary of the blog posts that I’ve written about the **ON/IN** principle:

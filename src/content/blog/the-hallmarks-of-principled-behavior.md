@@ -29,14 +29,8 @@ Each grandson felt so important to have all of the attention just on them. They 
 
 -   Fundamental beliefs and rules of conduct
 
-```{=html}
-<!-- -->
-```
 -   *Long-term* appropriateness and effectiveness
 
-```{=html}
-<!-- -->
-```
 -   *Self-discipline* and willingness to forgo the lure of *immediate* gratification or tempting *shortcuts*
 
 ***Every person can identify principled decisions by recognizing the following characteristics and successful results.***
@@ -47,44 +41,20 @@ The following are characteristics of **principled** behavior:
 
 -   Takes longer
 
-```{=html}
-<!-- -->
-```
 -   Requires more steps
 
-```{=html}
-<!-- -->
-```
 -   Team-centered
 
-```{=html}
-<!-- -->
-```
 -   Analytic
 
-```{=html}
-<!-- -->
-```
 -   Sound decisions
 
-```{=html}
-<!-- -->
-```
 -   Short-term sacrifice
 
-```{=html}
-<!-- -->
-```
 -   Short-term pain
 
-```{=html}
-<!-- -->
-```
 -   Long-term view or perspective
 
-```{=html}
-<!-- -->
-```
 -   Secure
 
 Please keep in mind, **principled** behavior is rooted in *faith*. *Faith* in what you want to happen is going to happen, Or, *faith* that you are going to experience something you want to experience.
@@ -103,44 +73,20 @@ The following are examples of the impact and successful results from **principle
 
 -   Reduced risks
 
-```{=html}
-<!-- -->
-```
 -   Fewer errors
 
-```{=html}
-<!-- -->
-```
 -   Less rework
 
-```{=html}
-<!-- -->
-```
 -   Continual progress
 
-```{=html}
-<!-- -->
-```
 -   Highly gratifying
 
-```{=html}
-<!-- -->
-```
 -   Enjoyable
 
-```{=html}
-<!-- -->
-```
 -   Fun celebrating
 
-```{=html}
-<!-- -->
-```
 -   Less stress
 
-```{=html}
-<!-- -->
-```
 -   Respect
 
 ### Principle vs. Expediency

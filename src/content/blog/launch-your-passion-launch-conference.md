@@ -32,33 +32,18 @@ Building a company around your unique message is a blast! I’ve found that laun
 
 -   Technology… for sure
 
-```{=html}
-<!-- -->
-```
 -   Industry terminology and language
 
-```{=html}
-<!-- -->
-```
 -   Ways to market products and services
 
-```{=html}
-<!-- -->
-```
 -   How to use social media
 
 **Achieve Significance –** I feel I’m really making a difference in the lives of people.
 
 -   *Writing* has become my discipline to write a book and create products and services. When I hear about leaders using my blog posts to develop and grow their organizations, I know I’m having an impact.
 
-```{=html}
-<!-- -->
-```
 -   *Speaking/training* gets me face-to-face with larger groups of people. Their positive response has affirmed to me that I’m on the right track.
 
-```{=html}
-<!-- -->
-```
 -   *Consulting* leaders about business and life-changing decisions has been exciting. It’s encouraging to see them follow through with the process to achieve extraordinary results.
 
 ### Lessons Learned
@@ -69,19 +54,10 @@ My impatient nature and overly optimistic approach has caused me to have unreali
 
 -   How long it would take to build the business.
 
-```{=html}
-<!-- -->
-```
 -   The amount of effort and level of detail it would take.
 
-```{=html}
-<!-- -->
-```
 -   The amount money I would need to spend to fast-forward the business and speed-up the process.
 
-```{=html}
-<!-- -->
-```
 -   The size of the learning curve of ever-changing technology; the amount of articles, blog posts, and books to read; the number of conferences to attend; the number of webinars and podcast to listen to; and the use of consultants.
 
 ### A Solution
@@ -104,19 +80,10 @@ Here’s their four-step launch formula…
 
 -   **Discover your assets –** Identify your true passions and clarify what is unique about you and your message.
 
-```{=html}
-<!-- -->
-```
 -   **Design your products –** You learn how to develop resources people want to buy. You’ll also learn about a speaker’s multiple streams of income, and how to build a killer speaking page.
 
-```{=html}
-<!-- -->
-```
 -   **Develop your market –** They show you their system to generate an inflow of prospects, and how to convert them to leads and sales.
 
-```{=html}
-<!-- -->
-```
 -   **Determine your value –** Learn what you and your products are worth in the marketplace. Products create the market, and the market creates the value.
 
 If you want to give the Launch Conference a shot, the next one is in Orlando, FL., and April 13-16, 2015. To receive a \$100 discount, you can click this link: [Save\$100OnLaunch](https://thelaunchconf.eventbrite.com/?discount=BOBBYA).

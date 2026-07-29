@@ -37,24 +37,12 @@ Every leader can benefit from the **1-2-3** process.  If you *don’t* choose t
 
 1.  You’ll make decisions based on incomplete information.
 
-```{=html}
-<!-- -->
-```
 2.  You may save an ounce of effort in one area/department without realizing it will require a pound of effort in one or more areas/departments.
 
-```{=html}
-<!-- -->
-```
 3.  The limited progress achieved with a decision made without input from others may take the focus off of the issue and delay or prevent pursuit of a better ***team***-based approach!
 
-```{=html}
-<!-- -->
-```
 4.  Team members will lack inspiration and enthusiasm when being asked to implement something they weren’t “in on”.  We are generally not “up on” what we are not “in on”.
 
-```{=html}
-<!-- -->
-```
 5.  Inappropriate approaches result in unhappy employees at all levels of the organization. This is especially true on the front lines, when folks are repeatedly asked to carry out decisions in ways that they know are not as effective or efficient as they could be.
 
 > Leadership insight: The more capable and dedicated the employee is, the more frustrated they will be with unilateral, non-participative leadership.

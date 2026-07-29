@@ -56,19 +56,10 @@ Beyond the *training* of technical job skills… 
 
 -   Which medical doctor do you go to?  The one who is kind and friendly and takes time to be with you, or the one who sees you as only a body count to bill for. 
 
-```{=html}
-<!-- -->
-```
 -   Which dentist do you go to?  The one who is pleasant and fun to be around with and takes time to answer your questions, or the one who treats you like a number in a long line of mouths and molars?
 
-```{=html}
-<!-- -->
-```
 -   Which accountant in the organization do you go to?  One who has a strong work ethic and a great encourager to his or her co-workers, or one who hits the door straight up at 5:00 pm regardless of a peak demand time and never appreciates others who work for him or her? 
 
-```{=html}
-<!-- -->
-```
 -   Which manufacturing worker or worker performing moving services do you retain when times are lean?  The one with a positive attitude, open and willing to help, or the one who is inflexible and will not admit to making mistakes? 
 
 Regardless of the position or job mentioned above, it is the personal *development*/people skills that is the true difference maker which matters and contributes the most toward results and profits.   

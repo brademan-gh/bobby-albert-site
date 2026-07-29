@@ -38,24 +38,12 @@ I learned how to get attention for my brand, turn followers into prospects, pros
 
 -   **Start with WOW** – Ken Davis ([www.KenDavis.com](http://www.KenDavis.com)) said, “Not only create a WOW platform**,** but be a WOW person.”  He also encouraged us to ‘be you’, be accessible, be generous, be positive, be passionate, and be honest.
 
-```{=html}
-<!-- -->
-```
 -   **Prepare to Launch** – Michael Hyatt ([www.MichaelHyatt.com](http://www.MichaelHyatt.com)) advised us to define our audience, develop our value proposition, come up with a compelling brand slogan, have an engaging head shot on you website, and use simple graphic components.
 
-```{=html}
-<!-- -->
-```
 -   **Build Your Home Base** – Jeff Goins ([www.GoinsWriter.com](http://www.GoinsWriter.com)) compelled us to own our identity, to pursue our passion, and build community.  Ray Edwards explained the process of writing to sell – identify a problem, amplify the problem, tell a story, give a testimony and how transformation took place, make an offer, and ask people to respond.  Cliff Ravenscraft ([www.PodcastAnswerMan.com](http://www.PodcastAnswerMan.com)) talked about the benefits of podcasting.
 
-```{=html}
-<!-- -->
-```
 -   **Expand Your Reach** – Lysa Terkeurst ([www.LysaTerKeurst.com](http://www.LysaTerKeurst.com)) asked three questions – Who are you to other people?  What do you offer?  How are you different?  Amy Porterfield ([www.AmyPorterfield.com](http://www.AmyPorterfield.com)) explained why FaceBook marketing is your most powerful lead generation tool.
 
-```{=html}
-<!-- -->
-```
 -   **Engage Your Tribe** – Derek Halpern ([www.SocialTriggers.com](http://www.SocialTriggers.com)) said, “It’s not *what* you sell but *how*.”  Stu McLaren ([www.stu.me](http://www.stu.me)) declared, “People don’t buy information.  They buy the convenience of getting a solution from a trusted source.”  He also said, “People come for the content, but they stay for the community.”
 
 ### Networking

@@ -43,29 +43,14 @@ After talking through the problem, I asked the lady and her supervisor if this p
 
 -   Turn-over this collection of over 1,000 good everyday recipes for a printer to professional print into a cookbook.
 
-```{=html}
-<!-- -->
-```
 -   Hold two nation-wide contests of all those who sent in a recipe to…
 
-```{=html}
-<!-- -->
-```
 -   –\> Help name the cookbook and
 
-```{=html}
-<!-- -->
-```
 -   –\> Help design the cookbook cover
 
-```{=html}
-<!-- -->
-```
 -   Send/provide a free cookbook to those who submitted a recipe. And we would use the cookbook as a marketing tool at tradeshows and for future new suppliers/movers coming into our nation-wide network.
 
-```{=html}
-<!-- -->
-```
 -   Sell any extra copies requested as a Christmas or special gift.
 
 This lady and her supervisor were so excited that they jumped at the idea with both feet running.
@@ -86,34 +71,16 @@ The following is a sample of ways our employees received *feedback* that further
 
 -   We had employees use a 360 management tool to give *feedback* through an annual leadership survey.
 
-```{=html}
-<!-- -->
-```
 -   We began to regularly measure and report performance goals set by every employee.
 
-```{=html}
-<!-- -->
-```
 -   Our internal company-wide newsletter, *Albert News on the Move,* was used to update and communicate to all employees twice a month.
 
-```{=html}
-<!-- -->
-```
 -   I began to send thank you, congratulation, birthday and employment anniversary cards with personalized comments.
 
-```{=html}
-<!-- -->
-```
 -   A customer satisfaction survey was used to give our employees results (the good, bad, and ugly) from the survey.
 
-```{=html}
-<!-- -->
-```
 -   Our separate business units began to have monthly fun and *feedback* meetings.
 
-```{=html}
-<!-- -->
-```
 -   A committee was formed of rotating employees to recognize an employee, supplier, customer, or even a good citizen as an **Operation QIC** person of the month.
 
 This is just a short list of the *feedback* *mechanisms* and *practices* that we employed at our company. You, too, can put similar *practices* in place within your organization to further a *quality* epidemic and the **QIC** spirit.

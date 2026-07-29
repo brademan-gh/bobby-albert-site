@@ -21,24 +21,12 @@ We scheduled our training around each other’s personal and work schedules. In 
 
 -   I was the morning person who would give him a wake-up call to meet for our training before going to work.
 
-```{=html}
-<!-- -->
-```
 -   We had about the same pace when swimming in a pool.
 
-```{=html}
-<!-- -->
-```
 -   He was a stronger runner than me, so he paced me well.
 
-```{=html}
-<!-- -->
-```
 -   I was the stronger on the bicycle, so I would pace him well.
 
-```{=html}
-<!-- -->
-```
 -   We enjoyed each other’s company, so it made all of the hard training go by quickly. It didn’t even seem like we were training hard.
 
 While a training partner helped me immensely as I prepared for triathlons, for many years I was doing my company’s business planning alone and in a vacuum.
@@ -77,24 +65,12 @@ Every employee wants answers to the following five questions:
 
 -   Where is the company headed?
 
-```{=html}
-<!-- -->
-```
 -   What is my role in this effort?
 
-```{=html}
-<!-- -->
-```
 -   How is my performance going to be evaluated?
 
-```{=html}
-<!-- -->
-```
 -   How have I been doing?
 
-```{=html}
-<!-- -->
-```
 -   How could I do better?
 
 Employees want more than just being told, told, told!
@@ -109,24 +85,12 @@ As the leader, how well do you interact with your employees? How about asking yo
 
 -   How am I doing as a leader?
 
-```{=html}
-<!-- -->
-```
 -   Would my employees identify with the “Employees’ Lament”?
 
-```{=html}
-<!-- -->
-```
 -   How could I be more effective as a leader?
 
-```{=html}
-<!-- -->
-```
 -   How would I like to work for me?
 
-```{=html}
-<!-- -->
-```
 -   How would I like to have myself as a supervisor?
 
 What are you doing to work **ON**, not just **IN**, your business?

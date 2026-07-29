@@ -33,9 +33,6 @@ Would you rather *talk* because…
 
 -   You would be in control with your own agenda?
 
-```{=html}
-<!-- -->
-```
 -   You want to be the center of attention?
 
 Or do you genuinely *listen* and search objectively for the truth and an opportunity to increase *mutual understanding*?
@@ -50,9 +47,6 @@ When we decide to respond when another person is talking, we stop **listening** 
 
 -   We don’t want to forget what we want to say.
 
-```{=html}
-<!-- -->
-```
 -   We start thinking of ways to present our point of view.
 
 > **“People are usually more firmly convinced that their opinions are precious than that they are true.” – George Santayana**
@@ -63,14 +57,8 @@ With the lopsided distribution of power in a leader and employee relationship, t
 
 -   As the leader, how patient are you with your employees, and how hard do you try to understand what they are trying to tell you?
 
-```{=html}
-<!-- -->
-```
 -   To what extent do you encourage your employees to share their views with you.  This is especially important on those matters when their views are different from yours.
 
-```{=html}
-<!-- -->
-```
 -   Rather than **listening**, do you find it easier and more convenient to simply cut them off, snap a quick decision or instruction to them, and get on with your other endeavors?
 
 > **Insight: The most important step in improving your listening skills is to adjust your basic attitude during the communications and to test your motives for listening or not listening.**

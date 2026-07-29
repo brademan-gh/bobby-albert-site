@@ -30,19 +30,10 @@ If you can help your employees improve their overall well-being in a holistic w
 
 -   Develop higher self-esteem,
 
-```{=html}
-<!-- -->
-```
 -   Be more *confident* in who they are,
 
-```{=html}
-<!-- -->
-```
 -   Be more *content* with what they have, and
 
-```{=html}
-<!-- -->
-```
 -   Become *courageous* in how they live their life.
 
 Now, do I need to tell you how productive and customer-centric an employee would be if they had *confidence*, *contentment*, and *courage*?
@@ -65,29 +56,14 @@ The following are a few ways our company helped employees to develop healthy lif
 
 -   Wellness Fair – Once a year we would bring in health care providers as part of our Wellness Fair. They would teach our people about healthy living, and provide a variety of free health screenings.
 
-```{=html}
-<!-- -->
-```
 -   “Move It and Lose It” – Once or twice a year, we would have weight-loss contests.
 
-```{=html}
-<!-- -->
-```
 -   Flu Shots – Each fall we would have a health care provider come on-site to provide the shots. We encouraged our people to save their paid-time off/vacation/sick days for vacation and not to be off due to sickness. The shots were for the whole family so our employees could avoid being off due to sick family members.
 
-```{=html}
-<!-- -->
-```
 -   Fitness Gym Memberships – We paid 50% of memberships.
 
-```{=html}
-<!-- -->
-```
 -   Emotional Health – We did several things to help our people deal with their emotional health, you can read more about it in the blog post, “What Does Dr. Seuss Know About Building an Inspiring Culture?”
 
-```{=html}
-<!-- -->
-```
 -   Chaplains – We subscribed to an employee assistance program called Marketplace Chaplains. These chaplains made weekly work-site visits. The employees knew it was okay to stop with their work to visit with the chaplains. These chaplains were available for the whole family 24/7. They also made hospital visits and conducted marriages and funerals for employees and their families.
 
 As leaders, we have a great opportunity to improve our culture by encouraging wellness with our team. You’ll lead more effectively when your people see that you care about them and their wellness.

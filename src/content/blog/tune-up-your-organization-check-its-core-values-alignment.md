@@ -33,14 +33,8 @@ The evidence from the research done by best-selling author, Jim Collins, found a
 
 -   They used a participative management style that was reinforced by employees being…
 
-```{=html}
-<!-- -->
-```
 -   Trained in participative management skills and…
 
-```{=html}
-<!-- -->
-```
 -   Involved in the decision-making process.
 
 Through my [“1-2-3” participative management style](/blog/involve-your-team-in-decision-making/), our employees knew that I was as much working for them rather than the other way around. This way of leading literally turned our organization chart upside-down!
@@ -57,9 +51,6 @@ The first step is an *analytic* process that requires the discipline of the orga
 
 -   Is inconsistent with or driving people away from the organization’s *core values* and purpose and/or…
 
-```{=html}
-<!-- -->
-```
 -   Impedes or blocks progress.
 
 Most managers fall short in identifying and eliminating **misalignment**.
@@ -70,9 +61,6 @@ One way to allow your organization to quickly identify **misalignment** without 
 
 -   Put random people into groups of no more than six and,
 
-```{=html}
-<!-- -->
-```
 -   Ask each group to come up with the three most significant **misalignments** pertaining to each core value.
 
 Typically, each group will identify the same **misalignments**.

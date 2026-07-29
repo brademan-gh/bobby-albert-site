@@ -16,19 +16,10 @@ On top of that, we learned that the employee had: 
 
 -   Changed the look of a registered trademark logo.\
 
-```{=html}
-<!-- -->
-```
 -   Used a color scheme that was completely inconsistent with our corporate marketing image. 
 
-```{=html}
-<!-- -->
-```
 -   Selected equipment material and design structure that the supplier highly recommended to *not* use. 
 
-```{=html}
-<!-- -->
-```
 -   Used a wrong phone number in the marketing messaging specified in this project for potential customers to call. 
 
 YIKES\! 
@@ -45,9 +36,6 @@ I don’t know about you, but I only have so many hours in the day. How can I…
 
 -   Maintain a unified outside-looking message that reinforces our intentional corporate brand? 
 
-```{=html}
-<!-- -->
-```
 -   Sustain our processes, policies and procedures to produce consistent results from our team?” 
 
 Over the years, I discovered that there were ways to prevent a problem than deal with the mess due to a poor decision even though with good intentions.   

@@ -33,29 +33,14 @@ Between ages 2 and 3, children develop the cognitive ability to make logical con
 
 -   Are curious and eager to explore this fascinating world.
 
-```{=html}
-<!-- -->
-```
 -   Want to explore with the people they feel the safest around and love the most.
 
-```{=html}
-<!-- -->
-```
 -   Want to learn and understand why things happen.
 
-```{=html}
-<!-- -->
-```
 -   Ask, **“w*hy?”***, which reflects a thirst and interest for knowledge.
 
-```{=html}
-<!-- -->
-```
 -   These new critical skills help them gain a more complex understanding of how the world works – via what they see, hear and do.
 
-```{=html}
-<!-- -->
-```
 -   Understand the more they ask, “**w*hy**?**”***, the more they learn.
 
 So ***w**hy*** do kids ask so many questions – and ***why*** do they eventually stop?

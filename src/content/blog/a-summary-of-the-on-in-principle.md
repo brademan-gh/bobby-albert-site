@@ -74,14 +74,8 @@ It is making intentional, pro-active plans to improve revenues, control costs, i
 
 -   Grow *yourself*
 
-```{=html}
-<!-- -->
-```
 -   Grow your *people* 
 
-```{=html}
-<!-- -->
-```
 -   Grow your *business* 
 
 The following is a summary of the articles that I’ve written about the **ON/IN** principle: 

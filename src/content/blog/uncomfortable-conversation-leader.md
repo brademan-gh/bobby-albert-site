@@ -29,9 +29,6 @@ To my surprise, I received 100% acceptance to my request.  I believe they accep
 
 -   My dad, because he really took care of his employees. 
 
-```{=html}
-<!-- -->
-```
 -   Me, because they had experienced my work ethic to serve them (rather than be served) on the moving trucks and at the storage warehouse since I was 12 years old. 
 
 ### **Seven** **Days a Week** 

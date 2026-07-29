@@ -22,38 +22,20 @@ They want:
 
 -   An increase in revenue
 
-```{=html}
-<!-- -->
-```
 -   A decrease in expenses
 
-```{=html}
-<!-- -->
-```
 -   An increase in productivity
 
 **And finally…  **
 
 -   An increase in employee retention
 
-```{=html}
-<!-- -->
-```
 -   A reduction in employee absences
 
-```{=html}
-<!-- -->
-```
 -   An increase in customer satisfaction
 
-```{=html}
-<!-- -->
-```
 -   A decrease in safety violations
 
-```{=html}
-<!-- -->
-```
 -   A decrease in product and/or service defects
 
 You may ask, “How do you know”?  Because for years,  *I was a CEO!*
@@ -76,24 +58,12 @@ Well, what are the felt needs of employees (*internal* customers)?  Most employ
 
 -   Demonstrate that they care for them as an individual.
 
-```{=html}
-<!-- -->
-```
 -   Understand that they can and want to contribute toward the organization’s goals.
 
-```{=html}
-<!-- -->
-```
 -   Provide a culture where they have a sense of belonging.
 
-```{=html}
-<!-- -->
-```
 -   Create an environment of constant learning so they feel they can do their best.
 
-```{=html}
-<!-- -->
-```
 -   Stand for something that they feel good about – something they can support.
 
 Why then is there such a gap/miss-alignment between what CEOs want and what employees want?

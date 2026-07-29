@@ -65,29 +65,14 @@ I have found these questions useful when making an announcement or an invitation
 
 -   Who
 
-```{=html}
-<!-- -->
-```
 -   What
 
-```{=html}
-<!-- -->
-```
 -   When
 
-```{=html}
-<!-- -->
-```
 -   Where
 
-```{=html}
-<!-- -->
-```
 -   How
 
-```{=html}
-<!-- -->
-```
 -   Why
 
 ### **Empowerment** **Questions**
@@ -110,9 +95,6 @@ The answers to these two questions are the only thing an organization should **n
 
 -   Who are you? – Your Values
 
-```{=html}
-<!-- -->
-```
 -   Why do you exist? – Your Purpose
 
 ### **Grow Your Business** **Questions**

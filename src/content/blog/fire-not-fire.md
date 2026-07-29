@@ -50,19 +50,10 @@ I would ask:
 
 -   *Character* – Did their core values matched ours?
 
-```{=html}
-<!-- -->
-```
 -   **Competency* *–* Did they have the ability to perform the job? *
 
-```{=html}
-<!-- -->
-```
 -   *Chemistry* – Would they get along with our people?
 
-```{=html}
-<!-- -->
-```
 -   *Capacity* – Did the person have the ability to develop and grow beyond the job being offered into another roll or position?
 
 4\. Did I clearly express my expectations during the hiring process?

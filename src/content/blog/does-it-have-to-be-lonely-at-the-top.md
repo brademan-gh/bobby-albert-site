@@ -45,9 +45,6 @@ For the **1-2-3** decision-making process to work best, it requires discipli
 
 -   Its use should be a way of life!  You miss out on so much of the power of this process if you only employ it when it’s convenient, or when you happen to think about it.
 
-```{=html}
-<!-- -->
-```
 -   As soon as the need for a decision is recognized, the **1-2-3** questions can be addressed.  If not, the initiator will tend to start making preliminary judgments that they may feel compelled to defend when the decision-exploring TEAM convenes.
 
 > **Leadership Tip:** I’ve learned to not write down any preliminary thoughts before a group meets so that I keep an open mind to others’ ideas.

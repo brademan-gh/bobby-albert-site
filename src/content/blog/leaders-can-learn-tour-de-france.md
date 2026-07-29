@@ -26,64 +26,34 @@ You don’t have to ride competitively to learn some important lessons from cyc
 
 -   **What is your objective?** – I’ve kept riding all of these years for two reasons:  weight control because I love to eat and stress control because being a leader/owner/manager of an organization is very challenging.
 
-```{=html}
-<!-- -->
-```
 -   **Where are we going?** –  My wife always asked which route we are riding.  Your employees always want to know which direction you are headed.  Leroy Eims, author of *Be the Leader You Were Meant to Be*, writes: 
 
     > “A leader is one who see more than others see, who sees farther than others see, and who sees before others do.”
 
-```{=html}
-<!-- -->
-```
 -   **What is the strategy?** – I always like riding into the headwind first so when I turn around and head back home I’ve got the wind at my back.  It’s fun, and I can ride faster.  Like in business there is no short-cut to success; it feels like it is uphill all the way.  However once you get the flywheel moving faster and faster, success seems to come faster and faster as well.  And it is fun too.
 
-```{=html}
-<!-- -->
-```
 -   **What is the goal?** – The overall goal for my wife and I is to ride the local [Hotter ‘N Hell Hundred](http://hh100.org) bicycle ride.  It is the largest sanctioned century ride in the U.S.  Short-term, my wife and I have daily and weekly distance goals as well as average speed along with achieving our maximum heart rate.  Your organization and your people need to know what the measurable goals you want to achieve are.
 
 ### Prepare your work –
 
 -   **Night before** – I ready our bicycles and other equipment, e.g. helmet, gloves, shoes, sunglasses, and bicycle pump.  I prepare our water bottles, check the weather forecast, get out some food for longer rides, and my wife makes sure we have bicycling shorts and jerseys washed to wear.
 
-```{=html}
-<!-- -->
-```
 -   **Morning of ride**– I eat, and begin to hydrate.  I stretch and get dressed up.  Then I check the weather especially the temperature and wind direction and speed.  Pump-up our tires and check for any mechanical problems.
 
-```{=html}
-<!-- -->
-```
 -   **Experience has taught me** – There is a direct relationship between preparation and the success of the bicycle ride.  As a leader the more prepared you are on the front-end; the less time you will spend repairing relationships and things on the back-end.
 
 ### Performance in your work –
 
 -   **Awareness** – Bicycling has helped me use all of my senses making me aware of all of my surroundings.  As a leader I have found when I enter our place of business, “I can smell it.”  My senses let me know what is going on around the company before anyone tells me.
 
-```{=html}
-<!-- -->
-```
 -   **Expect obstacles** – Good cyclists are always on the lookout for adverse road conditions, pot holes, cracks in the pavement,,and road hazards, e.g. railroad tracks, glass, stickers, large objects, etc. As a leader, you should expect problems and be prepared to make course corrections as needed.
 
-```{=html}
-<!-- -->
-```
 -   **Focus** – The physically demand of bicycling up hills and going really fast down hills raises my sensitivity to focus.  Because so much is always coming at you as the leader it is easy to become distracted.  Staying focus will help you accomplish you objective(s).
 
-```{=html}
-<!-- -->
-```
 -   **Monitor your progress** – Occasionally, I’ll look down at my cyclometer and heart rate monitor to check my progress.  Leaders need to pause at intermediate milestones to check-up on their organization’s progress.
 
-```{=html}
-<!-- -->
-```
 -   **Pause** – I’ve learned that I need at least one day off my bicycle each week in order to rest.  I also need to eat correctly and get enough sleep, or I cannot perform.  Effective leaders understand the importance of good self-care – not only for themselves, but their team members as well.
 
-```{=html}
-<!-- -->
-```
 -   **Give directions** – My wife and I are a good team.  We help each other watch for cars and road conditions/hazards, and we verbalize what we are seeing.  Good leaders encourage open communication between team members.
 
 You don’t have to compete in “The Tour” or the [Hotter ‘N Hell Hundred](http://hh100.org) to pick up some important insights from cycling. You just need to be aware of the leadership lessons around you!

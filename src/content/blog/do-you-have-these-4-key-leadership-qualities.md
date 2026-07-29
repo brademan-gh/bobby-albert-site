@@ -29,9 +29,6 @@ Once a responsible leader of an organization, a division, and/or a department ha
 
 -   What is *a* **goal,** and
 
-```{=html}
-<!-- -->
-```
 -   What is *the* **goal…** The next question is *so what*?
 
 The leader has declared *the* **goal**.  But it takes much more than for the leader to just announce *the* **goal**.
@@ -50,19 +47,10 @@ Leaders earn respect by…
 
 -   Integrity…Making sound decisions.
 
-```{=html}
-<!-- -->
-```
 -   Humility…Admitting your mistakes.
 
-```{=html}
-<!-- -->
-```
 -   Authenticity…Be yourself with everyone.
 
-```{=html}
-<!-- -->
-```
 -   Sincerity…Putting what’s best for your followers and the organization ahead of your personal agenda.
 
 > **“People will follow a worthy leader before they will follow a worthy cause.” – Bobby Albert**
@@ -105,24 +93,12 @@ Good leaders do more than control the direction in which they and their people t
 
 -   See the whole trip in their mind before moving forward.
 
-```{=html}
-<!-- -->
-```
 -   Have a vision for getting to their destination.
 
-```{=html}
-<!-- -->
-```
 -   Understand what it will take to get there.
 
-```{=html}
-<!-- -->
-```
 -   Know who they’ll need on the *team* to be successful.
 
-```{=html}
-<!-- -->
-```
 -   Recognize the obstacles long before they appear.
 
 > **“A leader is one who sees more than others see, who sees farther than others see, and who sees before others do.” – Leroy Eims**
@@ -131,14 +107,8 @@ To be an effective navigating leader requires an ability to balance between…
 
 -   Optimism *and* realism
 
-```{=html}
-<!-- -->
-```
 -   Intuition *and* planning
 
-```{=html}
-<!-- -->
-```
 -   Faith *and* fact
 
 And they have a professional will to find a way for the *team* to succeed because they believe that anything less than success is unacceptable.

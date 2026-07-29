@@ -50,54 +50,24 @@ Here are a few ways our company had fun while saying, **“*We Care for You*.”
 
 -   Causal Fridays – Through-out the year, folks can wear jeans with a company shirt on Friday
 
-```{=html}
-<!-- -->
-```
 -   Chili cook-off – Employees compete for the best homemade chili.  Many different categories:  best decoration, best chili, hottest chili, best name.
 
-```{=html}
-<!-- -->
-```
 -   Spring Softball – Employees and spouses play on Albert sponsored team.
 
-```{=html}
-<!-- -->
-```
 -   Spring Golf Scramble – Employees, customers, and suppliers play for prizes.
 
-```{=html}
-<!-- -->
-```
 -   Summer Peak-Season Happy Fridays – Food and events including: Bahama Bucks Snow Cones, Egg on a Spoon Race, Root Beer Floats, Chocolate Fountains, Dessert Contest, Build Your Own Ice Cream Sundae, Water balloon Toss, Chair Massages, Water Gun Fights, Burger Cookout, End of Summer Junk Car Smashing, etc.
 
-```{=html}
-<!-- -->
-```
 -   Bowling and Burgers – Teams compete for best team names, and other fun prizes: Biggest Shoe, Loudest Dropped Ball, Best Gutter Ball, etc.
 
-```{=html}
-<!-- -->
-```
 -   Thanksgiving Potluck Lunch – Employees sign-up to bring their favorite dish.
 
-```{=html}
-<!-- -->
-```
 -   Kid’s Day – Children and grand-children of employees are invited to our business to see where mom or dad or a grand-parent works. Food, Games, and the Christmas Story is told.
 
-```{=html}
-<!-- -->
-```
 -   Poinsettias – Placed on each desk and throughout the company.
 
-```{=html}
-<!-- -->
-```
 -   Christmas Lunch – To celebrate the Season.
 
-```{=html}
-<!-- -->
-```
 -   Random Holiday Celebrations – National Donut Day, Chocolate Day, Chocolate Chip Cookie Day, etc.
 
 As leaders, we have a great opportunity to shape our culture by the way we have fun with our team. You’ll lead more effectively when you realize that having fun in the workplace refreshes your people and draws them together as a team.

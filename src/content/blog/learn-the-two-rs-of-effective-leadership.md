@@ -45,9 +45,6 @@ As I began to develop my leadership, I discovered an important truth:
 
 -   As you drive for **R**esults…
 
-```{=html}
-<!-- -->
-```
 -   You also maintain and enhance **R**elationships
 
 ### Results without Relationships

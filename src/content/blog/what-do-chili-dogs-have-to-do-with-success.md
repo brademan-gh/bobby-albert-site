@@ -39,9 +39,6 @@ Secret sauce ingredient #1 was *what* I said and did (as I drove for results). Y
 
 -   *What* I said: Asking the right questions. What is the goal? Are we making progress?
 
-```{=html}
-<!-- -->
-```
 -   *What* I did: Working on the “things” of our business—strategies, tactics, performance goals, product and service offerings, policies and procedures, organization structure, operating practices, facilities, equipment, financial statements, and so on.
 
 ### **Secret** **Ingredient \# 2**
@@ -50,9 +47,6 @@ Secret sauce ingredient #2 was *how* I said and did things (by enhancing relatio
 
 -   *How* I said: *Saying* encouraging words to *people*, thanking them, and praising them.
 
-```{=html}
-<!-- -->
-```
 -   *How* I did: I combined this part of the recipe in two distinct ways that focused on the “people” in our business.
 
 *1. Doing* acts of kindness for people, patting them on the back, and shaking their hands (while I was thanking and praising them).

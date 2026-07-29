@@ -31,14 +31,8 @@ The design firm shared the following about their *team*-building event:
 
 -   ***1. Identify*** **the problem** – The graphic designers were so competitive and creative that they did not work well together as a *team*.  In fact when working together on a project, it would often lead to arguments.
 
-```{=html}
-<!-- -->
-```
 -   ***2. Plan*** **the solution** – The owners decided for their company to shut-down for a whole day and work with their employees to bond as a *team*.
 
-```{=html}
-<!-- -->
-```
 -   ***3. Act*** **on the solution:**
 
 — They created an off-site “Camp WOW-WOW”.
@@ -65,9 +59,6 @@ The design firm shared the following about their *team*-building event:
 
 -   ***4. Follow-through*** – Everyone was given a child’s plastic popper-gun.  When they returned to the office and when they saw someone do something that benefited the company or did a kind deed toward someone, the employees were to use the plastic gun to pop someone and to give that person a “WOW” sticky note of what was seen saying or doing.
 
-```{=html}
-<!-- -->
-```
 -   ***5. Evaluate*** **the results** – It changed their organizational culture as to “who they were”.  It became a common place where you could often hear a pop-gun go off and someone would receive a “WOW” sticky note.
 
 The owners were even surprised about the success of “Camp WOW-WOW” and the change in the behavior of every employee.

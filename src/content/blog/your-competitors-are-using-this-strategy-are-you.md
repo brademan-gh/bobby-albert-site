@@ -28,14 +28,8 @@ When my company had our annual **AQL^TM^** (**A**sk **Q**uestions and **L**iste
 
 -   **Ask Questions* *
 
-```{=html}
-<!-- -->
-```
 -   *Listen*
 
-```{=html}
-<!-- -->
-```
 -   Becoming a Lean Enterprise
 
 And that day, we talked through how we could “Become a Lean Enterprise” by *asking questions*.
@@ -54,34 +48,16 @@ It is striving for theoretical perfection…
 
 -   Maximum delight of customer desires and demands
 
-```{=html}
-<!-- -->
-```
 -   Fastest delivery – Speed wins
 
-```{=html}
-<!-- -->
-```
 -   Lowest possible cost
 
-```{=html}
-<!-- -->
-```
 -   Error free
 
-```{=html}
-<!-- -->
-```
 -   Complexity reduced
 
-```{=html}
-<!-- -->
-```
 -   Least amount of resources tied-up
 
-```{=html}
-<!-- -->
-```
 -   Clear and objective standards (best way/best practices)
 
 A positive example is a NASCAR pit crew changing tires and refueling in 12 seconds.  WOW!
@@ -90,19 +66,10 @@ Examples where opportunities exist to improve are…
 
 -   Public road construction
 
-```{=html}
-<!-- -->
-```
 -   Doctor’s offices
 
-```{=html}
-<!-- -->
-```
 -   Moving companies (which is my industry)
 
-```{=html}
-<!-- -->
-```
 -   “You name it” – just about everywhere!
 
 ### **Why is it important?**
@@ -119,34 +86,16 @@ Lean can help you survive and even thrive so that you can continue to serve your
 
 -   Bottlenecks in processes causing “piles”?
 
-```{=html}
-<!-- -->
-```
 -   Poor quality resulting in upset customers?
 
-```{=html}
-<!-- -->
-```
 -   Having to check someone’s work to catch errors?
 
-```{=html}
-<!-- -->
-```
 -   Poor suppliers not executing by established standards?
 
-```{=html}
-<!-- -->
-```
 -   Poor housekeeping causing extra time to find things or causing safety hazards?
 
-```{=html}
-<!-- -->
-```
 -   Downtime of systems or machines?
 
-```{=html}
-<!-- -->
-```
 -   Poor communications causing misunderstandings and extra time to rework or “mend fences”?
 
 > **“If it doesn’t add value, it’s waste.” – Henry Ford**
@@ -159,34 +108,16 @@ Motion is either…
 
 -   Waste – Totally not needed for doing the work
 
-```{=html}
-<!-- -->
-```
 -   Searching (use the 30-second rule to know when to abandon)
 
-```{=html}
-<!-- -->
-```
 -   Non-Value-Added – Work currently needed but not of value
 
-```{=html}
-<!-- -->
-```
 -   Checking
 
-```{=html}
-<!-- -->
-```
 -   Redoing
 
-```{=html}
-<!-- -->
-```
 -   Value-Added – Work that truly adds value and is needed
 
-```{=html}
-<!-- -->
-```
 -   Service with quality built into the process
 
 ### **Who should provide lean leadership?**
@@ -195,14 +126,8 @@ You, as the leader, must be the champion, the cheerleader, and the person to tak
 
 -   Continuing to challenge the status quo.
 
-```{=html}
-<!-- -->
-```
 -   Knowing that there is always room for improvement and that this is a long-term commitment.
 
-```{=html}
-<!-- -->
-```
 -   Understanding that customers change – what delights them today will not necessarily tomorrow – today’s delights can become the expectations of tomorrow.
 
 The best way to understand changing customer preferences is to *ask questions* and *listen* (**AQL^TM^)**.
@@ -219,28 +144,16 @@ You can determine what your customers value or what is value-added when you *ask
 
 -   Does this activity change the fit, form or function of the product or service?
 
-```{=html}
-<!-- -->
-```
 -   Is there a faster and safer way to provide the requested service?
 
 When we had our **AQL** (**A**sk **Q**uestions and **L**isten) *QIC*-Day, we challenged our employees to ask *never-ending* questions…
 
 -   How can I eliminate waste in this process?
 
-```{=html}
-<!-- -->
-```
 -   What is **not** necessary?
 
-```{=html}
-<!-- -->
-```
 -   Why am I doing this?
 
-```{=html}
-<!-- -->
-```
 -   Is the customer willing to pay for this?  If not, it’s waste!
 
 It was essential for our people to learn to see waste through **AQL**, and for all team members to become “waste detectors” or “waste-ologists”.
@@ -255,39 +168,18 @@ I asked each table group to use their flip chart to record their ideas and answe
 
 -   Searching
 
-```{=html}
-<!-- -->
-```
 -   Excess motion, energy
 
-```{=html}
-<!-- -->
-```
 -   Unneeded complexity
 
-```{=html}
-<!-- -->
-```
 -   Cargo damage (we were in the moving industry)
 
-```{=html}
-<!-- -->
-```
 -   Waiting, delays
 
-```{=html}
-<!-- -->
-```
 -   Idle capacity
 
-```{=html}
-<!-- -->
-```
 -   Error correction
 
-```{=html}
-<!-- -->
-```
 -   Needless transactions
 
 Afterward, one by one, each table was asked to share their best idea with the entire group.

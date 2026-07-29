@@ -51,24 +51,12 @@ Gallup conducted studies of employee engagement and analyzed over 82,000 busines
 
 -   21% higher profitability
 
-```{=html}
-<!-- -->
-```
 -   17% higher productivity
 
-```{=html}
-<!-- -->
-```
 -   10% higher customer metrics
 
-```{=html}
-<!-- -->
-```
 -   40% fewer defects
 
-```{=html}
-<!-- -->
-```
 -   58% fewer patient safety incidents
 
 And one of the best ways for you to take the first step toward engaging your employees is with a *participative leadership style* that I call **Engage2Lead** – and specifically by employing the **1-2-3 leadership tool.**

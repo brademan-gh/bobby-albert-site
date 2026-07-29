@@ -74,23 +74,14 @@ As my company embraced the Nside/Outside principle, we experienced:
 
 -   Increased customer delight and…
 
-```{=html}
-<!-- -->
-```
 -   Increased operating profit
 
 Whenever you find “delighted” external customers, you can bet they’ve been helped by teams that have achieved internal customer delight through active and effective:
 
 -   Communication
 
-```{=html}
-<!-- -->
-```
 -   Coordination
 
-```{=html}
-<!-- -->
-```
 -   Cooperation
 
 ### What Questions Must I Ask Myself?
@@ -101,24 +92,12 @@ As you go through these questions below, remember it is not only what you say an
 
 -   Do my internal customers see me as helpful or as an obstacle?
 
-```{=html}
-<!-- -->
-```
 -   Would my internal customers report that they get put off or get the runaround when they need me?
 
-```{=html}
-<!-- -->
-```
 -   Would they say I am responsive and reliable?
 
-```{=html}
-<!-- -->
-```
 -   Would they say that I am concerned and caring or would they reply that I am apathetic to their issues?
 
-```{=html}
-<!-- -->
-```
 -   When doing things for my personal convenience collides with doing things that are convenient for my internal customer, which has the priority?
 
 *In summary, would they say I am careful, quick and kind? Is your organization dysfunctional like four year olds playing soccer? Are you ready to ask yourself the questions above? Please share your comments \<[here](/blog/3-questions-great-leaders-ask/#comments)\> and share this blog post with a friend and co-worker.*

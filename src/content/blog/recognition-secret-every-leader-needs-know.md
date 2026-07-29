@@ -52,34 +52,16 @@ Here’s a list of ways in which our business recognizes employees at company-wi
 
 -   VIP (Values in Practice) Awards – Given from one employee to another when they see them practicing a company **core value**.
 
-```{=html}
-<!-- -->
-```
 -   Skill and the Will Awards(formally known as a Success Story) – Given to an employee when a good remark comes from a customer.
 
-```{=html}
-<!-- -->
-```
 -   Length of Service Recognition– Given to employees in 5 year increments.
 
-```{=html}
-<!-- -->
-```
 -   Department Goals met – Recognize employees in the sales department and the operations department for meeting their perspective departmental goals.
 
-```{=html}
-<!-- -->
-```
 -   Log Book Masters Awards- Drivers are recognized when they have submitted on-time, complete and accurate log books.
 
-```{=html}
-<!-- -->
-```
 -   One Degree Difference Maker Awards – The Military/Government Traffic department has an award they give, cross-company, where they determine who has made the biggest difference in that quarter.
 
-```{=html}
-<!-- -->
-```
 -   QIC-Spotlight (QIC is pronounced “Quick” and stands for Quality is Contiguous.) – Given when one employee wants to publicly say “thank you” to another employee.
 
 Once you get your award systems defined and in place, they become guides that help you keep your team motivated and the company going in the right direction.

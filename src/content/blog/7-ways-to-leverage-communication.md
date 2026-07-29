@@ -38,34 +38,16 @@ Early on, I realized that a breakdown in communication often led to a breakdown 
 
 -   Since 1989, we started every company-wide meeting by reminding our people of our mission and beliefs. In the 1990s, we began these meetings by reviewing our beliefs (later called values), our purpose, our vision, and our super-objectives.
 
-```{=html}
-<!-- -->
-```
 -   Beginning in 1992, we shut down the company for one-half of a day, once or twice in the fall, just to learn and discuss the particular emphasis/focus for the next year.
 
-```{=html}
-<!-- -->
-```
 -   We had three “State of the Company” meetings – one going into our peak-season, one coming out, and one after the first of the year. We would talk about where we had been, where we are now, and where we are going.
 
-```{=html}
-<!-- -->
-```
 -   Going into our peak-season, we did our “trolley history tour.” We rented a city trolley-bus so I could show our new employees the physical locations used in the past and talk about the history of our company. This helped these new folks understand the roots of where we came from.
 
-```{=html}
-<!-- -->
-```
 -   Prior to having our Friday Standup meetings, I would use payroll envelope stuffers to consistently communicate about what was going on in the company and to remind our people about the emphasis/focus for the year.
 
-```{=html}
-<!-- -->
-```
 -   We had a Pay for Performance incentive/bonus for all employees. Each month, we would update our financial progress toward the incentive/bonus threshold at our Friday Standup meetings.
 
-```{=html}
-<!-- -->
-```
 -   Finally, there was no substitute to *management by walking around*. I would go around and just ask questions and listen to our people. It was amazing what I would learn. And best of all, our people knew I cared about what they were doing and I cared about them as a person.
 
 As leaders, we have a great opportunity to shape our culture by the way we communicate with our team.

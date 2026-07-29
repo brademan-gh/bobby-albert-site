@@ -78,14 +78,8 @@ Are you curious about the rest of survey? The three blog posts below break down 
 
 -   **Blog post on statements 1-4** **\<[click here](/blog/volunteer-leadership/)\>**
 
-```{=html}
-<!-- -->
-```
 -   **Blog post on statements 5-8** **\<[click here](/blog/public-bad-decision/)\>**
 
-```{=html}
-<!-- -->
-```
 -   **Blog post on statements 9 & 10** **\<[click here](/blog/lone-ranger-decision-making/)\>**
 
 *How are you doing when it comes to employee motivation?* *Are your people just laying bricks?  Or are they enthusiastically building cathedrals?  Please share your thoughts \<**[here](/blog/secret-employee-motivation/#comments)**\> and share this blog post with a friend or co-worker.*

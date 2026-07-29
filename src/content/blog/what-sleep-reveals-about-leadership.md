@@ -15,19 +15,10 @@ What keeps you up at night?  When I was President and CEO of our company, I had
 
 -   People
 
-```{=html}
-<!-- -->
-```
 -   Money/Financing
 
-```{=html}
-<!-- -->
-```
 -   Government Regulations
 
-```{=html}
-<!-- -->
-```
 -   Changing ways of customer buying
 
 I learned that I could NOT control most of these challenges.  But I *could* control how I responded concerning them.  And how I responded had everything to do with my **core values**.
@@ -68,19 +59,10 @@ These companies do not have systems in place to assure alignment of **core value
 
 -   Core values are not considered during the interview process. Consequently, a candidate’s level of competence (job skills) gets over-emphasized during the interview.
 
-```{=html}
-<!-- -->
-```
 -   During the onboarding/new employee orientation, core values are not discussed or even mentioned.
 
-```{=html}
-<!-- -->
-```
 -   Employees are never evaluated on *how* well they exemplify the organization’s core values.
 
-```{=html}
-<!-- -->
-```
 -   Incentives/bonuses may even encourage employees to violate one or more core values.
 
 \[Tweet “What is not expected…and what does not get inspected…does not get done. – Bobby Albert “\]

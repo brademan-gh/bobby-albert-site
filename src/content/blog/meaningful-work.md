@@ -71,19 +71,10 @@ Leaders earn respect by…
 
 -   Integrity… Making sound decisions.
 
-```{=html}
-<!-- -->
-```
 -   Humility… Admitting your mistakes.
 
-```{=html}
-<!-- -->
-```
 -   Authenticity… Be yourself with everyone.
 
-```{=html}
-<!-- -->
-```
 -   Selflessness… Putting what’s best for your followers and the organization ahead of your personal agenda.
 
 A leader must first believe in their people before their people will believe in the leader. And a leader must believe in and live out the organization’s *purpose* as well.  You can’t lead in something you don’t believe and practice yourself.

@@ -56,14 +56,8 @@ So, what is working **ON**, not just **IN**, the business? It involves a thr
 
 -   Grow *yourself*
 
-```{=html}
-<!-- -->
-```
 -   Grow your *people* 
 
-```{=html}
-<!-- -->
-```
 -   Grow your *business* 
 
 Do you want to reach your full potential? Are you tired of merely experiencing life and hoping your people will acquire personal growth along the way? If so, you must go out your way to seize *personal growth* opportunities as if your life and your people’s lives depended on it.  And they do\! 

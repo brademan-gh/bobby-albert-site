@@ -17,7 +17,7 @@ The report hit me like a two-by-four. With survival rates like that, you might a
 
 According to The Family Firm Institute, only about 40% of family businesses survive into the second generation (that was me), 13% are still viable into the third generation (that would be our three boys), and only about 3% of all family businesses operate into the fourth generation or beyond.
 
-    The Problem: 88% of current family business owners believe the same family or families will control their business in five years.
+> The Problem: 88% of current family business owners believe the same family or families will control their business in five years.
 
 The experts will tell you the number one reason for the failure to survive is the lack of succession planning. This biblical principle is evident in Proverbs 11:14,
 
@@ -30,15 +30,12 @@ However, *no* amount of planning will overcome the lack of successors asking t
 
 *Every leader can have successors to successfully continue the business by* *overcoming one challenge.*
 
-    The one challenge every successor must overcome is having a Why that is large enough to carry on!
+> The one challenge every successor must overcome is having a Why that is large enough to carry on!
 
 The founder, and each generation of successors who follow, should ask themselves…
 
 -   Is my ***why*** bigger than me?
 
-```{=html}
-<!-- -->
-```
 -   Is my ***why*** bigger than the current business or current job responsibilities?
 
 > **“Once you find your why, you will be able to find your way.”** ** – John Maxwell**
@@ -51,14 +48,8 @@ They divided employees into three groups at the university call center where the
 
 -   Group one – Read stories written by former employees about the benefits of the job such as improved communication and sales skills.
 
-```{=html}
-<!-- -->
-```
 -   Group two – Read stories from former students about how their scholarships helped them with their education, careers, and lives.
 
-```{=html}
-<!-- -->
-```
 -   Group three – Read nothing.  They were just told about the purpose of the call and were to ask for a contribution.
 
 The researchers found after a month that group one and group three raised roughly the same amount of money from alumni as in the past.
@@ -79,19 +70,10 @@ How do you know if you have the passion and professional will? Ask yourself…
 
 -   Is passion a characteristic of your life?
 
-```{=html}
-<!-- -->
-```
 -   Do you wake up feeling enthusiastic about your day?
 
-```{=html}
-<!-- -->
-```
 -   Is the first day of the week your favorite, or do you live from weekend to weekend, sleepwalking through your everyday routine?
 
-```{=html}
-<!-- -->
-```
 -   How long has it been since you couldn’t sleep because you were too excited by an idea?
 
 Does your passion show? To get an honest assessment just ask your co-workers. Ask your spouse about your level of desire.

@@ -44,14 +44,8 @@ Once you implement the quality improvement ideas you receive from the **Interna
 
 -   The initial customer-contact employee enthusiastically interacts with the* external* customer by asking questions and listening.
 
-```{=html}
-<!-- -->
-```
 -   The *external* customer requirements are accurately recorded and the employee’s understanding of the customer’s needs and desires are confirmed with the customer.
 
-```{=html}
-<!-- -->
-```
 -   Any confusion or ambiguities are quickly identified and cleared up before the fulfillment journey goes any further.
 
 ***Insight:*** Uncorrected errors can quickly sabotage your business. The longer it takes to identify and correct an error, the more your costs skyrocket!
@@ -60,14 +54,8 @@ Once you implement the quality improvement ideas you receive from the **Interna
 
 -   Team members downstream from the sale transaction are made aware of the exact *external* customer requirements, as requested.
 
-```{=html}
-<!-- -->
-```
 -   Any changes in requirements caused by a shift in the *external* customer expectations would be communicated with those downstream as soon as possible.
 
-```{=html}
-<!-- -->
-```
 -   Stronger relationships are built between **internal customers** and internal *suppliers*. This enhances communications with everyone involved and positions them to better deal with future changes.
 
 Every leader and every employee, both **internal customers** and internal *suppliers*, must clearly understand how their contribution impacts the* external* customer’s experience.

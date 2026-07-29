@@ -52,19 +52,10 @@ Well, back to the big move.  In considering the **1-2-3** questions, we realize
 
 -   What would be good characteristics/behaviors/attitudes of our service toward our *external* customers at our new location?
 
-```{=html}
-<!-- -->
-```
 -   What barriers or challenges will there be for us at the new location?
 
-```{=html}
-<!-- -->
-```
 -   What have we done particularly well or not-so-well regarding *internal* customer teamwork?
 
-```{=html}
-<!-- -->
-```
 -   What specific steps (regarding actions, behaviors, and attitudes) should we take as individuals and teams to maximize the effectiveness of our company as we look toward future growth?
 
 WOW!  We sure did receive a boat-load of amazing feedback and great suggestions from our people, and they also became really excited about helping us move to the new facilities.

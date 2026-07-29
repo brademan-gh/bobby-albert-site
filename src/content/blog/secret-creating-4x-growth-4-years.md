@@ -31,29 +31,14 @@ However, at least in the workplace, it takes incredibly little additional time a
 
 -   To contribute their thoughts on pending decisions
 
-```{=html}
-<!-- -->
-```
 -   To encourage *involvement*
 
-```{=html}
-<!-- -->
-```
 -   To ask for commitments instead of demanding them
 
-```{=html}
-<!-- -->
-```
 -   To be constructive and supportive when seeking improvement
 
-```{=html}
-<!-- -->
-```
 -   To be able to disagree without being disagreeable
 
-```{=html}
-<!-- -->
-```
 -   To capitalize on the creative ideas and support of all those who can contribute to making good things happen
 
 What does it take to improve the way one interacts with others? An understanding of people’s desires and needs, coupled with nominal investments of time and effort to tap the power of the **Engage2Lead** approach to *participative leadership*, will yield wonderful long-term returns.
@@ -88,14 +73,8 @@ And as the leader, you can avoid having those who:
 
 -   Lack a feeling of ownership or commitment.
 
-```{=html}
-<!-- -->
-```
 -   Drag their heels in implementation.
 
-```{=html}
-<!-- -->
-```
 -   Resort to sabotaging the plans.
 
 > **Comment: This is NOT decision-making by a committee.**

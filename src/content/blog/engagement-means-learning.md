@@ -18,7 +18,7 @@ As I write articles to serve leaders and teams, I continue to be amazed by how m
 
 We see this same pattern in [Ezra 7:10](https://www.biblegateway.com/passage/?search=Ezra%207%3A10&version=ESV), when Ezra has committed to *study* the word, *do* the word, and *teach* the word.
 
-    “For Ezra had set his heart to study the Law of the LORD, and to do it and to teach his statutes and rules in Israel.”
+> “For Ezra had set his heart to study the Law of the LORD, and to do it and to teach his statutes and rules in Israel.”
 
 When we engage our people with effective training and development there will be learning and growth.
 

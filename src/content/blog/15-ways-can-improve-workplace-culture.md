@@ -63,19 +63,10 @@ For the past several weeks, we have been talking about what a great, inspiring c
 
 1.  [Are These Three Leadership Practices Stunting the Growth of Your TEAM?](/blog/team-leadership-practices-that-stunt-teamwork/) – Emphasizing event over process, using fear to influence behavior, and demonstrating chronic inconsistency.
 
-```{=html}
-<!-- -->
-```
 2.  [What is Culture?](/blog/what-is-culture/) – What does culture look like, and what shapes workplace culture.
 
-```{=html}
-<!-- -->
-```
 3.  [What Affects Your Culture?](/blog/what-affects-your-culture/) – People, leadership, information flow, policies and practices, and facilities.
 
-```{=html}
-<!-- -->
-```
 4.  [Four Benefits of an Inspired Workplace Culture](/blog/four-benefits-inspired-workplace-culture/) – It attracts high-performing people (and keeps them). It creates a united team. It increases employees’ sense of well-being. And it boosts financial performance.
 
 The second set of posts focused on the findings of the ERC (Employers Resource Council) who compiled a list of characteristics of “great workplaces that excel at the attraction, retention, and motivation of top performers” based on 15 years of surveys and interviews. ^\[1\]^
@@ -84,59 +75,26 @@ The following are links to the blog posts in this series on great, inspiring wor
 
 1.  [How to Win in the Marketplace](/blog/winning-culture-win-in-the-marketplce/) – Meaningful and challenging work and competitive compensation plus incentive pay
 
-```{=html}
-<!-- -->
-```
 2.  [Two Ways Leaders Can Improve Their Cultures](/blog/two-ways-leaders-can-improve-culture/) – Listening and collaboration, genuine care, and mutual respect leads to trust
 
-```{=html}
-<!-- -->
-```
 3.  [How to Hire the Right People](/blog/how-to-hire-the-right-people/) – Recruiting, selection and hiring, and people working together
 
-```{=html}
-<!-- -->
-```
 4.  [Are You Investing in Training and Development?](/blog/investing-training-and-development/) – Training and development
 
-```{=html}
-<!-- -->
-```
 5.  [7 Ways You Can Up Your Communication Game](/blog/7-ways-to-leverage-communication/) – Open communication
 
-```{=html}
-<!-- -->
-```
 6.  [The Secret Every Leader Needs to Know](/blog/recognition-secret-every-leader-needs-know/) – Formal and informal recognition and praise
 
-```{=html}
-<!-- -->
-```
 7.  [What Does Dr. Seuss Know About Building an Inspiring Culture?](/blog/fun-in-the-workplace/) – Incorporating fun into the workplace
 
-```{=html}
-<!-- -->
-```
 8.  [An Uncommon Way to Grow Your Business](/blog/community-service-grows-culture/) – Benefits of acts of community service into the workplace
 
-```{=html}
-<!-- -->
-```
 9.  [6 Ways to Achieve Work/Life Balance](/blog/6-ways-achieve-work-life-balance/) – Incorporating work/life balance into the workplace
 
-```{=html}
-<!-- -->
-```
 10. [Who Else Wants Confident and Courageous Employees?](/blog/wellness-in-the-workplace/) – Encouraging wellness in the workplace
 
-```{=html}
-<!-- -->
-```
 11. [Get Gold Medal Results for You and You Company](/blog/excellence-will-get-gold-medal-results/) – The practice of having an attitude of excellence in the workplace
 
-```{=html}
-<!-- -->
-```
 12. [Here’s the Key to Keeping Your Customers](/blog/customer-service-is-key-keeping-customers/) – The practice of having exceptional customer service and quality in the workplace
 13. [Chaplains in the Marketplace](/blog/marketplace-chaplains/) – An extraordinary service that will benefit your employees, customers, suppliers and your own organization!
 

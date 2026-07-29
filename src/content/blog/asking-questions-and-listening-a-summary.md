@@ -47,29 +47,14 @@ Since we are *all* selling something (in our family, with friends, in the workpl
 
 -   *Asking questions* helps people feel important, and they are likely to see you as viable solution for their problem.
 
-```{=html}
-<!-- -->
-```
 -   *Asking questions* will help you be in an educated position capable of solving the problem.
 
-```{=html}
-<!-- -->
-```
 -   The more the customer talks, the more likely it is that they will buy.
 
-```{=html}
-<!-- -->
-```
 -   Customers respond to their own words and ideas with far greater conviction than anyone else.
 
-```{=html}
-<!-- -->
-```
 -   Customer may not believe statements you make, but will believe their answers to you questions.
 
-```{=html}
-<!-- -->
-```
 -   Customers sell themselves.
 
 I’ve discovered that one of the keys to being a great communicator is *asking* *questions* and *listening*!  Here is a list of the blog posts I have written about what I call **AQL**TM – **A**sk **Q**uestions & **L**isten:

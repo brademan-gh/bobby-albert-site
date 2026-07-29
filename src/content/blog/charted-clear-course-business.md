@@ -48,9 +48,6 @@ Before you, as the leader, ask yourself “Where do we want to be?”, you must 
 
 -   Where have we been?
 
-```{=html}
-<!-- -->
-```
 -   Where are we now?
 
 ### **2.  Connect – MBWA **
@@ -65,9 +62,6 @@ And just as important, you want to learn:
 
 -   What do your customers want to buy from you?
 
-```{=html}
-<!-- -->
-```
 -   How can/do your organization give your customers what they want?
 
 ### ****3.  Analyze – SWOT ** **
@@ -78,18 +72,12 @@ A SWOT analysis is a structured planning method used to find your competitive ad
 
 -   **S**trengths – Characteristics of the business or project that give it an advantage over others.
 
-```{=html}
-<!-- -->
-```
 -   **W**eaknesses – Characteristics that place the business or project at a disadvantage relative to others.
 
 **External Factors (outside the organization)**
 
 -   **O**pportunities – Elements that the project could exploit to its advantage.
 
-```{=html}
-<!-- -->
-```
 -   **T**hreats – Elements in the environment that could cause trouble for the business or project.
 
 External Factors may include macroeconomic matters, technological changes, legislation, and sociocultural changes, as well as changes in the marketplace (customers and suppliers) or in competitive position.

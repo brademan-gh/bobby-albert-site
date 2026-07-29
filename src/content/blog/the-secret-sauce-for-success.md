@@ -50,9 +50,6 @@ Secondly, ***how*** I said and did things (by enhancing relationships).
 
 -   *Saying* encouraging words to people, thanking them, and praising them
 
-```{=html}
-<!-- -->
-```
 -   *Doing* nice things for people, patting them on the back, etc.
 
 My success was discovering that there were two *ways* of “*doing*” – i.e. *how* I *did* things (enhance relationships).
@@ -92,9 +89,6 @@ And they do so by both…
 
 -   MBWA (management by walking around) is an unstructured manner of walking/wandering through the workplace to talk with employees or inquire about the status of ongoing work.
 
-```{=html}
-<!-- -->
-```
 -   Group exercises to brainstorm and facilitate ideas and thoughts.
 
 Also, empowering leaders ask:

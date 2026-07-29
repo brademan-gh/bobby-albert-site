@@ -71,9 +71,6 @@ The ultimate evidence of the success of such efforts is your ability to profitab
 
 -   Is doing the right thing
 
-```{=html}
-<!-- -->
-```
 -   Will determine your success
 
 A person’s (or group’s) *effectiveness* is determined by the extent to which purposes, goals, *plans* and objectives are achieved. In other words, have the targeted results been achieved?
@@ -82,9 +79,6 @@ A person’s (or group’s) *effectiveness* is determined by the extent to which
 
 -   Is doing things right
 
-```{=html}
-<!-- -->
-```
 -   Will determine your survival
 
 *Efficiency* is the extent to which results have been achieved with minimal use of available resources (labor, equipment, materials, etc.).

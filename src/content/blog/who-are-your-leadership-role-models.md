@@ -41,24 +41,12 @@ Contrary to the commonly held notions about top-performing leaders, Level 5 Exec
 
 -   Ambition for the company and not for themselves
 
-```{=html}
-<!-- -->
-```
 -   Set up their successor for even greater success
 
-```{=html}
-<!-- -->
-```
 -   Displayed modesty and were never boastful
 
-```{=html}
-<!-- -->
-```
 -   Acted with calm, quiet determination on principled standards and not relying on charisma
 
-```{=html}
-<!-- -->
-```
 -   Gave credit of the company’s success to other people, external factors, and good luck
 
 ### Professional Will
@@ -67,19 +55,10 @@ Though humble, these leaders were marked by an intense professional will. These 
 
 -   Were driven to produce sustainable results
 
-```{=html}
-<!-- -->
-```
 -   Had unwavering resolve to do whatever must be done to make the company great no matter how difficult
 
-```{=html}
-<!-- -->
-```
 -   Settled for nothing less than the standards set to build a great company
 
-```{=html}
-<!-- -->
-```
 -   Blamed themselves when things went poorly (*not* other people, external factors, or bad luck) and took full responsibility
 
 ### Effective Leadership

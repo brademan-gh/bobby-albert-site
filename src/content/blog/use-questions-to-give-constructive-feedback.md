@@ -18,39 +18,18 @@ How many of you have ever had a *misunderstanding* with your…
 
 -   Wife?
 
-```{=html}
-<!-- -->
-```
 -   Husband?
 
-```{=html}
-<!-- -->
-```
 -   Boyfriend or Girlfriend?
 
-```{=html}
-<!-- -->
-```
 -   Children?
 
-```{=html}
-<!-- -->
-```
 -   Boss?
 
-```{=html}
-<!-- -->
-```
 -   Peers?
 
-```{=html}
-<!-- -->
-```
 -   Employees?
 
-```{=html}
-<!-- -->
-```
 -   Customers or Suppliers?
 
 ### **Mutual Understanding**
@@ -65,48 +44,24 @@ It’s very easy to…
 
 -   Make quick decisions on your own in the short run
 
-```{=html}
-<!-- -->
-```
 -   Be curt and directive
 
-```{=html}
-<!-- -->
-```
 -   Be demeaning or even insulting when providing *feedback*
 
-```{=html}
-<!-- -->
-```
 -   Be offensively aggressive while winning arguments to the detriment of a relationship
 
 However, it takes little additional time and effort to…
 
 -   *Encourage others’ contributions and *feedback* *
 
-```{=html}
-<!-- -->
-```
 -   -   Encourage involvement
 
-```{=html}
-<!-- -->
-```
 -   -   Ask for commitments instead of demanding them
 
-```{=html}
-<!-- -->
-```
 -   -   Be constructive and supportive when seeking improvements
 
-```{=html}
-<!-- -->
-```
 -   -   Be able to disagree without being disagreeable
 
-```{=html}
-<!-- -->
-```
 -   *Have an appropriate attitude toward others – the willingness, desire, and commitment to provide *mutual* constructive *feedback* *
 
 Without evidence of how a team is doing, how can anyone know how to get better?  If they don’t know whether they’ve succeeded or failed, how can they be interested in what they are doing, much less how they could improve?
@@ -135,9 +90,6 @@ When my company kicked off our **AQL**^TM^**** (***A****sk* ***Q****uestions* an
 
 -   *How to *give* constructive *feedback**
 
-```{=html}
-<!-- -->
-```
 -   How to *receive* *feedback*
 
 ### **How to** ***Give*** **Constructive** ***Feedback***
@@ -150,44 +102,20 @@ The following guidelines may be helpful…
 
 -   Be sensitive to the recipient’s readiness to receive your *feedback*.
 
-```{=html}
-<!-- -->
-```
 -   Be considerate to protect the recipient’s self-esteem and be clear and specific.  Ambiguity or vagueness will tend to confuse the issue.
 
-```{=html}
-<!-- -->
-```
 -   Focus on behavior, not traits, and express feelings, not your judgments.
 
-```{=html}
-<!-- -->
-```
 -   Be timely because when *feedback* occurs promptly, memories are much more accurate.
 
-```{=html}
-<!-- -->
-```
 -   Be brief and confirm *understanding* by having an open discussion on how the recipient would summarize the *feedback*.
 
-```{=html}
-<!-- -->
-```
 -   *Ask questions* and offer suggestions, don’t dictate.
 
-```{=html}
-<!-- -->
-```
 -   “Look forward to opportunity, not backward to blame.” – Jim Lundy
 
-```{=html}
-<!-- -->
-```
 -   Undertake periodic damage control checks by *asking questions.*
 
-```{=html}
-<!-- -->
-```
 -   Above all, focus on the recipient’s needs, not your needs.
 
 > **Tip: This is not a “gotcha” time, or when you back up your “dump truck”, and you unload your non-constructive feedback.**
@@ -208,54 +136,24 @@ The following guidelines may be helpful…
 
 -   Keep an open mind because it will have a major impact on the amount of information you absorb.
 
-```{=html}
-<!-- -->
-```
 -   Listen to *understand* and confirm your interpretation or understanding with the sender.
 
-```{=html}
-<!-- -->
-```
 -   Do not interrupt, but make notes for use in seeking clarification later.
 
-```{=html}
-<!-- -->
-```
 -   Control tendencies to react immediately.  Remember your mission is to seek *understanding*.
 
-```{=html}
-<!-- -->
-```
 -   Seek further clarification, but be careful not to be defensive or argumentative in the process.
 
-```{=html}
-<!-- -->
-```
 -   Keep reality in perspective because the sender is expressing their feelings to you.  It is a reality to them.
 
-```{=html}
-<!-- -->
-```
 -   Express your appreciation because you are *receiving* a gift of information.
 
-```{=html}
-<!-- -->
-```
 -   Discuss suggestions for improvement.
 
-```{=html}
-<!-- -->
-```
 -   Obtain more information from others for additional views.
 
-```{=html}
-<!-- -->
-```
 -   Change your behavior because your progress will be in proportion to your desire, dedication, and persistence.
 
-```{=html}
-<!-- -->
-```
 -   Seek *feedback* on your progress.
 
 > **“Many receive advice, few profit by it!” – Publilius Syrus**

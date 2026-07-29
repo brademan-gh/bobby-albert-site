@@ -36,14 +36,8 @@ It is making intentional, pro-active plans to improve revenues, control costs, i
 
 -   Grow *yourself* 
 
-```{=html}
-<!-- -->
-```
 -   Grow your *people* 
 
-```{=html}
-<!-- -->
-```
 -   Grow your *business* 
 
 ### **Forty-Plus Years of Leadership** 
@@ -56,19 +50,10 @@ Once everyone understood without any doubt… 
 
 -   **Who are we?** – Our *core values* 
 
-```{=html}
-<!-- -->
-```
 -   **Why** **do** **we exist?** – Our *purpose* 
 
-```{=html}
-<!-- -->
-```
 -   **Where** **are** **we going?** – Our *vision* 
 
-```{=html}
-<!-- -->
-```
 -   **What** **do** **we want to accomplish…every day?** – Our *super-objectives* 
 
 As we applied the process of **effective leadership** and lived out the four truths listed above, we saw extraordinary results beyond our imagination.  The good news is that you can adopt this proven approach and experience similar success in your business and life\! 

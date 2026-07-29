@@ -43,23 +43,14 @@ You would rather talk than *ask questions* ***and*** *listen* because…
 
 -   You would be in control with your own agenda?
 
-```{=html}
-<!-- -->
-```
 -   You want to be the center of attention?
 
 Leaders in an attempt to be good **communicators** think the solutions are…
 
 -   Talk to employees more often.
 
-```{=html}
-<!-- -->
-```
 -   Send more messages.
 
-```{=html}
-<!-- -->
-```
 -   Give their people more information.
 
 NO!  Don’t just tell.  *Ask questions* ***and*** *listen* as well.

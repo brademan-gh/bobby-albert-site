@@ -41,34 +41,16 @@ The process to discover your **Core Values** is NOT figuring out what:
 
 -   Will maximize your wealth
 
-```{=html}
-<!-- -->
-```
 -   You read in a management book that sounds good
 
-```{=html}
-<!-- -->
-```
 -   You consider to use as a marketing campaign
 
-```{=html}
-<!-- -->
-```
 -   Beliefs that will please the financial community
 
-```{=html}
-<!-- -->
-```
 -   Will look good printed on glossy paper
 
-```{=html}
-<!-- -->
-```
 -   Is most popular to say
 
-```{=html}
-<!-- -->
-```
 -   Outsiders say the **Core Values** should be
 
 ### What finding your Core Values requires
@@ -77,14 +59,8 @@ The process to discover your **Core Values** requires:
 
 -   *Authenticity* – getting real, nothing added for public agreement
 
-```{=html}
-<!-- -->
-```
 -   *Introspective reflection* – What do I stand for? What am I all about?
 
-```{=html}
-<!-- -->
-```
 -   *Articulating what is inside; bone deep* – those things that are as natural as breathing.
 
 Remember this is a *process* not an *event*.

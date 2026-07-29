@@ -45,9 +45,6 @@ Listen to most of our leaders and those who aspire to be who offer to solve our 
 
 -   When crime increases in a city, we hire more police officers.
 
-```{=html}
-<!-- -->
-```
 -   When drug addiction increases, we build more drug rehab facilities.
 
 When you solve *symptoms* you are only making the pain to go away for short while, but you have not addressed the *root cause*.

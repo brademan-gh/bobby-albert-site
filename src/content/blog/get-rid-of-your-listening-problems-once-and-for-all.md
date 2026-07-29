@@ -99,19 +99,10 @@ Interrupting signals that…
 
 -   I’m more important than you are.
 
-```{=html}
-<!-- -->
-```
 -   What I have to say is more important.
 
-```{=html}
-<!-- -->
-```
 -   I don’t really care what you think.
 
-```{=html}
-<!-- -->
-```
 -   I don’t have time for your opinion.
 
 > **Suggestion: Our focus should be on achieving mutual understanding, and not on winning a discussion or debate.**

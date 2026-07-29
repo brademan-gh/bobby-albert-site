@@ -50,24 +50,12 @@ But you, as the leader or the employee, will want to take-on the *attitude* to b
 
 -   Keeping internal supplier(s) informed.
 
-```{=html}
-<!-- -->
-```
 -   Making it easier for them to serve you.
 
-```{=html}
-<!-- -->
-```
 -   Developing trusting relationships over time as they learn to know they can count on you.
 
-```{=html}
-<!-- -->
-```
 -   Providing your internal supplier(s) with timely feedback on how their service level affects you.
 
-```{=html}
-<!-- -->
-```
 -   Routinely provide acknowledgement and appreciation to those who continually put you in a position to deliver/supply outstanding service to your internal customers or external customers.
 
 > Insight: Behaviors that are acknowledged and affirmed get repeated.

@@ -45,14 +45,8 @@ To be honest with you, the thoughts that went through my head when I first heard
 
 -   They don’t understand me.
 
-```{=html}
-<!-- -->
-```
 -   They don’t understand I was doing them a favor.
 
-```{=html}
-<!-- -->
-```
 -   They are busy doing their everyday work, so I’m helping them by not interrupting them to ask their opinion.
 
 ### **My Old Leadership Style**

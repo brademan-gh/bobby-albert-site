@@ -21,14 +21,8 @@ This is exactly what happened with a client I was consulting with, and the emplo
 
 -   *Unsettled and Upset?* – There is a certain element of security in the constancy of how we arrange our workspaces and who our neighbors are.
 
-```{=html}
-<!-- -->
-```
 -   *Unappreciated and Under-Valued?* – Unilateral decisions made without the input of those affected almost always devalue the people involved. 
 
-```{=html}
-<!-- -->
-```
 -   *Angry and Resentful?* – With an invasion of your privacy or your space, you are not likely to recommend your workplace as a wonderful place to be. 
 
 It’s common for managers to focus on *results* and disregard the *relationship* side of their work. So why do managers drive for *results* at the expense of *relationships*? 

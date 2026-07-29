@@ -30,29 +30,14 @@ I was open to every kind of way to visually remind us all how we were to behave 
 
 -   *We gave every employee a G.I.V.E.R.S. T-shirt.*
 
-```{=html}
-<!-- -->
-```
 -   *Every employee that completed our training received a QIC-Day Certificate.*
 
-```{=html}
-<!-- -->
-```
 -   *We placed a plaque of **Our Values** in our entryway.*
 
-```{=html}
-<!-- -->
-```
 -   *We highlighted Our Values in Payroll Stuffers every two weeks for a year.*
 
-```{=html}
-<!-- -->
-```
 -   *Every employee received either a lamented workstation display or a framed desk version of **Our Values.***
 
-```{=html}
-<!-- -->
-```
 -   *In late December, we mailed each employee’s Personal Action Steps* based on Our Values training.
 
 > Insight: As leaders we tend to think I said it once so let us get back to work. What I’ve learned is that we all need constant and consistent reminders as to “Who we are” as an organization and to our customers and suppliers. The message never changes, but the method is always changing.

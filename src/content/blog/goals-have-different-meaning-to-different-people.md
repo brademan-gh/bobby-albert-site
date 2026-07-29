@@ -37,9 +37,6 @@ Empowering leaders as well as highly-motivated employees who form a high-perform
 
 -   What is our **goal**?
 
-```{=html}
-<!-- -->
-```
 -   Are we making progress?
 
 They ask these questions about their long-term strategies, about their tactical efforts, about each meeting they attend, and about such process-oriented matters as their approaches to communication, coordination, and cooperation.
@@ -88,56 +85,32 @@ In my company as the leader, I was very *intentional* to clarify and clearly com
 
 -   Where do we want to be?
 
-```{=html}
-<!-- -->
-```
 -   Our overarching future direction/dream
 
-```{=html}
-<!-- -->
-```
 -   Can change over time
 
 **Strategic plans**
 
 -   What do we want to accomplish?
 
-```{=html}
-<!-- -->
-```
 -   Our general approach or plan to achieve objective(s), our beacon
 
-```{=html}
-<!-- -->
-```
 -   Begins with the desired-end, the objective(s), and works backward to the current status.
 
 **Tactical plans**
 
 -   How can we to get there?
 
-```{=html}
-<!-- -->
-```
 -   When do we want to arrive?
 
-```{=html}
-<!-- -->
-```
 -   Who can make it happen on schedule?
 
-```{=html}
-<!-- -->
-```
 -   Begins with current status and lays down a path of action steps for implementing strategies.
 
 **Measurable performance goals**
 
 -   *A*ctivity targets
 
-```{=html}
-<!-- -->
-```
 -   With numeric and timeliness measures of success
 
 ### **Leading AND Managing**

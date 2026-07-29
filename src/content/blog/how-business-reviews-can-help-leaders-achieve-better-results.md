@@ -26,9 +26,6 @@ And we worked very well together because we complemented and completed each othe
 
 -   His strengths covered my weaknesses.
 
-```{=html}
-<!-- -->
-```
 -   My strengths covered his weaknesses.
 
 We both sang each other’s praises – externally and internally, and even though I owned the business, we did not care who got the credit for the great things that were occurring because it was our people who made the great things happen.
@@ -81,24 +78,12 @@ Here’s the breakdown of a Business Review:
 
 -   *Who* – Either the leadership team member or someone from their area of responsibility was to do the presentation.
 
-```{=html}
-<!-- -->
-```
 -   *What* – Usually the Controller would go first to report the previous month’s financial results.  Followed by reporting from the various product/business units (e.g. consumer, government, corporate accounts) and/or organizational functions (e.g. marketing and sales, operations, IT, human resources).
 
-```{=html}
-<!-- -->
-```
 -   *When* – The Business Reviews usually occurred around the 8th of each month (the day after the financials were completed).
 
-```{=html}
-<!-- -->
-```
 -   *Where* – They occurred in a room large enough for the attendance of the leadership team and any employee interested in or involved with the presentations.
 
-```{=html}
-<!-- -->
-```
 -   *How* – The first couple of times, it took two days to complete the presentations. Then we got it down to one day, and by the time I sold the company in 2011, we held it to a half of a day.  One person electronically recorded any action-item assigned to a person for reporting progress at the next Business Review.
 
 ### **3-Why is it important?**
@@ -109,9 +94,6 @@ Business Reviews are NOT…
 
 -   Business as usual.
 
-```{=html}
-<!-- -->
-```
 -   A time to “shoot the messenger” or a spring a “gotcha” on someone.
 
 > **Tip: Praise in public and criticize in private.**
@@ -120,44 +102,20 @@ Business Reviews…
 
 -   Use a coaching style as an opportunity to facilitate and motivate progress.
 
-```{=html}
-<!-- -->
-```
 -   Create a team approach culture – We’re all in this together.
 
-```{=html}
-<!-- -->
-```
 -   Review progress, identify variances in project results and measurable goals, and understand why.
 
-```{=html}
-<!-- -->
-```
 -   Take corrective or preventative actions before any results/goals are missed and adjust timelines or request additional resources, if necessary.
 
-```{=html}
-<!-- -->
-```
 -   Expand a project or goal once more information is gathered from other sources.
 
-```{=html}
-<!-- -->
-```
 -   Focus people’s efforts on the organization’s most important goals to execute.
 
-```{=html}
-<!-- -->
-```
 -   Strengthen accountability of projects and measurable goals that are visible organization-wide.
 
-```{=html}
-<!-- -->
-```
 -   Create a culture of continuous, positive change.
 
-```{=html}
-<!-- -->
-```
 -   Celebrate and reward people so they will move beyond past accomplishments toward new opportunities, goals, and achievements.
 
 The emphasis in our Business Reviews was on the progress of our tactical plans. But I continually coached our people on how the progress showed us living out our Values, and how the progress tied back to our Purpose, our Vision, our Super-Objectives, and our strategic objectives.

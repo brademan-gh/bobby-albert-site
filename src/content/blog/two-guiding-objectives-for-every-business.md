@@ -15,14 +15,8 @@ Have you ever formed a habit for one reason, and then discovered some unexpected
 
 -   Burn calories – I love to eat.
 
-```{=html}
-<!-- -->
-```
 -   Reduce stress – As the leader, I had constant challenges and opportunities coming at me.
 
-```{=html}
-<!-- -->
-```
 -   *Think* – I needed time to work *ON* my life and family as well as *ON* my business.
 
 It was the *thinking* time that was most valuable to me.
@@ -33,9 +27,6 @@ It finally came to me, that at the end of the day, we want to accomplish only tw
 
 -   *Delight Customers*, and
 
-```{=html}
-<!-- -->
-```
 -   *Increase Operating Profits*
 
 I later called these our **Super–Objectives**, because they became the two high-level, over-arching objectives for our business.
@@ -56,14 +47,8 @@ Over the years, I have concluded that there are simply three types of customers:
 
 -   Wrong, incomplete, sloppy, or late
 
-```{=html}
-<!-- -->
-```
 -   The service provider was rude or unprofessional
 
-```{=html}
-<!-- -->
-```
 -   The cost was higher than *expected*
 
 **Satisfied Customers** – When their *experiences* are about what they *expected*.
@@ -72,14 +57,8 @@ Over the years, I have concluded that there are simply three types of customers:
 
 -   Better, more complete, or available sooner than *expected*
 
-```{=html}
-<!-- -->
-```
 -   The service providers were more polite, professional, helpful, or pleasant than *expected*, and/or
 
-```{=html}
-<!-- -->
-```
 -   The value (quality and quantity relative to cost) was greater than the customer *expected*
 
 In my company, we knew we had *Delighted the Customer* when we gave them an *experience* that *exceeded* their *expectations*.
@@ -94,14 +73,8 @@ Our employees could clearly understand these three simply ways to *Increase Oper
 
 -   Increase revenue,
 
-```{=html}
-<!-- -->
-```
 -   Decrease expenses, and/or
 
-```{=html}
-<!-- -->
-```
 -   Increase productivity
 
 As the years went by and as the owner of the business, I became more and more transparent with our company’s financial information as we became better at financial forecasting.
@@ -110,9 +83,6 @@ This transparency was important for two reasons…
 
 -   Accountability – The leadership team saw company-wide financial information as well as details of just their responsible function (sales, operations, IT, etc.) or business unit (product or service offering).
 
-```{=html}
-<!-- -->
-```
 -   Reward – I wanted to share with our people our financial success by awarding bonuses when we performed over and above a certain operating income threshold.
 
 > **Insight: I found that there was a direct relationship between my transparency with our business financials, and our success as an organization. More transparency created more success!**

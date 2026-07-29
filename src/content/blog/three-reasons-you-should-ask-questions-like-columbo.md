@@ -70,9 +70,6 @@ Powerful ideas and shared thinking come from asking the *right* questions and li
 
 -   Allows a person to escape the prison of what they think they know, and it will lead them to an interested and interesting life.
 
-```{=html}
-<!-- -->
-```
 -   Is likened to fishing lines thrown out from a person’s open mind…And when you have an open mind, the answers will give you a different perspective, and often,  they will challenge your mindset.
 
 > **“My greatest strength as a consultant is to be ignorant and ask a few questions.” – Peter Drucker**

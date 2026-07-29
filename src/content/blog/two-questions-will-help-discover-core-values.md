@@ -45,29 +45,14 @@ When I looked at those words, it hit me…WOW!!! This is “Who I am”! These t
 
 -   Personal Growth
 
-```{=html}
-<!-- -->
-```
 -   Integrity
 
-```{=html}
-<!-- -->
-```
 -   Add-Value
 
-```{=html}
-<!-- -->
-```
 -   Excellence
 
-```{=html}
-<!-- -->
-```
 -   Relationships
 
-```{=html}
-<!-- -->
-```
 -   Significance
 
 I was able to finally discover “Who am I?” *only* after spending weeks and months going through the process of thinking and reflecting on the questions in the [previous blog post](/blog/key-steps-core-values-journey/).

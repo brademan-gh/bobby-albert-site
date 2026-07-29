@@ -31,19 +31,10 @@ With this top-down approach, leaders usually find their goal-oriented system isn
 
 -   People consider goal-setting and *planning* just as a periodic exercise rather than a way of life.
 
-```{=html}
-<!-- -->
-```
 -   They consider the whole approach somewhat of a nuisance because of the over emphasis on elaborate details and page after page of forms.
 
-```{=html}
-<!-- -->
-```
 -   The *objectives/goals* are regarded as arbitrarily imposed.
 
-```{=html}
-<!-- -->
-```
 -   The *planning* cycle is completed usually several weeks late.  Then employees wipe their brows and say, “Whew! Now that we’ve finished that exercise, let’s get back to getting our work done.”
 
 But think about it, even the Lone Ranger wasn’t really a loner.  Everywhere he went he rode with Tonto!
@@ -70,14 +61,8 @@ And as the leader, you can avoid having those who:
 
 -   Lack a feeling of ownership or commitment
 
-```{=html}
-<!-- -->
-```
 -   Drag their heels in implementation, and
 
-```{=html}
-<!-- -->
-```
 -   Resort to sabotaging the *plans*.
 
 When you lay down your Lone Ranger mask and give your people a chance to participate in the decision-making and **goal**–**setting** process, they have a real opportunity to gain experience and grow professionally.

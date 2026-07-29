@@ -38,14 +38,8 @@ The three most common errors were:
 
 -   Well over half of them said they should come up with another *three-letter* word.
 
-```{=html}
-<!-- -->
-```
 -   More than three-fourths said they should *tell him* their word.
 
-```{=html}
-<!-- -->
-```
 -   About a fourth of them said they should *write down* their word.
 
 > **Observation: WOW! Even after the participants were asked to listen carefully, almost nobody correctly understood the simple message!**
@@ -68,9 +62,6 @@ For example, ask:
 
 -   “Do you mean that…?” or
 
-```{=html}
-<!-- -->
-```
 -   “Are you suggesting that…?”
 
 ### **Why is it important to** ***listen*?**
@@ -83,9 +74,6 @@ There is a difference between “hearing” and *listening*.
 
 -   Hearing is a function of the ears.
 
-```{=html}
-<!-- -->
-```
 -   *Listening* is a function of the will.
 
 People *listen* to connect with others and to learn.
@@ -104,39 +92,18 @@ When you listen, you gain something more precious than the privilege to speak:
 
 -   You gain insight into people.
 
-```{=html}
-<!-- -->
-```
 -   You connect with the speaker.
 
-```{=html}
-<!-- -->
-```
 -   You earn your right to speak.
 
-```{=html}
-<!-- -->
-```
 -   You become relevant.
 
-```{=html}
-<!-- -->
-```
 -   You *understand* the keys to the speaker’s heart.
 
-```{=html}
-<!-- -->
-```
 -   You identify common ground with the speaker.
 
-```{=html}
-<!-- -->
-```
 -   You gain authority.
 
-```{=html}
-<!-- -->
-```
 -   You learn.
 
 > **Insight: Remember, when you speak, nothing you say will teach you anything. Only when you listen will you gain understanding.**
@@ -149,23 +116,14 @@ That is *why*…
 
 -   We feel good when others *listen* to us.
 
-```{=html}
-<!-- -->
-```
 -   The sheer act of *listening* speaks volumes that even a great speech can’t **communicate**.
 
 *Listening* **communicates…**
 
 -   Value for the other person.
 
-```{=html}
-<!-- -->
-```
 -   *Understanding*.
 
-```{=html}
-<!-- -->
-```
 -   Desire to grow, to learn, and to remain teachable.
 
 > **“Leaders touch a heart before they ask for a hand.” – John Maxwell**

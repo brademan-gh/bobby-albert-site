@@ -28,14 +28,8 @@ So what is working **ON**, not just **IN**, the business? It is three planning s
 
 -   Grow *yourself*
 
-```{=html}
-<!-- -->
-```
 -   Grow your *people*
 
-```{=html}
-<!-- -->
-```
 -   Grow your *business*
 
 #### Every leader can achieve significant results by growing their people.

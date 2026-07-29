@@ -51,74 +51,32 @@ The following is a sample of how our people caught the *quality* spirit to *fol
 
 -   Our people helped us eliminate several unnecessary internal forms and reports.
 
-```{=html}
-<!-- -->
-```
 -   They helped with ideas toward upgrades to computer software and hardware.
 
-```{=html}
-<!-- -->
-```
 -   They helped set performance goals for every employee.
 
-```{=html}
-<!-- -->
-```
 -   They helped us focus on cross-training so we could move people to the work when needing to meet peak demands.
 
-```{=html}
-<!-- -->
-```
 -   They helped expand our training and education, and then, track it to ensure we were doing enough.
 
-```{=html}
-<!-- -->
-```
 -   They formed, a truck drivers/crew leaders *quality* improvement committee for our moving and storage business.
 
-```{=html}
-<!-- -->
-```
 -   We had so many *quality* improvement ideas to consider, our employees formed a *quality* improvement committee where people could continuously submit ideas and innovations. The committee also selected ideas for financial rewards.
 
-```{=html}
-<!-- -->
-```
 -   They helped create an operational procedures manual distributed to our national suppliers/movers network that was adopted as an industry standard.
 
-```{=html}
-<!-- -->
-```
 -   We created a new nation-wide moving business unit to increase the convenience, and *quality,* and give price-certainty to every customer.
 
-```{=html}
-<!-- -->
-```
 -       -\>Traditional industry data entries on forms and documents were reduced from around 3,000 to less than 700.
 
-```{=html}
-<!-- -->
-```
 -       -\>Cargo claims were reduced by more than 50%, and if we broke something or if anything was missing, we would repair it or replace it.
 
-```{=html}
-<!-- -->
-```
 -       -\>Increase in speed of transit-time was made, as well as, day-certain pickup and delivery was provided.
 
-```{=html}
-<!-- -->
-```
 -       -\>Simplified pricing was made from a traditional industry tariff book made up of 100’s and 100’s of pages to one single page front and back.
 
-```{=html}
-<!-- -->
-```
 -   Our people got involved in setting-up company-wide fun events, e.g. Kids Day, annual company picnic, Christmas party, etc.
 
-```{=html}
-<!-- -->
-```
 -   We gave each employee a bright yellow t-shirt and a baseball cap with **Operation QIC** in red on them. This created a consistent look for everyone in the company regardless of their position. The moving crews wore them every day in the customers’ home.
 
 Because the t-shirts only had **Operation QIC**, customers were always asking, “What does that mean?”  This created an opportunity for our people to share about the **QIC **spirit in our company.

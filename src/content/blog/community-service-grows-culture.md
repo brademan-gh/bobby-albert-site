@@ -43,9 +43,6 @@ For example, in just one year our company did the following:
 
 -   We engaged our employees and our company to donate time and/or money to 12 different organizations.
 
-```{=html}
-<!-- -->
-```
 -   We donated in-kind goods and services to 39 different organizations.
 
 ### Benefits
@@ -54,16 +51,10 @@ This service in and to our community had the following *impact*:
 
 -   Our employees have learned how to work with a wide variety of people to accomplish a common objective.
 
-```{=html}
-<!-- -->
-```
 -   The community thinks well of our employees and our business. Our reputation is held in high esteem. Because of our good reputation…
     -   Our business continues to grow.
     -   It’s easier to recruit good employees.
 
-```{=html}
-<!-- -->
-```
 -   Our employees developed tighter bonds with each other and became a more cohesive team.
 -   Our employees think well of our company because we used our business to better the community their families live in. Therefore, it makes it easier to retain good employees.
 

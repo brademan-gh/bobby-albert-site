@@ -33,29 +33,14 @@ I often thought that emphasizing certain *things* would help my leadership and m
 
 -   Embracing **fads** and engaging management hoopla aimed at “motivating the troops”, rather than confronting the brutal facts
 
-```{=html}
-<!-- -->
-```
 -   Using a **crisis** to persuade “unmotivated” employees to accept the need for change
 
-```{=html}
-<!-- -->
-```
 -   Thinking that success was reached through brilliant and complex **strategic plans**
 
-```{=html}
-<!-- -->
-```
 -   Focusing on beating the **competition** as a primary business growth strategy
 
-```{=html}
-<!-- -->
-```
 -   Making a major **acquisition** as a way to increase growth and diversify away from the current troubles of the organization.
 
-```{=html}
-<!-- -->
-```
 -   Defining **profit** or **shareholder wealth** as the first and foremost goal of the organization
 
 ### Focusing on the wrong *people-*matters
@@ -64,19 +49,10 @@ People are the engine of any organization. When you stop and think about it, the
 
 -   **Jumping right into action**, *before* you get the right people on the bus, the wrong people off the bus, and the right people in the right seats
 
-```{=html}
-<!-- -->
-```
 -   Thinking that a high-profile, **charismatic leader** will solve the organization’s problems
 
-```{=html}
-<!-- -->
-```
 -   Introducing **fear-driven change** – using the fear of seeing others win, or the fear of encountering monumental failure. (Fear doesn’t effectively drive change, but it does perpetuate mediocrity.)
 
-```{=html}
-<!-- -->
-```
 -   Assuming the values and guiding principles of another successful company should be adopted as your own set of **core values**. (The core values of an organization are unique. They are reflected in and through its people and most importantly through its leader.)
 
 It all boils down to ***things*** and ***people***. Are you focused on the right *things*? Are you attentive to the *people* in your organization?

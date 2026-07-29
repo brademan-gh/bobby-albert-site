@@ -23,14 +23,8 @@ Each step below starts with a link to the previous blog post describing that par
 
 1.  **[Pause and Reflect](/blog/your-first-step-to-an-extraordinary-2016/){target="_blank"}** – This is the time of the year I ask myself…“Where have I been?” and “Where am I now?” I look at this time of reflection as ***the first step to making this year extraordinary***! You’ll find a concise list of areas to reflect over in my Goal Setting Workbook found below.
 
-```{=html}
-<!-- -->
-```
 2.  **[Dream](/blog/what-do-you-dream-to-accomplish-in-2016/){target="_blank"}** – Effective, personal goal setting also requires us to start thinking and asking ourselves “Where am I going?”  What are my 2016 plans and goals? What do ***I dream to accomplish?***
 
-```{=html}
-<!-- -->
-```
 3.  **[Plan & Write](/blog/a-simple-way-to-write-effective-goals-for-2016/){target="_blank"}** – Discover the three questions that can guide your goal setting preparation. Then use my Goal Setting Workbook as a framework to help you ***write down your personal goals*** for 2016.
 
 >                      **Fact: You are 42% more likely to achieve your goals,**

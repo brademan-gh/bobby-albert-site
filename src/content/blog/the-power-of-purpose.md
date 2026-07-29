@@ -44,14 +44,8 @@ A *purpose* brings…
 
 -   Clarity of direction.
 
-```{=html}
-<!-- -->
-```
 -   Focus on ***why*** the strategies, tactics, and performance goals are pursued.
 
-```{=html}
-<!-- -->
-```
 -   Boundary lines for decision-making which allow employees to live with warp speed change since they have a changeless sense of what they stand for and ***why*** they exist.
 
 > **“He who has a ‘why’ to live for can bear almost any ‘how.’”**
@@ -68,14 +62,8 @@ In his search to understand what created ‘Visionary’ organizations, he place
 
 -   **Great or Visionary** (extraordinary, enduring companies)
 
-```{=html}
-<!-- -->
-```
 -   **Good** (comparison companies that were in similar industries as the visionary companies but fell short of visionary companies)
 
-```{=html}
-<!-- -->
-```
 -   **Average** (reflecting the stock market)
 
 ![Visionary Company Growth](/images/2014/11/VisionaryCompanyGrowthChart2.jpg "Bobby Albert - Visionary Company Growth ")
@@ -94,9 +82,6 @@ Collins discovered that the enduring, great visionary companies did two things v
 
 -   ***Preserved the Core*** *–* the organization’s Core Ideology was fanatically protected and never changed.
 
-```{=html}
-<!-- -->
-```
 -   ***Stimulated Progress*** *–* by endlessly adapting their business and operating practices.
 
 Over time, these visionary companies changed almost everything, like: policies, procedures, product lines, competencies, organization structure, reward systems, strategies, tactics, and performance goals.
@@ -113,14 +98,8 @@ From 2005 (that fall I introduced our company core values and showed how they fi
 
 -   Revenue grew **about 5 times**
 
-```{=html}
-<!-- -->
-```
 -   Profit increased **slightly more than 5 times**
 
-```{=html}
-<!-- -->
-```
 -   The first two times we applied, we were awarded the **100 Best Companies to Work For in Texas** the years 2011 and 2012.
 
 Our company experienced significant growth during a time when many other companies were declining. Not surprisingly, when we got crystal clear about who we were, ***why*** we existed, and where we were going, extraordinary results followed. Won’t you consider tapping the ***power of purpose*** to propel your organization faster and farther than the Dynamic Duo ever dreamed?

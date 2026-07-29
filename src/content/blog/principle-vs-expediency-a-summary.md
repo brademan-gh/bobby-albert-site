@@ -37,34 +37,16 @@ Here is a list of the blog posts that I’ve written on the concept of **princi
 
 1.  [The Unexpected Outcomes of Expediency](/blog/the-unexpected-outcomes-of-expediency/) – Expedient behavior often leads to failure. Learn the characteristics and consequences of **expediency**.
 
-```{=html}
-<!-- -->
-```
 2.  [The Hallmarks of Principled Behavior](/blog/the-hallmarks-of-principled-behavior/) – Principled behavior sets us up for future success. Learn characteristics and results of making principled decision-making.
 
-```{=html}
-<!-- -->
-```
 3.  [Learn How Successful People Make Better Decisions](/blog/learn-how-successful-people-make-better-decisions/) – Learn to make better decisions by understanding the difference between *emotional-*driven, **expedient** decisions and *character-*driven, **principled** decisions.
 
-```{=html}
-<!-- -->
-```
 4.  [Learn to Lead-12 Examples of Expedient and Principled Behavior](/blog/learn-to-lead-examples-expedient-and-principled-behavior/) –Strengthen your own discipline to make **principled** decisions by reviewing practical examples.
 
-```{=html}
-<!-- -->
-```
 5.  [Does Your Face Reflect an Abundance Mindset](/blog/does-your-smile-reflect-abundance-mindset/)? – A person with an *abundance* mindset thinks, looks, and acts differently than someone with a *scarcity* mindset. Discover the details and download my Abundance vs. Scarcity Mindset *printable*.
 
-```{=html}
-<!-- -->
-```
 6.  [Why Abundant Thinkers Succeed with Flying Colors!](/blog/why-abundant-thinkers-succeed-with-flying-colors/) – Explore five important areas where *abundant* thinkers differ from *scarcity* thinkers.
 
-```{=html}
-<!-- -->
-```
 7.  [Three Strategies to Help You Make Better Decisions](/blog/three-strategies-to-help-you-make-better-decisions/) – Learn how to *protect* your mind, *know* your values, and *prepare* a plan to make better decisions.
 
 ### Expedient Behavior

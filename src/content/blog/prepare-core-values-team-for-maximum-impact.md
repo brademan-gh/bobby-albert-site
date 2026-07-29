@@ -22,29 +22,14 @@ At our usual weekly Leadership Team off-site lunch, I was so excited to share my
 
 -   My 16-year journey and specifically my 2 ½ years of personal process
 
-```{=html}
-<!-- -->
-```
 -   What we had learned in book reviews about **Core Values** in Jim Collins’ books, *Good to Great* and *Built to Last*.
 
-```{=html}
-<!-- -->
-```
 -   My six values that described “Who I am”
 
-```{=html}
-<!-- -->
-```
 -   Where each value came from and why each was important to me
 
-```{=html}
-<!-- -->
-```
 -   Asked them to *not* reveal the six values to anyone so I could introduce them at the Fall 2005 QIC-Day (pronounced “Quick”) meeting.
 
-```{=html}
-<!-- -->
-```
 -   Asked them to think over these six values for further discussion at our next week’s Leadership Team lunch.
 
 I was even more excited leaving that lunch because our Leadership Team was also so excited.
@@ -57,29 +42,14 @@ Members of the Leadership Team took the responsibility to put “action” words
 
 -   *Pursue* Personal **G**rowth
 
-```{=html}
-<!-- -->
-```
 -   *Live* With **I**ntegrity
 
-```{=html}
-<!-- -->
-```
 -   *Add ***V**alue to Others
 
-```{=html}
-<!-- -->
-```
 -   *Strive* for **E**xcellence
 
-```{=html}
-<!-- -->
-```
 -   *Enhance* **R**elationships as We *Drive* for Results
 
-```{=html}
-<!-- -->
-```
 -   *Achieve* **S**ignificance
 
 ### Initiate a logo design

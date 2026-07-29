@@ -24,19 +24,10 @@ Before I share a word of caution and a warning, I would like to review four key 
 
 -   The **core values** of an organization usually come from the top of the top of the organization, e.g. founder, the owner, the CEO, or even the department head.
 
-```{=html}
-<!-- -->
-```
 -   You do **not** “set” your **core values**. You have to (and can) *discover* them!
 
-```{=html}
-<!-- -->
-```
 -   Discovering your **core values** is a ***process*** *not* an ***event***. This **process** should take weeks or even months. It is important to not skip the **process**!
 
-```{=html}
-<!-- -->
-```
 -   *E*very** company has values, even if they haven’t been discovered yet.
 
 I’ve made a simple ***Values Discovery Worksheet*** for you to use in your own *core values* journey. It’s **FREE**, and you can download it immediately by \<clicking here\>. Feel free to print it or save it for your own use.
@@ -55,19 +46,10 @@ So what are value cards, how are they used, and why not use them?
 
 -   They are a tool. The cards contain words describing values that are important to some people.
 
-```{=html}
-<!-- -->
-```
 -   They usually cost between \$20 to over \$100. (some are offered for free)
 
-```{=html}
-<!-- -->
-```
 -   The decks range from about 50 cards to over 300 cards.
 
-```{=html}
-<!-- -->
-```
 -   Yes, there is some science behind the words on the cards.
 
 ### How are they used?
@@ -82,19 +64,10 @@ As you sort and rank the cards, you ultimately narrow your focus to the “most 
 
 -   When we are presented with a lot of great values listed for our review, we tend to select values that have a certain appeal, vs actually identifying our own, bone deep values. There can be a big difference between what we aspire to be and “who we are”.
 
-```{=html}
-<!-- -->
-```
 -   Discovering our values requires a *process*, lasting over weeks or months, to understand “who am I?”. This process should not be rushed into one session with value cards (an *event*).
 
-```{=html}
-<!-- -->
-```
 -   There’s additional risk when gather your leadership team, who may have a variety of **core values**, into a conference room for a single ‘values discovery’ event.
 
-```{=html}
-<!-- -->
-```
 -   Leaders are always trying to save time! You may see the value cards as a great way to “get’er done”, so you can move on to the next burning issue. Life is filled with bad decisions that were made with good intentions BUT misguided expedience.
 
 If you have used “value cards” before, could I suggest you read my previous blog post, [See How Easily You Can Validate Your Values!](/blog/see-how-easily-you-can-validate-your-values/)?  In that post, you’ll find the seven questions you can ask yourself to validate your **core values.**

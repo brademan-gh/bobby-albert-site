@@ -90,14 +90,8 @@ We can create a culture of customer service excellence by:
 
 -   Seeing through the lens of the customer
 
-```{=html}
-<!-- -->
-```
 -   Examining how everything speaks to them
 
-```{=html}
-<!-- -->
-```
 -   Serving your customers with *little WOWS!*
 
 Don’t forget to download my *free* Everything Speaks Worksheet. I designed this worksheet to help you and your team identify the little things that make a big difference!

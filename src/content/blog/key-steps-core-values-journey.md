@@ -25,9 +25,6 @@ Reflecting and thinking back to when I was a very little boy and looking over my
 
 -   *What do I stand for?*
 
-```{=html}
-<!-- -->
-```
 -   *What am I all about?*
 
 I don’t know about you, but these questions were some of the most difficult questions I have ever considered.
@@ -38,9 +35,6 @@ Going through this process I learned that most people or organizations only have
 
 -   What you or the organization aspire to be like,
 
-```{=html}
-<!-- -->
-```
 -   Words that you like because they sound good
 
 **The Present**
@@ -49,19 +43,10 @@ As I would go through my day, my antenna was up, and I was continually observin
 
 -   *Why did I say what I just said?*
 
-```{=html}
-<!-- -->
-```
 -   *Why was it important for me to say it that way?*
 
-```{=html}
-<!-- -->
-```
 -   *Why did I do what I just did?*
 
-```{=html}
-<!-- -->
-```
 -   *Why was that important for me do it that way?*
 
 **The Past**
@@ -70,19 +55,10 @@ Next, I started to reflect about my past by asking questions like:
 
 -   *Who, even from an early age, influenced what I said and did?*
 
-```{=html}
-<!-- -->
-```
 -   *When did they influence me?*
 
-```{=html}
-<!-- -->
-```
 -   *Where did they influence me?*
 
-```{=html}
-<!-- -->
-```
 -   *How was I affected by these influencers?*
 
 But I still did not know “Who I was”.
@@ -91,29 +67,14 @@ Finally I got a break-through! By asking those questions, I was beginning to und
 
 -   **Life of Learning** – I have a thirst for learning.
 
-```{=html}
-<!-- -->
-```
 -   **Truth** – I stay focused on the right decision regardless of the consequences.
 
-```{=html}
-<!-- -->
-```
 -   **Team Above Self** – I have a need to encourage and lift-up other people so I can serve them more.
 
-```{=html}
-<!-- -->
-```
 -   **Give My Best** – Performing to the best of my ability is not a sometime thing; it’s an all-time thing.
 
-```{=html}
-<!-- -->
-```
 -   **Relationships** – It is all about *people* and *not *things.
 
-```{=html}
-<!-- -->
-```
 -   **Make a Difference** – I desire to positively impact the lives of others.
 
 I was making progress and getting closer to discovering “Who am I?”, but I still could not fully and completely answer that question.

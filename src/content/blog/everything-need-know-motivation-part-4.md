@@ -39,19 +39,10 @@ Every leader can successfully achieve ***TEAMWORK***  through four key approach
 
 -   As you drive for results, you might try being equally committed to maintaining or enhancing your relationships.  In a principled way, be considerate regarding how your actions might impact others or be interpreted by them.
 
-```{=html}
-<!-- -->
-```
 -   Also, I’ve learned a simple truth about customer service: ***Your service to your external customers can only be as good as your internal service to each other.***  Your internal suppliers and internal customers therefore need to be in continual conversations about what they need, what’s being provided, and any gaps between the two.
 
-```{=html}
-<!-- -->
-```
 -   As I led our business,  I discovered four magic words that can guide you to help your associates maintain or enhance their feelings of self-worth.  ***Ask – questions — and — listen!*** Try it.  Your associates will like it, and you’ll get the input needed so you can make better decisions!
 
-```{=html}
-<!-- -->
-```
 -   I developed another approach that I simply call “**1-2-3**”.  It states that ***before*** anybody decides anything (and even before thinking of *preliminary* decisions regarding your challenges and opportunities), three key questions should be asked.  They are:
 
 1.  1.  **Who** can help me make a better decision?

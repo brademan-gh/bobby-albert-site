@@ -51,9 +51,6 @@ To work best, **1-2-3** requires discipline at several stages:
 
 -   Its use should be a way of life!  You miss out on much of the power of this process if you only employ it when it’s convenient, or when you happen to think about it.
 
-```{=html}
-<!-- -->
-```
 -   As soon as the need for a decision is recognized, the **1-2-3** questions can be addressed.  If not, the initiator will tend to start making preliminary judgments which they may feel compelled to defend when the decision-exploring team convenes.
 
 > **Leadership tip:**  I’ve learned to not write down any preliminary thoughts before the group meets, so I keep an open mind to others’ thoughts.

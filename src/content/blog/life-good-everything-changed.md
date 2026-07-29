@@ -15,24 +15,12 @@ The year was 1973, and life was good:   
 
 -   I had just graduated with honors from our local state university after only three years at the age of 20. 
 
-```{=html}
-<!-- -->
-```
 -   I had just concluded serving as the President of Student Government (PSG) at a university of over 4,000 students.  By the conclusion of my term, I was able to lead with more Student Senate legislation approved by the University President and Board of Regents than any previous PSG that people could ever remember.
 
-```{=html}
-<!-- -->
-```
 -   During that academic year, I helped my fraternity win both the Scholarship and Intramural Sports trophies.
 
-```{=html}
-<!-- -->
-```
 -   I was waiting to hear about my acceptance to law school.\
 
-```{=html}
-<!-- -->
-```
 -   I became engaged with my future wife with plans to wed in January 1974. 
 
 ### 
@@ -41,19 +29,10 @@ The year was 1973, and life was good:   
 
 -   I was active in my church from an early age.
 
-```{=html}
-<!-- -->
-```
 -   Throughout the year, I worked half-days on Saturdays for my dad to complete billing and some accounting activity and prepare paperwork for the upcoming week’s moving jobs.
 
-```{=html}
-<!-- -->
-```
 -   During the summer peak season, I worked in my dad’s moving and storage business on the trucks and in the warehouse as I had done since I was 12 years old.
 
-```{=html}
-<!-- -->
-```
 -   When they needed help, I did furniture pickup and delivery in my dad’s re-upholstery and re-finishing business which he started in 1938.
 
 Life was very good\! 
@@ -76,24 +55,12 @@ Financially, we were way upside down! Two of the bankers wanted to shut us down 
 
 -   They held only one old small moving van/trailer as collateral.
 
-```{=html}
-<!-- -->
-```
 -   They were looking at the very young, 20-year-old son who had never run a business before.
 
-```{=html}
-<!-- -->
-```
 -   Our business was so upside down that the chances of us ever pulling out of this financial crisis were slim to none.
 
-```{=html}
-<!-- -->
-```
 -   They knew from experience that when a son (or any second-generation family member) takes over the business that the likelihood of success is remote at best. 
 
-```{=html}
-<!-- -->
-```
 -   They feared that my motivations for wanting to give it a try were for only sentimental (emotional) reasons and not reasonable or prudent. 
 
 To my surprise, one of the bankers who understood all the reasons why they should not give me a chance somehow convinced the other two bankers to give me a chance.  However, they would not loan me any more money, and I would have to use the cash from the business to pay down the debt, pay operating expenses, and make enough to live on. Yikes!  

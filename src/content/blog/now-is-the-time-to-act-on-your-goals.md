@@ -36,19 +36,10 @@ It is time to…
 
 -   Take that first baby step toward your goal.
 
-```{=html}
-<!-- -->
-```
 -   Get focused on your highest priority/goal – your biggest rock.
 
-```{=html}
-<!-- -->
-```
 -   Have everything you think, say, and do move you toward your goal.
 
-```{=html}
-<!-- -->
-```
 -   Get on top of your highest priority/goal like a chicken on an egg!
 
 > **“The secret of your success is determined by your daily agenda.”**
@@ -83,9 +74,6 @@ Inspection tells you…
 
 -   Where you are in relation to where you want to be.
 
-```{=html}
-<!-- -->
-```
 -   How you are doing in the process of pursuing your goals.
 
 The purpose to inspecting expectations is to improve your performance, and make you aware of performance gaps.
@@ -120,17 +108,8 @@ Have you read my earlier blog posts on goal setting? Here’s a list with a link
 
 -   [**Pause and reflect**](/blog/your-first-step-to-an-extraordinary-2016/){target="_blank"} by asking, “Where have I been? and “Where am I now?”
 
-```{=html}
-<!-- -->
-```
 -   [**Dream**](/blog/what-do-you-dream-to-accomplish-in-2016/){target="_blank"} and use six key “principles” to think as you are asking yourself “Where am I going?”
 
-```{=html}
-<!-- -->
-```
 -   **[Get more done](/blog/5-tips-to-get-more-done-in-2016/){target="_blank"}** by using five tips to guide your thinking about your 2016 goals.
 
-```{=html}
-<!-- -->
-```
 -   [**Follow** **a simple two-step process**](/blog/a-simple-way-to-write-effective-goals-for-2016/){target="_blank"} to write effective goals for 2016.

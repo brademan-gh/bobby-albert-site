@@ -70,9 +70,6 @@ When our top performers move on to better things…
 
 -   Their departure opened the door for more top talent to flow into our company.
 
-```{=html}
-<!-- -->
-```
 -   It created opportunities for internal talent to flow through our organization.
 
 ### **Truth** **\# 2 –** **Advancement Strengthens Your Reputation**
@@ -97,24 +94,12 @@ I found they became…
 
 -   A future customer to my company.
 
-```{=html}
-<!-- -->
-```
 -   In some cases, a reliable supplier of products and services.
 
-```{=html}
-<!-- -->
-```
 -   One who would pass on business opportunities for us.
 
-```{=html}
-<!-- -->
-```
 -   A source of valuable information for continuous quality improvement ideas after departing.
 
-```{=html}
-<!-- -->
-```
 -   One of our best people to recruit and recommend new talent to our company.
 
 The “high road” is a life philosophy that is governed by your moral compass, your personal code of ethics, and your values, at all times.

@@ -17,29 +17,14 @@ I’m talking about the moments that brought a smile of satisfaction to your fac
 
 -   Accomplishing a task or project
 
-```{=html}
-<!-- -->
-```
 -   Living into one of my primary life roles in a meaningful way (Husband, Father, CEO, friend, etc.)
 
-```{=html}
-<!-- -->
-```
 -   Achieving a dream or goal
 
-```{=html}
-<!-- -->
-```
 -   Strengthening a relationship
 
-```{=html}
-<!-- -->
-```
 -   Slowing down enough to realize and express gratitude for my many blessings
 
-```{=html}
-<!-- -->
-```
 -   Adding value to someone else
 
  As I consider the coming year, I realize that for most of us, there are two likely scenarios. 

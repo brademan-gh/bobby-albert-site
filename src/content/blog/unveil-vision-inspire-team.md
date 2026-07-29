@@ -16,9 +16,6 @@ Before you can know *where* *you* *want to be* (your **vision**), you must firs
 
 -   WHERE YOU HAVE BEEN?
 
-```{=html}
-<!-- -->
-```
 -   WHERE YOU ARE NOW?
 
 We see this approach in the Biblical principles of knowing and understanding our identity in Christ before we can move forward in that truth. A believer’s identity is seen in Ephesians 1:5,
@@ -41,14 +38,8 @@ Three priorities concern *where we want to be* *(*our **vision**):
 
 -   Develop value-adding services responsive to customers’ wants and needs.
 
-```{=html}
-<!-- -->
-```
 -   Develop innovative processes to fulfill customer wants and needs.
 
-```{=html}
-<!-- -->
-```
 -   Consistently deliver a service *experience* that *exceeds* customers’ *expectations.*
 
 Open discussions following what these three priorities specifically look like, will help any organization.
@@ -64,19 +55,10 @@ I used the following process to lead our people to participate in an exercise ab
 
 -   I introduced the first of the **vision**-related questions from above and asked our people to discuss at their table possible answers to that question.
 
-```{=html}
-<!-- -->
-```
 -   Next, each table *recorded* their ideas and answers in response to the first question.
 
-```{=html}
-<!-- -->
-```
 -   Then, one-by-one, each table was asked to share their best idea for that question with the entire group.
 
-```{=html}
-<!-- -->
-```
 -   Then we repeated the process for the second question.
 
 A game that is interactive and engages your team’s own thoughts and ideas will help reinforce how they implement  – their **vision. **You can find an example of a game with directions that we utilized, [here](/blog/communicate-and-project-your-purpose/).

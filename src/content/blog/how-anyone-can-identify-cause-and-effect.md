@@ -21,9 +21,6 @@ Over 20 years ago after my moving and storage company set up internally a highly
 
 -   How could we expand our quality program externally to our suppliers? (Our suppliers were local moving companies in markets servicing our national long-distance moving business.)
 
-```{=html}
-<!-- -->
-```
 -   How could we be the best customer our suppliers have ever had?  (I know this sounds counter intuitive.)
 
 While asking myself these questions, I remembered hearing complaints from our suppliers that we were *not* paying them on-time.
@@ -84,19 +81,10 @@ There are four criteria:
 
 -   The *cause* has to occur before the *effect*.
 
-```{=html}
-<!-- -->
-```
 -   Whenever the *cause* happens, the *effect* must also occur.
 
-```{=html}
-<!-- -->
-```
 -   The strength of the *cause* also determines the strength of the *effect*.
 
-```{=html}
-<!-- -->
-```
 -   The *effec*t is actually due to the *cause,* rather than to some other event or cause.
 
 **What are some examples?**

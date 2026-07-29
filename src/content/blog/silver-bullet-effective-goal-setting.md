@@ -24,9 +24,6 @@ In a previous blog posts I suggested you…
 
 -   [**Pause and reflect**](/blog/the-secret-of-learning-from-the-past/) by asking, “Where have I been? and “Where am I now?”
 
-```{=html}
-<!-- -->
-```
 -   Then start [**thinking**](/blog/10-ways-change-thinking-set-better-goals-2015/) and asking yourself “Where am I going?”
 
 > “If you don’t know where you are going…
@@ -53,37 +50,22 @@ The following three questions can help you determine and clarify your goals:
 
 -   *Specific* – Your goals must identify exactly what you want to accomplish.
 
-```{=html}
-<!-- -->
-```
 -   *Action* – Your goals should lead to an action verb.
 
-```{=html}
-<!-- -->
-```
 -   *Realistic* – Remember you are looking for progress not perfection. Your goals should be challenging and should stretch you. You should use common sense toward the results you want to achieve.
 
 **How will I know it happened? (Measurement, for example “to lose five pounds”)**
 
 -   *Measurable* – You can’t manage what you can’t measure. Be specific of the results you desire.
 
-```{=html}
-<!-- -->
-```
 -   *Celebrate* – You must know when you hit a goal so you can celebrate and reward yourself.
 
 **When do I want this to happen? (Starting date, completion date)**
 
 -   *Time-Bound* – A goal without a date is just a pipe-dream. Make sure that every goal has a start date and completion date because, “what gets scheduled gets done”.
 
-```{=html}
-<!-- -->
-```
 -   *Staggered Dates* – Pick a couple of your goals to start in January. Then, perhaps quarterly, begin working on a couple more goals. This staggered schedule helps you intensify your focus AND prevent burn-out.
 
-```{=html}
-<!-- -->
-```
 -   *Reviews* – Regularly review progress so that you stay on course. And celebrate even the smallest mile-stones.
 
 ### Write It Down
@@ -96,34 +78,16 @@ Set aside time to write a goal for each of the following seven life areas:
 
 -   Spiritual
 
-```{=html}
-<!-- -->
-```
 -   Health/Physical Well-Being
 
-```{=html}
-<!-- -->
-```
 -   Family/Spouse
 
-```{=html}
-<!-- -->
-```
 -   Work/Career
 
-```{=html}
-<!-- -->
-```
 -   Personal Growth
 
-```{=html}
-<!-- -->
-```
 -   Social/Friends/Community
 
-```{=html}
-<!-- -->
-```
 -   Financial
 
 **Why don’t you get started?** The hardest part of any important task is getting started. Once you actually begin work on a valuable task, you will be naturally motivated to continue.

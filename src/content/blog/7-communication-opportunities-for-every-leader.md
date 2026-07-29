@@ -25,19 +25,10 @@ I learned that every employee, at the very least, wants answers to the following
 
 -   Where is the company headed?
 
-```{=html}
-<!-- -->
-```
 -   What is my role in this effort?
 
-```{=html}
-<!-- -->
-```
 -   How is my performance going to be evaluated?
 
-```{=html}
-<!-- -->
-```
 -   How am I doing?
 
 Most leaders know they need to *communicate* better and more often, but often, they don’t know how to make it happen!  Here’s some help…
@@ -56,14 +47,8 @@ And the internal *communication* opportunities in my company were designed to…
 
 -   Focus employees on our organization’s most important objectives/strategies and measurable performance **goals**.
 
-```{=html}
-<!-- -->
-```
 -   Increase understanding how each person’s responsibility aligns and fits with objectives/strategies and measurable **goals**.
 
-```{=html}
-<!-- -->
-```
 -   Strengthen accountability by assigning objectives/strategies and measurable **goals** that were visible organization-wide.
 
 > **Observation: When you and your people are working together toward the same objectives/strategies, your organization can execute those objectives/strategies faster, with more flexibility and adaptability.**
@@ -74,9 +59,6 @@ In my company, our leadership team and I had the responsibility to continually c
 
 -   Demonstrated us living out our Values, and
 
-```{=html}
-<!-- -->
-```
 -   Tied back to our Purpose, Vision, Super-Objectives, and strategic objectives.
 
 > **Insight:** People want to pursue something bigger than themselves – something with a purpose that rises above a weekly paycheck or bonus incentive.
@@ -95,39 +77,18 @@ Every Friday at 8:05 am we would ring the cow bell (my favorite part) to have a 
 
 -   Let’s congratulate “John Doe” for record sales last week.
 
-```{=html}
-<!-- -->
-```
 -   “John Doe” and his wife had a new baby boy last night.
 
-```{=html}
-<!-- -->
-```
 -   “Jane Doe” received a special thank you from customer\_\_\_\_\_\_\_\_\_\_!
 
-```{=html}
-<!-- -->
-```
 -   Who can tell us what is *Nside/Outside*?
 
-```{=html}
-<!-- -->
-```
 -   Today’s door prize goes to \_\_\_\_\_\_\_\_\_!
 
-```{=html}
-<!-- -->
-```
 -   This afternoon we will be ordering snow cones for everyone, so be prepared to select your flavor.
 
-```{=html}
-<!-- -->
-```
 -   Bobby will be traveling next week to work with \_\_\_\_\_\_\_\_ customers in Washington D.C. and Florida.
 
-```{=html}
-<!-- -->
-```
 -   Remember Monday we will start our “Move It and Lose It” weight-loss challenge.
 
 ### **MBWA (Management By Walking Around)**
@@ -150,28 +111,16 @@ My moving and storage company held an hour and half, company-wide “State of th
 
 -   In early January after the first of the new year
 
-```{=html}
-<!-- -->
-```
 -   In May before our peak season
 
-```{=html}
-<!-- -->
-```
 -   In September after our peak season
 
 Our COO and I would report our company-wide progress on…
 
 -   Where have we been?
 
-```{=html}
-<!-- -->
-```
 -   Where are we now?
 
-```{=html}
-<!-- -->
-```
 -   Where do we want to be?
 
 ### **Executive Team**
@@ -180,9 +129,6 @@ Key members of our leadership team would usually meet off-site in another city f
 
 -   In Spring before our peak season
 
-```{=html}
-<!-- -->
-```
 -   In August before our peak season ended
 
 The purpose of these meetings was to review our progress and brainstorm on long-term “big picture” planning for the future – strategic direction and growth of our business.

@@ -50,9 +50,6 @@ I have found that interactive group activities are the best way to help folks di
 
 -   Encourage interaction and discussion
 
-```{=html}
-<!-- -->
-```
 -   Enjoy the games we were about to compete in
 
 **Fun Games**
@@ -61,14 +58,8 @@ Each game played was designed for our people to…
 
 -   Have fun
 
-```{=html}
-<!-- -->
-```
 -   Learn to work as a team
 
-```{=html}
-<!-- -->
-```
 -   Discover practical applications
 
 **Game \# 1** – To kick off the meeting, we used an “ice breaker” game for our people to get up from their chairs and move across the room to ask questions given to them to learn something personal about someone they would not have known before.
@@ -83,9 +74,6 @@ At our **WOW!** QIC-Day, we divided our agenda into two parts:
 
 -   Our **Purpose**
 
-```{=html}
-<!-- -->
-```
 -   Our **Vision**
 
 For now, let’s look at how I rolled out and communicated our *purpose*.
@@ -96,9 +84,6 @@ In my company at the end of the day, we want to accomplish only two things:
 
 -   *Delight Customers*, and
 
-```{=html}
-<!-- -->
-```
 -   *Increase Operating Profits*
 
 I later called these our *super–objectives*, because they became the two high-level, over-arching objectives for our business.  And they were so simple that everyone could easily understand and remember them.
@@ -113,14 +98,8 @@ As a by-product of *delighting the* *customers*, we achieved our **purpose**, *C
 
 -   Grow business in existing markets
 
-```{=html}
-<!-- -->
-```
 -   Expand business into compatible niche markets
 
-```{=html}
-<!-- -->
-```
 -   Develop and sustain long-term customer relationships
 
 Afterward, we had open discussions about what these three priorities looked like specifically for our business.
@@ -131,23 +110,14 @@ During the meeting, we used two questions to stimulate thinking and discussion a
 
 -   Can you identify the things that delight (not just satisfy) our customers and achieve our **purpose** – *Customers For Life*?  (positive thoughts)
 
-```{=html}
-<!-- -->
-```
 -   Can you identify the things that turn customers off? (negative thoughts)
 
 I used the following process to engage our people to participate in the facilitation exercise about our **purpose**:
 
 -   I introduced the first of the purpose-related questions from above and *asked* our people to discuss at their table possible answers to that question.
 
-```{=html}
-<!-- -->
-```
 -   Next, each table used a flip chart to *record* their ideas and answers in response to the first question.
 
-```{=html}
-<!-- -->
-```
 -   Then, one by one, each table was asked to *share* their best idea for that question with the entire group.
 
 Then we repeated the process for the second question. Finally, we all *played* the *Moveopoly* board game about our **purpose**.  Each table created its game cards based on the answers shared as part of the previous exercise. Cards were made using 10 positive thoughts and 10 negative thoughts that our people gave during the facilitation exercise.

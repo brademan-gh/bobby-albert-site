@@ -31,93 +31,42 @@ Let’s first start with what a **vision** statement is NOT:
 
 -   About money (revenue or profit).  Money only gets movement.  Money is not enough to actually motivate your employees.  People will work harder for *meaning* than for money.
 
-```{=html}
-<!-- -->
-```
 -   Verbose
 
-```{=html}
-<!-- -->
-```
 -   Hard to understand and convoluted
 
-```{=html}
-<!-- -->
-```
 -   Impossible to remember
 
 Now let’s look at what a **vision** statement is:
 
 -   Preserves your core *values* and *purpose* (which never change) and stimulates progress (which is always changing).
 
-```{=html}
-<!-- -->
-```
 -   Vibrant and engaging
 
-```{=html}
-<!-- -->
-```
 -   Visual image/picture
 
-```{=html}
-<!-- -->
-```
 -   Huge, daunting, exhilarating challenge to reach
 
-```{=html}
-<!-- -->
-```
 -   Clear, compelling, and easy to grasp
 
-```{=html}
-<!-- -->
-```
 -   People “get it” right away
 
-```{=html}
-<!-- -->
-```
 -   Serves as a unifying focal point
 
-```{=html}
-<!-- -->
-```
 -   Galvanizing people
 
-```{=html}
-<!-- -->
-```
 -   Catalyst and creates a team spirit as people strive toward it
 
-```{=html}
-<!-- -->
-```
 -   Expresses passion, intensity, emotion, and conviction for living it out
 
-```{=html}
-<!-- -->
-```
 -   WOW! Factor and fantastic to make it happen
 
-```{=html}
-<!-- -->
-```
 -   People want to be really part of and willing to put out significant effort to realize it
 
-```{=html}
-<!-- -->
-```
 -   Energizing and exciting to a broad base of people not just the executive team
 
-```{=html}
-<!-- -->
-```
 -   Will require a quantum step in capabilities and characteristics of the organization
 
-```{=html}
-<!-- -->
-```
 -   Leaders are 100% committed to it
 
 ### **Vividly describe** **your vision **
@@ -128,24 +77,12 @@ Vividly describe your accomplishments as though you have been asked to write an 
 
 -   What has been your unique impact on the marketplace?
 
-```{=html}
-<!-- -->
-```
 -   What are your customers experiencing?  Why are they saying “WOW” to describe your service?
 
-```{=html}
-<!-- -->
-```
 -   What have these achievements meant to your employees?  How do they feel?
 
-```{=html}
-<!-- -->
-```
 -   What competencies and systems have you developed?
 
-```{=html}
-<!-- -->
-```
 -   What are your suppliers saying about your accomplishments?  And why?
 
 ### **Collaboratively** **record your vision**

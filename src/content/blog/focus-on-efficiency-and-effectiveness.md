@@ -48,18 +48,12 @@ Efficiency is:
 
 -   Doing things right that…
 
-```{=html}
-<!-- -->
-```
 -   Determine your survival
 
 Effectiveness is:
 
 -   Doing the right thing that…
 
-```{=html}
-<!-- -->
-```
 -   Determines your success
 
 ### Maximum output and achieve the goal
@@ -68,18 +62,12 @@ Efficiency focuses on…
 
 -   Getting the maximum output with minimum resources
 
-```{=html}
-<!-- -->
-```
 -   The process – the way of doing things
 
 Effectiveness focuses on…
 
 -   Achieving the goal
 
-```{=html}
-<!-- -->
-```
 -   The end result – the final outcome
 
 ### Status quo and change
@@ -88,18 +76,12 @@ Efficiency…
 
 -   Is concerned with maintaining the status quo
 
-```{=html}
-<!-- -->
-```
 -   Keeps things orderly to be efficient time and again, and it requires discipline and rigor
 
 Effectiveness…
 
 -   Believes in meeting the end goal by considering any variables that may change in the future
 
-```{=html}
-<!-- -->
-```
 -   Keeps the long-term strategy in mind and is thus more adaptable to the changing environment
 
 ### Repetition and Innovation
@@ -108,18 +90,12 @@ Efficiency…
 
 -   Requires documentation and repetition of the same steps, and…
 
-```{=html}
-<!-- -->
-```
 -   Avoids mistakes and errors
 
 Effectiveness…
 
 -   Encourages people to innovate and discover different ways to achieve the desired goal
 
-```{=html}
-<!-- -->
-```
 -   Is not afraid to make new mistakes
 
 If you were only being **efficient** and *not* meeting the requirements of the organization’s stakeholders (owners, investors, donors, customers, clients), **efficiency** would be of little use to anybody.

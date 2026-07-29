@@ -21,14 +21,8 @@ I made a *quick* decision “on the spot” to allow some people to send out
 
 -   Run the idea by my campaign committee. My thinking was that I was the candidate, and I should be making decisions.
 
-```{=html}
-<!-- -->
-```
 -   Review and approve the mail piece with my name all over it before it was mailed, or at least *engage* my campaign committee to **participate** in the decision-making process to approve it.
 
-```{=html}
-<!-- -->
-```
 -   Approve the mail list that the people were going to use.
 
 *After* the piece was already mailed, I learned:

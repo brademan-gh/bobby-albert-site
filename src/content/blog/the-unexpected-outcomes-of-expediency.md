@@ -29,23 +29,14 @@ I made a *quick* decision “on the spot” to allow some people to send out a m
 
 -   Run the idea by my campaign committee. (My thinking was that I was the candidate, and I should be making decisions.)
 
-```{=html}
-<!-- -->
-```
 -   Approve the mail piece with my name all over it before it was mailed (or at least let my campaign committee approve it.)
 
-```{=html}
-<!-- -->
-```
 -   Approve the mail list that the people were going to use.
 
 *After* the piece was already mailed, I learned:
 
 -   The people used a mail piece we would not have approved.
 
-```{=html}
-<!-- -->
-```
 -   They got over-zealous and expanded the mail list to include potential voters who did not want to receive the mail piece.
 
 Well, even though this bad decision did not cost me the election, I spent a lot of time “mending fences”.
@@ -64,39 +55,18 @@ The following are characteristics of **expediency**:
 
 -   Quick and Easy
 
-```{=html}
-<!-- -->
-```
 -   Short-Term Pleasure
 
-```{=html}
-<!-- -->
-```
 -   Short-Term Gain
 
-```{=html}
-<!-- -->
-```
 -   Self-Centeredness/Selfishness
 
-```{=html}
-<!-- -->
-```
 -   Immediate Gratification
 
-```{=html}
-<!-- -->
-```
 -   Anxiety
 
-```{=html}
-<!-- -->
-```
 -   Pride
 
-```{=html}
-<!-- -->
-```
 -   Insecurity
 
 Please keep in mind, expedient behavior is rooted in *fear*. *Fear* that you are going to lose something you don’t want to lose. Or, *fear* that you are going to experience something you don’t want to experience.
@@ -111,34 +81,16 @@ The following are examples of the impact and consequences of **expediency**:
 
 -   Errors
 
-```{=html}
-<!-- -->
-```
 -   Rework
 
-```{=html}
-<!-- -->
-```
 -   Neglect
 
-```{=html}
-<!-- -->
-```
 -   Complaints
 
-```{=html}
-<!-- -->
-```
 -   Conflict
 
-```{=html}
-<!-- -->
-```
 -   Regrets
 
-```{=html}
-<!-- -->
-```
 -   Failure
 
 ### Principle vs. Expediency

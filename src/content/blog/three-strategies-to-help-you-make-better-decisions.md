@@ -57,19 +57,10 @@ You can begin making **principled** decisions when you implement the “*thinkin
 
 -   *Think* – Observe what your eyes see and what your ears hear.
 
-```{=html}
-<!-- -->
-```
 -   Action – It is said if you act in a **principled** way for 30 days, you’ll form a…
 
-```{=html}
-<!-- -->
-```
 -   Habit – And eventually that habit will define your…
 
-```{=html}
-<!-- -->
-```
 -   Character – Who you are.
 
 > When you change what you think, you change what you do, and you change who you are! – Bobby Albert
@@ -88,19 +79,10 @@ And even another way is when you are faced to choose between making a **principl
 
 -   Pause, slow down and breathe – get in the habit of “sleeping on it” by waiting overnight before you make your final decision
 
-```{=html}
-<!-- -->
-```
 -   Get wise counsel – if you are married, also ask your spouse
 
-```{=html}
-<!-- -->
-```
 -   Create a “T” chart and list the “pros” down one side of a paper and the “cons” on the other side
 
-```{=html}
-<!-- -->
-```
 -   Ask questions and listen
 
 One of the best tools I have used to ask questions is the Rotary Club’s guide for personal and professional relationships:

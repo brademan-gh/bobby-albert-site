@@ -63,14 +63,8 @@ So what is working **ON**, not just working **IN**, the business? It involves e
 
 -   Grow *yourself*
 
-```{=html}
-<!-- -->
-```
 -   Grow your *people*
 
-```{=html}
-<!-- -->
-```
 -   Grow your *business*
 
 *Starting* a project is important for any useful activity. So is giving it your best effort along the way.

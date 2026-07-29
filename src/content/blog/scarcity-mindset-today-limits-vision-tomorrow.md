@@ -46,9 +46,6 @@ Best-selling author John Maxwell talks about the gap between two significant que
 
 -   Can I? – A question asked by those who have a *scarcity* mindset.
 
-```{=html}
-<!-- -->
-```
 -   How can I? – A question asked by those who have an *abundance* mindset.
 
 Which question do you most often ask?

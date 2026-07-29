@@ -39,9 +39,6 @@ There are two general types of questions:
 
 -   ***What*** questions, about facts, such as “What was your first job after you graduated from college?”
 
-```{=html}
-<!-- -->
-```
 -   ***How*** and ***Why*** questions can provide insights into the other person’s goals, plans, priorities, principles, *values,* behaviors, and ethics. These are questions like, “Why did you leave your last job?”
 
 The ***what*** questions and the answers to them are important. But one of the most useful and important aspects of the ***what*** questions is the fact that they open the door for the ***how*** and ***why*** questions.

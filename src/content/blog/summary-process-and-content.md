@@ -128,44 +128,20 @@ Here’s a handy list of links to my initial series of blog posts on Process & C
 
 1.  [How I Learned that Relationships are Key to Effective Leadership](/blog/relationships-are-key-to-effective-leadership/)
 
-```{=html}
-<!-- -->
-```
 2.  [This Principle Transformed My Leadership](/blog/principle-transformed-leadership/)
 
-```{=html}
-<!-- -->
-```
 3.  [How to Fail as a Parent (and a Leader)](/blog/fail-parent-leader-how-we-do-things-matters/)
 
-```{=html}
-<!-- -->
-```
 4.  [Who Else Wants To Leverage Their Leadership?](/blog/developing_leaders_with_process_content/)
 
-```{=html}
-<!-- -->
-```
 5.  [Give Me Three Minutes and I’ll Boost Your Leadership!](/blog/boost_your_leadership/)
 
-```{=html}
-<!-- -->
-```
 6.  [See How Easily You Can Improve Your Leadership](/blog/communication_matters/)
 
-```{=html}
-<!-- -->
-```
 7.  [Do You Make These Same Leadership Mistakes?](/blog/do-you-make-these-leadership-mistakes/)
 
-```{=html}
-<!-- -->
-```
 8.  [The Leadership Trap – and How to Spring Free](/blog/leadership-trap-spring-free/)
 
-```{=html}
-<!-- -->
-```
 9.  [Where Most People Go Wrong With Leadership – and How to Remedy It!](/blog/people-go-wrong-with-leadership/)
 10. [The Leadership Paradox](/blog/leadership-paradox/)
 

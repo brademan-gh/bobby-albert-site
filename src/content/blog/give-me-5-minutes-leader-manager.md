@@ -38,27 +38,15 @@ As you go through these questions, please consider the following:
     -   Is very general in nature.
     -   Has two parts.
 
-```{=html}
-<!-- -->
-```
 -   Move quickly through the questions.
 
-```{=html}
-<!-- -->
-```
 -   You need to be authentic. Your response is *not*…
     -   What you aspire to be like.
     -   What you wish to be like.
     -   What sounds good.
 
-```{=html}
-<!-- -->
-```
 -   It is “who you are”.
 
-```{=html}
-<!-- -->
-```
 -   Write down how you answered either “a” or “b” for each question.
 
 ### The Questions

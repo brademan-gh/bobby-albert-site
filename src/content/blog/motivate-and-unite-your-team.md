@@ -23,9 +23,6 @@ When I introduced the **Nside/Outside** principle at our company-wide half-day w
 
 -   What are the characteristics/behaviors/attitudes of good internal *suppliers*?
 
-```{=html}
-<!-- -->
-```
 -   What things can **internal customers** do to help internal *suppliers* serve them better as a *team*?
 
 The results found at each table were amazing because our people discovered more about their own behaviors and attitudes.

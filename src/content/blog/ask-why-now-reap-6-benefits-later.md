@@ -35,19 +35,10 @@ As you go through your day, with your antenna up, continually observe and ask yo
 
 -   Why did I say what I just said?
 
-```{=html}
-<!-- -->
-```
 -   Why was it important for me to say it that way?
 
-```{=html}
-<!-- -->
-```
 -   Why did I do what I just did?
 
-```{=html}
-<!-- -->
-```
 -   Why was that important for me to do it that way?
 
 The power of these ***why*** questions will make you more aware of your actions and teach you more about yourself – your motives and purposes in life.

@@ -22,9 +22,6 @@ As the leader of your organization, division, function, or department, what are 
 
 -   You could ask the supervisor to move the employee back to their previous workstation. This decision would reduce the grumbling and questioning, but you would risk losing an excellent employee over breaking the supervisor’s promise and trust.
 
-```{=html}
-<!-- -->
-```
 -   You could allow the employee to remain at the larger workstation. You may consider doing this, so the supervisor does not damage the trust relationship between them and the employee over a broken promise. But you risk the grumbling and questioning from the other employees getting out of control and spreading like a wild-fire. Consequently, you may lose other good employees. 
 
 Is this situation beginning to feel like leadership “checkmate”? 

@@ -38,9 +38,6 @@ The answer is to grow yourself. Greater leadership effectiveness is within your 
 
 -   Your organization will always be defined by your leadership.
 
-```{=html}
-<!-- -->
-```
 -   The size of your business reflects the size of your leadership.* * 
 
 Think about those two statements for a second. If you don’t like your current results, you can change them. In fact, every person can increase the effectiveness of his or her team by leveraging the math of leadership. 
@@ -83,14 +80,8 @@ You can achieve these key relationships by: 
 
 -   Involving your people in the decision-making process. 
 
-```{=html}
-<!-- -->
-```
 -   Keeping an open mind and respecting others’ views.
 
-```{=html}
-<!-- -->
-```
 -   Encouraging communication, coordination, and cooperation among all your team members. 
 
 This focus on others is missing in the approaches of so many leaders.  But you can see how we, as leaders, should view ourselves as *servant*-leaders.  And the key to becoming the most effective servant-leader is to embrace both relationships and results (leading and managing).  

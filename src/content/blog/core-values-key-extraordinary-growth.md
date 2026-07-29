@@ -33,14 +33,8 @@ Using decades of data and an exacting criteria for evaluation, Collins and Porra
 
 -   **Visionary companies** – these companies are the best of the best, described as “premier institutions in their industries, widely admired by their peers and having a long track record of making a significant impact on the world around them.”
 
-```{=html}
-<!-- -->
-```
 -   **Comparison companies** – close competitors to the visionary companies who have achieved a high level of success, but not to the extent of the visionary companies.
 
-```{=html}
-<!-- -->
-```
 -   **Average companies** – as represented by the average performance of those companies in the general stock market.
 
 ### Extraordinary results

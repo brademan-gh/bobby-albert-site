@@ -42,19 +42,10 @@ Each table group used flip charts to record their ideas and answers to the follo
 
 -   What are the characteristics/behaviors of good *internal suppliers*?
 
-```{=html}
-<!-- -->
-```
 -   What can *internal customers* do to help their *internal suppliers* be able to serve them better as a *team*?
 
-```{=html}
-<!-- -->
-```
 -   What are the most frequent/significant breakdowns in *teamwork?*
 
-```{=html}
-<!-- -->
-```
 -   What are the two specific things that you will do to be a better *team* player (a better *internal customer/supplier*)?
 
 Afterward, I had all groups return to give a full report.

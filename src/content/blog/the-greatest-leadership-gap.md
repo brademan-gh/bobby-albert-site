@@ -72,14 +72,8 @@ Working **ON**, not just **IN**, the business consists of a three-part plann
 
 -   Grow *yourself*
 
-```{=html}
-<!-- -->
-```
 -   Grow your *people* 
 
-```{=html}
-<!-- -->
-```
 -   Grow your *business* 
 
 ### **Thinking for a Change** 

@@ -25,29 +25,14 @@ During the event, two men received well-deserved Integrity Awards: LTG John A. V
 
 -   A 24/7 Employee Assistance Program called Chaplain Care Program.
 
-```{=html}
-<!-- -->
-```
 -   Founded on the U.S. Military Chaplain Model.
 
-```{=html}
-<!-- -->
-```
 -   Built on regularly scheduled, weekly worksite visits without interrupting work, and *confidential* and trusting relationships with employees and their families.
 
-```{=html}
-<!-- -->
-```
 -   Serving in 1,016 USA cities and in 5 foreign countries.
 
-```{=html}
-<!-- -->
-```
 -   Providing guidance or help when events, crises, or tragedy, occur in our lives where we need someone to turn to.
 
-```{=html}
-<!-- -->
-```
 -   Encouraging and calming people, chaplains offer emotional support or provide referrals to social service agencies or employee assistance programs.
 
 **Every leader should subscribe to the Chaplain Care Program for the following three reasons.**
@@ -62,39 +47,18 @@ The first reason to use this program is that it helps your employees. Here are s
 
 -   It was amazing to see our chaplain jump in with the full effort to care for the families impacted by a tragic local truck accident where two of our employees died and a third was severely injured. He also reached out to help the other employees who lost their buddies in the accident.
 
-```{=html}
-<!-- -->
-```
 -   One employee and her family have always remembered when her father-in-law had surgery for cancer on his brain in Dallas, TX, and our chaplain in Wichita Falls, TX, 150 miles away, arranged for a chaplain in Dallas to go and stay with the family during the surgery at the Dallas hospital.
 
-```{=html}
-<!-- -->
-```
 -   An employee whose boyfriend was about to commit suicide when she got our chaplain involved in the middle of the night and saved his life.
 
-```{=html}
-<!-- -->
-```
 -   An employee said the chaplain saved his marriage.
 
-```{=html}
-<!-- -->
-```
 -   Our chaplain visited several times the son of an employee who was in the local hospital.
 
-```{=html}
-<!-- -->
-```
 -   Employees (and even former employees) who have had our chaplain conduct weddings for them and funerals for family members.
 
-```{=html}
-<!-- -->
-```
 -   One of our chaplains helped an employee cope with the aftermath of rape.
 
-```{=html}
-<!-- -->
-```
 -   An employee had a husband who was physically abusing her, and our chaplain assisted her in this situation.
 
 As you can see, the list could go on and on.
@@ -111,9 +75,6 @@ We decided to extend the chaplain service to these two key groups. They offered 
 
 -   To a customer who is stressed over their move – by offering to come by their home to talk with them about their life issues…
 
-```{=html}
-<!-- -->
-```
 -   To a supplier who may have a crisis concerning an employee. For example – Once a supplier had an over-the-road driver who ran over and killed a person who stepped out in front of his truck on the Interstate Highway. We were able to send a chaplain to be on-site with the driver because he was pretty shaken up.
 
 ### The Company Wins
@@ -126,49 +87,22 @@ We had no idea how the program would positively affect our company! The Chaplain
 
 -   Increase employee retention
 
-```{=html}
-<!-- -->
-```
 -   Decrease employee absenteeism
 
-```{=html}
-<!-- -->
-```
 -   Increase employee productivity
 
-```{=html}
-<!-- -->
-```
 -   Improve workplace safety
 
-```{=html}
-<!-- -->
-```
 -   Reduce employee stress
 
-```{=html}
-<!-- -->
-```
 -   Increase employee commitment to company goals and objectives
 
-```{=html}
-<!-- -->
-```
 -   Reduce employee conflicts
 
-```{=html}
-<!-- -->
-```
 -   Increase employee loyalty to the company
 
-```{=html}
-<!-- -->
-```
 -   Improve employee attitudes
 
-```{=html}
-<!-- -->
-```
 -   Increase employee morale and teamwork
 
 If you stop and think about it, I bet you’ll conclude that this service is one of the best ways to help employees, customers, and suppliers when they are in need.

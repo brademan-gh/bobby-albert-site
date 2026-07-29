@@ -23,18 +23,12 @@ When your people…
 
 -   Don’t know *where* they want to be, and
 
-```{=html}
-<!-- -->
-```
 -   Are *not* involved in planning *how* they can get there,
 
 There is…
 
 -   Little or no *meaning/purpose* with their work, and
 
-```{=html}
-<!-- -->
-```
 -   No *feeling* *(or recognition)* of achievement
 
 Therefore, they feel that they are just “laying bricks.”
@@ -49,14 +43,8 @@ You are now ready to prepare…
 
 -   *Strategic* plans,
 
-```{=html}
-<!-- -->
-```
 -   *Tactical* plans, and
 
-```{=html}
-<!-- -->
-```
 -   Measureable performance **goals.**
 
 These plans are important because the most well thought-out *vision* is no good if there are *not* any plans in place for *how* to achieve the *vision*.
@@ -73,90 +61,48 @@ For now, let’s focus on strategic plans and tactical plans.
 
 -   Is the general approach or plan to achieve objectives, your beacon or your high level, desired outcomes.
 
-```{=html}
-<!-- -->
-```
 -   Paints a picture of the desired future and long-term objectives where the organization wants to be in three, five, or even in ten years.
 
-```{=html}
-<!-- -->
-```
 -   Answers the *why* that motives your people.
 
-```{=html}
-<!-- -->
-```
 -   Begins with the desired end-results, the objectives, and works backward to the current status.
 
-```{=html}
-<!-- -->
-```
 -   Relates to your organization’s core *purpose* – *Why* do you exist?
 
-```{=html}
-<!-- -->
-```
 -   Requires the involvement of your leadership team, and
 
-```{=html}
-<!-- -->
-```
 -   Is your responsibility to communicate, with clarity, the objectives to the total organization.
 
 Clarity will help your people…
 
 -   Understand what they need to *do*, and maybe even more importantly, what they are *not* to *do*.
 
-```{=html}
-<!-- -->
-```
 -   *Feel* empowered at the most critically important time of execution.
 
 Examples of *strategic plans* for my moving and storage company:
 
 -   Increase share of market through better understanding and knowledge of market opportunities in order to develop consumer sales.
 
-```{=html}
-<!-- -->
-```
 -   Reduce internal and external operating expenses associated with consumer sales.
 
 The strategic plans can be divided by the various product/business lines. For example, in my moving and storage company:
 
 -   Consumer
 
-```{=html}
-<!-- -->
-```
 -   Government
 
-```{=html}
-<!-- -->
-```
 -   Corporate Accounts
 
 And in addition, the plans can be divided between organizational functions:
 
 -   Marketing and Sales
 
-```{=html}
-<!-- -->
-```
 -   Operations
 
-```{=html}
-<!-- -->
-```
 -   IT
 
-```{=html}
-<!-- -->
-```
 -   Finance and Accounting
 
-```{=html}
-<!-- -->
-```
 -   Administration (e.g. Human Resource)
 
 ### **How can we** **get there?** **– Tactics**
@@ -165,38 +111,20 @@ And in addition, the plans can be divided between organizational functions:
 
 -   *How* can we get there?
 
-```{=html}
-<!-- -->
-```
 -   *When* do we want to arrive?
 
-```{=html}
-<!-- -->
-```
 -   *Who* can make it happen on schedule?
 
 Tactical planning…
 
 -   Begins with the current status and lays down a path of action steps for implementing *strategies*.
 
-```{=html}
-<!-- -->
-```
 -   Identifies the courses of actions you will need to achieve those *strategic* objectives.
 
-```{=html}
-<!-- -->
-```
 -   Relates to actions taken day-to-day.
 
-```{=html}
-<!-- -->
-```
 -   Results in the organization moving forward to achieve the objectives outlined in the *strategic* plan.
 
-```{=html}
-<!-- -->
-```
 -   Is the responsibility of your front-line people who are truly the only ones qualified to plan the action steps and perform the work.  They know *what* to do, *when* they need to do it, and *how* to do it.
 
 When your front-line people are involved in the decision-making/planning process, they will be inspired to work harder and go the extra mile – whatever it takes to succeed.
@@ -207,9 +135,6 @@ Here are some examples of *tactical* plans for my moving and storage company:
 
 -   “John Doe” in marketing is to create a new post-move consumer survey by September 30.
 
-```{=html}
-<!-- -->
-```
 -   “Jane Doe” in human resource is to update the dress code policy by October 31.
 
 Like the strategic plans, the tactical plans can be divided by the various product/business lines and in addition/or organizational functions.

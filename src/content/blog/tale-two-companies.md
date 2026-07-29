@@ -18,19 +18,10 @@ Frequently, you hear of a person’s promotion, or wage increase, or a company g
 
 -   *Engages* their employees (only 33% of the companies in Gallup’s research).  
 
-```{=html}
-<!-- -->
-```
 -   Employees go to work feeling enthusiastic, excited, and passionate because their employer understands the importance of enhancing relationships as they drive for results. 
 
-```{=html}
-<!-- -->
-```
 -   Employees accept promotions, wage increases, and bonuses with an attitude of gratitude and with a grateful heart. 
 
-```{=html}
-<!-- -->
-```
 -   This company…
     -   Understands that they need to pay their people a fair wage AND *engage* their employees. 
     -   Has built a culture where people thrive, and profits are soaring.
@@ -40,19 +31,10 @@ Frequently, you hear of a person’s promotion, or wage increase, or a company g
 
 -   *Does not engage their* employees or employees are *actively* *disengaged* (67% of the companies in Gallup’s research).
 
-```{=html}
-<!-- -->
-```
 -   Employees go to work feeling their work is like “pushing rope” or “pressing their hand hard against the wall” for eight long hours because their boss is only driving for results. 
 
-```{=html}
-<!-- -->
-```
 -   Employees accept promotions, wage increases, and bonuses with an attitude of “entitlement” because they feel that they deserve the extra benefits. 
 
-```{=html}
-<!-- -->
-```
 -   This company… 
     -   Thinks that if they only pay their people more money than the competition they will work harder and deliver more results. 
     -   Has built a culture where people are giving up, and profits are either stagnant or declining.

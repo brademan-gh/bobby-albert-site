@@ -46,28 +46,16 @@ This is the basic stuff, without which you can’t pull off any event, regardles
 
 -   We sat six to eight people at each table to create a small group setting that encouraged interaction and discussion.
 
-```{=html}
-<!-- -->
-```
 -   We positioned the tables so that people could easily see the podium and screen at the front of the room.
 
 **Food**
 
 -   I usually provided breakfast burritos to assure every person showed up on-time.
 
-```{=html}
-<!-- -->
-```
 -   When people have something in their stomach early in the morning, they seem to have more energy and are more willing to learn.
 
-```{=html}
-<!-- -->
-```
 -   You’ve heard the saying “When families eat together they stay together.”
 
-```{=html}
-<!-- -->
-```
 -   I wanted our employees to have the feel of a family team, especially when we rolled-out our **Core Values**.
 
 > Observation: The perceived value of a company-provided meal for employees is very high compared with the cost.
@@ -78,18 +66,12 @@ This is the basic stuff, without which you can’t pull off any event, regardles
 
 -   We notified our key customers and suppliers that we were holding a company-wide event so we could better serve them.
 
-```{=html}
-<!-- -->
-```
 -   This is a great way to manage expectations and emphasize how seriously you value your people and other stake-holders.
 
 **Pre-print name tags that include table assignments**
 
 -   Name tags help everyone remember their team-mate’s names & encourage more personal communication during the event.
 
-```{=html}
-<!-- -->
-```
 -   Think about your seating configuration well in advance and be intentional about who sits where. Print each person’s table number on their name tag.
 
 > Tip: Your seating plan can help you build and strengthen your team. You can facilitate new relationships by seating people from different departments or areas at the same table.
@@ -104,9 +86,6 @@ This is the basic stuff, without which you can’t pull off any event, regardles
 
 -   The day before the event, we gave our employees their **G**.**I.V.E.R.S.** T-shirt so that everyone could wear theirs at the QIC-Day.
 
-```{=html}
-<!-- -->
-```
 -   The T-Shirt only had the **G.I.V.E.R.S.** logo so our people still did not know what it meant until the actual event.
 
 ### 3. Plan to Capture
@@ -123,19 +102,10 @@ This is the basic stuff, without which you can’t pull off any event, regardles
 
 -   I loved to use easels and flip charts in our meetings. Ideally, each table group would have a flip-chart on an easel.
 
-```{=html}
-<!-- -->
-```
 -   Flip charts create an opportunity for people to voice their ideas on a topic.
 
-```{=html}
-<!-- -->
-```
 -   People feel affirmed when their opinions and ideas are recorded in such a visible way.
 
-```{=html}
-<!-- -->
-```
 -   The content from all the flip-charts was summarized and distributed after the event. This reinforced that we were listening to their comments and considered them important enough to re-read, summarize and distribute to the whole company.
 
 > Insight: When people see that you recorded and took note of their comments, they are more willing to continue giving suggestions and ideas to improve the business.
@@ -154,18 +124,12 @@ This is the basic stuff, without which you can’t pull off any event, regardles
 
 -   We usually have an Ice Breaker game at the very beginning to get people moving and to help people get to know each other better.
 
-```{=html}
-<!-- -->
-```
 -   Also often like this QIC-Day, we had a game where people had team building fun while learning something about themselves, about me and our company.
 
 **“The Cowbell”**
 
 -   I ring a cowbell to roundup people after refreshment breaks or at the conclusion of a table facilitation exercise.
 
-```{=html}
-<!-- -->
-```
 -   I’ve been using “The Cow Bell” since the first QIC-Day, and I still receive lots of smiles when I ring it. It’s part of the fun.
 
 > Idea: Find your own noise maker. It might be a gong, bell or horn. Make it yours and you’ll build some fun into your culture!
@@ -174,9 +138,6 @@ This is the basic stuff, without which you can’t pull off any event, regardles
 
 -   For many years I have personally signed certificates with each employee’s name as recognition of their completion of the workshop.
 
-```{=html}
-<!-- -->
-```
 -   I have always been impressed by the fact that most of our employees have all of their certificates posted in their workstation.
 
 > Tip: Place a copy of each person’s certificate in their personnel file for future reference. This reflects their involvement and underscores the importance of company-wide training and messaging.

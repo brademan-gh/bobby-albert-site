@@ -24,29 +24,14 @@ Getting all of those facts first prepared me to…
 
 -   Be “loaded for bear”
 
-```{=html}
-<!-- -->
-```
 -   Defend my company
 
-```{=html}
-<!-- -->
-```
 -   Prevent the customer from embarrassing me
 
-```{=html}
-<!-- -->
-```
 -   Allow me to set the customer straight on what really happened
 
-```{=html}
-<!-- -->
-```
 -   Save my company money by not having to correct the complaint
 
-```{=html}
-<!-- -->
-```
 -   Win the argument
 
 > **Observation: Can you see my “pride” all over the method above?**
@@ -67,38 +52,20 @@ I learned to…
 
 -   Take these phone calls immediately *without first* gathering *all* the facts
 
-```{=html}
-<!-- -->
-```
 -   Focus fully on *listening* to what the customer had to say so I could empathetically *feel* and *understand* them
 
-```{=html}
-<!-- -->
-```
 -   *Not* fill my mind with the baggage that resulted when I *first* gathered *all* of the facts
 
-```{=html}
-<!-- -->
-```
 -   *Never* interrupt the customer, but allow them to vent
 
 > **“The word listen contains the same letters as the word silent.” – Alfred Brendel**
 
 -   Confirm *understanding* by agreeing with how they *felt* and by *asking questions* to demonstrate that I was *listening*
 
-```{=html}
-<!-- -->
-```
 -   Enlist help from the customer in the creation or selection of a solution to rebuild a positive relationship
 
-```{=html}
-<!-- -->
-```
 -   Ask for permission to gather appropriate information and call back in 10 minutes
 
-```{=html}
-<!-- -->
-```
 -   *Never* forget to call back in ten minutes, even though I did not have all of the information, to assure the customer I would do what I say.  And if I needed more time, I would ask permission to call back later
 
 It was amazing while the customer was complaining they would often say, “You probably already know….”
@@ -119,9 +86,6 @@ During our **AQL**^TM^ (***A****sk* ***Q****uestions* and ***L****isten*) *QIC*-
 
 -   ***A****sking* ***Q****uestions* and
 
-```{=html}
-<!-- -->
-```
 -   ***L****istening*
 
 ### **Listening**
@@ -146,9 +110,6 @@ Until the complaining customer (or anyone else) *feels understood*, they are *no
 
 -   Motivated to listen to you
 
-```{=html}
-<!-- -->
-```
 -   Receptive to your wise counsel
 
 Is there room for improvement when it comes to your *listening* skills?
@@ -161,34 +122,16 @@ Stephen Covey shares from his book, *The 7 Habits of Highly Effective People*, t
 
 -   “As I get it, you felt that….”
 
-```{=html}
-<!-- -->
-```
 -   “I’m picking up that you….”
 
-```{=html}
-<!-- -->
-```
 -   “So, as you see it….”
 
-```{=html}
-<!-- -->
-```
 -   “What I guess I’m hearing is….”
 
-```{=html}
-<!-- -->
-```
 -   “As I hear it, you….”
 
-```{=html}
-<!-- -->
-```
 -   “Your feeling now is that….”
 
-```{=html}
-<!-- -->
-```
 -   “You must have felt….”
 
 Everyone can improve their customer service by adopting these **AQL**^TM^ principles.

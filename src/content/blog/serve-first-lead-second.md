@@ -30,14 +30,8 @@ Recently, I’ve been writing about the **ON/IN** principle that encourages 
 
 -   Grow *yourself* 
 
-```{=html}
-<!-- -->
-```
 -   Grow your *people* 
 
-```{=html}
-<!-- -->
-```
 -   Grow your *business* 
 
 ***Every leader can develop a growth culture where people thrive and profits soar by embracing the following s**even*** ***benefits.*** 
@@ -74,14 +68,8 @@ They sense that you see *training* AND *development* as an investment and not an
 
 -   Enjoy change – Once people are willing to change on the inside, they will not only accept organizational and market condition changes but seek it.  For without change, there can be no growth.
 
-```{=html}
-<!-- -->
-```
 -   Attract high achievers – When you develop a reputation to value personal growth in your organization, you will attract more high achievers.  Why?  High achievers want to make a difference because they believe they have much to give. 
 
-```{=html}
-<!-- -->
-```
 -   Experience teamwork:  Customers and suppliers (yes, even suppliers) will feel the impact of teamwork – excellence in communication, coordination, and cooperation among the team.  Why?  Team players want to and are motivated “to serve; not to be served.”\
 
 **“Teamwork makes the dream work.”**
@@ -94,14 +82,8 @@ Are you ready to set your business apart from the crowded marketplace?  Then wo
 
 -   Grow *yourself* 
 
-```{=html}
-<!-- -->
-```
 -   Grow your *people* 
 
-```{=html}
-<!-- -->
-```
 -   Grow your *business* 
 
 By the way, the next time you go in the Chick-fil-A drive-thru, and you say, “thank you,” the employee will always reply “my pleasure.”   

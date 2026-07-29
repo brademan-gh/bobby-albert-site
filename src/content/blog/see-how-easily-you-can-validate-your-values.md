@@ -24,14 +24,8 @@ They would most likely be people who:
 
 -   Exemplify the organization’s **core values** and purpose
 
-```{=html}
-<!-- -->
-```
 -   Have the highest level of credibility with their peers
 
-```{=html}
-<!-- -->
-```
 -   Possess the highest levels of competence
 
 **Core values** are a foundational part of growing a business and building a winning team. But how can you be sure that you have identified your core values?

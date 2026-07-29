@@ -54,14 +54,8 @@ Our employees learned:
 
 -   They did *not* communicate well with clarity and conciseness.
 
-```{=html}
-<!-- -->
-```
 -   By the time the instructions got to the person with the puzzle, the instructions often were incorrect and incomplete.
 
-```{=html}
-<!-- -->
-```
 -   As a team, they did not function as well as they thought they would.
 
 In light of their poor performance in this simple game, everyone was ready to learn about the **Internal Customer** **Principle**.

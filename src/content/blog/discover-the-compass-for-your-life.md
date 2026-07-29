@@ -79,14 +79,8 @@ You may be wondering, â€œBobby, what did you discover to be your life purpose?â€
 
 -   It all started when I read the book, *In Search of Excellence*, by Tom Peters and Robert Waterman. This led me to prepare a company mission statement for my business.
 
-```{=html}
-<!-- -->
-```
 -   The process of identifying our company mission statement motivated me to begin to pause, reflect, and think more about my personal mission and *purpose* in life.
 
-```{=html}
-<!-- -->
-```
 -   Then I read the book, *Choose Your Attitudes Change Your Life*, by Robert Jeffress. While reading this book is when I discovered my *life purpose*.
 
 I discovered: The reason ***why*** I exist is to be a model Christian businessman.

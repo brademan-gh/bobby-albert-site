@@ -24,7 +24,7 @@ My natural tendency is to be in a hurry. The word “rush” accurately characte
 
 This frenetic, rushing around makes me tired just writing about it. It sounds like a gerbil just spinning in his cage. But weren’t all these things good to do? Listen to the Podcast episode on True North Leader with Jordan Raynor to hear more about prioritizing your time amid the noise of life and the power of silence.
 
-    Is your work the center of your identity and life?
+> Is your work the center of your identity and life?
 
 Are you forever talking about the Promised Land, but you can’t bring yourself to leave the familiar territory – A known place that feels like home even though not a great one.
 
@@ -34,14 +34,8 @@ Do you keep telling yourself…
 
 -   “It would be better to wait until I’m finished with what I’m doing”
 
-```{=html}
-<!-- -->
-```
 -   Or “I’m too tired”
 
-```{=html}
-<!-- -->
-```
 -   Or maybe, “someday” knowing that “someday” never seems to come?
 
 ## **The Cost of Abandoning Your Life Purpose**

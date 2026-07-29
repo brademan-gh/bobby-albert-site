@@ -24,24 +24,12 @@ Among the successful organizations that I have observed, I have found a pattern 
 
 -   Clear, stretching **goals**
 
-```{=html}
-<!-- -->
-```
 -   “Can-do” atmosphere
 
-```{=html}
-<!-- -->
-```
 -   People who have a high sense of urgency
 
-```{=html}
-<!-- -->
-```
 -   Skills to implement plan-oriented actions, and
 
-```{=html}
-<!-- -->
-```
 -   Ability to achieve dependable results
 
 I’ve been writing in recent previous blog posts about **goals** *and* **controls**.
@@ -64,9 +52,6 @@ This requires…
 
 -   Frequent and regular *communication* reporting on the progress of those tactical projects and **goals**.
 
-```{=html}
-<!-- -->
-```
 -   Intentional *communication* to ensure alignment of your people’s progress on objectives/strategies with your Values, Purpose, Vision, and Super-Objectives
 
 > **Insight: The way leaders approach goals and controls is as important as the goals and controls themselves.**

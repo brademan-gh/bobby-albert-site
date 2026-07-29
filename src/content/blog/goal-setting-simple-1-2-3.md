@@ -70,34 +70,16 @@ I write a goal for each of the following areas:
 
 -   Spiritual
 
-```{=html}
-<!-- -->
-```
 -   Health/Physical Well-Being
 
-```{=html}
-<!-- -->
-```
 -   Family/Spouse
 
-```{=html}
-<!-- -->
-```
 -   Work/Career
 
-```{=html}
-<!-- -->
-```
 -   Personal Growth
 
-```{=html}
-<!-- -->
-```
 -   Social/Friends/Community
 
-```{=html}
-<!-- -->
-```
 -   Financial
 
 > Did you know? – You are 42% more likely to achieve your goals, simply by writing them down\![2\]

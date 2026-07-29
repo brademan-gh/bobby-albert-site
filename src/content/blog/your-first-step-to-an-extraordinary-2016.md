@@ -39,24 +39,12 @@ Take time to **pause and reflect** on the past year on:
 
 -   What did you accomplish?
 
-```{=html}
-<!-- -->
-```
 -   Where did you go?
 
-```{=html}
-<!-- -->
-```
 -   How did you feel?
 
-```{=html}
-<!-- -->
-```
 -   Who did you encounter?
 
-```{=html}
-<!-- -->
-```
 -   What did you learn?
 
 How would you rate your year in the main areas in life?  I’m talking about major areas of life, like: relationships, work/career, your spiritual life, etc.

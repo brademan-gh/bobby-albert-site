@@ -42,14 +42,8 @@ In practice, I found that many businesses seem to use the terms *purpose* and *m
 
 -   Too long and wordy, so that people cannot remember what it says or means   
 
-```{=html}
-<!-- -->
-```
 -   Too generic, trying to be all things to all people 
 
-```{=html}
-<!-- -->
-```
 -   Too technical 
 
 **Even more confusion – and more frustration!** 
@@ -76,33 +70,18 @@ If you use a *mission* statement, the best ones have the following qualities: 
 
 -   **Clear** – Anyone can understand it. 
 
-```{=html}
-<!-- -->
-```
 -   **Concise** – It is short and can be said in one breath. 
 
-```{=html}
-<!-- -->
-```
 -   **Compelling** – It makes people want to say it again because it is delightful to hear.  It begins with the words, “Every day….” 
 
-```{=html}
-<!-- -->
-```
 -   **Catalytic** – Rather than just define what you successfully do, it encourages people to “act”, and it is achievable. 
 
-```{=html}
-<!-- -->
-```
 -   **Contextual** – It describes coming from an actual circumstance and going to a new circumstance, and it must be measurable once it is practiced. 
 
  **When a leader of either a business or non-profit chooses to use a** ***mission*** **statement, I recommend that they:** 
 
 -   Also have a *purpose* that states *why* they exist, per the definition above.
 
-```{=html}
-<!-- -->
-```
 -   Make sure their *mission* statement is contextual, describing how they are “coming from an actual circumstance and going to a new circumstance.”\
 
 **“Words might tell a story, but actions tell the truth.”**
@@ -125,9 +104,6 @@ I called these our *super-objectives*, because they became the two high-level, o
 
 -   The everyday expectations in our business as to **what we want to accomplish**.
 
-```{=html}
-<!-- -->
-```
 -   The bridge between our…  
 
 **1)** *core values,* *purpose,* and *vision,* and 
@@ -146,9 +122,6 @@ Wikibooks has defined a *super-objective* in the theater*…*  
 
 -   As a character’s broad overall objective that stays consistent throughout the play.
 
-```{=html}
-<!-- -->
-```
 -   It helps the actor solidify the motivations behind the character’s actions and emotions.  Some examples might be, “I need love” or “I need to have power.”  
 
 In the theatre, each character has a different super-objective, but in an organization, everyone has the same super-objective(s). Nevertheless, in both contexts, super-objectives define a broad over-arching objective for the people involved.  
@@ -165,19 +138,10 @@ Once everyone understood without any doubt… 
 
 -   **Who** **are** **we?** – Our *core values* 
 
-```{=html}
-<!-- -->
-```
 -   **Why** **do** **we exist?** – Our *purpose*\
 
-```{=html}
-<!-- -->
-```
 -   **Where** **are** **we going?** – Our *vision* 
 
-```{=html}
-<!-- -->
-```
 -   **What** **do** **we want to accomplish…every day?** – Our *super-objectives* 
 
 And once we applied the process of **effective leadership** and we lived out the four truths listed above, we saw extraordinary results beyond our imagination.  And you can too\! 

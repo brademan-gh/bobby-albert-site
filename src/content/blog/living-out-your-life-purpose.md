@@ -41,19 +41,10 @@ Then ask them…
 
 -   What do you think about it?
 
-```{=html}
-<!-- -->
-```
 -   What questions do you have about it?
 
-```{=html}
-<!-- -->
-```
 -   Do you have suggestions about ***how*** I could live out my *life purpose*?
 
-```{=html}
-<!-- -->
-```
 -   Will you help keep me honest and true to my *life purpose*?
 
 Use this important step of sharing to create accountability and to recruit their support.
@@ -66,14 +57,8 @@ After sharing and receiving input from others, it is time to write down…
 
 -   How you have lived out your *life purpose* in the past. (Even before you consciously understood your *life purpose*.)
 
-```{=html}
-<!-- -->
-```
 -   How you are currently living out your *life purpose*.  This will give you confidence in your *life purpose* – ***why*** you exist.
 
-```{=html}
-<!-- -->
-```
 -   A forward looking list of ways to express ***how*** to live out your *life purpose* in the future.  Then prioritize your list.
 
 > **“Nothing contributes so much to tranquilize the mind as a steady purpose – a point on which the soul may fix it intellectual eye.”**
@@ -92,19 +77,10 @@ Third, began to integrate your *life purpose* into your thinking and awareness b
 
 -   Remembering your *life purpose* when exploring new opportunities.
 
-```{=html}
-<!-- -->
-```
 -   Relying on your *life purpose* when dealing with new challenges.
 
-```{=html}
-<!-- -->
-```
 -   Incorporating your *life purpose* into your decision-making process.  Adding questions like… “How will this decision affect the way I living out my *life purpose*?”  And, “Which option most closely aligns with and supports my *life purpose?”*
 
-```{=html}
-<!-- -->
-```
 -   Considering your *life purpose* when planning and managing whatever receives your time and attention – like your personal goals, and daily calendar.
 
 > **“What lies behind us and what lies before us are tiny matters compared to what lies within us.”**

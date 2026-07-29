@@ -57,9 +57,6 @@ Best-selling author, John Maxwell, talks about the gap between two significant q
 
 -   Can I? – A question by those who have a *scarcity*
 
-```{=html}
-<!-- -->
-```
 -   How can I? – A question by those who have an *abundance*
 
 Which question do you most often ask?

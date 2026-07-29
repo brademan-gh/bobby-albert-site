@@ -49,14 +49,8 @@ As you begin the “thinking for a change” process, it is important to underst
 
 -   You are responsible for your own choices, and you have the freedom to choose how you respond to what you experience in life.
 
-```{=html}
-<!-- -->
-```
 -   You can change (if you are willing and have the desire) how you *think* about making choices that lead to more right decisions.
 
-```{=html}
-<!-- -->
-```
 -   You can change where you spend your time and energy – focusing more on what you CAN control and less on what you cannot control.
 
 ### **Principled Behavior**

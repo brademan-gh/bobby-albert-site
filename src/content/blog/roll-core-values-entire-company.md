@@ -54,24 +54,12 @@ We introduced each value in a similar way so our people could focus on discoveri
 
 -   Each table competed to discover each value by playing the Wheel of Values game. Again, the table that yelled out the correct value phrase first got to go and spin a game wheel for prizes.
 
-```{=html}
-<!-- -->
-```
 -   Then I shared the meaning of that value, where it came from, and why it was important to me.
 
-```{=html}
-<!-- -->
-```
 -   Afterwards, each table went to a flip chart to discuss and record how we, as a company, were going to “live out” that value.
 
-```{=html}
-<!-- -->
-```
 -   We wrapped-up each value with each table reporting back what they discussed.
 
-```{=html}
-<!-- -->
-```
 -   The process was repeated one value at a time until every value was discovered.
 
 ### Distribute ownership
@@ -92,9 +80,6 @@ Near the end, we had two more discussion questions addressed at the flip charts 
 
 -   If we ***fail*** to align our behaviors/activities with **Our Values**, what would the outcomes be?, and
 
-```{=html}
-<!-- -->
-```
 -   If we ***succeed*** at aligning our behaviors/activities with **Our Values**, what would the outcomes be?
 
 ### Remind the Team

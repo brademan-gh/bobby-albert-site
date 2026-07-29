@@ -23,14 +23,8 @@ So I created the **ON/IN™** program (working **ON**, not just **IN, **the bu
 
 -   Grow yourself
 
-```{=html}
-<!-- -->
-```
 -   Grow your people
 
-```{=html}
-<!-- -->
-```
 -   Grow your business
 
 You can condense the **ON/IN™** principle into one statement:
@@ -53,14 +47,8 @@ The leader from each function or unit developed a PowerPoint presentation to exp
 
 -   Where have we been?
 
-```{=html}
-<!-- -->
-```
 -   Where are we now?
 
-```{=html}
-<!-- -->
-```
 -   Where do we want to be?
 
 Each leader made their presentation to the entire company.
@@ -73,14 +61,8 @@ Next, the table groups used flip charts to record their ideas and answers to the
 
 -   How can we get there?
 
-```{=html}
-<!-- -->
-```
 -   When do we want to arrive?
 
-```{=html}
-<!-- -->
-```
 -   Who can make it happen on schedule?
 
 ### Our Second Company Follow-Up Workshop
@@ -95,9 +77,6 @@ Again, we got every employee from each function or business unit to sit as a gro
 
 -   What do our customers want to buy from us?
 
-```{=html}
-<!-- -->
-```
 -   How can/do we give them what they want?
 
 We wrapped-up each question with each table reporting back to every employee what they discussed.

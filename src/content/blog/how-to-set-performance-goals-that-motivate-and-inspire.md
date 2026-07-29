@@ -17,19 +17,10 @@ In the local moving division of our business, we asked each individual employee 
 
 -   Number of cartons packed per hour per job
 
-```{=html}
-<!-- -->
-```
 -   Number of pounds loaded per hour per job
 
-```{=html}
-<!-- -->
-```
 -   Number of pounds unloaded per hour per job
 
-```{=html}
-<!-- -->
-```
 -   Cost incurred for cargo claims per job, etc.
 
 Originally, every crew-member set **goals** way too high, until we gave them *feedback* on their actual performance.  We posted up everyone’s numbers so they could see how their actual numbers compared to everyone else.
@@ -44,19 +35,10 @@ Not only did these measurable **goals** help our moving crews perform better, th
 
 -   Actually were the most productive, and more importantly, why they were.
 
-```{=html}
-<!-- -->
-```
 -   Had the lowest cost of cargo claims, and more importantly, why they did.
 
-```{=html}
-<!-- -->
-```
 -   Needed more training.
 
-```{=html}
-<!-- -->
-```
 -   Worked best together.
 
 > **Observation: The employees who had the lowest productivity and the highest cargo claim costs weeded themselves out of our company.**
@@ -67,14 +49,8 @@ Over the past couple of weeks I’ve been writing about preparing…
 
 -   A *vision* statement
 
-```{=html}
-<!-- -->
-```
 -   *Strategic* plans
 
-```{=html}
-<!-- -->
-```
 -   *Tactical* plans
 
 And now it is time talk about measurable performance **goals.**
@@ -83,9 +59,6 @@ Most organizations will see a dramatic increase in employee performance when:
 
 -   A collaborative process takes place between an employee and their manager.
 
-```{=html}
-<!-- -->
-```
 -   The individual employee effectively sets measurable goals that closely tie to the organization’s overall *strategy.*
 
 ### **Two** **recurring** **questions**
@@ -94,9 +67,6 @@ Empowering leaders as well as highly-motivated employees will continually revisi
 
 -   What is our **goal**?
 
-```{=html}
-<!-- -->
-```
 -   Are we making progress?
 
 They ask these questions about their long-term strategies, about their tactical efforts, about each meeting they attend, and about such process-oriented matters as their approaches to communication, coordination, and cooperation.
@@ -115,43 +85,22 @@ They are set by using the *SMART* criteria and by asking if they are…
 
 -   ***S***pecific and vital
 
-```{=html}
-<!-- -->
-```
 -   ***M***easurable
 
-```{=html}
-<!-- -->
-```
 -   ***A***chievable but challenging
 
-```{=html}
-<!-- -->
-```
 -   ***R***esults oriented
 
-```{=html}
-<!-- -->
-```
 -   ***T***ime-bound
 
 Here are some examples of performance **goals** that are activity targets with numeric and timeliness measures of success:
 
 -   Increase sales by 5% over same period of last year.
 
-```{=html}
-<!-- -->
-```
 -   Increase profit by 2% over the average of the prior three months.
 
-```{=html}
-<!-- -->
-```
 -   Reduce overtime by 50% by the end of the third quarter.
 
-```{=html}
-<!-- -->
-```
 -   Increase billable time to 92% by the end of the fourth quarter.
 
 When an employee measures their progress, stays on track, and reaches their target dates, they experience the exhilaration of achievement that spurs them on to continued efforts to reach their **goals**.

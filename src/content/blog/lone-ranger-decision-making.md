@@ -72,9 +72,6 @@ Are you curious about the rest of survey? The two blog posts below break down th
 
 -   Survey statements 1 through 4 \<**[click here](/blog/volunteer-leadership/){target="_blank"}**\>
 
-```{=html}
-<!-- -->
-```
 -   Survey statements 5 through 8 \<**[click here](/blog/public-bad-decision/){target="_blank"}**\>
 
 *Are you a Lone Ranger when* *making decisions and* *setting goals? * *Would you like to have a more team-oriented approach to your* *decision-making and goal-setting* *process?  Please share your thoughts \<**[here](/blog/lone-ranger-decision-making/#comments)**\> and share this blog post with a friend and a co-worker.*

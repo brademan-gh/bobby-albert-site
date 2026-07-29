@@ -88,19 +88,10 @@ Here is a list of the blog posts that I’ve written on **Managing** (*things*) 
 
 1.  [Give Me 5 Minutes and You’ll KNOW if You’re a Leader or a Manager!](/blog/give-me-5-minutes-leader-manager/) – *By answering seven questions, every person can better understand their life* *bent, their bias or leaning toward* *leading* *or* *managing*.**Leaders and managers make great teammates. They need each other. Leaders without managers cannot keep what they grow, and managers without leaders cannot grow what they keep!
 
-```{=html}
-<!-- -->
-```
 2.  [The Truth About Leading and Managing](/blog/truth-about-leading-and-managing/) – There are clear differences between leading and managing. By observing six examples, *every leader/manager can understand the two approaches to getting things done.*
 
-```{=html}
-<!-- -->
-```
 3.  [Why Some Managers Stink – and What to do About It!](/blog/why-some-managers-stink-what-to-do-about-it/) – I explored why managers drive for **results** at the expense of **relationships**? *Also, by asking four questions every manager can become a more* *effective*
 
-```{=html}
-<!-- -->
-```
 4.  [Effective Leaders Wear Two Hats](/blog/effective-leaders-wear-twohats/) – I discussed that every person can become an *effective* leader by embracing the two “R” factors:
 
 -   As you drive for **R**esults,
@@ -108,34 +99,16 @@ Here is a list of the blog posts that I’ve written on **Managing** (*things*) 
 
 5.  [What Type of Manager are You?](/blog/what-type-manager-are-you/) – Are you the “Taskmaster” manager or the “Country Club” manager? Because only the *effective* leader is the one that experience *exponential* **results**.
 
-```{=html}
-<!-- -->
-```
 6.  [Who Are Your Leadership Role Models?](/blog/who-are-your-leadership-role-models/) – Only a *few* leaders become a “Level 5 Executive”, and those who have, have become great *role models by embracing* *two paradoxical* characteristics- **personal humility** *AND* **professional will**.
 
-```{=html}
-<!-- -->
-```
 7.  [Learn the Two R’s of Effective Leadership](/blog/learn-the-two-rs-of-effective-leadership/) – Sometimes a picture is worth 1,000 words. My “Effectiveness Quotient” graph shows the multiplicative effect that occurs when we boost our attention to **R**elationships while we also hold fast to our more natural focus on **R**esults.
 
-```{=html}
-<!-- -->
-```
 8.  [Use Leadership Math to Multiply Your Effectiveness](/blog/use-leadership-math-to-multiply-your-effectiveness/) – *Every manager can increase their effectiveness by leveraging the Math of Leadership. Are you getting* **results** by *addition* or *multiplication*?
 
-```{=html}
-<!-- -->
-```
 9.  [Do you lead followers or leaders?](/blog/do-you-lead-followers-or-leaders/) – What *motives* support our tendency to lead FOLLOWERS rather than LEADERS? Every leader can experience *extraordinary* **results** by incorporating one key component into their leadership: participative-style leadership.
 
-```{=html}
-<!-- -->
-```
 10. [Participative Management Style](/blog/participative-management-yields-powerful-results/) – The real question is NOT, “have you developed a TEAM?, but… “Do you have *individuals* on a team or a TEAM of individuals?
 
-```{=html}
-<!-- -->
-```
 11. [Do You Focus on Efficiency or Effectiveness?](/blog/focus-on-efficiency-and-effectiveness/) – **Efficiency** and **effectiveness** represent two viewpoints that are useful to leaders and managers. While they sound similar, they mean different things.Every leader and manager can achieve greater success by viewing matters through the lenses of **efficiency** and **effectiveness**.
 12. [The Secret Sauce for Success](/blog/the-secret-sauce-for-success/) – For years, I have been asked about the secret to my success. I share my secret in this post, ***and*** explain how you can adopt the same approach in your journey to success!
 

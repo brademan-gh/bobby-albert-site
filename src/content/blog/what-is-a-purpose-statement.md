@@ -42,64 +42,28 @@ A *purpose* statement is…
 
 -   Authentic. This is the key.
 
-```{=html}
-<!-- -->
-```
 -   Broad, fundamental, and enduring, and it should serve to guide and inspire the organization for years, perhaps a century or more – Inspiring people to dream of doing great things.
 
-```{=html}
-<!-- -->
-```
 -   Never fully achieved or completed.
 
-```{=html}
-<!-- -->
-```
 -   A phrase of only a few words that is easy to remember.
 
-```{=html}
-<!-- -->
-```
 -   Used to nurture and select senior management.
 
-```{=html}
-<!-- -->
-```
 -   To stir people to aspire to create something bigger and more lasting than themselves.
 
-```{=html}
-<!-- -->
-```
 -   Global and can be exported regardless of which country the organization does business in.
 
-```{=html}
-<!-- -->
-```
 -   Rock-solid and tightly fixed which powerfully drives progress and enables the organization to change and adapt without compromising its *purpose*.
 
-```{=html}
-<!-- -->
-```
 -   The corporate bonding glue where people’s fundamental human need is met – to belong to something they can feel proud of.
 
-```{=html}
-<!-- -->
-```
 -   The connectivity with other people – a natural outcome of sharing a common bond of beliefs and aspirations – to stand for something.
 
-```{=html}
-<!-- -->
-```
 -   What makes people feel compelled to try to create greatness.  It is something that you care so much about that you will want to make it the greatest it can possibly be, not because of what you will get, but just because it can be done.
 
-```{=html}
-<!-- -->
-```
 -   A challenge for consistent behavior alignment that gives guidance and inspiration to people inside the organization as they pursue strategies, tactics, goals, and organization structures.
 
-```{=html}
-<!-- -->
-```
 -   As much to guide you on what activities to *not* pursue as it is to pursue.
 
 ### **What a purpose statement** **is** **NOT**
@@ -108,34 +72,16 @@ A purpose statement is NOT figuring out…
 
 -   How to be wholly unique and to differentiate from your competitors.
 
-```{=html}
-<!-- -->
-```
 -   How to have a pretty and a worded statement for the financial community.
 
-```{=html}
-<!-- -->
-```
 -   A description of your product lines or customer segments.
 
-```{=html}
-<!-- -->
-```
 -   The “right” *purpose* statement (there is **no** “right” *purpose* statement).
 
-```{=html}
-<!-- -->
-```
 -   How to make it fit in the marketing trends and fashions of the day.
 
-```{=html}
-<!-- -->
-```
 -   A big program to induce radical change within the organization.
 
-```{=html}
-<!-- -->
-```
 -   ****How to** **focus** **purely** **on** **long-term shareholders wealth and profit maximization as the dominant driving force or primary objective.  ** **
 
 > **“Yet, paradoxically, the visionary companies make more money than the more purely profit-driven companies.”**

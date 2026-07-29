@@ -26,14 +26,8 @@ In his search to understand what created ‘Visionary’ organizations, he place
 
 -   **Great or Visionary** (extraordinary, enduring ‘Super Bowl’ companies)
 
-```{=html}
-<!-- -->
-```
 -   **Good** (comparison companies that were in similar industries as the visionary companies but fell short of visionary companies)
 
-```{=html}
-<!-- -->
-```
 -   **Average** (reflecting the stock market)
 
 Collins contrasted the three types of companies by showing what \$1 invested on Jan 1, 1926 would grow to by December 31, 1990. Here’s what he found:
@@ -60,14 +54,8 @@ From 2005 (that fall I introduced our company **core values**) through 2011 (the
 
 -   Revenue grew **about 5 times**
 
-```{=html}
-<!-- -->
-```
 -   Profit increased **slightly more than 5 times**
 
-```{=html}
-<!-- -->
-```
 -   The first two times we applied, we were awarded the **100 Best Companies to Work For in Texas** the years 2011 and 2012.
 
 Our company experienced significant growth during a time when many other companies were declining.
@@ -80,9 +68,6 @@ Collins discovered that the enduring, great visionary companies did two things v
 
 -   ***Preserved the Core*** *–* the organization’s Core Ideology was fanatically protected and never changed.
 
-```{=html}
-<!-- -->
-```
 -   ***Stimulated Progress*** *–* by endlessly adapting their business and operating practices.
 
 Over time, these visionary companies changed almost everything, like: policies, procedures, product lines, competencies, organization structure, reward systems, strategies, tactics, and performance goals.

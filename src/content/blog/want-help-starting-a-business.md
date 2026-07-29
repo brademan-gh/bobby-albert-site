@@ -45,19 +45,10 @@ The judges use the following criteria for their evaluation:
 
 -   Market need for products/service proposed
 
-```{=html}
-<!-- -->
-```
 -   Innovativeness
 
-```{=html}
-<!-- -->
-```
 -   Quality of management team
 
-```{=html}
-<!-- -->
-```
 -   Growth potential for equity investors and lenders including the number and types of jobs created in the region
 
 ### Prizes

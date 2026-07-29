@@ -40,7 +40,7 @@ I always have viewed core values (evaluate your core values with this assessment
 
 > Jesus said it this way, “For the mouth speaks what the heart is full of.”  [Matthew 12:34](https://www.biblegateway.com/passage/?search=Matthew%2012%3A24&version=ESV)
 
-    Our core values or what is in our hearts give rise to what is manifested in our organization's culture.
+> Our core values or what is in our hearts give rise to what is manifested in our organization's culture.
 
 2.  ### **What does Culture look like?**
 
@@ -140,7 +140,7 @@ The culture of your organization is affected by your people, information flows, 
 
 As you become aware of any deficiencies in your culture, you can take active steps to lead your people toward a culture that transforms your organization.
 
-    What is one area of your organizational culture will you examine today?
+> What is one area of your organizational culture will you examine today?
 
 P.S. If you see some areas where you’d like to change your culture, take heart!  Understanding your current culture is the first step toward improving.
 

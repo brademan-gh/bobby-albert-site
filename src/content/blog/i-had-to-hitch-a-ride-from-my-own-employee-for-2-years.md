@@ -29,14 +29,8 @@ During those early years, I worried about how to: 
 
 -   Increase Revenue
 
-```{=html}
-<!-- -->
-```
 -   Decrease Expenses
 
-```{=html}
-<!-- -->
-```
 -   Increase Productivity 
 
 Do you ever feel like “you are up to your neck in alligators”? When dealing with all the worries threatening to pull me under, I had to remind myself that my initial objective wasn’t to fight alligators, it was to “drain the swamp.” 
@@ -71,14 +65,8 @@ So, what does it mean to work **ON**, not just **IN**, the business?  At a hi
 
 -   Grow *yourself* 
 
-```{=html}
-<!-- -->
-```
 -   Grow your *people* 
 
-```{=html}
-<!-- -->
-```
 -   Grow your *business* 
 
 Within a couple of years after taking this *proactive* approach to work **ON** the business, not just **IN** the business our revenue grew by 252%, and we had the highest amount of profits in the history of our company. 

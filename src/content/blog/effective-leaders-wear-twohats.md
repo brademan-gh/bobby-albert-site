@@ -25,23 +25,14 @@ As our business grew one thing never changed…the way I led our company:
 
 -   I found myself putting on my **relationship** hat and have discussions about our *people*, e.g. recruiting, selection, hiring, new employee orientation, etc.,…
 
-```{=html}
-<!-- -->
-```
 -   *AND* then, I would put on my **results** hat and talk about the *things of our business*, e.g. financial statements, trucks, warehouses, etc.,…
 
-```{=html}
-<!-- -->
-```
 -   *AND* then, I would put back on my **relationship** hat to talk about the training of our people who work on our trucks and in the warehouses.
 
 ***Every person can become an effective leader by embracing the two “R” factors:***
 
 -   As you drive for **R**esults,
 
-```{=html}
-<!-- -->
-```
 -   You also maintain and enhance **R**elationships
 
 ### The Genius of the AND
@@ -76,14 +67,8 @@ You can achieve these key **relationships** by…
 
 -   Involving your people in the decision-making process,
 
-```{=html}
-<!-- -->
-```
 -   Keeping an open mind and respecting others’ views, and
 
-```{=html}
-<!-- -->
-```
 -   Encouraging communication, coordination, and cooperation among all your team members.
 
 In short, we, as leaders, should see ourselves as *servant* leaders.

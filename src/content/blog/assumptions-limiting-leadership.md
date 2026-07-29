@@ -80,24 +80,12 @@ The following are five reasons why many leaders don’t pursue the **1-2-3** *pr
 
 -   A person who is bright, knowledgeable, dedicated, decisive, and dependable may also be impatient and intolerant when dealing with others. Consequently, he or she assumes that no one else in the organization could possibly contribute toward a better decision or plan. 
 
-```{=html}
-<!-- -->
-```
 -   A leader may think he has to give up the drive for results to have more of the  **1-2-3** *process*. (I have seen this way of thinking is not correct. It is *not* either-or. To be the most *effective* leader requires embracing both the **1-2-3** *process* AND the drive for results.) 
 
-```{=html}
-<!-- -->
-```
 -   Some would question whether a *participative leadership* *style* such as **Engage2Lead** means running your organization as a democracy. (The answer is no. As the leader, you always have ultimate authority and responsibility for decisions and results.)
 
-```{=html}
-<!-- -->
-```
 -   Some would even think that *participative leadership* *style* means creating consensus decisions among all members of your team. (This assumption is likewise incorrect. Consensus decisions usually take forever to be reached and yield diluted results.) 
 
-```{=html}
-<!-- -->
-```
 -   Some also think that *participative leadership* *style* is not always the right approach. (There may be times this *process*-oriented strategy isn’t best, but it’s generally the most powerful approach a leader can take when driving for results.) 
 
 There are many concerns that get in the way of leaders, such as the president of the mid-size organization mentioned above, to fully applying this **Engage2Lead** principle. Anyone can, however, make conscious decisions to learn and leverage this powerful principle of *participative leadership*. And the best, most practical way I’ve discovered to employ this approach is the **1-2-3 leadership tool**. 
