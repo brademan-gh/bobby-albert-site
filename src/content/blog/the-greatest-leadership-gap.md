@@ -40,9 +40,15 @@ I have observed… 
 
 The following chart details the differences between *needs* and *wants*. 
 
-***Needs/Wants*** **Comparison Chart**\
+***Needs/Wants*** **Comparison Chart**
 
-*(The original table is not preserved in this archive.)*
+| Basis for Comparison | Needs | Wants |
+|---|---|---|
+| Definition | A requirement that must be fulfilled in order to survive | An emotional desire or choice that you would like to have or make |
+| Key Descriptors | Necessity/Essential – Something you must have | Desire/Non-Essential – Something you wish to have |
+| Timeless | Principles – Do not change with time | Non-Principles – Might change over time |
+| If Unfulfilled | Leader/Organization will suffer | Leader/Organization will continue in the same direction |
+| Universality | Leaders/Organizations All have the same needs | Leaders/Organizations have different wants |
 
 *Needs* and *wants* are separate forces that compel action for satisfaction. *Needs* are principles that, if not met on time, the survival of the leader/organization is at stake.  Whereas *wants* are something for which the leader craves. However, their *wants* do not challenge the leader/organization’s survival if not satisfied. 
 

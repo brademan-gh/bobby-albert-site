@@ -36,7 +36,15 @@ Those, who are **principled** (*character*-driven), think about what is *right* 
 
 When faced with situations that might test our *character*, we can use the following information to help us reach **principled**, *character-*building decisions.
 
-*(The original table is not preserved in this archive.)*
+| Character-Driven People | Emotion-Driven People |
+|---|---|
+| Do right, then feel good | Feel good, then do right |
+| Are commitment-driven | Are convenience-driven |
+| Make principle-based decisions | Make popular-based decisions |
+| Action controls attitude | Attitude controls action |
+| Believe it, then see it | See it, then believe it |
+| Create momentum | Wait for momentum |
+| Ask: What are my responsibilities? | Ask: What are my rights? |
 
 In short, character-driven people are willing to do things emotion-driven people will not bother to do!
 

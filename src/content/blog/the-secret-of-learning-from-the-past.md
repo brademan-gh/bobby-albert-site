@@ -40,7 +40,15 @@ Take time to **pause and reflect** on the past year of what did you accomplish? 
 
 Then, rate your year in each area below, with 1 being low, 5 being average, and 10 high (as measured against your potential or opportunity).
 
-*(The original table is not preserved in this archive.)*
+| Area of Life | Rating |
+|---|---|
+| Spiritual | 1 - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 |
+| Health/Physical Well-Being | 1 - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 |
+| Family / Spouse | 1 - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 |
+| Work / Career | 1 - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 |
+| Personal Growth | 1 - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 |
+| Social/Friends/Community | 1 - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 |
+| Financial | 1 - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 |
 
 > Understanding your present circumstances don’t determine where you can go…they merely define where you start.
 

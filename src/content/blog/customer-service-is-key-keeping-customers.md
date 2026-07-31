@@ -21,7 +21,14 @@ Think about the last time that you ate at a restaurant and the service was poor.
 
 Here are the results from the survey:
 
-*(The original table is not preserved in this archive.)*
+| Percentage | Reason for Leaving |
+|---|---|
+| 68% | Poor service |
+| 14% | Unhappy with product |
+| 9% | Lured away by competition |
+| 5% | Influenced by a friend |
+| 3% | Moved away |
+| 1% | Died |
 
 Wow! When it comes to keeping customers, *how we serve* *them* is over four times more important *than what we actually sell* as a product or service! It’s pretty clear that in order for our organizations to thrive, we have to focus on customer service.** **
 

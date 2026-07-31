@@ -49,7 +49,18 @@ Consequently, people with a *scarcity* mindset tend to be protective of what the
 
 Consider the differences between *scarcity* and *abundance* mindsets:
 
-*(The original table is not preserved in this archive.)*
+| Scarcity Mindset | Abundance Mindset |
+|---|---|
+| Defense | Offense |
+| Maintain | Create |
+| Escape Loss | Pursue Vision |
+| Gifts Contained | Gifts Released |
+| Reactive | Proactive |
+| Guard and Protect | Risk & Seize Opportunity |
+| Stagnation | Multiplication |
+| Paralyzed: Hold on! | Dynamic: Let go! |
+| Narrow and Closed | Wide and Open |
+| Thinks Win/Lose | Thinks Win/Win |
 
 ### Two Questions
 

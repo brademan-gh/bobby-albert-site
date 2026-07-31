@@ -57,7 +57,14 @@ TARP Worldwide\[1\], conducted a survey to understand why customers leave busine
 
 Here are the results from the survey:
 
-*(The original table is not preserved in this archive.)*
+| Percentage | Reason for Leaving |
+|---|---|
+| 68% | Poor service |
+| 14% | Unhappy with product |
+| 9% | Lured away by competition |
+| 5% | Influenced by a friend |
+| 3% | Moved away |
+| 1% | Died |
 
 Amazing! When it comes to keeping customers, ***how*** we serve them is over four times more important than ***what*** we actually sell as a product or service!
 

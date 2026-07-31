@@ -56,7 +56,12 @@ So what are the differences between **leading** and **managing**?
 
 Leading vs. Managing
 
-*(The original table is not preserved in this archive.)*
+| Leading | Managing |
+|---|---|
+| We enhance **relationships** | We drive for **results** |
+| The focus is on **people** | The focus is on **things** |
+| We lead **people** | We manage **things** |
+| Focus on **how** we say and do | Focus on **what** we say and do |
 
  
 
