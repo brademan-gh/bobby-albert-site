@@ -36,7 +36,7 @@ Those, who are **principled** (*character*-driven), think about what is *right* 
 
 When faced with situations that might test our *character*, we can use the following information to help us reach **principled**, *character-*building decisions.
 
-\[table id=4 /\]
+*(The original table is not preserved in this archive.)*
 
 In short, character-driven people are willing to do things emotion-driven people will not bother to do!
 

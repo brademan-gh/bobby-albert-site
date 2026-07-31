@@ -89,9 +89,9 @@ I have always said that the three keys to my companies’ successes were: People
 
 Think about:
 
--   [Your hiring process:]{.underline} Where do you look for new team members? How do you evaluate candidates? Do you consider whether their traits, beliefs, and **core values** align with your organization?
--   [How you onboard new hires]{.underline}: What kind of training and orientation do they receive? How do you introduce them to your organization and the principles that you hold dear? What steps do you take to ensure that they smoothly and quickly integrate with your team?
--   [How you treat your people:]{.underline} Are they treated like assets or just “the cost of doing business”? What programs do you have in place to serve your people and reinforce your **core values?**
+-   Your hiring process: Where do you look for new team members? How do you evaluate candidates? Do you consider whether their traits, beliefs, and **core values** align with your organization?
+-   How you onboard new hires: What kind of training and orientation do they receive? How do you introduce them to your organization and the principles that you hold dear? What steps do you take to ensure that they smoothly and quickly integrate with your team?
+-   How you treat your people: Are they treated like assets or just “the cost of doing business”? What programs do you have in place to serve your people and reinforce your **core values?**
 
 2.  ### **Leadership**
 
@@ -105,17 +105,17 @@ As a leader, you have a great opportunity to influence and shape the culture of 
 
 You shape culture through:
 
--   *[What]{.underline}* [you communicate:]{.underline} Do you champion your organization’s **core values**, purpose, vision, and objectives/goals? What stories do you and other leaders tell? What do you emphasize, recognize, and celebrate?
--   *[How]{.underline}* [you communicate:]{.underline} Do you exhibit your **core values** in your personal and workplace behavior? Are you consistent in living out your **core values** as you pursue your organization’s purpose, vision, and objectives/goals?
+-   *What* you communicate: Do you champion your organization’s **core values**, purpose, vision, and objectives/goals? What stories do you and other leaders tell? What do you emphasize, recognize, and celebrate?
+-   *How* you communicate: Do you exhibit your **core values** in your personal and workplace behavior? Are you consistent in living out your **core values** as you pursue your organization’s purpose, vision, and objectives/goals?
 
 3.  ### **Information Flows**
 
 The flow of information in your organization strongly affects its culture. Consider the following questions regarding your information flows:
 
--   [What kind of information is distributed in your organization?]{.underline} Is it easy for your people to stay up to date about important information? This could include key metrics on organization performance, new opportunities, or challenges.
--   [How about information regarding your people?]{.underline} Do you highlight employee achievements, accolades, and hobbies? Are major family events like birthdays, births & upcoming retirements recognized?
--   [Where does the information flow in your organization?]{.underline} It can flow vertically from one level to another. It also flows horizontally, among co-workers.
--   [What methods and mediums do you use to communicate with your team?]{.underline} Do you use email or an internal web portal to keep people up to date? How do you use face-to-face meetings to communicate with your people?
+-   What kind of information is distributed in your organization? Is it easy for your people to stay up to date about important information? This could include key metrics on organization performance, new opportunities, or challenges.
+-   How about information regarding your people? Do you highlight employee achievements, accolades, and hobbies? Are major family events like birthdays, births & upcoming retirements recognized?
+-   Where does the information flow in your organization? It can flow vertically from one level to another. It also flows horizontally, among co-workers.
+-   What methods and mediums do you use to communicate with your team? Do you use email or an internal web portal to keep people up to date? How do you use face-to-face meetings to communicate with your people?
 
 4.  ### **Policies and Practices**
 

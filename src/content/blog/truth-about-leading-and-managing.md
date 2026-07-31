@@ -56,7 +56,7 @@ So what are the differences between **leading** and **managing**?
 
 Leading vs. Managing
 
-\[table id=3 /\]
+*(The original table is not preserved in this archive.)*
 
  
 

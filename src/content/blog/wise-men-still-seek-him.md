@@ -13,7 +13,7 @@ draft: false
 
 The story of the wise men in the Bible is a beautiful depiction of what it looks like to seek after Jesus. What is incredible about this specific pursuit is their heart condition. They sought after Him not to earn any merits or accolades. Rather their intention is revealed through their response, they worshipped. They encountered their savior and responded in worship. The rest of their story is marked by change, this encounter demanded that their lives shift. They were transformed inwardly and outwardly.
 
-Over 40 years ago, [[[I was an individual who knew a lot “about” God, but I did not “know” God.](https://twitter.com/intent/tweet?url=https%3A%2F%2Fvaluesdrivenculture.com%2Fwise-men-still-seek-him%2F&text=I%20was%20an%20individual%20who%20knew%20a%20lot%20%E2%80%9Cabout%E2%80%9D%20God%2C%20but%20I%20did%20not%20%E2%80%9Cknow%E2%80%9D%20God.&via=bobbyalbert&related=bobbyalbert){target="_blank" rel="noopener noreferrer"} ]{.bctt-ctt-text}[Share on X](https://twitter.com/intent/tweet?url=https%3A%2F%2Fvaluesdrivenculture.com%2Fwise-men-still-seek-him%2F&text=I%20was%20an%20individual%20who%20knew%20a%20lot%20%E2%80%9Cabout%E2%80%9D%20God%2C%20but%20I%20did%20not%20%E2%80%9Cknow%E2%80%9D%20God.&via=bobbyalbert&related=bobbyalbert){.bctt-ctt-btn target="_blank" rel="noopener noreferrer"}]{.bctt-click-to-tweet}
+Over 40 years ago, I was an individual who knew a lot “about” God, but I did not “know” God.
 
 I was someone who went to church every Sunday, served in many roles in the church, took care of my family, and worked hard in our business.
 

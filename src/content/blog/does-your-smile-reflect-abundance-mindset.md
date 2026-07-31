@@ -49,7 +49,7 @@ Consequently, people with a *scarcity* mindset tend to be protective of what the
 
 Consider the differences between *scarcity* and *abundance* mindsets:
 
-\[table id=5 /\]
+*(The original table is not preserved in this archive.)*
 
 ### Two Questions
 

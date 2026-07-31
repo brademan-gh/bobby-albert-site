@@ -57,7 +57,7 @@ TARP Worldwide\[1\], conducted a survey to understand why customers leave busine
 
 Here are the results from the survey:
 
-\[table id=1 /\]
+*(The original table is not preserved in this archive.)*
 
 Amazing! When it comes to keeping customers, ***how*** we serve them is over four times more important than ***what*** we actually sell as a product or service!
 

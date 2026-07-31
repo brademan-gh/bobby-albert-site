@@ -42,7 +42,7 @@ The following chart details the differences between *needs* and *wants*. 
 
 ***Needs/Wants*** **Comparison Chart**\
 
-\[table id=7 /\]
+*(The original table is not preserved in this archive.)*
 
 *Needs* and *wants* are separate forces that compel action for satisfaction. *Needs* are principles that, if not met on time, the survival of the leader/organization is at stake.  Whereas *wants* are something for which the leader craves. However, their *wants* do not challenge the leader/organization’s survival if not satisfied. 
 

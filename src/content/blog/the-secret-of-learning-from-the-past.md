@@ -40,7 +40,7 @@ Take time to **pause and reflect** on the past year of what did you accomplish? 
 
 Then, rate your year in each area below, with 1 being low, 5 being average, and 10 high (as measured against your potential or opportunity).
 
-\[table id=2 \]
+*(The original table is not preserved in this archive.)*
 
 > Understanding your present circumstances don’t determine where you can go…they merely define where you start.
 
