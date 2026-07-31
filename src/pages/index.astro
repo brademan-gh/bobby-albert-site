@@ -4,14 +4,13 @@ import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import { getCollection } from 'astro:content';
-import FormattedDate from '../components/FormattedDate.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 import BobbyPortrait from '../assets/bobby-albert-portrait.jpg';
 
-// A hand-picked front door into 289 posts. The newest-five were misleading —
-// the archive ended in 2022, and the two most recent are a Christmas devotional
-// and a video announcement, neither of which represents Bobby's leadership
-// writing. Edit this list to change what appears; order here is order shown.
+// A hand-picked front door into the blog. Showing the newest five was
+// misleading: the two most recent are a Christmas devotional and a video
+// announcement, neither of which represents Bobby's leadership writing.
+// Edit this list to change what appears; order here is order shown.
 const START_HERE = [
 	'what-is-culture',
 	'how-to-discover-your-core-values-create-extraordinary-results',
@@ -86,8 +85,9 @@ if (posts.length !== START_HERE.length) {
 					When he focused on people instead of profits, the profits followed.
 				</p>
 				<p>
-					This archive preserves 289 posts he wrote between 2014 and 2022 on leadership and
-					workplace culture, along with the True North Business guides he built to help
+					Here he writes about leadership and workplace culture &mdash; how you lead, the
+					culture it creates, and how the two together decide what your business can
+					become. You&rsquo;ll also find the True North Business guides he built to help
 					other leaders do the same.
 				</p>
 			</div>
@@ -99,8 +99,6 @@ if (posts.length !== START_HERE.length) {
 					posts.map((post) => (
 						<li>
 							<a href={`/blog/${post.id}/`}>{post.data.title}</a>
-							{' — '}
-							<FormattedDate date={post.data.pubDate} />
 						</li>
 					))
 				}

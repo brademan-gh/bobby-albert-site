@@ -1,0 +1,164 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_TITLE } from '../consts';
+
+// Deliberately not linked from the site navigation. It is reachable only by
+// people who have the URL, and carries the same noindex tag as every other
+// page while the site is under review.
+const pageTitle = `For your review | ${SITE_TITLE}`;
+const description = 'A short guide to reviewing the preserved Bobby Albert archive.';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={pageTitle} description={description} />
+		<style>
+			main {
+				width: 720px;
+				max-width: calc(100% - 2em);
+				margin: auto;
+			}
+			.lede {
+				font-size: 1.1em;
+			}
+			.q {
+				border-left: 4px solid var(--accent);
+				padding: 0.1em 0 0.1em 1em;
+				margin: 1.5em 0;
+			}
+			.q p:first-child {
+				font-weight: 700;
+				margin-bottom: 0.3em;
+			}
+			.q p:last-child {
+				margin-bottom: 0;
+			}
+			.note {
+				background: rgba(var(--gray-light), 45%);
+				border-radius: 8px;
+				padding: 1em 1.2em;
+			}
+			ul {
+				padding-left: 1.2em;
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>For your review</h1>
+
+			<p class="lede">
+				Bobby &mdash; this site preserves your blog and your True North Business guides so
+				they stay available to anyone looking for them. Nothing here is final. Please look
+				it over and tell us what to change.
+			</p>
+
+			<div class="note">
+				<p>
+					<strong>This site is currently hidden from Google and other search engines.</strong>{' '}
+					Anyone with the link can read it, but it will not turn up in search results until
+					you say you are happy for it to.
+				</p>
+			</div>
+
+			<h2>What is here</h2>
+
+			<ul>
+				<li>
+					<a href="/blog/">289 blog posts</a>, published between 2014 and 2022, with their
+					original dates, web addresses and images.
+				</li>
+				<li>
+					<a href="/resources/true-north-business/">12 True North Business guides</a>, each
+					readable on the page with the original PDF available to download.
+				</li>
+				<li>
+					<a href="/about/">An About page</a> drawn from your own writing.
+				</li>
+			</ul>
+
+			<h2>Questions we need you to answer</h2>
+
+			<div class="q">
+				<p>1. Are you happy for the True North Business guides to be free?</p>
+				<p>
+					All twelve are on the site now, readable by anyone, with no email address
+					required. Several of them were originally offered in exchange for contact
+					details. This is your call, and it is the most important question on this page.{' '}
+					<a href="/resources/true-north-business/">See the guides &rarr;</a>
+				</p>
+			</div>
+
+			<div class="q">
+				<p>2. Is there anything here that should not be public?</p>
+				<p>
+					Any post, guide or photograph can be removed. If something is out of date, was
+					written for a business that no longer operates, or you would simply rather it
+					were not online, say so and it will come down.
+				</p>
+			</div>
+
+			<div class="q">
+				<p>3. Six tables were rebuilt from an internet archive &mdash; are they right?</p>
+				<p>
+					Tables in six posts were lost when the original site was taken down, and were
+					recovered from an archived copy. You would know better than anyone whether they
+					are correct. The most important are in{' '}
+					<a href="/blog/truth-about-leading-and-managing/">The Truth About Leading and Managing</a>,{' '}
+					<a href="/blog/the-greatest-leadership-gap/">The Greatest Leadership Gap</a> and{' '}
+					<a href="/blog/6-reasons-why-your-customers-are-leaving/">6 Reasons Why Your Customers Are Leaving</a>.
+				</p>
+			</div>
+
+			<div class="q">
+				<p>4. Does the About page sound like you?</p>
+				<p>
+					It was taken from your own words, but it is short, and the photograph was chosen
+					for you. <a href="/about/">Read it &rarr;</a>
+				</p>
+			</div>
+
+			<div class="q">
+				<p>5. Where should this live?</p>
+				<p>
+					The site sits at a temporary web address at the moment. Your own domain,
+					bobbyalbert.com, currently points somewhere else. Let us know what you would
+					like the permanent address to be.
+				</p>
+			</div>
+
+			<h2>What is not here yet</h2>
+
+			<ul>
+				<li>
+					<strong>Your podcast episodes.</strong> Around 90 episodes of True North
+					Leader, True North Business and Lead2Grow are not on the site. Tell us if you
+					would like them preserved too.
+				</li>
+				<li>
+					<strong>The True North Culture and True North Leader guides.</strong> Only the
+					Business set has been added so far.
+				</li>
+				<li>
+					<strong>One table could not be recovered.</strong> Everything else that was lost
+					has been restored.
+				</li>
+			</ul>
+
+			<h2>How to give feedback</h2>
+
+			<p>
+				There is no need to be technical about it. A list of notes is perfect &mdash; the page
+				you were looking at, and what you would like changed. Small wording changes are quick;
+				so is removing anything you would rather was not there.
+			</p>
+
+			<p><a href="/">&larr; Back to the site</a></p>
+		</main>
+		<Footer />
+	</body>
+</html>
