@@ -8,9 +8,28 @@ import FormattedDate from '../components/FormattedDate.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 import BobbyPortrait from '../assets/bobby-albert-portrait.jpg';
 
-const posts = (await getCollection('blog', ({ data }) => !data.draft))
-	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
-	.slice(0, 5);
+// A hand-picked front door into 289 posts. The newest-five were misleading —
+// the archive ended in 2022, and the two most recent are a Christmas devotional
+// and a video announcement, neither of which represents Bobby's leadership
+// writing. Edit this list to change what appears; order here is order shown.
+const START_HERE = [
+	'what-is-culture',
+	'how-to-discover-your-core-values-create-extraordinary-results',
+	'whats-more-important-managing-or-leading',
+	'360-degree-evaluation-changed-leadership',
+	'recognize-6-consequences-poor-leadership',
+	'new-way-lead',
+];
+
+const all = await getCollection('blog', ({ data }) => !data.draft);
+const byId = new Map(all.map((p) => [p.id, p]));
+const posts = START_HERE.map((id) => byId.get(id)).filter((p) => p !== undefined);
+if (posts.length !== START_HERE.length) {
+	throw new Error(
+		'START_HERE lists a slug with no matching post: ' +
+			START_HERE.filter((id) => !byId.has(id)).join(', '),
+	);
+}
 ---
 
 <!doctype html>
@@ -29,6 +48,11 @@ const posts = (await getCollection('blog', ({ data }) => !data.draft))
 				margin: 0 0 1em 1.5em;
 				border-radius: 12px;
 				box-shadow: var(--box-shadow);
+			}
+			.start-note {
+				margin: -0.25em 0 0.75em 0;
+				color: rgb(var(--gray));
+				font-size: 0.9em;
 			}
 			@media (max-width: 720px) {
 				.portrait {
@@ -52,12 +76,24 @@ const posts = (await getCollection('blog', ({ data }) => !data.draft))
 				/>
 				<h1>Bobby Albert</h1>
 				<p>
-					A preserved collection of Bobby Albert's blog posts and PDF resources — kept
-					available here for anyone looking for his writing.
+					Bobby Albert spent more than 40 years in business and arrived at one conviction:
+				</p>
+				<blockquote>
+					<p><strong>I want to be a Values-Driven company that achieves results; not a Results-Driven company that has values.</strong></p>
+				</blockquote>
+				<p>
+					He lived it out — growing a five-employee company into a 150-person organization.
+					When he focused on people instead of profits, the profits followed.
+				</p>
+				<p>
+					This archive preserves 289 posts he wrote between 2014 and 2022 on leadership and
+					workplace culture, along with the True North Business guides he built to help
+					other leaders do the same.
 				</p>
 			</div>
 
-			<h2>Recent posts</h2>
+			<h2>Start here</h2>
+			<p class="start-note">New to Bobby&rsquo;s writing? These are good places to begin.</p>
 			<ul>
 				{
 					posts.map((post) => (
