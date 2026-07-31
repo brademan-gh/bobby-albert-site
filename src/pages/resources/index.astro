@@ -2,15 +2,34 @@
 import { getCollection } from 'astro:content';
 import BaseHead from '../../components/BaseHead.astro';
 import Footer from '../../components/Footer.astro';
-import FormattedDate from '../../components/FormattedDate.astro';
 import Header from '../../components/Header.astro';
 import { SITE_TITLE } from '../../consts';
 
-const items = (await getCollection('resources', ({ data }) => !data.draft)).sort(
-	(a, b) => b.data.dateConverted.valueOf() - a.data.dateConverted.valueOf(),
+const items = await getCollection('resources', ({ data }) => !data.draft);
+
+// Group by category so each collection of guides reads as a set. A category
+// with a landing page of its own links to it; anything uncategorised falls
+// into a trailing "Other resources" group.
+const CATEGORY_PAGES: Record<string, string> = {
+	'True North Business': '/resources/true-north-business/',
+};
+
+const groups = new Map<string, typeof items>();
+for (const item of items) {
+	const key = item.data.category ?? 'Other resources';
+	if (!groups.has(key)) groups.set(key, []);
+	groups.get(key)!.push(item);
+}
+for (const list of groups.values()) {
+	list.sort((a, b) => a.data.title.localeCompare(b.data.title));
+}
+const ordered = [...groups.entries()].sort(([a], [b]) =>
+	a === 'Other resources' ? 1 : b === 'Other resources' ? -1 : a.localeCompare(b),
 );
+
 const pageTitle = `Resources | ${SITE_TITLE}`;
-const description = 'Information sheets and guides from Bobby Albert, available to read here or download as the original PDF.';
+const description =
+	'Information sheets and guides from Bobby Albert, available to read here or download as the original PDF.';
 ---
 
 <!doctype html>
@@ -25,11 +44,11 @@ const description = 'Information sheets and guides from Bobby Albert, available 
 			}
 			ul {
 				list-style-type: none;
-				margin: 0;
+				margin: 0 0 2.5em 0;
 				padding: 0;
 			}
 			li {
-				padding: 1em 0;
+				padding: 0.9em 0;
 				border-bottom: 1px solid rgb(var(--gray-light));
 			}
 			li a {
@@ -37,11 +56,18 @@ const description = 'Information sheets and guides from Bobby Albert, available 
 				color: rgb(var(--black));
 			}
 			li a:hover {
-				color: rgb(var(--accent));
+				color: var(--accent);
 			}
-			.category {
-				color: rgb(var(--gray));
+			h2 {
+				margin-top: 1.5em;
+				font-size: 1.6em;
+			}
+			.group-link {
+				margin: 0 0 0.5em 0;
 				font-size: 0.9em;
+			}
+			.empty {
+				color: rgb(var(--gray));
 			}
 		</style>
 	</head>
@@ -49,18 +75,26 @@ const description = 'Information sheets and guides from Bobby Albert, available 
 		<Header />
 		<main>
 			<p>{description}</p>
-			<ul>
-				{
-					items.map((item) => (
-						<li>
-							<a href={`/resources/${item.id}/`}>
-								{item.data.title}
-								{item.data.category && <span class="category"> — {item.data.category}</span>}
-							</a>
-						</li>
-					))
-				}
-			</ul>
+			{
+				ordered.map(([category, list]) => (
+					<section>
+						<h2>{category}</h2>
+						{CATEGORY_PAGES[category] && (
+							<p class="group-link">
+								<a href={CATEGORY_PAGES[category]}>Browse all {category} &rarr;</a>
+							</p>
+						)}
+						<ul>
+							{list.map((item) => (
+								<li>
+									<a href={`/resources/${item.id}/`}>{item.data.title}</a>
+								</li>
+							))}
+						</ul>
+					</section>
+				))
+			}
+			{items.length === 0 && <p class="empty">No resources have been published yet.</p>}
 		</main>
 		<Footer />
 	</body>

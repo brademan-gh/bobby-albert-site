@@ -9,7 +9,12 @@ import HeaderLink from './HeaderLink.astro';
 		<div class="internal-links">
 			<HeaderLink href="/">Home</HeaderLink>
 			<HeaderLink href="/blog">Blog</HeaderLink>
-			<HeaderLink href="/resources">Resources</HeaderLink>
+			<div class="has-submenu">
+				<HeaderLink href="/resources">Resources</HeaderLink>
+				<ul class="submenu">
+					<li><a href="/resources/true-north-business/">True North Business</a></li>
+				</ul>
+			</div>
 			<HeaderLink href="/about">About</HeaderLink>
 		</div>
 	</nav>
@@ -44,5 +49,58 @@ import HeaderLink from './HeaderLink.astro';
 	nav a.active {
 		text-decoration: none;
 		border-bottom-color: var(--accent);
+	}
+
+	/* Dropdown. Opens on hover and on :focus-within, so it is reachable by
+	   keyboard — tab to Resources, then on to the submenu link — with no
+	   JavaScript. */
+	.has-submenu {
+		display: inline-block;
+		position: relative;
+	}
+	.submenu {
+		position: absolute;
+		top: 100%;
+		/* Anchored right, not left: "Resources" sits near the right edge of
+		   the nav, so a left-anchored panel extends past the viewport and
+		   adds a horizontal scrollbar to every page — even while hidden. */
+		right: 0;
+		z-index: 10;
+		margin: 0;
+		padding: 0.25em 0;
+		list-style: none;
+		min-width: 15em;
+		background: white;
+		border: 1px solid rgb(var(--gray-light));
+		border-radius: 0 0 8px 8px;
+		box-shadow: 0 4px 12px rgba(var(--black), 8%);
+		opacity: 0;
+		visibility: hidden;
+		transition: opacity 0.12s ease;
+	}
+	.has-submenu:hover .submenu,
+	.has-submenu:focus-within .submenu {
+		opacity: 1;
+		visibility: visible;
+	}
+	.submenu a {
+		display: block;
+		padding: 0.5em 1em;
+		border-bottom: none;
+		white-space: nowrap;
+	}
+	.submenu a:hover,
+	.submenu a:focus {
+		background: rgba(var(--gray-light), 60%);
+		color: var(--accent);
+	}
+
+	/* The header already wraps awkwardly on small screens, and a hover
+	   dropdown is the wrong interaction on touch. Below 720px the submenu is
+	   dropped — /resources groups the same links by category. */
+	@media (max-width: 720px) {
+		.submenu {
+			display: none;
+		}
 	}
 </style>
