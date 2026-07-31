@@ -85,6 +85,26 @@ input {
 }
 table {
 	width: 100%;
+	border-collapse: collapse;
+	margin: 0 0 2em 0;
+	font-size: 0.9em;
+	line-height: 1.5;
+}
+th,
+td {
+	padding: 0.6em 0.8em;
+	text-align: left;
+	vertical-align: top;
+	border-bottom: 1px solid rgb(var(--gray-light));
+}
+thead th {
+	background-color: rgb(var(--gray-light));
+	color: rgb(var(--black));
+	font-weight: 700;
+	border-bottom: 2px solid rgb(var(--gray));
+}
+tbody tr:nth-child(even) {
+	background-color: rgba(var(--gray-light), 35%);
 }
 img {
 	max-width: 100%;
@@ -119,6 +139,18 @@ hr {
 	}
 	main {
 		padding: 1em;
+	}
+	/* A wide table scrolls inside its own box on small screens. Letting it
+	   wrap instead pushes the whole page into horizontal scroll, which is
+	   worse — the table has a minimum intrinsic width it will not go below. */
+	table {
+		display: block;
+		overflow-x: auto;
+		font-size: 0.85em;
+	}
+	th,
+	td {
+		padding: 0.5em 0.6em;
 	}
 }
 
