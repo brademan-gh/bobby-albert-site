@@ -1,10 +1,12 @@
 ---
+import { Image } from 'astro:assets';
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import { getCollection } from 'astro:content';
 import FormattedDate from '../components/FormattedDate.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import BobbyPortrait from '../assets/bobby-albert-portrait.jpg';
 
 const posts = (await getCollection('blog', ({ data }) => !data.draft))
 	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
@@ -15,15 +17,45 @@ const posts = (await getCollection('blog', ({ data }) => !data.draft))
 <html lang="en">
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<style>
+			.intro {
+				overflow: hidden; /* contain the float so "Recent posts" clears it */
+			}
+			.portrait {
+				display: block;
+				float: right;
+				width: 220px;
+				height: auto;
+				margin: 0 0 1em 1.5em;
+				border-radius: 12px;
+				box-shadow: var(--box-shadow);
+			}
+			@media (max-width: 720px) {
+				.portrait {
+					float: none;
+					width: 180px;
+					margin: 0 auto 1em;
+				}
+			}
+		</style>
 	</head>
 	<body>
 		<Header />
 		<main>
-			<h1>Bobby Albert</h1>
-			<p>
-				A preserved collection of Bobby Albert's blog posts and PDF resources — kept available
-				here for anyone looking for his writing.
-			</p>
+			<div class="intro">
+				<Image
+					class="portrait"
+					src={BobbyPortrait}
+					width={440}
+					height={440}
+					alt="Bobby Albert seated in an armchair, smiling and looking off camera."
+				/>
+				<h1>Bobby Albert</h1>
+				<p>
+					A preserved collection of Bobby Albert's blog posts and PDF resources — kept
+					available here for anyone looking for his writing.
+				</p>
+			</div>
 
 			<h2>Recent posts</h2>
 			<ul>
