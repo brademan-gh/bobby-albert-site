@@ -1,0 +1,70 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_TITLE } from '../consts';
+
+// WHY THIS PAGE EXISTS
+// --------------------
+// Cloudflare Pages has no 404 handling of its own for a static site: when no
+// `404.html` is present in the build output, an unmatched request falls back to
+// serving `/index.html` with a **200 OK**. Every mistyped URL, every dead link
+// and every old URL we failed to redirect therefore returned the homepage and
+// claimed success.
+//
+// That is a "soft 404", and it is actively harmful here:
+//   * Search engines index or dedupe the duplicate homepage copies instead of
+//     reporting a clean 404, and Search Console flags it.
+//   * It makes the redirect map impossible to test honestly — a missing rule
+//     looks identical to a working one, because both return 200.
+//
+// Astro emits this page as `404.html`, which Cloudflare serves with a real 404
+// status. Do not delete it.
+const pageTitle = `Page not found | ${SITE_TITLE}`;
+const description = 'That page could not be found.';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={pageTitle} description={description} />
+		<style>
+			main {
+				width: 720px;
+				max-width: calc(100% - 2em);
+				margin: auto;
+				padding: 3em 1em;
+			}
+			h1 {
+				font-size: 2.441em;
+			}
+			.lede {
+				font-size: 1.1em;
+			}
+			ul {
+				padding-left: 1.2em;
+			}
+			li {
+				margin-bottom: 0.4em;
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>That page isn&rsquo;t here</h1>
+			<p class="lede">
+				The link may be out of date, or the address may have a typo in it. Nothing has been
+				removed &mdash; Bobby&rsquo;s writing is all still on the site.
+			</p>
+			<p>Try one of these:</p>
+			<ul>
+				<li><a href="/blog/">Browse all posts</a></li>
+				<li><a href="/resources/">Guides and worksheets</a></li>
+				<li><a href="/about/">About Bobby</a></li>
+				<li><a href="/">Start from the home page</a></li>
+			</ul>
+		</main>
+		<Footer />
+	</body>
+</html>
