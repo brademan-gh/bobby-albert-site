@@ -6,8 +6,7 @@ import { defineConfig, fontProviders } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-	// TODO: update to the final production domain once a custom domain is attached
-	site: 'https://bobby-albert-site.pages.dev',
+	site: 'https://bobbyalbert.com',
 	integrations: [mdx(), sitemap()],
 	fonts: [
 		{

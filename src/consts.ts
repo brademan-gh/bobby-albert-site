@@ -13,4 +13,4 @@ export const SITE_DESCRIPTION =
 // crawl is what actually keeps pages out of results.
 //
 // Set to false to open the site to search engines.
-export const NOINDEX = true;
+export const NOINDEX = false;

@@ -1,6 +1,7 @@
-# The site is under review. Crawling is allowed on purpose so that crawlers
-# can read the `noindex` tag served on every page — blocking the crawl here
-# would hide that tag and could leave bare URLs listed in search results.
-# Re-add the Sitemap line and set NOINDEX = false in src/consts.ts to launch.
+# Bobby Albert - https://bobbyalbert.com
+# Crawling is allowed. Content is copyright Bobby Albert, all rights reserved.
+
 User-agent: *
 Allow: /
+
+Sitemap: https://bobbyalbert.com/sitemap-index.xml
