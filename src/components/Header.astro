@@ -16,6 +16,28 @@ import HeaderLink from './HeaderLink.astro';
 				</ul>
 			</div>
 			<HeaderLink href="/about">About</HeaderLink>
+			<HeaderLink href="/search" class="search-link">
+				<svg
+					class="search-icon"
+					viewBox="0 0 20 20"
+					width="15"
+					height="15"
+					aria-hidden="true"
+					focusable="false"
+				>
+					<circle cx="8.5" cy="8.5" r="5.5" fill="none" stroke="currentColor" stroke-width="2"
+					></circle>
+					<line
+						x1="12.8"
+						y1="12.8"
+						x2="18"
+						y2="18"
+						stroke="currentColor"
+						stroke-width="2"
+						stroke-linecap="round"></line>
+				</svg>
+				Search
+			</HeaderLink>
 		</div>
 	</nav>
 </header>
@@ -49,6 +71,21 @@ import HeaderLink from './HeaderLink.astro';
 	nav a.active {
 		text-decoration: none;
 		border-bottom-color: var(--accent);
+	}
+
+	/* Spacing lives on the icon, NOT on a flex gap on the link. Two reasons,
+	   both learned the hard way:
+	     1. HeaderLink's own scoped rule compiles to `a[data-astro-cid-…]`,
+	        which outranks a plain `.search-link` class selector — so
+	        `display: inline-flex` silently lost and the gap never applied.
+	     2. Astro strips the whitespace between </svg> and the text when they
+	        sit on separate lines, so the two would collide anyway.
+	   A margin on the icon is immune to both. .search-icon is in this
+	   template, so ordinary scoping reaches it. */
+	.search-icon {
+		margin-right: 0.35em;
+		/* The glyph's optical centre sits low beside cap-height text. */
+		vertical-align: -2px;
 	}
 
 	/* Dropdown. Opens on hover and on :focus-within, so it is reachable by

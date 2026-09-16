@@ -7,7 +7,13 @@ import { defineConfig, fontProviders } from 'astro/config';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://bobbyalbert.com',
-	integrations: [mdx(), sitemap()],
+	integrations: [
+		mdx(),
+		// /search is a tool, not content: it is empty without a query and every
+		// ?q= is the same page. Keep it out of the sitemap; it also carries a
+		// noindex tag of its own.
+		sitemap({ filter: (page) => !page.includes('/search/') }),
+	],
 	fonts: [
 		{
 			provider: fontProviders.local(),

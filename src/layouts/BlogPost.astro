@@ -8,12 +8,28 @@ import Header from '../components/Header.astro';
 
 // pubDate is optional so this layout can also serve dateless pages (About).
 // heroImageAlt is optional; decorative hero images keep the empty default.
+// searchSection labels the page in search results and in the "Everything /
+// Blog posts / Resources" filter; About overrides it.
 type Props = Omit<CollectionEntry<'blog'>['data'], 'pubDate'> & {
 	pubDate?: CollectionEntry<'blog'>['data']['pubDate'];
 	heroImageAlt?: string;
+	searchSection?: string;
 };
 
-const { title, description, pubDate, updatedDate, heroImage, heroImageAlt = '' } = Astro.props;
+const {
+	title,
+	description,
+	pubDate,
+	updatedDate,
+	heroImage,
+	heroImageAlt = '',
+	searchSection = 'Blog posts',
+} = Astro.props;
+
+// Pagefind reads these off the rendered HTML at build time. The ISO date is
+// for sorting and display in results; it is deliberately not the prettified
+// one, so the client can format it however it likes.
+const searchDate = pubDate ? pubDate.toISOString().slice(0, 10) : '';
 ---
 
 <html lang="en">
@@ -63,7 +79,17 @@ const { title, description, pubDate, updatedDate, heroImage, heroImageAlt = '' }
 	<body>
 		<Header />
 		<main>
-			<article>
+			{/* data-pagefind-body marks this element as the searchable content of
+			    the page. NOTE: once ANY page on the site carries this attribute,
+			    Pagefind indexes ONLY pages that have it — so the header, footer,
+			    list pages and the search page itself stay out of the index for
+			    free. Don't remove it from here without checking what that leaves
+			    indexed. */}
+			<article
+				data-pagefind-body
+				data-pagefind-filter={`Section:${searchSection}`}
+				data-pagefind-meta={`section:${searchSection}`}
+			>
 				<div class="hero-image">
 					{heroImage && <Image width={1020} height={510} src={heroImage} alt={heroImageAlt} />}
 				</div>
@@ -71,7 +97,7 @@ const { title, description, pubDate, updatedDate, heroImage, heroImageAlt = '' }
 					<div class="title">
 						{
 							pubDate && (
-								<div class="date">
+								<div class="date" data-pagefind-ignore data-pagefind-meta={`date:${searchDate}`}>
 									<FormattedDate date={pubDate} />
 									{updatedDate && (
 										<div class="last-updated-on">

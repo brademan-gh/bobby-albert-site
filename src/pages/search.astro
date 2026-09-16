@@ -1,0 +1,403 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+
+// Search page.
+//
+// The index is built by Pagefind, which runs AFTER `astro build` and crawls the
+// files in dist/ — see the `build` script in package.json. That means:
+//
+//   * `npm run dev` has NO index. This page detects that and says so rather
+//     than failing silently. To try search locally you must run
+//     `npm run build && npm run preview`.
+//   * Pagefind indexes only elements marked `data-pagefind-body`, which is set
+//     on the <article> in BlogPost.astro and Resource.astro. This page has no
+//     such marker, so it never appears in its own results.
+//
+// This deliberately does NOT use Pagefind's bundled UI component. That widget
+// ships its own stylesheet and does not show publication dates, which matter a
+// lot on an archive spanning 2014-2022. The JS API is a small enough surface to
+// drive directly.
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead
+			title="Search"
+			description="Search Bobby Albert's writing on leadership, workplace culture, management and personal development."
+			noindex
+		/>
+		<style>
+			main {
+				width: 860px;
+			}
+			h1 {
+				font-size: 2.441em;
+				margin-bottom: 0.2em;
+			}
+			.intro {
+				margin: 0 0 1.5em 0;
+				color: rgb(var(--gray));
+			}
+			.search-field {
+				position: relative;
+			}
+			#q {
+				width: 100%;
+				box-sizing: border-box;
+				padding: 0.6em 0.8em;
+				font-family: inherit;
+				font-size: 1.1em;
+				color: rgb(var(--gray-dark));
+				background: white;
+				border: 2px solid rgb(var(--gray-light));
+				border-radius: 8px;
+			}
+			#q:focus {
+				outline: none;
+				border-color: var(--accent);
+			}
+			.filters {
+				display: flex;
+				flex-wrap: wrap;
+				gap: 0.5em;
+				margin: 1em 0 0 0;
+				padding: 0;
+				list-style: none;
+			}
+			.filters :global(button) {
+				padding: 0.3em 0.9em;
+				font-family: inherit;
+				font-size: 0.85em;
+				color: rgb(var(--gray-dark));
+				background: white;
+				border: 1px solid rgb(var(--gray-light));
+				border-radius: 999px;
+				cursor: pointer;
+			}
+			.filters :global(button:hover) {
+				border-color: var(--accent);
+				color: var(--accent);
+			}
+			.filters :global(button[aria-pressed='true']) {
+				background: var(--accent);
+				border-color: var(--accent);
+				color: white;
+			}
+			.status {
+				margin: 1.5em 0 0 0;
+				color: rgb(var(--gray));
+				font-size: 0.9em;
+			}
+			#results {
+				margin: 1em 0 0 0;
+				padding: 0;
+				list-style: none;
+			}
+			#results :global(li) {
+				padding: 1.4em 0;
+				border-bottom: 1px solid rgb(var(--gray-light));
+			}
+			#results :global(li:first-child) {
+				border-top: 1px solid rgb(var(--gray-light));
+			}
+			:global(.result-title) {
+				display: block;
+				font-size: 1.25em;
+				line-height: 1.3;
+				color: rgb(var(--black));
+				text-decoration: none;
+			}
+			:global(.result-title:hover) {
+				color: var(--accent);
+			}
+			:global(.result-meta) {
+				margin: 0.25em 0 0.5em 0;
+				color: rgb(var(--gray));
+				font-size: 0.8em;
+				text-transform: uppercase;
+				letter-spacing: 0.04em;
+			}
+			:global(.result-excerpt) {
+				margin: 0;
+				font-size: 0.95em;
+				line-height: 1.6;
+			}
+			/* NOTE: the selectors below are :global on purpose. Astro scopes a
+			   <style> block by stamping data-astro-cid-* onto the elements it
+			   can see in the template. The results, filter pills and their
+			   contents are created by document.createElement at runtime, so they
+			   never receive that attribute — a scoped rule matches nothing and
+			   the list renders as unstyled default-blue links. */
+			/* Pagefind wraps matched terms in <mark>. */
+			:global(.result-excerpt mark) {
+				padding: 0 0.15em;
+				background: rgba(35, 55, 255, 0.14);
+				color: inherit;
+				border-radius: 3px;
+			}
+			#more {
+				display: block;
+				margin: 2em auto 0 auto;
+				padding: 0.6em 1.4em;
+				font-family: inherit;
+				font-size: 0.95em;
+				color: white;
+				background: var(--accent);
+				border: none;
+				border-radius: 8px;
+				cursor: pointer;
+			}
+			#more:hover {
+				background: var(--accent-dark);
+			}
+			[hidden] {
+				display: none !important;
+			}
+			@media (max-width: 720px) {
+				h1 {
+					font-size: 1.953em;
+				}
+			}
+		</style>
+	</head>
+
+	<body>
+		<Header />
+		<main>
+			<h1>Search</h1>
+			<p class="intro">
+				Search the full text of every post and resource on this site &mdash; not just titles.
+			</p>
+
+			<form class="search-field" role="search" onsubmit="return false">
+				<label class="sr-only" for="q">Search this site</label>
+				<input
+					type="search"
+					id="q"
+					name="q"
+					placeholder="Try: core values, hiring, humility&hellip;"
+					autocomplete="off"
+					autocapitalize="off"
+					spellcheck="false"
+				/>
+			</form>
+
+			<ul class="filters" id="filters" hidden></ul>
+
+			<p class="status" id="status"></p>
+			<ul id="results"></ul>
+			<button id="more" type="button" hidden>Show more results</button>
+		</main>
+		<Footer />
+
+		{/* is:inline keeps Vite out of this entirely. Without it the build tries
+		    to resolve /pagefind/pagefind.js, which does not exist until AFTER
+		    the build has finished, and fails. */}
+		<script is:inline>
+			(() => {
+				const PAGE_SIZE = 10;
+
+				const input = document.getElementById('q');
+				const statusEl = document.getElementById('status');
+				const resultsEl = document.getElementById('results');
+				const filtersEl = document.getElementById('filters');
+				const moreBtn = document.getElementById('more');
+
+				const UNAVAILABLE =
+					'Search is unavailable on this page. The index is created when the site is built, ' +
+					'so it is missing in local development \u2014 run "npm run build && npm run preview" to try it.';
+
+				let pagefind = null;
+				let loadFailed = false;
+				let loading = null;
+				let activeFilter = null;
+				let pending = [];
+				let token = 0;
+
+				const dateFmt = new Intl.DateTimeFormat('en-US', {
+					year: 'numeric',
+					month: 'long',
+					day: 'numeric',
+				});
+
+				function formatDate(iso) {
+					if (!iso) return '';
+					// Parse as UTC noon so the displayed day never slips a day
+					// backwards for viewers in negative-offset time zones.
+					const d = new Date(iso + 'T12:00:00Z');
+					return isNaN(d) ? '' : dateFmt.format(d);
+				}
+
+				// Memoised, and deliberately quiet: the CALLER decides what to show
+				// on failure. An earlier version set the status text from inside
+				// this catch, which lost the message whenever a search that was
+				// already in flight overwrote it with "Searching…".
+				function loadPagefind() {
+					if (loading) return loading;
+					loading = (async () => {
+						try {
+							pagefind = await import('/pagefind/pagefind.js');
+							await pagefind.options({ excerptLength: 30 });
+							await pagefind.init();
+						} catch (err) {
+							loadFailed = true;
+							pagefind = null;
+							console.error('Pagefind failed to load:', err);
+						}
+						return pagefind;
+					})();
+					return loading;
+				}
+
+				async function buildFilters() {
+					if (!pagefind) return;
+					let counts;
+					try {
+						counts = await pagefind.filters();
+					} catch {
+						return;
+					}
+					const sections = counts && counts.Section;
+					if (!sections) return;
+					const names = Object.keys(sections).filter((n) => sections[n] > 0);
+					if (names.length < 2) return;
+
+					const make = (label, value) => {
+						const li = document.createElement('li');
+						const btn = document.createElement('button');
+						btn.type = 'button';
+						btn.textContent = label;
+						btn.setAttribute('aria-pressed', String(activeFilter === value));
+						btn.addEventListener('click', () => {
+							activeFilter = value;
+							for (const b of filtersEl.querySelectorAll('button')) {
+								b.setAttribute('aria-pressed', 'false');
+							}
+							btn.setAttribute('aria-pressed', 'true');
+							run(input.value);
+						});
+						li.appendChild(btn);
+						filtersEl.appendChild(li);
+					};
+
+					filtersEl.innerHTML = '';
+					make('Everything', null);
+					// Blog posts first, then the rest alphabetically — the
+					// archive is what people are almost always looking for.
+					names.sort((a, b) =>
+						a === 'Blog posts' ? -1 : b === 'Blog posts' ? 1 : a.localeCompare(b),
+					);
+					for (const n of names) make(`${n} (${sections[n]})`, n);
+					filtersEl.hidden = false;
+				}
+
+				function render(items) {
+					for (const data of items) {
+						const li = document.createElement('li');
+
+						const a = document.createElement('a');
+						a.className = 'result-title';
+						a.href = data.url;
+						a.textContent = (data.meta && data.meta.title) || data.url;
+						li.appendChild(a);
+
+						const bits = [];
+						if (data.meta && data.meta.section) bits.push(data.meta.section);
+						const when = formatDate(data.meta && data.meta.date);
+						if (when) bits.push(when);
+						if (bits.length) {
+							const meta = document.createElement('p');
+							meta.className = 'result-meta';
+							meta.textContent = bits.join(' · ');
+							li.appendChild(meta);
+						}
+
+						const p = document.createElement('p');
+						p.className = 'result-excerpt';
+						// Pagefind's excerpt is its own generated HTML, containing
+						// only <mark> tags around the matched terms.
+						p.innerHTML = data.excerpt;
+						li.appendChild(p);
+
+						resultsEl.appendChild(li);
+					}
+				}
+
+				async function showNextPage() {
+					const batch = pending.splice(0, PAGE_SIZE);
+					const data = await Promise.all(batch.map((r) => r.data()));
+					render(data);
+					moreBtn.hidden = pending.length === 0;
+					if (!moreBtn.hidden) {
+						moreBtn.textContent = `Show more results (${pending.length} remaining)`;
+					}
+				}
+
+				async function run(term) {
+					const mine = ++token;
+					const query = term.trim();
+
+					const url = new URL(window.location.href);
+					if (query) url.searchParams.set('q', query);
+					else url.searchParams.delete('q');
+					window.history.replaceState({}, '', url);
+
+					if (!query) {
+						resultsEl.innerHTML = '';
+						moreBtn.hidden = true;
+						statusEl.textContent = '';
+						return;
+					}
+
+					statusEl.textContent = 'Searching\u2026';
+					await loadPagefind();
+					if (mine !== token) return;
+					if (!pagefind) {
+						statusEl.textContent = UNAVAILABLE;
+						resultsEl.innerHTML = '';
+						moreBtn.hidden = true;
+						return;
+					}
+
+					const opts = activeFilter ? { filters: { Section: activeFilter } } : {};
+					const search = await pagefind.search(query, opts);
+					if (mine !== token) return;
+
+					resultsEl.innerHTML = '';
+					pending = search.results;
+
+					if (pending.length === 0) {
+						statusEl.textContent = `No results for “${query}”. Try a shorter or more common word.`;
+						moreBtn.hidden = true;
+						return;
+					}
+
+					statusEl.textContent = `${pending.length} result${pending.length === 1 ? '' : 's'} for “${query}”`;
+					await showNextPage();
+				}
+
+				let debounce;
+				input.addEventListener('input', () => {
+					clearTimeout(debounce);
+					debounce = setTimeout(() => run(input.value), 180);
+				});
+
+				moreBtn.addEventListener('click', showNextPage);
+
+				// Deep links: /search/?q=core+values
+				const initial = new URLSearchParams(window.location.search).get('q') || '';
+				input.value = initial;
+				input.focus();
+
+				loadPagefind().then(() => {
+					if (loadFailed && !input.value.trim()) statusEl.textContent = UNAVAILABLE;
+					return buildFilters();
+				});
+				if (initial) run(initial);
+			})();
+		</script>
+	</body>
+</html>

@@ -65,7 +65,13 @@ const { title, description, category, pdfHref } = Astro.props;
 	<body>
 		<Header />
 		<main>
-			<article>
+			{/* See the note in BlogPost.astro — data-pagefind-body is what puts
+			    this page in the search index. */}
+			<article
+				data-pagefind-body
+				data-pagefind-filter="Section:Resources"
+				data-pagefind-meta="section:Resources"
+			>
 				<div class="prose">
 					<div class="title">
 						{category && <p class="category">{category}</p>}
