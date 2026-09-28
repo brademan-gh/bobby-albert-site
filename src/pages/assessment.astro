@@ -1,0 +1,331 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { INTRO, QUESTIONS } from '../data/onInAssessment';
+
+// The ON&IN Leadership Assessment.
+//
+// Rebuilt 2026-09-28 from the archived Gravity Form and Bobby's own report-wording
+// document. See claude/on-in-assessment-recovery-2026-09-28.md in the project notes.
+//
+// TWO THINGS THAT MUST NOT BE "TIDIED UP":
+//
+// 1. Every feedback block is rendered into the HTML, for all 14 answer combinations,
+//    and merely HIDDEN when it doesn't apply. It is NOT injected by JavaScript.
+//    The original assessment lived behind an email gate on a separate subdomain and
+//    was invisible to search engines; making this content crawlable is the entire
+//    reason for rebuilding it rather than restoring it.
+//
+// 2. Results are shown instantly, with no email address required. The original
+//    collected name and email before emailing the report. Do not reintroduce a gate.
+//
+// Progressive enhancement: the page is fully readable with JavaScript off — every
+// question and both sets of feedback are simply visible. JS adds `data-interactive`
+// to the root element, which is what switches on the hide/reveal behaviour.
+
+const title = 'The ON&IN Leadership Assessment';
+const description =
+	"Bobby Albert's seven-question leadership assessment. Find out whether you lean toward working ON your business or IN it — with an affirmation, a challenge and concrete growth steps for every answer. Instant results, no email required.";
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={title} description={description} />
+		<style>
+			main {
+				width: 820px;
+			}
+			.tagline {
+				margin: 0 0 1.5em 0;
+				font-size: 1.1em;
+				color: rgb(var(--gray));
+			}
+			.intro p {
+				margin: 0 0 1em 0;
+			}
+			.intro .lead {
+				font-size: 1.05em;
+			}
+			fieldset {
+				margin: 0 0 1.75em 0;
+				padding: 1.25em 1.5em;
+				border: 1px solid rgb(var(--gray-light));
+				border-radius: 10px;
+				background: white;
+			}
+			legend {
+				padding: 0 0.5em;
+				font-weight: 700;
+				color: rgb(var(--black));
+			}
+			.choice {
+				display: block;
+				margin: 0.4em 0;
+				padding: 0.5em 0.6em;
+				border-radius: 8px;
+				cursor: pointer;
+			}
+			.choice:hover {
+				background: rgba(var(--gray-light), 55%);
+			}
+			.choice input {
+				margin-right: 0.6em;
+			}
+			.actions {
+				margin: 2em 0;
+				text-align: center;
+			}
+			button {
+				padding: 0.7em 1.6em;
+				font-family: inherit;
+				font-size: 1em;
+				color: white;
+				background: var(--accent);
+				border: none;
+				border-radius: 8px;
+				cursor: pointer;
+			}
+			button:hover {
+				background: var(--accent-dark);
+			}
+			button.secondary {
+				color: var(--accent);
+				background: white;
+				border: 1px solid rgb(var(--gray-light));
+			}
+			.tally {
+				margin: 0 0 1.5em 0;
+				padding: 1em 1.25em;
+				border-left: 4px solid var(--accent);
+				background: rgba(var(--gray-light), 40%);
+			}
+			.result {
+				margin: 0 0 2em 0;
+				padding-bottom: 1.5em;
+				border-bottom: 1px solid rgb(var(--gray-light));
+			}
+			.result h3 {
+				margin-bottom: 0.3em;
+				font-size: 1.35em;
+			}
+			.mindset {
+				display: inline-block;
+				margin-bottom: 0.8em;
+				padding: 0.15em 0.7em;
+				font-size: 0.8em;
+				text-transform: uppercase;
+				letter-spacing: 0.05em;
+				border-radius: 999px;
+				background: rgba(var(--gray-light), 70%);
+				color: rgb(var(--gray-dark));
+			}
+			.result h4 {
+				margin: 1em 0 0.3em 0;
+				font-size: 1em;
+				text-transform: uppercase;
+				letter-spacing: 0.04em;
+				color: rgb(var(--gray));
+			}
+			.result ol {
+				margin: 0.4em 0 0 0;
+				padding-left: 1.3em;
+			}
+			.result ol li {
+				margin-bottom: 0.5em;
+			}
+			.provenance {
+				margin-top: 3em;
+				padding-top: 1.5em;
+				border-top: 1px solid rgb(var(--gray-light));
+				font-size: 0.9em;
+				color: rgb(var(--gray));
+			}
+			/* Interactive mode only — set by the script below. With JS off, everything
+			   above stays visible, which is both accessible and crawlable. */
+			:global([data-interactive]) #results[hidden],
+			:global([data-interactive]) .result[hidden],
+			:global([data-interactive]) .side[hidden] {
+				display: none;
+			}
+			@media (max-width: 720px) {
+				fieldset {
+					padding: 1em;
+				}
+			}
+		</style>
+	</head>
+
+	<body>
+		<Header />
+		<main data-pagefind-body data-pagefind-filter="Section:Pages" data-pagefind-meta="section:Pages">
+			<h1>{title}</h1>
+			<p class="tagline">What&rsquo;s standing between you and the growth of your business?</p>
+
+			<div class="intro">
+				{INTRO.map((p, i) => <p class={i === 0 ? 'lead' : undefined} set:html={p} />)}
+			</div>
+
+			<form id="assessment">
+				{
+					QUESTIONS.map((q) => (
+						<fieldset>
+							<legend>
+								{q.n}. {q.q}
+							</legend>
+							<label class="choice">
+								<input type="radio" name={`q${q.n}`} value="A" />
+								{q.a}
+							</label>
+							<label class="choice">
+								<input type="radio" name={`q${q.n}`} value="B" />
+								{q.b}
+							</label>
+						</fieldset>
+					))
+				}
+				<p class="actions">
+					<button type="submit">Show my results</button>
+				</p>
+			</form>
+
+			<!-- NOT hidden in the markup on purpose: the script hides this on load.
+			     A static `hidden` attribute would keep Pagefind and crawlers out of the
+			     feedback, which is the content worth having. -->
+			<section id="results">
+				<h2>Your results</h2>
+				<p class="tally" id="tally"></p>
+
+				{
+					QUESTIONS.map((q) => (
+						<div class="result" data-q={q.n}>
+							<h3>
+								{q.n}. {q.q}
+							</h3>
+							{(['A', 'B'] as const).map((side) => (
+								<div class="side" data-side={side}>
+									<p class="mindset">{side === 'A' ? 'Manager mindset' : 'Leader mindset'}</p>
+									<p>{q[side].lead}</p>
+									<h4>Affirmation</h4>
+									<p set:html={q[side].affirm} />
+									<h4>Challenge</h4>
+									<p set:html={q[side].challenge} />
+									{q[side].steps.length > 0 && (
+										<>
+											<h4>Growth steps</h4>
+											<ol>
+												{q[side].steps.map((s) => (
+													<li set:html={s} />
+												))}
+											</ol>
+										</>
+									)}
+								</div>
+							))}
+						</div>
+					))
+				}
+
+				<p class="actions">
+					<button type="button" class="secondary" id="again">Start over</button>
+				</p>
+			</section>
+
+			<p class="provenance">
+				Bobby Albert created this assessment in 2018. It originally ran on a separate site and
+				emailed your results; this version gives them to you straight away. The questions and all
+				of the feedback are his own words.
+			</p>
+		</main>
+		<Footer />
+
+		<script is:inline>
+			(() => {
+				const form = document.getElementById('assessment');
+				const results = document.getElementById('results');
+				const tally = document.getElementById('tally');
+				if (!form || !results || !tally) return;
+
+				// Only now do we take over the layout. Until this line runs, the page is a
+				// plain readable document — which is what crawlers and no-JS visitors get.
+				document.documentElement.setAttribute('data-interactive', '');
+
+				const blocks = [...results.querySelectorAll('.result')];
+				const reset = () => {
+					results.hidden = true;
+					for (const b of blocks) {
+						b.hidden = false;
+						for (const s of b.querySelectorAll('.side')) s.hidden = false;
+					}
+				};
+				reset();
+
+				form.addEventListener('submit', (e) => {
+					e.preventDefault();
+					const data = new FormData(form);
+					const answers = {};
+					let missing = 0;
+					for (const b of blocks) {
+						const n = b.dataset.q;
+						const v = data.get('q' + n);
+						if (!v) missing++;
+						answers[n] = v;
+					}
+					if (missing) {
+						const first = form.querySelector(
+							`fieldset:nth-of-type(${blocks.findIndex((b) => !answers[b.dataset.q]) + 1})`,
+						);
+						tally.textContent = '';
+						alertless(
+							`Please answer all seven questions — ${missing} ${missing === 1 ? 'is' : 'are'} still blank.`,
+						);
+						if (first) first.scrollIntoView({ behavior: 'smooth', block: 'center' });
+						return;
+					}
+
+					let leader = 0;
+					for (const b of blocks) {
+						const pick = answers[b.dataset.q];
+						if (pick === 'B') leader++;
+						for (const s of b.querySelectorAll('.side')) {
+							s.hidden = s.dataset.side !== pick;
+						}
+					}
+
+					// Deliberately NOT presented as a score. Bobby's own introduction argues that
+					// an even split is not "balance" — every question carries its own leaning and
+					// its own challenge. The wording here follows that.
+					const mgr = 7 - leader;
+					tally.innerHTML =
+						`You answered <strong>${leader}</strong> of 7 questions with a leader&rsquo;s mindset ` +
+						`(working <strong>ON</strong> your business) and <strong>${mgr}</strong> with a manager&rsquo;s ` +
+						`mindset (working <strong>IN</strong> it). Remember: this is not a score, and an even split ` +
+						`is not &ldquo;balance&rdquo;. Each answer below carries its own affirmation and its own challenge.`;
+
+					results.hidden = false;
+					results.scrollIntoView({ behavior: 'smooth', block: 'start' });
+				});
+
+				document.getElementById('again')?.addEventListener('click', () => {
+					form.reset();
+					reset();
+					form.scrollIntoView({ behavior: 'smooth', block: 'start' });
+				});
+
+				// A small inline notice rather than window.alert, which is disruptive.
+				function alertless(msg) {
+					let el = document.getElementById('formnotice');
+					if (!el) {
+						el = document.createElement('p');
+						el.id = 'formnotice';
+						el.style.cssText =
+							'margin:1em 0;padding:.7em 1em;border-radius:8px;background:rgba(35,55,255,.08);';
+						form.querySelector('.actions')?.before(el);
+					}
+					el.textContent = msg;
+				}
+			})();
+		</script>
+	</body>
+</html>
