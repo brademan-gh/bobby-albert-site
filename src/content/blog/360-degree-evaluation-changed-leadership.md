@@ -63,7 +63,7 @@ And when it came time to implement a “Bobby idea”, the process was very slow
 
 ### **Better Decision** **Making**
 
-For you see, I was suffering from **[two common problems](/blog/two-problems-can-sink-leader-iceberg-of-ignorance/){target="_blank" rel="noopener"}** that limit the effectiveness of most leaders.  I just didn’t know it!
+For you see, I was suffering from **[two common problems](/blog/two-problems-can-sink-leader-iceberg-of-ignorance/)** that limit the effectiveness of most leaders.  I just didn’t know it!
 
 I really did not seek, listen to, and learn from my people’s insights and advice.
 

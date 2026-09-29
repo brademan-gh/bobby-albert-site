@@ -66,7 +66,7 @@ The following statement propelled me into a deeper discovery of my **core values
 
 > I want to be a Values-Driven Company that achieves results; not a Results-Driven Company that has values. – Bobby Albert
 
-I’ve made a simple ***Values Discovery Worksheet*** for you to use in your own core values journey. It’s **FREE**, and you can download it immediately by \<clicking here\>. Feel free to print it or save it for your own use.
+I’ve made a simple ***Values Discovery Worksheet*** for you to use in your own core values journey. It’s **FREE**, and you can download it immediately by [clicking here](/resources/tnb-core-values-discovery-guide/). Feel free to print it or save it for your own use.
 
 If you would like to go to a summary blog post about core values, you can [click here](/blog/how-to-discover-your-core-values-create-extraordinary-results/).
 

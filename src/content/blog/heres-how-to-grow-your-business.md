@@ -44,7 +44,7 @@ Since our company had several different business functions and business units or
 
 ***Every leader can achieve tremendous*** ***growth*** ***by*** ***answering*** ***eight key questions.*** 
 
-I’ve prepared a special printable one-sheet download that contains all of these business growth questions. Click \<***[here](https://values-driven.lpages.co/9-questions-that-will-grow-your-business-leadpg/){target="_blank" rel="noopener"}***\> to download. 
+I’ve prepared a special printable one-sheet download that contains all of these business growth questions. Click \<***[here](https://values-driven.lpages.co/9-questions-that-will-grow-your-business-leadpg/)***\> to download. 
 
 ### **First Three Questions** 
 

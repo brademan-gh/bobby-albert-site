@@ -19,6 +19,6 @@ Are you a model listener?
 
 Read about the four ways to listen in Tuesday’s blog post,
 
-“[Get Rid of Your Listening Problems Once and For All](/blog/get-rid-of-your-listening-problems-once-and-for-all/){target="_blank"}”.
+“[Get Rid of Your Listening Problems Once and For All](/blog/get-rid-of-your-listening-problems-once-and-for-all/)”.
 
 :::

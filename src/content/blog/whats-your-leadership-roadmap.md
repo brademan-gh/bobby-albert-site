@@ -95,6 +95,6 @@ By the way, after that individual time-trial, I did win the prize in another con
 
 *How about you? Do you have a roadmap? Do you ever spend time working ****ON**** your business or are you too busy working ****IN**** your business?  Please share your comments \<**[here](/blog/whats-your-leadership-roadmap/#comments)**\> and share this article with a friend and/or co-worker.* 
 
-Click **\<[here](https://values-driven.lpages.co/values-driven-organizational-hierarchy-lead-page-v2/?signuppg=bp244){target="_blank" rel="noopener"}\>** or the image below to download a free copy of my Values-Driven Organizational Hierarchy. 
+Click **\<[here](/resources/tnb-organizational-hierarchy/)\>** or the image below to download a free copy of my Values-Driven Organizational Hierarchy. 
 
 ![Bobby explains how every leader can achieve the success they have always searched for and find their leadership roadmap by understanding two important truths!](/images/2018/06/Untitled-1.jpg "Bobby Albert - Values-Drive Organizational Hierarchy")

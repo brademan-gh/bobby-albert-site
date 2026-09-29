@@ -26,7 +26,7 @@ I’m very focused on the right things, and not the wrong things.  I don’t wa
 
 ***Every person can achieve meaningful work by understanding*** ***what*** ***an organizational purpose statement*** ***is and what*** ***it’s not.***
 
-In my **[previous blog post](/blog/meaningful-work/){target="_blank"}**, I wrote that you first must be a worthy leader that your people are willing to follow.  And you can only become a worthy leader if you have the trust of your people.
+In my **[previous blog post](/blog/meaningful-work/)**, I wrote that you first must be a worthy leader that your people are willing to follow.  And you can only become a worthy leader if you have the trust of your people.
 
 Next, it’s critical to understand the difference between what a *purpose* statement for an organization is and what it is not.
 

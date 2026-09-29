@@ -25,7 +25,7 @@ Do you *want * to grow your business? Do you *want * to achieve succes
 
 **Leadership Paradox:**  Most leaders believe their first job is to grow their business.  The truth is you need to grow first YOU.  
 
-**If you are open** **to growth, please take our FREE 5-minute ON&IN Leadership Assessment \<here\>.** 
+**If you are open** **to growth, please take our FREE 5-minute ON&IN Leadership Assessment [here](/assessment/).** 
 
 ### **The Problem**  
 
@@ -55,6 +55,6 @@ Many leaders feel overwhelmed and isolated. If that sounds like you, you’ll wa
 
 *Have you been looking in the mirror?  What do you see?  Do you see the reflection of your people in you?* *What are you doing to “lift the lid” to your personal growth? * 
 
-**Want help “looking in the mirror”? Please take our FREE 5-minute ON&IN Leadership Assessment \<here\>**
+**Want help “looking in the mirror”? Please take our FREE 5-minute ON&IN Leadership Assessment [here](/assessment/)**
 
 ![](/images/2018/12/On_in_color_trans-w-R-symbol-150x150.png)

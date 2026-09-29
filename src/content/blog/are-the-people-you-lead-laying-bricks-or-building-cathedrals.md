@@ -35,9 +35,9 @@ Therefore, they feel that they are just “laying bricks.”
 
 If we’re not careful as leaders, our people will think of themselves as merely “brick layers”.  To lead “cathedral builders” we must be intentional about a few, important aspects of our organizations.
 
-It starts when you [**do your homework to prepare for your vision**](/blog/every-leader-needs-a-vision-statement-heres-where-to-start/){target="_blank"}.
+It starts when you [**do your homework to prepare for your vision**](/blog/every-leader-needs-a-vision-statement-heres-where-to-start/).
 
-The next step is [**to actually craft your vision statement**](/blog/leaders-cast-your-vision-in-3-simple-steps/){target="_blank"}**.**
+The next step is [**to actually craft your vision statement**](/blog/leaders-cast-your-vision-in-3-simple-steps/)**.**
 
 You are now ready to prepare…
 

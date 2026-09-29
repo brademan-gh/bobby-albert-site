@@ -13,7 +13,7 @@ draft: false
 
 Do you ever feel like “you are up to your neck in alligators”? Do you spend all day dealing with all the worries that are threatening to pull you (and your business) under?  
 
-**If you are open for change, please take** **our** **FREE** **5-minute ON&IN Leadership Assessment \<here\>.**  
+**If you are open for change, please take** **our** **FREE** **5-minute ON&IN Leadership Assessment [here](/assessment/).**  
 
 I’ll never forget the day that my dad unexpectedly died. I was a recent university graduate, and the news hit me like a ton of bricks. Suddenly, I inherited the leadership position of our small family business of five employees along with a shocking revelation.  
 
@@ -43,7 +43,7 @@ The good news is that any leader can tap the power of this **ON&IN** way and
 
 *Are you becoming worn out working harder and harder and feeling* *like* *you are barely treading water? Would you like to work less and live more?* *Have you* *considered trying a different approach?* 
 
-**The first step toward change is taking my** **FREE** **5-minute ON&IN Leadership Assessment \<here\>.**
+**The first step toward change is taking my** **FREE** **5-minute ON&IN Leadership Assessment [here](/assessment/).**
 
  
 

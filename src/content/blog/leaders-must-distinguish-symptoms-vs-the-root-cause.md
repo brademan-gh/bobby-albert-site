@@ -43,7 +43,7 @@ If it is true that the shortest route to higher quality in business is to identi
 
 Solving the mystery of quality improvements can be challenging.  And often, we are distracted by the mere *symptoms* of our problem.
 
-In my blog post **[Watson, The Secret to Quality is Elementary!](/blog/watson-the-secret-to-quality-is-elementary/){target="_blank"}**, I shared a simple way to get to the *root cause* of the problem by using a technique called “root cause analysis”.
+In my blog post **[Watson, The Secret to Quality is Elementary!](/blog/watson-the-secret-to-quality-is-elementary/)**, I shared a simple way to get to the *root cause* of the problem by using a technique called “root cause analysis”.
 
 Twenty years ago with the type of moving job mentioned above, the customer booked their moving job directly with the supplier.  And the supplier would register the customer’s moving job with my company.
 

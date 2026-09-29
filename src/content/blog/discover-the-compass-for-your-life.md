@@ -59,7 +59,7 @@ When your skills are sharp and when you home-in on the “one thing” that is y
 >
 > **– Martin Luther King Jr.**
 
-**Do you want help discovering Why you exist? Please download my simple** [Life Purpose Discovery Worksheet](https://values-driven.lpages.co/life-purpose-discoveryv2-leadpg/){target="_blank" rel="noopener"} **FREE by \<[clicking here](https://values-driven.lpages.co/life-purpose-discoveryv2-leadpg/){target="_blank" rel="noopener"}\>.**
+**Do you want help discovering Why you exist? Please download my simple** [Life Purpose Discovery Worksheet](/resources/tnb-life-purpose-discovery-worksheet/) **FREE by \<[clicking here](/resources/tnb-life-purpose-discovery-worksheet/)\>.**
 
 As you look deeply enough *inside* of you and are honest about combining your passion with your competence, you will find your *life purpose – the answer to the question, ”**Why*** do I exist?”
 
@@ -85,7 +85,7 @@ You may be wondering, “Bobby, what did you discover to be your life purpose?�
 
 I discovered: The reason ***why*** I exist is to be a model Christian businessman.
 
-I’d like to help you discover your own *life purpose* by providing you with my FREE [Life Purpose Discovery Worksheet](https://values-driven.lpages.co/life-purpose-discoveryv2-leadpg/){target="_blank" rel="noopener"} \<[**click here to download**](https://values-driven.lpages.co/life-purpose-discoveryv2-leadpg/){target="_blank" rel="noopener"}\>!*\
+I’d like to help you discover your own *life purpose* by providing you with my FREE [Life Purpose Discovery Worksheet](/resources/tnb-life-purpose-discovery-worksheet/) \<[**click here to download**](/resources/tnb-life-purpose-discovery-worksheet/)\>!*\
 *
 
 *Do you have a compass for your life? Have you considered combining your passion with your competence to discover your purpose? Please share your thoughts \<[**here**](/blog/discover-the-compass-for-your-life/#comments)\> and share this blog post with family, friends, and co-workers.*

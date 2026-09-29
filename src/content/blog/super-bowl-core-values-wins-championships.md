@@ -64,6 +64,6 @@ In another blog post [\<click here to view\>](/blog/two-questions-will-help-disc
 
 I have learned that everyone must discover their own *core values*. And we each have a *unique* set of *core values*.
 
-I’ve made a simple ***Values Discovery Worksheet*** for you to use in your own *core values* journey. It’s **FREE**, and you can download it immediately by \<clicking here\>. Feel free to print it or save it for your own use.
+I’ve made a simple ***Values Discovery Worksheet*** for you to use in your own *core values* journey. It’s **FREE**, and you can download it immediately by [clicking here](/resources/tnb-core-values-discovery-guide/). Feel free to print it or save it for your own use.
 
 *What are your **core values**? What process have you used to discover your **core values**? Please comment by [\<clicking here\>](/blog/super-bowl-core-values-wins-championships/#comments).*

@@ -30,7 +30,7 @@ And when it came time to implement a “Bobby idea,” the process was very slow
 
 Are you a Lone Ranger when it comes to making decisions and even setting goals in your organization, like I was?
 
-Has your leadership effectiveness been limited by these **[two common problems](/blog/two-problems-can-sink-leader-iceberg-of-ignorance/){target="_blank"}***? * After all, aren’t you in charge?
+Has your leadership effectiveness been limited by these **[two common problems](/blog/two-problems-can-sink-leader-iceberg-of-ignorance/)***? * After all, aren’t you in charge?
 
 In most organizations, decisions and goals are often imposed from the top of the organization on those below.
 
@@ -44,7 +44,7 @@ But think about it, even the Lone Ranger wasn’t really a loner. Everywhere he 
 
 ### **Motivation Survey**
 
-In a previous blog post, I offered you a simple survey about our *motivations*.  You can easily record your own answers by downloading the **FREE** survey \<**[here](https://values-driven.leadpages.co/leadbox/1412d5b23f72a2%3A145b8c4a3b46dc/5684318433181696/){target="_blank"}**\>.
+In a previous blog post, I offered you a simple survey about our *motivations*.  You can easily record your own answers by downloading the **FREE** survey \<**[here](/resources/tnb-motivation-survey/)**\>.
 
 I have found that this survey is one of the most powerful tools that you have for discovery and learning.  The statements in the survey ask you to think more deeply about this important topic of *motivation*.
 
@@ -70,8 +70,8 @@ When you lay down your Lone Ranger mask and *engage* your people to **participat
 
 Are you curious about the rest of survey? The two blog posts below break down the first eight statements of the survey:
 
--   Survey statements 1 through 4 \<**[click here](/blog/volunteer-leadership/){target="_blank"}**\>
+-   Survey statements 1 through 4 \<**[click here](/blog/volunteer-leadership/)**\>
 
--   Survey statements 5 through 8 \<**[click here](/blog/public-bad-decision/){target="_blank"}**\>
+-   Survey statements 5 through 8 \<**[click here](/blog/public-bad-decision/)**\>
 
 *Are you a Lone Ranger when* *making decisions and* *setting goals? * *Would you like to have a more team-oriented approach to your* *decision-making and goal-setting* *process?  Please share your thoughts \<**[here](/blog/lone-ranger-decision-making/#comments)**\> and share this blog post with a friend and a co-worker.*

@@ -36,7 +36,7 @@ Well, even though this bad decision did not ruin my campaign, I spent a lot of t
 
 ### **Motivation Survey**
 
-In a previous blog posts, I offered you a simple survey about our *motivations*.  You can download FREE the survey \<**[here](https://values-driven.leadpages.co/leadbox/1412d5b23f72a2%3A145b8c4a3b46dc/5684318433181696/)**\> so you can easily record your own answers.
+In a previous blog posts, I offered you a simple survey about our *motivations*.  You can download FREE the survey \<**[here](/resources/tnb-motivation-survey/)**\> so you can easily record your own answers.
 
 The statements in the survey ask you to think more deeply about the important topic of *motivation*.  I have found that this survey is one of the most powerful tools for discovery and learning.
 
@@ -68,4 +68,4 @@ You can learn, like I did, to minimize making bad decisions.  There is a way to
 
 *Would you like to give input on matters concerning you?* *Have you ever turned down more pay because the new position did not add value and meaning to yourself and others?  * *How about bad decisions – what did you learn from your most public bad decision?* *Please leave your comment \<**[here](/blog/public-bad-decision/#comments)**\> and share this blog post with a friend or co-worker.*
 
-To learn more about my comments concerning the first four statements of the motivation survey, please \<**[click here](/blog/volunteer-leadership/){target="_blank"}**\>. *  *
+To learn more about my comments concerning the first four statements of the motivation survey, please \<**[click here](/blog/volunteer-leadership/)**\>. *  *

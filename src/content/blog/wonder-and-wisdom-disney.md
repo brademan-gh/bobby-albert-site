@@ -28,11 +28,11 @@ The next thing you may be thinking is, “***I’m not sure if I really know my 
 
 I write about my journey and findings in my new book, *Principled Profits – Outward Success Is an Inside Job*.  In fact, the bonus that I am giving away to anyone who orders my book is my ***Values Discovery Worksheet***.  This worksheet is a proven guide that will help you discover your values. 
 
-Remember the wisdom of Roy Disney. Discovering your values will simplify and clarify your decision making! My new book [***Principled Profits*, and the Bonus offer \<here\>**](http://principledprofitsbook.com/){target="_blank" rel="noopener"} can help you discover your own core values\! 
+Remember the wisdom of Roy Disney. Discovering your values will simplify and clarify your decision making! My new book [***Principled Profits*, and the Bonus offer \<here\>**](http://principledprofitsbook.com/) can help you discover your own core values\! 
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 
 
-**What people are saying about** [***Principled Profits***](http://principledprofitsbook.com/){target="_blank" rel="noopener"}***:***  
+**What people are saying about** [***Principled Profits***](http://principledprofitsbook.com/)***:***  
 
 **“The leaders who build enduring organizations, ones that have a real and lasting impact, are not simply lucky. They follow certain unwavering principles. Bobby Albert presents these principles in Principled Profits, drawing a clear roadmap to meaningful success.” **
 
@@ -42,4 +42,4 @@ Remember the wisdom of Roy Disney. Discovering your values will simplify and cla
 
 ![Principled Profits \| Outward Success is an Inside Job](/images/2017/07/400x600px-201x300.png "Principled Profits by Bobby Albert")
 
-**[PrincipledProfitsBook.com](http://principledprofitsbook.com/){target="_blank" rel="noopener"} **
+**[PrincipledProfitsBook.com](http://principledprofitsbook.com/) **

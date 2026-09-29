@@ -24,7 +24,7 @@ So there I was, 20 years old and responsible for a company with five employees a
 
 Because there was so much coming at me all at once, I was forced for the first time to write down goals on what I needed to accomplish.
 
-I’ve achieved so much through goal setting that I created a workbook to distribute to others to help them set goals. **You can download** **my** **Goal Setting Workbook (it’s FREE)** by \<clicking here\>. This workbook gives you an easy way to set your goals for the coming year.
+I’ve achieved so much through goal setting that I created a workbook to distribute to others to help them set goals. **You can download** **my** **Goal Setting Workbook (it’s FREE)** by [clicking here](/resources/gps-goal-planning-workbook/). This workbook gives you an easy way to set your goals for the coming year.
 
 Every person can set significant goals this year by following these three simple steps:
 
@@ -86,7 +86,7 @@ I write a goal for each of the following areas:
 
 **Yes, goal setting can be as easy as 1-2-3!** Effective goal setting can help make this year your best year ever!
 
-**So let’s get started – I’ve developed a simple way to help you identify and record your own goals.** It’s all found in my FREE **Goal Setting Workbook.** You can get yours today by \<clicking here\> to go to my download page.
+**So let’s get started – I’ve developed a simple way to help you identify and record your own goals.** It’s all found in my FREE **Goal Setting Workbook.** You can get yours today by [clicking here](/resources/gps-goal-planning-workbook/) to go to my download page.
 
 *Could you share how you set goals – or how my Goal Setting Workbook has impacted your goal setting?* Click [\<here\>](/blog/goal-setting-simple-1-2-3/#comments "Leave a comment") to share your thoughts in my comment section.
 

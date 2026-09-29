@@ -60,13 +60,13 @@ Here’s a list of the blog posts that I’ve written about **goals** *and* **co
 
 ### **Goals –**
 
-[**What Can Albert Einstein Teach Us About Leadership?**](/blog/what-can-albert-einstein-teach-us-about-leadership/){target="_blank"}
+[**What Can Albert Einstein Teach Us About Leadership?**](/blog/what-can-albert-einstein-teach-us-about-leadership/)
 
 An emotional story about Albert Einstein feverishly looking for his lost train ticket underscores our need to know where we are going. And, every leader can gain a clear understanding of where they are going by ***avoiding ambiguous goals***.
 
  
 
-[**Are You a Lone Ranger When Setting Goals?**](/blog/are-you-a-lone-ranger-when-setting-goals/){target="_blank"}
+[**Are You a Lone Ranger When Setting Goals?**](/blog/are-you-a-lone-ranger-when-setting-goals/)
 
 There is a big difference between the **goals** that a leader sets for his or her *team*, and the **goals** that the *team* actively participates in setting.  I learned that lesson the hard way!
 
@@ -74,61 +74,61 @@ Discover three questions that will help you set motivating goals for your people
 
  
 
-[**Is Goal Setting Top-Down or Bottom-Up? ** **(The answer may surprise you)** ](/blog/is-setting-goals-top-down-or-bottom-up-the-answer-may-surprise-you/){target="_blank"}
+[**Is Goal Setting Top-Down or Bottom-Up? ** **(The answer may surprise you)** ](/blog/is-setting-goals-top-down-or-bottom-up-the-answer-may-surprise-you/)
 
 Leaders in pursuit of peak-performance *teams* have learned that *how* **goals** are determined are as important as the clarity of the **goals** themselves. Learn the five benefits of *team* **goal** setting.
 
  
 
-[**Goals Have Different Meaning to Different People**](/blog/goals-have-different-meaning-to-different-people/){target="_blank"}
+[**Goals Have Different Meaning to Different People**](/blog/goals-have-different-meaning-to-different-people/)
 
 It is amazing how different people think of the word “**goals**” in different ways.  Understand what a **goal** is (and what is not), and how I defined **goals** in our company.
 
  
 
-[**Do You Have These 4 Key Leadership Qualities?**](/blog/do-you-have-these-4-key-leadership-qualities/){target="_blank"}
+[**Do You Have These 4 Key Leadership Qualities?**](/blog/do-you-have-these-4-key-leadership-qualities/)
 
 Every building project starts with a firm foundation.   Likewise, every effective leader possesses these four leadership qualities.   Read about how ***trust***, ***connection***, ***empowerment*** and ***navigation*** are necessary in order to become a leader of influence.
 
  
 
-[**Every Leader Needs a Vision Statement – Here’s Where to Start**](/blog/every-leader-needs-a-vision-statement-heres-where-to-start/){target="_blank"}
+[**Every Leader Needs a Vision Statement – Here’s Where to Start**](/blog/every-leader-needs-a-vision-statement-heres-where-to-start/)
 
 Any significant endeavor requires preparation.  And the vision statement for your organization is certainly significant!  Discover what to ***ask***, how to ***connect*** and what to ***analyze*** as you prepare to draft your own vision statement.
 
  
 
-[**Leaders: Cast Your Vision in 3 Simple Steps**](/blog/leaders-cast-your-vision-in-3-simple-steps/){target="_blank"}
+[**Leaders: Cast Your Vision in 3 Simple Steps**](/blog/leaders-cast-your-vision-in-3-simple-steps/)
 
 The journey toward your destiny always begins with a vision. Vision is the roadmap to your destiny, the picture of your purpose.   Learn about the three simple steps to take in order to cast your vision as a leader.
 
  
 
-[**Two Guiding Objectives for Every Business**](/blog/two-guiding-objectives-for-every-business/){target="_blank"}
+[**Two Guiding Objectives for Every Business**](/blog/two-guiding-objectives-for-every-business/)
 
 Every leader can successfully achieve the organization’s **goals** by championing these two guiding objectives, which I call “**Super–Objectives**”.  See how I reduced all of our business’s objectives down to two, delighting customers and increasing operating profits.
 
  
 
-[**Are the People You Lead Laying Bricks or Building Cathedrals?**](/blog/are-the-people-you-lead-laying-bricks-or-building-cathedrals/){target="_blank"}
+[**Are the People You Lead Laying Bricks or Building Cathedrals?**](/blog/are-the-people-you-lead-laying-bricks-or-building-cathedrals/)
 
 **Strategic** and **tactical** plans are fundamental to the success of any organization. When we set our strategy, we ask, “What do we want to accomplish? And why?”  Next, we establish our tactical plans by asking “How can we get there?”.
 
  
 
-[**How to Set Performance Goals That Motivate and Inspire**](/blog/how-to-set-performance-goals-that-motivate-and-inspire/){target="_blank"}
+[**How to Set Performance Goals That Motivate and Inspire**](/blog/how-to-set-performance-goals-that-motivate-and-inspire/)
 
 Over 20 years ago in our moving and storage business, I experienced the true significance of setting measurable performance **goals**.  And I discovered the key to setting performance **goals** that truly ***motivate*** and ***inspire***!
 
  
 
-[**How Anyone Can Identify Cause and Effect**](/blog/how-anyone-can-identify-cause-and-effect/){target="_blank"}
+[**How Anyone Can Identify Cause and Effect**](/blog/how-anyone-can-identify-cause-and-effect/)
 
 Knowing the difference between cause and effect is a BIG deal! Most often, our attention gets drawn to the effects, and we have to dig a little deeper to get to the cause. Read about the four criteria for determining if something is a cause or an effect.
 
  
 
-[**Leaders Must Distinguish Symptoms vs. the Root Cause**](/blog/leaders-must-distinguish-symptoms-vs-the-root-cause/){target="_blank"}
+[**Leaders Must Distinguish Symptoms vs. the Root Cause**](/blog/leaders-must-distinguish-symptoms-vs-the-root-cause/)
 
 Read about how complaints from customers led to our startling discovery of the root cause.  Learn how to use measurable **goals** and feedback to un-emotionally highlight problems and motivate those involved to provide the solutions!
 
@@ -136,13 +136,13 @@ Read about how complaints from customers led to our startling discovery of the r
 
 ### **Controls –**
 
-[**How Business Reviews Can Help Leaders Achieve Better Results**](/blog/how-business-reviews-can-help-leaders-achieve-better-results/){target="_blank"}
+[**How Business Reviews Can Help Leaders Achieve Better Results**](/blog/how-business-reviews-can-help-leaders-achieve-better-results/)
 
 As leaders, we are constantly looking for tools and techniques that enable us to better lead and manage our people.  Discover how every leader can use **Business Reviews** to successfully achieve their organizational **goals**.
 
  
 
-[**7 Communication Opportunities For Every** **Leader**](/blog/7-communication-opportunities-for-every-leader/){target="_blank"}
+[**7 Communication Opportunities For Every** **Leader**](/blog/7-communication-opportunities-for-every-leader/)
 
 Successful leaders consistently provide meaningful *communication* to their people.  Read about the seven *communication* opportunities available to every leader.
 

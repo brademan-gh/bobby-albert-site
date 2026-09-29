@@ -27,15 +27,15 @@ It wasn’t too long after my year ended that I was asked to serve at the next l
 
 I don’t tell you all of this so that you can pat me on the back. In fact, this story serves as a sad reminder of lost opportunity..
 
-You see, what I learned at my local Rotary Club that worked so well, I did ***not*** carry over into my business.  At work, I led in a very different way. I was suffering from **[*two common problems*](/blog/two-problems-can-sink-leader-iceberg-of-ignorance/){target="_blank"}** that limit the effectiveness of most leaders, I just didn’t know it!
+You see, what I learned at my local Rotary Club that worked so well, I did ***not*** carry over into my business.  At work, I led in a very different way. I was suffering from **[*two common problems*](/blog/two-problems-can-sink-leader-iceberg-of-ignorance/)** that limit the effectiveness of most leaders, I just didn’t know it!
 
 For me, it was not until 1989 that I finally learned the better way. But you don’t have to attend years of the “school of hard knocks”, like I did, to learn the better way to lead your organization.
 
 ### **Motivation Survey**
 
-In my previous blog posts, I offered you a simple survey about our *motivations*.  You can download the FREE survey \<**[here](https://values-driven.leadpages.co/leadbox/1412d5b23f72a2%3A145b8c4a3b46dc/5684318433181696/)**\> so you can easily record your own answers.
+In my previous blog posts, I offered you a simple survey about our *motivations*.  You can download the FREE survey \<**[here](/resources/tnb-motivation-survey/)**\> so you can easily record your own answers.
 
-**[Click Here to Download My Free Motivation Survey](%20https://values-driven.leadpages.co/leadbox/1412d5b23f72a2%3A145b8c4a3b46dc/5684318433181696/){target="_blank"}**
+**[Click Here to Download My Free Motivation Survey](%20https://values-driven.leadpages.co/leadbox/1412d5b23f72a2%3A145b8c4a3b46dc/5684318433181696/)**
 
 I have found that this survey is one of the most powerful tools that you have for discovery and learning.  The statements in the survey ask you to think more deeply about this important topic on *motivation*.
 

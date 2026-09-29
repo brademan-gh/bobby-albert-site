@@ -30,7 +30,7 @@ Before I share a word of caution and a warning, I would like to review four key 
 
 -   *E*very** company has values, even if they haven’t been discovered yet.
 
-I’ve made a simple ***Values Discovery Worksheet*** for you to use in your own *core values* journey. It’s **FREE**, and you can download it immediately by \<clicking here\>. Feel free to print it or save it for your own use.
+I’ve made a simple ***Values Discovery Worksheet*** for you to use in your own *core values* journey. It’s **FREE**, and you can download it immediately by [clicking here](/resources/tnb-core-values-discovery-guide/). Feel free to print it or save it for your own use.
 
 Every leader can avoid some likely pitfalls if they resist the temptation to short-cut the journey required to discover their core values.
 

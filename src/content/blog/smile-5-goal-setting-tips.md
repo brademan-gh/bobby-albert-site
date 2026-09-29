@@ -97,7 +97,7 @@ Once you decide what you want to accomplish for the year, it’s important to co
 
 ** **
 
-Do you want to get the most out of 2022? The one process that I can heartily recommend to make 2022 your best year ever is ***goal setting***. We’ve created an online course to help you set meaningful goals AND achieve them! This course contains my proven goal-setting process and includes our Goal-Setting Workbook that contains my unique goal-planning template. Check out my [Goal Planning Success](https://values-driven-culture.teachable.com/p/goal-planning-success-2022?coupon_code=SAVE100){target="_blank" rel="noopener noreferrer"} course and, for a limited time, get \$100 off!
+Do you want to get the most out of 2022? The one process that I can heartily recommend to make 2022 your best year ever is ***goal setting***. We’ve created an online course to help you set meaningful goals AND achieve them! This course contains my proven goal-setting process and includes our Goal-Setting Workbook that contains my unique goal-planning template. Check out my [Goal Planning Success](https://values-driven-culture.teachable.com/p/goal-planning-success-2022?coupon_code=SAVE100) course and, for a limited time, get \$100 off!
 
 ![](/images/2017/12/GPS-Course-Main-Title-Page-2018-Edition-w-Workbook-overlay-1000px-300x191.jpg)
 

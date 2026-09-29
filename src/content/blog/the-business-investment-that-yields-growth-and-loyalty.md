@@ -12,11 +12,11 @@ draft: false
 
 Are you a frustrated leader?  Are you frustrated with your employees, with your business, with your life?  Are you afraid of being left behind in this booming economy?  Do you wish your employees would come to work each day with enthusiasm, excitement, and passion rather than just “clocking in and clocking out”?  
 
-**If you are open for change, please take our FREE 5-minute ON&IN Leadership Assessment \<here\>**
+**If you are open for change, please take our FREE 5-minute ON&IN Leadership Assessment [here](/assessment/)**
 
 Do you want to grow your business? Do you want to achieve successful results that you have never seen before?  
 
-I’ve discovered that success is a multi-step undertaking.  First, you need to grow YOU (a wrote about this step \<**[here](/blog/your-team-is-not-your-problem/){target="_blank" rel="noopener"}**\>). After you have committed to grow yourself, it is time for you, as the leader, to *grow your people, * and it means you need to… 
+I’ve discovered that success is a multi-step undertaking.  First, you need to grow YOU (a wrote about this step \<**[here](/blog/your-team-is-not-your-problem/)**\>). After you have committed to grow yourself, it is time for you, as the leader, to *grow your people, * and it means you need to… 
 
 **Work ON the business while we work IN the business.** 
 
@@ -48,6 +48,6 @@ I observed that the returns on investment in *training*  AND *development*
 
 *Are you ready to begin to work ****ON****, not just ****IN****, the business? * *Are you willing to change and invest in personal growth for yourself and your people?*  
 
-**Take our FREE 5-minute ON&IN Leadership Assessment \<here\>.  Consider asking your team to take this assessment. It’s one way to grow your** **people!**
+**Take our FREE 5-minute ON&IN Leadership Assessment [here](/assessment/).  Consider asking your team to take this assessment. It’s one way to grow your** **people!**
 
 ![OnIn - The Business Investment That Yields Growth and Loyalty](/images/2018/12/On_in_color_trans-w-R-symbol-150x150.png "Bobby Albert - On In")

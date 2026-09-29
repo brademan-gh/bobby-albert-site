@@ -82,7 +82,7 @@ I have learned that you need a **plan** in order to maximize your *personal grow
 
 As a start, commit that you will choose to learn something new every day!
 
-To help with your *personal growth* journey, I have created a simple **Goal Setting Workbook**. It’s **FREE**, and you can download it immediately by \<clicking here\>. Feel free to print it or save it for your own use.
+To help with your *personal growth* journey, I have created a simple **Goal Setting Workbook**. It’s **FREE**, and you can download it immediately by [clicking here](/resources/gps-goal-planning-workbook/). Feel free to print it or save it for your own use.
 
 If you would like to go to a summary blog post about personal growth goal setting, you can \<[click here](/blog/goal-setting-simple-1-2-3/)\>.
 

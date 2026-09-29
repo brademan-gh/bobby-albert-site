@@ -134,6 +134,6 @@ Are you leading your organization toward growth? Take my **FREE Lead2Grow Assess
 
 \*\*\*\*\*\*\*\*\*\*
 
-Goal setting has been so instrumental to my success. I’ve prepared a special PDF document with additional goal-setting insights. You can download my FREE download [**Good to Great Goal Setting**](https://values-driven.lpages.co/good-to-great-goal-setting-tips-lead-page/?source=post){target="_blank" rel="noopener"} \<**[here](https://values-driven.lpages.co/good-to-great-goal-setting-tips-lead-page/?source=post){target="_blank" rel="noopener"}**\>.  
+Goal setting has been so instrumental to my success. I’ve prepared a special PDF document with additional goal-setting insights. You can download my FREE download [**Good to Great Goal Setting**](https://values-driven.lpages.co/good-to-great-goal-setting-tips-lead-page/?source=post) \<**[here](https://values-driven.lpages.co/good-to-great-goal-setting-tips-lead-page/?source=post)**\>.  
 
 ![](/images/2017/11/Good-to-Great-Goal-Setting-Cover-page-small-image.png)

@@ -72,9 +72,9 @@ The **One-Over-One** policy will help you prevent “spilled milk” and reduce 
 
 *Are you experiencing more than your share of leadership headaches? Perhaps adopting the One-Over-One policy will alleviate much of your pain.* *  How do you handle this type of situation in your own organization? Please share your comments \<**here**\> and share this article with* *your* *supervisor(s), friend or co-worker.* 
 
-**P.S.**  I am often asked if decision-making is *top-down* or *bottom-up*.  The answer is both!  The *participative leadership style* that I call **Engage2Lead** and employs the [**1-2-3 leadership tool**](/blog/see-can-get-employees-think-like-owners/){target="_blank" rel="noopener"} is usually considered a *top-down* decision-making process.   
+**P.S.**  I am often asked if decision-making is *top-down* or *bottom-up*.  The answer is both!  The *participative leadership style* that I call **Engage2Lead** and employs the [**1-2-3 leadership tool**](/blog/see-can-get-employees-think-like-owners/) is usually considered a *top-down* decision-making process.   
 
-However, the **One-Over-One** policy is an example of a bottom-up decision-making process by using the [**1-2-3** **process**](/blog/see-can-get-employees-think-like-owners/){target="_blank" rel="noopener"} where a supervisor obtains the approval from their supervisor one level above them.    
+However, the **One-Over-One** policy is an example of a bottom-up decision-making process by using the [**1-2-3** **process**](/blog/see-can-get-employees-think-like-owners/) where a supervisor obtains the approval from their supervisor one level above them.    
 
 Need help setting your personal goals for 2018? – Take a look at my online Goal Planning Success course \<here\>!
 

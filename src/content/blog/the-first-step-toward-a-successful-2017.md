@@ -46,7 +46,7 @@ When I understand where I have been and where I am now, it is easier to chart th
 
 Each year about this time, I start my goal setting process – and it begins with Reflecting Back on the past year.  Then I progress on toward setting my goals for the coming year.
 
-Do you set goals? If you do, or if you would like to start, I have a FREE resource on goal setting for you.  I call it my ***Goal Tip Sheet with Five Proven Strategies to Achieve Your Goals*** – and you can get it by \<[Clicking Here](https://values-driven.leadpages.co/leadbox/1462d5223f72a2%3A145b8c4a3b46dc/5702652574826496/){target="_blank" rel="noopener"}
+Do you set goals? If you do, or if you would like to start, I have a FREE resource on goal setting for you.  I call it my ***Goal Tip Sheet with Five Proven Strategies to Achieve Your Goals*** – and you can get it by \<[Clicking Here](https://values-driven.leadpages.co/leadbox/1462d5223f72a2%3A145b8c4a3b46dc/5702652574826496/)
 
 \>.  I truly believe that you’ll be better positioned to set AND achieve meaningful goals for 2017, if you follow the straight-forward tips in this free document!
 

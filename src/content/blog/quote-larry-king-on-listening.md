@@ -9,4 +9,4 @@ tags:
 draft: false
 ---
 
-*Do want to learn how to listen better?  Read Tuesday’s blog post, “[5 Timeless Truths About Listening](/blog/5-timeless-truths-about-listening/){target="_blank"}”.*
+*Do want to learn how to listen better?  Read Tuesday’s blog post, “[5 Timeless Truths About Listening](/blog/5-timeless-truths-about-listening/)”.*

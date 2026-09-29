@@ -18,7 +18,7 @@ Did you know statistics show that while roughly 45% of adults make New Year’s 
 
 People who take the time to explicitly set goals and resolutions are ten times more likely to attain them than those who don’t make the effort. ^\[2\]^
 
-**Please download my newly redesigned and popular Goal Setting Workbook FREE by \<clicking here\>.**
+**Please download my newly redesigned and popular Goal Setting Workbook FREE by [clicking here](/resources/gps-goal-planning-workbook/).**
 
 In a previous blog posts I suggested you…
 

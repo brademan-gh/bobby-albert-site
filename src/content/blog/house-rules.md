@@ -53,7 +53,7 @@ What happens on the inside (*how* the child is maturing) will have far more infl
 
 ### **Workplace** **Relationship and Results**
 
-This also applies to the workplace. Most managers, while intelligent and well-meaning, tend to expediently “prepare the path” to drive for *results*. They “tell” their subordinates the *results* (the *what*) they want with little or no input (the *how*) from their subordinates*.* These managers don’t realize they could use the **[1-2-3 leadership tool](/blog/tired-trying-know/){target="_blank" rel="noopener noreferrer"}** and achieve significantly better results.
+This also applies to the workplace. Most managers, while intelligent and well-meaning, tend to expediently “prepare the path” to drive for *results*. They “tell” their subordinates the *results* (the *what*) they want with little or no input (the *how*) from their subordinates*.* These managers don’t realize they could use the **[1-2-3 leadership tool](/blog/tired-trying-know/)** and achieve significantly better results.
 
 Few managers realize how a *relationship*-oriented *participative leadership* *style*, like **Engage2Lead,** would prepare the employees for the twists and turns along the path as they serve customers, suppliers (yes, even suppliers), and each other.
 
@@ -71,7 +71,7 @@ An employee’s sense of ownership over a product or process translates into…
 
 Treat an employee like a robot, however, and watch production and satisfaction plummet. Instead of taking ownership and trying to solve problems, employees, feeling overwhelmed and disregarded, will shift blame and responsibilities to others.
 
-Every manager can become a more effective leader of their business as well as their family with some effort, a willingness to change, and acceptance of the *participative leadership style*, **Engage2Lead**, using the **[1-2-3 leadership tool](/blog/tired-trying-know/){target="_blank" rel="noopener noreferrer"}.**
+Every manager can become a more effective leader of their business as well as their family with some effort, a willingness to change, and acceptance of the *participative leadership style*, **Engage2Lead**, using the **[1-2-3 leadership tool](/blog/tired-trying-know/).**
 
 *Are you preparing your employees* *for the path or the path for your employees?  What steps can you take today to start earning the enthusiasm, initiative, and devotion of your employees?  Please share your thoughts \<**[here](/blog/house-rules/#comments)**\> and share this blog post with your family, co-worker, or friend.*
 

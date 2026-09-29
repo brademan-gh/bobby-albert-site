@@ -57,7 +57,7 @@ Margaret J. Wheatley describes the risks of a life void of reflection:
 
 Could I ask you to set aside some time for reflection? By looking back in a mindful, grateful, and goal-oriented way, we lay a solid foundation from which to improve in the coming year.
 
-Learn more about my online **Goal Planning Success** course \<[here](https://values-driven-culture.teachable.com/p/goal-planning-success-2022?coupon_code=SAVE100){target="_blank" rel="nofollow noopener"}\>. If you are serious about goal setting, then you owe it to yourself to investigate this course. It’s like a GPS for your life!
+Learn more about my online **Goal Planning Success** course \<[here](https://values-driven-culture.teachable.com/p/goal-planning-success-2022?coupon_code=SAVE100)\>. If you are serious about goal setting, then you owe it to yourself to investigate this course. It’s like a GPS for your life!
 
 ![](/images/2017/12/GPS-Course-Main-Title-Page-2018-Edition-w-Workbook-overlay-B-1000px.jpg)
 

@@ -24,7 +24,7 @@ Once the cow is roped, the two “muggers” try to hold the cow (it is fun to w
 
 Over the past several weeks, I have been writing about personal goal setting for 2016. Assuming you have by now written down your personal goals, it is now “Showtime, Baby!”  Much like the events at a Texas rodeo, it is now time for you to come out of the chute to “act” on your goals.
 
-**If you have not yet** **set** **personal goals for 2016, please download my newly redesigned and popular** **Goal Setting Workbook** **FREE by** **\<clicking here\>.**
+**If you have not yet** **set** **personal goals for 2016, please download my newly redesigned and popular** **Goal Setting Workbook** **FREE by** **[clicking here](/resources/gps-goal-planning-workbook/).**
 
 ***Every person can*** ***take action and*** ***have the best year ever in 2**016 by*** ***taking*** ***the next*** ***five*** ***steps.***
 
@@ -96,7 +96,7 @@ Congratulations, now it is time to circle back to your next highest priority/goa
 >
 > **– Frank Lloyd Wright**
 
-If you have not yet, set aside time to write a goal for each of the seven life areas that I have **developed to help you identify and record your personal goals for 2016!** I walk you through four simple steps in my **Goal Setting Workbook.** It’s FREE to download by \<**clicking here**\>.
+If you have not yet, set aside time to write a goal for each of the seven life areas that I have **developed to help you identify and record your personal goals for 2016!** I walk you through four simple steps in my **Goal Setting Workbook.** It’s FREE to download by [**clicking here**](/resources/gps-goal-planning-workbook/).
 
 **Why don’t you get started?** The hardest part of any important task is getting started. Once you actually begin work on a valuable task, you will be naturally motivated to continue.
 
@@ -106,10 +106,10 @@ Get started now by \<**clicking here**\> to download my **FREE Goal Setting Work
 
 Have you read my earlier blog posts on goal setting? Here’s a list with a link to each post:
 
--   [**Pause and reflect**](/blog/your-first-step-to-an-extraordinary-2016/){target="_blank"} by asking, “Where have I been? and “Where am I now?”
+-   [**Pause and reflect**](/blog/your-first-step-to-an-extraordinary-2016/) by asking, “Where have I been? and “Where am I now?”
 
--   [**Dream**](/blog/what-do-you-dream-to-accomplish-in-2016/){target="_blank"} and use six key “principles” to think as you are asking yourself “Where am I going?”
+-   [**Dream**](/blog/what-do-you-dream-to-accomplish-in-2016/) and use six key “principles” to think as you are asking yourself “Where am I going?”
 
--   **[Get more done](/blog/5-tips-to-get-more-done-in-2016/){target="_blank"}** by using five tips to guide your thinking about your 2016 goals.
+-   **[Get more done](/blog/5-tips-to-get-more-done-in-2016/)** by using five tips to guide your thinking about your 2016 goals.
 
--   [**Follow** **a simple two-step process**](/blog/a-simple-way-to-write-effective-goals-for-2016/){target="_blank"} to write effective goals for 2016.
+-   [**Follow** **a simple two-step process**](/blog/a-simple-way-to-write-effective-goals-for-2016/) to write effective goals for 2016.

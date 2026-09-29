@@ -43,7 +43,7 @@ As I have mentored struggling leaders, departmental managers, owners, presidents
 
 I have also found only 5% of leaders have a mission statement and strategic plans, only 5% have a purpose and vision statement, and finally, only 5% have identified their core values. 
 
-Please see my **[Values-Driven Organizational Hierarchy](https://values-driven.lpages.co/values-driven-organizational-hierarchy-lead-page){target="_blank" rel="noopener"}** below.  I have spent about 20 years refining this diagram. I’ve added to, subtracted from, changed the look, and changed the wording to reflect new insights as well as helpful feedback from others.  
+Please see my **[Values-Driven Organizational Hierarchy](/resources/tnb-organizational-hierarchy/)** below.  I have spent about 20 years refining this diagram. I’ve added to, subtracted from, changed the look, and changed the wording to reflect new insights as well as helpful feedback from others.  
 
 I have used this illustration for all these years to help our employees understand how independent each element was, and at the same time, how interdependent all the elements were in relationship to each other. 
 
@@ -51,6 +51,6 @@ Well, you no longer need to feel like you’re sinking in an ocean of despair. I
 
 *Have you had seasons of despair with your work or career?  How did you overcome* *them?  Have you ever had an uncomfortable* *conversation with* *an* *employee?  How did you handle it?  Please* *leave* *your comments \<**[here](/blog/uncomfortable-conversation-leader/#comments)**\> and share this article with a friend or coworker.* 
 
-Click \<**[here](https://values-driven.lpages.co/values-driven-organizational-hierarchy-lead-page){target="_blank" rel="noopener"}**\> or the image below to download a free copy of my Values-Driven Organizational Hierarchy. 
+Click \<**[here](/resources/tnb-organizational-hierarchy/)**\> or the image below to download a free copy of my Values-Driven Organizational Hierarchy. 
 
 ![All leaders can use the Values-Driven Organizational Hierarchy Diagram to achieve better results for themselves and their companies!](/images/2018/04/241rsrc-Values-Driven-Organizational-Hiearchy-thumbnail-image.png "Bobby Albert - Values-Driven Organizational Hierarchy")

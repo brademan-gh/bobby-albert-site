@@ -66,7 +66,7 @@ Your answers should reflect your beliefs and feelings – and they can’t be ju
 
 So… here is the survey below.  Consider downloading the FREE Motivation Survey so that you can print it and easily record your own answers.
 
-**[Click Here to Download My Free Motivation Survey](https://values-driven.leadpages.co/leadbox/1412d5b23f72a2%3A145b8c4a3b46dc/5684318433181696/){target="_blank"}**
+**[Click Here to Download My Free Motivation Survey](/resources/tnb-motivation-survey/)**
 
 As you read each one you might want to mark it with a “Y” for “yes, agree, or probably true” or an “N” for “no, disagree, or unlikely”.
 
@@ -92,7 +92,7 @@ As you read each one you might want to mark it with a “Y” for “yes, agree,
 
 Did you download the FREE printable survey? You can download it for your own use by clicking the following link:
 
-**[Click Here to Download My Free Motivation Survey](https://values-driven.leadpages.co/leadbox/1412d5b23f72a2%3A145b8c4a3b46dc/5684318433181696/){target="_blank"}**
+**[Click Here to Download My Free Motivation Survey](/resources/tnb-motivation-survey/)**
 
 *Well, how did you do?  What road are you traveling on?  Have you learned something about yourself?  Please share your thoughts \<**[here](/blog/journey-young-entrepreneur-effective-leader/#comments)**\> and share this blog post with a friend or co-worker.*
 

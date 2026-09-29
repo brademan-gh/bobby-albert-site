@@ -33,27 +33,27 @@ Since we had such success with our first **QIC** workshop, every year since, the
 
 The following is a summary of the blog posts that I’ve written about **Operation QIC**^®^**.  ** Jump directly to any post listed when you simply click on a headline listed below:
 
-### [**5 Baby Steps to Build A Mature Team** ](/blog/5-baby-steps-to-build-a-mature-team/){target="_blank"}
+### [**5 Baby Steps to Build A Mature Team** ](/blog/5-baby-steps-to-build-a-mature-team/)
 
 I have found *team*-building events to be an important part of building my business. Based on insights provided by my graphics design firm, I share five simple steps that would equip any leader to hold a successful *team*-building event!
 
-### [**Is Your Quality Contagious?**  ](/blog/is-your-quality-contagious/){target="_blank"}
+### [**Is Your Quality Contagious?**  ](/blog/is-your-quality-contagious/)
 
 Learn how to prepare for and kick-off a successful organization-wide event. Plus, we look at three questions that can get your people focused on *quality* improvements!
 
-### [**Catch the Quality Epidemic by “Scoping-Out” Four Questions** ](/blog/catch-the-quality-epidemic-by-scoping-out-four-questions/){target="_blank"}
+### [**Catch the Quality Epidemic by “Scoping-Out” Four Questions** ](/blog/catch-the-quality-epidemic-by-scoping-out-four-questions/)
 
-Discover how the internal customer concept can build *quality* into every step of the goods and services that you provide!  Plus, download the leadership tool: **[Internal Customer/Supplier Alignment Guide](/images/2015/07/130rsrc-Internal-Customer-Supplier-Alignment-Guide-v1.2.pdf){target="_blank"}** – for FREE!
+Discover how the internal customer concept can build *quality* into every step of the goods and services that you provide!  Plus, download the leadership tool: **[Internal Customer/Supplier Alignment Guide](/images/2015/07/130rsrc-Internal-Customer-Supplier-Alignment-Guide-v1.2.pdf)** – for FREE!
 
-### [**Empowered Teams Follow** **Through**](/blog/empowered-teams-follow-through/){target="_blank"}
+### [**Empowered Teams Follow** **Through**](/blog/empowered-teams-follow-through/)
 
 The results of our **Operation QIC****^®^****** efforts were phenomenal! As a leader, I learned that when you involve your people in the decision-making process, you truly empower them.  And empowered employees are energized to *follow through* with the decisions that they helped make!
 
-### [**Feedback is the “Breakfast of Champions”** ](/blog/feedback-is-the-breakfast-of-champions/){target="_blank"}
+### [**Feedback is the “Breakfast of Champions”** ](/blog/feedback-is-the-breakfast-of-champions/)
 
 We have learned that empowerment “gets people going”. And now we see how *feedback* “keeps them going”!  Check out the list of ways we incorporated *feedback* into our organization.
 
-### [**3 Simple Principles To Help You DO Quality- Not Just TALK** **It** ](/blog/3-simple-principles-to-help-you-do-quality-not-just-talk-it/){target="_blank"}
+### [**3 Simple Principles To Help You DO Quality- Not Just TALK** **It** ](/blog/3-simple-principles-to-help-you-do-quality-not-just-talk-it/)
 
 *Quality* management systems can get really complex.   But we discovered three simple principles that significantly improved our *quality* AND profits!
 

@@ -21,15 +21,15 @@ You might say that living without properly set personal goals is a lot like walk
 
 If you feel like you are wandering through life without the proper direction, there’s hope! People who take the time to explicitly set goals and resolutions are ten times more likely to attain them than those who don’t make the effort.^\[1\]^
 
-**Please download my newly redesigned and popular** **Goal Setting Workbook** **FREE by** **\<clicking here\>.**
+**Please download my newly redesigned and popular** **Goal Setting Workbook** **FREE by** **[clicking here](/resources/gps-goal-planning-workbook/).**
 
 In my previous three blog posts I suggested you…
 
 -   **[Pause and reflect](/blog/your-first-step-to-an-extraordinary-2016/)** by asking, “Where have I been? and “Where am I now?”
 
--   **[Dream](/blog/what-do-you-dream-to-accomplish-in-2016/){target="_blank"}** and use six key “principles” to think as you are asking yourself “Where am I going?”
+-   **[Dream](/blog/what-do-you-dream-to-accomplish-in-2016/)** and use six key “principles” to think as you are asking yourself “Where am I going?”
 
--   **[Get more done](/blog/5-tips-to-get-more-done-in-2016/){target="_blank"}** by using five tips to guide your thinking about your 2016 goals.
+-   **[Get more done](/blog/5-tips-to-get-more-done-in-2016/)** by using five tips to guide your thinking about your 2016 goals.
 
 I often heard from my good friend and mentor say…
 
@@ -89,7 +89,7 @@ Actually writing down your goals is an important step. There is something that e
 
 **Fact:** You are 42% more likely to achieve your goals, simply by writing them down!^\[2\]^
 
-Set aside time to write a goal for each of the seven life areas that I have **developed** **to help you identify and record your** **personal** **goals for 2016!** I walk you through four simple steps in my **Goal Setting Workbook.** It’s FREE to download by \<**clicking here**\>.
+Set aside time to write a goal for each of the seven life areas that I have **developed** **to help you identify and record your** **personal** **goals for 2016!** I walk you through four simple steps in my **Goal Setting Workbook.** It’s FREE to download by [**clicking here**](/resources/gps-goal-planning-workbook/).
 
 **Why don’t you get started?** The hardest part of any important task is getting started. Once you actually begin work on a valuable task, you will be naturally motivated to continue.
 

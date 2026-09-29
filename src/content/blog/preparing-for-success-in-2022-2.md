@@ -87,6 +87,6 @@ The course is chock full of videos that guide you through the process of goal se
 
 ![](/images/2021/12/Goal-Setting-Wheel-291x300.png)
 
-Oh, and for a limited time, ***I’ve slashed the price of the course by over 50%!*** Discover more and enroll in the course [HERE](https://values-driven-culture.teachable.com/p/goal-planning-success-2022?coupon_code=SAVE100){target="_blank" rel="noopener noreferrer"}.
+Oh, and for a limited time, ***I’ve slashed the price of the course by over 50%!*** Discover more and enroll in the course [HERE](https://values-driven-culture.teachable.com/p/goal-planning-success-2022?coupon_code=SAVE100).
 
 *Could you share your experiences when you wrote down your goals versus when you didn’t? Share your thoughts in the comment section below. *

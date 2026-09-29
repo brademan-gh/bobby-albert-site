@@ -82,85 +82,85 @@ The following is a summary of the articles that I’ve written about the **ON/
 
 ### **The Problem ** 
 
-**[Life Was Good and Then Everything Changed](/blog/life-good-everything-changed/){target="_blank" rel="noopener"} **
+**[Life Was Good and Then Everything Changed](/blog/life-good-everything-changed/) **
 
 Have you ever been in a season of your life were everything was going well, and then suddenly, your world collapsed? After tragedy struck, I was working tirelessly to keep my family business afloat. Read this post about my road to learning how to work smarter, not harder.  
 
-**[An Uncomfortable Conversation for Any Leader](/blog/uncomfortable-conversation-leader/){target="_blank" rel="noopener"} **
+**[An Uncomfortable Conversation for Any Leader](/blog/uncomfortable-conversation-leader/) **
 
 Read this blog post about how I navigated a season of troubled waters as a young, new business owner and learn how working ON the business is just as important as working IN the business.  
 
 ### **What is the ON/IN** **principle? ** 
 
-**[I Had to Hitch a Ride from My Own Employee – For 2 Years](/blog/i-had-to-hitch-a-ride-from-my-own-employee-for-2-years/){target="_blank" rel="noopener"} **
+**[I Had to Hitch a Ride from My Own Employee – For 2 Years](/blog/i-had-to-hitch-a-ride-from-my-own-employee-for-2-years/) **
 
 Do you feel like you are constantly in crisis mode at work, reacting to all of the problems and issues as they arise each day? Maybe you’re drowning in anxiety and worry like an alligator trying to pull you under.  Learn how my proactive approach to our business helped me “drain the swamp,” increase revenue over 200% and allowed for recording breaking profit.  
 
 ### **Why is the ON/IN principle important? ** 
 
-**[The Greatest Leadership Gap](/blog/the-greatest-leadership-gap/){target="_blank" rel="noopener"} **
+**[The Greatest Leadership Gap](/blog/the-greatest-leadership-gap/) **
 
 The greatest leadership gap in the world is understanding the difference between what you want and what you need.  Read on for tips and ideas to help you understand what you need so you can achieve all that you want.  
 
-**[What’s Your Leadership Roadmap](/blog/whats-your-leadership-roadmap/){target="_blank" rel="noopener"} **
+**[What’s Your Leadership Roadmap](/blog/whats-your-leadership-roadmap/) **
 
 Do you have a roadmap? And by that, I mean, have you taken the time to *reflect*, *plan*, and *prepare* so you know where your business is headed? It’s hard to get to where you’re going – if you don’t know how to get there! Find out about my Leadership Roadmap and download a free copy of it here. 
 
-**[Every Employee Asks These 5 Questions](/blog/every-employee-asks-these-5-questions/){target="_blank" rel="noopener"} **
+**[Every Employee Asks These 5 Questions](/blog/every-employee-asks-these-5-questions/) **
 
 A great employee wants to feel involved, understood and appreciated. Keep them engaged instead of dissatisfied and frustrated by answering five key questions that every employee has.  This blog post addresses those questions and gives tips to help boost the motivation (and retention) of your employees!  
 
 ### **Grow Yourself ** 
 
-**[Why Some Leaders Can Never Grow Their Business](/blog/why-some-leaders-can-never-grow-their-business/){target="_blank" rel="noopener"} **
+**[Why Some Leaders Can Never Grow Their Business](/blog/why-some-leaders-can-never-grow-their-business/) **
 
 Your business is the size of whatever you make it. Have you essentially placed a lid on your personal growth potential by not be willing to improve yourself? Read this post to learn about how I “lifted the lid” to my own personal growth and how I’m still practicing those techniques to this day.
 
 ### **Grow Your People ** 
 
-**[If You Miss This Leadership Opportunity, You’ll Regret It Later](/blog/if-you-miss-this-leadership-opportunity-youll-regret-it-later/){target="_blank" rel="noopener"} **
+**[If You Miss This Leadership Opportunity, You’ll Regret It Later](/blog/if-you-miss-this-leadership-opportunity-youll-regret-it-later/) **
 
 Do you know that the choices you make today will impact yourself, your people and your company tomorrow? Your decisions, or lack thereof, may be limiting the growth potential in your business and you don’t even realize it. Read about one leadership opportunity that you don’t want to miss.  
 
 ### **Why Leaders Do Not Grow Themselves and Their People ** 
 
-**[Are These Personal Growth Myths Limiting Your Leadership](/blog/are-these-personal-growth-myths-limiting-your-leadership/){target="_blank" rel="noopener"} **
+**[Are These Personal Growth Myths Limiting Your Leadership](/blog/are-these-personal-growth-myths-limiting-your-leadership/) **
 
 Feeling like you’ve settled for mediocrity in your organization? Not sure what exactly is limiting your growth potential? You may have given in to one of these three personal growth myths. Read more about them here. 
 
 ### **How to Grow You and Your People ** 
 
-**[The Six-Figure Productivity Technique](/blog/the-six-figure-productivity-technique/){target="_blank" rel="noopener"} **
+**[The Six-Figure Productivity Technique](/blog/the-six-figure-productivity-technique/) **
 
 There’s a technique out there that will increase your organization’s productivity, but it’ll cost you…..\$400,000! Ok, you can keep your money, but you should read this article to find out about the \$400K planning technique that could make productivity, and profits, SOAR\! 
 
-**[Should Leaders Focus on Training or Development](/blog/should-leaders-focus-on-training-or-development/){target="_blank" rel="noopener"} **
+**[Should Leaders Focus on Training or Development](/blog/should-leaders-focus-on-training-or-development/) **
 
 Usually, you hear and see the words *training* AND *development* used together in the business world but there is a very distinct difference between the two. Don’t overlook these important implications; they might just be the key to your success. Read more here.  
 
-**[A Sure-Fire Way to Stand Out From Your Competition](/blog/a-sure-fire-way-to-stand-out-from-your-competition/){target="_blank" rel="noopener"} **
+**[A Sure-Fire Way to Stand Out From Your Competition](/blog/a-sure-fire-way-to-stand-out-from-your-competition/) **
 
 Employee development is undervalued but when we focus on results AND people, we wind up with happier people and better results.  Read this post to find out how both training and development in your organization can lead to a culture where people thrive and profits soar.  
 
-**[A Simple Way to Measure Your Leadership Effectiveness](/blog/a-simple-way-to-measure-your-leadership-effectiveness/){target="_blank" rel="noopener"} **
+**[A Simple Way to Measure Your Leadership Effectiveness](/blog/a-simple-way-to-measure-your-leadership-effectiveness/) **
 
 Is the way you lead your people effective?  Discover an important truth that will multiply your effectiveness as a leader while STILL increasing your results!  
 
-**[Serve First – Lead Second](/blog/serve-first-lead-second/){target="_blank" rel="noopener"} **
+**[Serve First – Lead Second](/blog/serve-first-lead-second/) **
 
 Chick-Fil-A generates more revenue per restaurant than any other fast-food chain. How are they so successful? They have implemented a key business principle “to serve; not to be served.” And it’s not just the customer’s they’re serving. Read more about their chosen growth strategy and how you can serve first, then lead second.  
 
-**[Five Habits of Personal Growth](/blog/five-habits-personal-growth/){target="_blank" rel="noopener"} **
+**[Five Habits of Personal Growth](/blog/five-habits-personal-growth/) **
 
 Personal growth is a process over time and not a single, stand-alone event. Read this to learn about the five habits that, when adopted, will fuel your personal growth.  
 
 ### **Grow Your Business**
 
-**[Here’s How to Grow Your Business](/blog/heres-how-to-grow-your-business/){target="_blank" rel="noopener"} **
+**[Here’s How to Grow Your Business](/blog/heres-how-to-grow-your-business/) **
 
 If you’ve ever struggled to grow your business this post is for you. Read on to learn about the eight essential questions to ask yourself AND your employees while you all work ON your business not just IN the business.  
 
-**[Purpose, Mission, Super-Objectives](/blog/is-it-purpose-or-mission/){target="_blank" rel="noopener"} **
+**[Purpose, Mission, Super-Objectives](/blog/is-it-purpose-or-mission/) **
 
 Does your organization have a purpose or a mission statement? What about super-objectives? Or are you confused by what that even means for your business?  Read this post to learn how I discovered and implemented the four truths of effective leadership and how that process led to extraordinary results.  
 

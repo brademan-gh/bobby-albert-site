@@ -86,7 +86,7 @@ Optimal work relationships can’t prevail unless those involved in the organiza
 
 *Mutually* respectful relationships can be built and lead to effective team performance if those involved provide *feedback* to one another in a calm, constructive, sensitive manner.
 
-When my company kicked off our **AQL**^TM^**** (***A****sk* ***Q****uestions* and ***L****isten*) *QIC*-Day, I introduced *asking questions* by using the following free download (click \<[here](https://values-driven.leadpages.co/giveandreceivefeedback-leadpg/){target="_blank" rel="noopener"}\>) provided by my good friend and mentor Jim Lundy on…
+When my company kicked off our **AQL**^TM^**** (***A****sk* ***Q****uestions* and ***L****isten*) *QIC*-Day, I introduced *asking questions* by using the following free download (click \<[here](/resources/aql-give-and-receive-feedback-questions/)\>) provided by my good friend and mentor Jim Lundy on…
 
 -   *How to *give* constructive *feedback**
 
@@ -162,7 +162,7 @@ Whether you are *giving* or *receiving feedback*…
 
 > **“Seek first to understand, then to be understood.” – Stephen Covey**
 
-Don’t forget to download the list of **[34 Questions to Help You Give and Receive Feedback](https://values-driven.lpages.co/give-and-receive-feedbackv2-leadpage/){target="_blank" rel="noopener"}** – just click the image below:
+Don’t forget to download the list of **[34 Questions to Help You Give and Receive Feedback](/resources/aql-give-and-receive-feedback-questions/)** – just click the image below:
 
 ![Questions to Help Give and Receive Feedback](/images/2015/10/160rsrc-leadpage-image-Questions-to-Give-and-Receive-Feedback.png "Bobby Albert: Questions to Help You Give and Receive Feedback")
 

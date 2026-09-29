@@ -21,13 +21,13 @@ Planning for 2016 is a bit like planning for a big trip.  To get the maximum ex
 
 The process of setting goals is a proven way to plan your “trip” through 2016. And I have some tips that will help you accomplish more than you ever thought possible!
 
-**Please download my newly redesigned and popular, personal** **Goal Setting Workbook** **FREE by \<clicking here\>.**
+**Please download my newly redesigned and popular, personal** **Goal Setting Workbook** **FREE by [clicking here](/resources/gps-goal-planning-workbook/).**
 
 In a previous two blog posts I suggested you…
 
--   [**Pause and reflect**](/blog/your-first-step-to-an-extraordinary-2016/){target="_blank"} by asking, “Where have I been? and “Where am I now?”
+-   [**Pause and reflect**](/blog/your-first-step-to-an-extraordinary-2016/) by asking, “Where have I been? and “Where am I now?”
 
--   Then start [**dreaming**](/blog/what-do-you-dream-to-accomplish-in-2016/){target="_blank"} and *thinking* by asking yourself “Where am I going?”
+-   Then start [**dreaming**](/blog/what-do-you-dream-to-accomplish-in-2016/) and *thinking* by asking yourself “Where am I going?”
 
 Effective goal setting requires that we know where we’ve been, where we are, and where we’re going. Without this process, you may find yourself off course – or worse, going nowhere.
 
@@ -67,7 +67,7 @@ Your goals must be challenging but realistic. Reaching for perfectionism will on
 
 Following these five practical tips will help you plan your personal goals and get more done in 2016!
 
-Want an easy way to get started on your goals for 2016? Simply download my **Goal Setting Workbook**! Get yours FREE by \<**clicking here**\>.
+Want an easy way to get started on your goals for 2016? Simply download my **Goal Setting Workbook**! Get yours FREE by [**clicking here**](/resources/gps-goal-planning-workbook/).
 
 *Could you share* *your experiences when you staggered your start dates?  What happened when you got really focused on the most important goal?  Have you ever prepared a “Stop Doing” list?  How successful were you?  * *Click* **[*\<here\>*](/blog/5-tips-to-get-more-done-in-2016/#comments)** *to share your thoughts.  *
 

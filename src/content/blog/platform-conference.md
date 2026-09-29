@@ -56,4 +56,4 @@ Whether you are just starting or have an established business, you’ll walk awa
 
 *Would you like to successfully build, control, and grow your platform?*
 
-If so, consider signing-up for the [**Platform Conference**](http://www.platformconference.tv/){target="_blank"}.  The next conference will be held in Colorado Springs at the Broadmoor Resort and runs from November 9 through 11. I guarantee it will separate you from the pack and catapult you toward your end-goals.  And the best part is that expanding your **platform** has never been easier!
+If so, consider signing-up for the [**Platform Conference**](http://www.platformconference.tv/).  The next conference will be held in Colorado Springs at the Broadmoor Resort and runs from November 9 through 11. I guarantee it will separate you from the pack and catapult you toward your end-goals.  And the best part is that expanding your **platform** has never been easier!

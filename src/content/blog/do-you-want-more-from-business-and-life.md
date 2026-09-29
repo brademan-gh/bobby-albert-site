@@ -12,7 +12,7 @@ draft: false
 
 Do you want more?  Do you want more money?  Do you want more of the best of things?  Do you want more time?  Do you want more out of life?  Do you want more life fulfillment?  In your business, do you want more revenue, more employee productivity, and more profits?  Are you open for change to achieve more? 
 
-**If you are open** **to** **change, please take our FREE 5-minute ON&IN Leadership Assessment \<here\>.** 
+**If you are open** **to** **change, please take our FREE 5-minute ON&IN Leadership Assessment [here](/assessment/).** 
 
 I know what it feels like to want more. When my dad died, I was thrust into being the leader of our small business. We had five employees, a huge amount of debt, and very little income. Not exactly the textbook formula for success.   
 
@@ -64,6 +64,6 @@ As we applied the process of **effective leadership** and lived out the four tru
 
 **Find out when you take our FREE 5-minute ON&IN ** 
 
-**Leadership Assessment \<here\>.**
+**Leadership Assessment [here](/assessment/).**
 
 ![Bobby explains how every leader can adopt the proven ON&IN approach and experience extraordinary success in business and life! ](/images/2018/12/On_in_color_trans-w-R-symbol-150x150.png "Bobby Albert - ON&IN")

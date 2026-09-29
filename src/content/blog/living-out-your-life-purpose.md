@@ -17,9 +17,9 @@ The next logical question is, “***H**ow*** do I live out my life purpose?”
 
 Recently I’ve been writing about the ***why*** question, and now, I want to ask ***how.***  The two most important and powerful open-ended questions begin with ***why*** and ***how.***
 
-In my **[previous blog post](/blog/discover-the-compass-for-your-life/){target="_blank" rel="noopener"}**, I wrote about discovering ***why*** you exist (your life purpose).
+In my **[previous blog post](/blog/discover-the-compass-for-your-life/)**, I wrote about discovering ***why*** you exist (your life purpose).
 
-If you’d like to discover your life purpose, you can download my simple **[Life Purpose Discovery Worksheet](https://values-driven.lpages.co/life-purpose-discoveryv2-leadpg/){target="_blank" rel="noopener"}** FREE by \<[**clicking here**](https://values-driven.lpages.co/life-purpose-discoveryv2-leadpg/){target="_blank" rel="noopener"}\>.
+If you’d like to discover your life purpose, you can download my simple **[Life Purpose Discovery Worksheet](/resources/tnb-life-purpose-discovery-worksheet/)** FREE by \<[**clicking here**](/resources/tnb-life-purpose-discovery-worksheet/)\>.
 
 Like me, after you have discovered your *life purpose*, it’s time to ask yourself “What now?”  And, “***H**ow*** do I live out my *life purpose*?”
 

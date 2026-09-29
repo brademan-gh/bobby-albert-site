@@ -21,7 +21,7 @@ Then came the discovery *process* when our grandsons or granddaughters started t
 
 In business, my leadership went through a trial and error *process* of “crawl-walk-run.” At first, I took a wobbly step or two, then I began to walk, and finally, I started to run and never stopped. 
 
-One of the best truths I discovered about leadership may, at first, seem unusual, but I’ll be the first to say that it had a profound effect on my effectiveness.  In [a previous blog post](/blog/the-effectiveness-quotient/){target="_blank" rel="noopener"}, I shared this important, paradoxical truth: 
+One of the best truths I discovered about leadership may, at first, seem unusual, but I’ll be the first to say that it had a profound effect on my effectiveness.  In [a previous blog post](/blog/the-effectiveness-quotient/), I shared this important, paradoxical truth: 
 
 ***E**very leader can experience*** ***exponential*** ***effectiveness by employing the two “R” factors –*** ***as you drive for*** ***r**esults, also maintain and enhance*** ***r**elationships*** ***by*** ***engaging employees.*** 
 

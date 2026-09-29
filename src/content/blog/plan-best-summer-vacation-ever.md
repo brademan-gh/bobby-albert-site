@@ -82,11 +82,11 @@ As a leader, you can also begin the process to *engage* your employees by consis
 
 ### **Family Engagement**
 
-Today, at the very *beginning* of your decision-making process for your family’s summer vacation – AND *before* making a decision –  seek to *engage* your children for the best summer vacation your family will ever have. I’ve created a [**Family** **Vacation Discussion Guide**](https://values-driven.lpages.co/family-vacation-discussion-guide-leadpg/){target="_blank" rel="noopener"} with tips and suggested questions to help guide your family discussion.
+Today, at the very *beginning* of your decision-making process for your family’s summer vacation – AND *before* making a decision –  seek to *engage* your children for the best summer vacation your family will ever have. I’ve created a [**Family** **Vacation Discussion Guide**](/resources/tnb-family-vacation-discussion-guide/) with tips and suggested questions to help guide your family discussion.
 
 ![Family Vacation Discussion Guide-thumbnail-400x518px](/images/2017/05/Family-Vacation-Discussion-Guide-thumbnail-400x518px-232x300.png)
 
-You can download your free **Family** **Vacation Discussion Guide** \<[**here**](https://values-driven.lpages.co/family-vacation-discussion-guide-leadpg/){target="_blank" rel="noopener"}\>. I’m confident that if you *engage* your family in the decision-making process, you’ll plan your best summer vacation ever!
+You can download your free **Family** **Vacation Discussion Guide** \<[**here**](/resources/tnb-family-vacation-discussion-guide/)\>. I’m confident that if you *engage* your family in the decision-making process, you’ll plan your best summer vacation ever!
 
 *Have you every engaged your children in the family vacation decision-making process?  What were the results?  Do* *you engage your employees in your business decision-making process?  Please share your thoughts \<**[here](/blog/plan-best-summer-vacation-ever/#comments)**\> and share this blog post with your family, friends, and co-workers!*
 

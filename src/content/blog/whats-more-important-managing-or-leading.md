@@ -24,7 +24,7 @@ Regardless of title or job position, I have found that [we all wear two hats](/b
 
 People tend to wear one hat more than the other, we call that a *bent* or bias toward either managing or leading.
 
-You can discover which hat is more comfortable for you by downloading my no-cost [Managing and Leading Assessment](https://values-driven.leadpages.net/leadpg6/).
+You can discover which hat is more comfortable for you by taking my no-cost [Managing and Leading Assessment](/assessment/).
 
 When we wear our **leadership** hat, our focus is on *people* (**R**elationships). When we wear our **management** hat, our focus is more on *things* (**R**esults).
 
@@ -112,6 +112,6 @@ Here is a list of the blog posts that I’ve written on **Managing** (*things*) 
 11. [Do You Focus on Efficiency or Effectiveness?](/blog/focus-on-efficiency-and-effectiveness/) – **Efficiency** and **effectiveness** represent two viewpoints that are useful to leaders and managers. While they sound similar, they mean different things.Every leader and manager can achieve greater success by viewing matters through the lenses of **efficiency** and **effectiveness**.
 12. [The Secret Sauce for Success](/blog/the-secret-sauce-for-success/) – For years, I have been asked about the secret to my success. I share my secret in this post, ***and*** explain how you can adopt the same approach in your journey to success!
 
-What is your bent? Is it managing or leading? You can find out now! *Simply download your own copy of my [Managing and Leading** Assessment**](https://values-driven.leadpages.net/leadpg6/) by [\<clicking here\>](https://values-driven.leadpages.net/leadpg6/).* *It takes less than five minutes to complete. *
+What is your bent? Is it managing or leading? You can find out now! *Simply take my [Managing and Leading** Assessment**](/assessment/) by [\<clicking here\>](/assessment/).* *It takes less than five minutes to complete. *
 
 *Do you want extraordinary **results**? Are you ready to increase your **relationship** skills along with your drive for **results**? Could you share your comments [\<here\>](/blog/whats-more-important-managing-or-leading/#comments "Click here to leave a comment") and share this blog post with a friend and/or co-worker?*

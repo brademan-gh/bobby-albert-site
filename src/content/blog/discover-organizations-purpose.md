@@ -34,7 +34,7 @@ When your people buy into the changeless *purpose* (***why*** we exist), they wi
 
 It is important to remember that this *process* is as important as the end product – the *purpose* statement.
 
-**Do you want help discovering** ***Why*** **your organization exists?  Please download** **FREE** **my** **expanded version of a** [**Discovery Guide for** **Your Organization’s Purpose**](https://values-driven.lpages.co/discovery-guide-org-purposev2/){target="_blank" rel="noopener"} **by \<[clicking here](https://values-driven.lpages.co/discovery-guide-org-purposev2/){target="_blank" rel="noopener"}\>.  **
+**Do you want help discovering** ***Why*** **your organization exists?  Please download** **FREE** **my** **expanded version of a** [**Discovery Guide for** **Your Organization’s Purpose**](/resources/tnb-discovery-guide-organizations-purpose/) **by \<[clicking here](/resources/tnb-discovery-guide-organizations-purpose/)\>.  **
 
 ### ****1. Understand the** **Criteria** **
 
@@ -58,7 +58,7 @@ As you go through these questions, I encourage you to write as many descriptive 
 
 ### ****4. Aim for a** **Bull’s-Eye** **Single Word****
 
-Simplicity produces clarity. In my free [Discovery Guide](https://values-driven.lpages.co/discovery-guide-org-purposev2/){target="_blank" rel="noopener"}, you’ll learn how to tap the power of simplicity by narrowing your focus to a single word that represents the center of your *purpose*.
+Simplicity produces clarity. In my free [Discovery Guide](/resources/tnb-discovery-guide-organizations-purpose/), you’ll learn how to tap the power of simplicity by narrowing your focus to a single word that represents the center of your *purpose*.
 
 Once identified, this one single word will bring meaning to everything you do – organization’s meetings; employee, customer, and supplier relationships.
 
@@ -72,6 +72,6 @@ How do you know if you have truly discovered the *purpose* of your organization?
 
 After you complete these six simple steps, it is time for you to have a celebration announcement and begin to live out your *purpose*.
 
-**The best way to walk through these six steps** **is to** **use my** **FREE** [**Discovery Guide for** **Your Organization’s Purpose**](https://values-driven.lpages.co/discovery-guide-org-purposev2/){target="_blank" rel="noopener"}**. You can download it** **by \<[clicking here](https://values-driven.lpages.co/discovery-guide-org-purposev2/){target="_blank" rel="noopener"}\>.  **
+**The best way to walk through these six steps** **is to** **use my** **FREE** [**Discovery Guide for** **Your Organization’s Purpose**](/resources/tnb-discovery-guide-organizations-purpose/)**. You can download it** **by \<[clicking here](/resources/tnb-discovery-guide-organizations-purpose/)\>.  **
 
 *Are you ready to discover your organization’s purpose?  Have you arranged for your people as a team to help you discover your purpose?  Please share your thoughts \<**[here](/blog/discover-organizations-purpose/#comments)**\> and share this blog post with a friend and/or co-worker.   *

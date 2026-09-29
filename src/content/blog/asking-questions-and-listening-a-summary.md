@@ -59,49 +59,49 @@ Since we are *all* selling something (in our family, with friends, in the workpl
 
 I’ve discovered that one of the keys to being a great communicator is *asking* *questions* and *listening*!  Here is a list of the blog posts I have written about what I call **AQL**TM – **A**sk **Q**uestions & **L**isten:
 
-**[You Don’t Have to Be a Speech Writer to Communicate Effectively](/blog/you-dont-have-to-be-a-speech-writer-to-communicate-effectively/){target="_blank" rel="noopener"}**
+**[You Don’t Have to Be a Speech Writer to Communicate Effectively](/blog/you-dont-have-to-be-a-speech-writer-to-communicate-effectively/)**
 
 Maintaining good** **communication between people in a family, with friends, and at work is rooted in ***mutual* *understanding* **and is fundamental to their mutual success. Plus, discover three ways to avoid *misunderstanding*!
 
-[**4 Ways to Listen That Fall Short – And the 1 Powerful Way to Listen Like a Pro!** ](/blog/4-ways-to-listen-that-fall-short-and-the-1-powerful-way-to-listen-like-a-pro/){target="_blank" rel="noopener"}
+[**4 Ways to Listen That Fall Short – And the 1 Powerful Way to Listen Like a Pro!** ](/blog/4-ways-to-listen-that-fall-short-and-the-1-powerful-way-to-listen-like-a-pro/)
 
 Stephen Covey describes ***five levels of listening***. I break down the details of each, and highlight the top level to which we should all aspire! Which level do you employ in your communication with others?
 
-[**5 Timeless Truths About Listening** ](/blog/5-timeless-truths-about-listening/){target="_blank" rel="noopener"}
+[**5 Timeless Truths About Listening** ](/blog/5-timeless-truths-about-listening/)
 
 Take a ***simple listening test*** that often reveals our need to listen better. Plus, learn five truths that will deepen your understanding of listening!
 
-[**Get Rid of Your Listening Problems Once and For All** ](/blog/get-rid-of-your-listening-problems-once-and-for-all/){target="_blank" rel="noopener"}
+[**Get Rid of Your Listening Problems Once and For All** ](/blog/get-rid-of-your-listening-problems-once-and-for-all/)
 
 Want to become a ***model listener***? Read about how you can use the four ways people listen to improve your communication!
 
-[**Why Most People Never Ask the Right Questions** ](/blog/why-most-people-never-ask-the-right-questions/){target="_blank" rel="noopener"}
+[**Why Most People Never Ask the Right Questions** ](/blog/why-most-people-never-ask-the-right-questions/)
 
 Have you noticed that most people would rather talk than listen? Discover four reasons that people use to justify their lack of *asking questions*!
 
-[**Three Reasons You Should Ask Questions Like** **Columbo** ](/blog/three-reasons-you-should-ask-questions-like-columbo/){target="_blank" rel="noopener"}
+[**Three Reasons You Should Ask Questions Like** **Columbo** ](/blog/three-reasons-you-should-ask-questions-like-columbo/)
 
 Peter Falk, from the TV show Columbo, was an expert at asking great questions. Release your “inner-Columbo” as you read about the ***three key benefits*** associated with *asking questions*!
 
-[**You Too Can Ask Profound Questions!** ](/blog/you-too-can-ask-profound-questions/){target="_blank" rel="noopener"}
+[**You Too Can Ask Profound Questions!** ](/blog/you-too-can-ask-profound-questions/)
 
-Do you want great answers for the issues that you face in your business and life?  I have learned that *profound questions* lead to *profound answers*!  Don’t miss the ***free download*** in this post: “[12 Profound Questions to Grow Your Business](https://values-driven.lpages.co/12profoundquestionsv2/){target="_blank" rel="noopener"}”.
+Do you want great answers for the issues that you face in your business and life?  I have learned that *profound questions* lead to *profound answers*!  Don’t miss the ***free download*** in this post: “[12 Profound Questions to Grow Your Business](/resources/aql-12-profound-questions-grow-your-business/)”.
 
-[**I’ll Take “Asking Questions” for \$500** ](/blog/ill-take-asking-questions-for-500/){target="_blank" rel="noopener"}
+[**I’ll Take “Asking Questions” for \$500** ](/blog/ill-take-asking-questions-for-500/)
 
 Once leaders understand the importance of *asking questions* and *listening*, their next question is, “How do I teach these principles to my team?”.  Read about how I successfully accomplished this in our own company, and how you can too. Plus, there’s a ***free download*** of the group exercises that I used with my team!
 
-[**Use Questions to Give Constructive Feedback**](/blog/use-questions-to-give-constructive-feedback/){target="_blank" rel="noopener"}
+[**Use Questions to Give Constructive Feedback**](/blog/use-questions-to-give-constructive-feedback/)
 
-Great leaders understand that they must overcome their positional authority to really connect and communicate with their people.  Great communication depends not only on *what* you say, but *how* you say it! Don’t miss the ***free download***: [34 Questions to Help You Give and Receive Feedback](https://values-driven.leadpages.co/giveandreceivefeedback-leadpg/){target="_blank" rel="noopener"}.
+Great leaders understand that they must overcome their positional authority to really connect and communicate with their people.  Great communication depends not only on *what* you say, but *how* you say it! Don’t miss the ***free download***: [34 Questions to Help You Give and Receive Feedback](/resources/aql-give-and-receive-feedback-questions/).
 
-[**The Secret of Top Salespeople** ](/blog/the-secret-of-top-salespeople/){target="_blank" rel="noopener"}
+[**The Secret of Top Salespeople** ](/blog/the-secret-of-top-salespeople/)
 
 We are all selling something- even in our family, with friends and in the workplace or marketplace. Learn how top salespeople use **AQL***TM* to truly understand and meet the needs of their customers!
 
-[**Do You Make These Same Customer Service Mistakes?**](/blog/do-you-make-these-same-customer-service-mistakes/){target="_blank" rel="noopener"}
+[**Do You Make These Same Customer Service Mistakes?**](/blog/do-you-make-these-same-customer-service-mistakes/)
 
-The way I used to deal with customer service complaints just didn’t cut it.  After years of frustrating experiences, I finally realized that my approach needed to change.  **Read about my new approach** – and see how you can use it in your own business!  Plus, don’t miss the ***[free printable download](/images/2015/11/162rsrc-Seek-First-to-Understand-Quote.pdf){target="_blank" rel="noopener"}*** featuring a powerful quote by Stephan Covey!
+The way I used to deal with customer service complaints just didn’t cut it.  After years of frustrating experiences, I finally realized that my approach needed to change.  **Read about my new approach** – and see how you can use it in your own business!  Plus, don’t miss the ***[free printable download](/images/2015/11/162rsrc-Seek-First-to-Understand-Quote.pdf)*** featuring a powerful quote by Stephan Covey!
 
 ***The keys to success are*** ***seldom*** ***buried under a rock***, or hidden under a doormat.  They are usually in plain sight.  But they are often ignored.  I’d like to suggest that **the skills and habits of** ***asking questions*** **and** ***listening*** **are two such keys**.
 

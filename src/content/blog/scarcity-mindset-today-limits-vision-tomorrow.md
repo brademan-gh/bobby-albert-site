@@ -58,7 +58,7 @@ Consider the differences between *scarcity* and *abundance* mindsets.![B
 
 Would you like to have a simple reminder of the important concept of the *abundance* mindset vs. the *scarcity* mindset? If you’re like me, you could benefit from a visual reminder of this important principle. I have created a printable page that highlights the differences in these two mindsets.
 
-Please click \<**[here](http://bit.ly/1SRcrwp){target="_blank"}**\> to download my **[Abundance vs. Scarcity Mindset printable](http://bit.ly/1SRcrwp){target="_blank"}**.
+Please click \<**[here](http://bit.ly/1SRcrwp)**\> to download my **[Abundance vs. Scarcity Mindset printable](http://bit.ly/1SRcrwp)**.
 
 The more we understand the differences between an *abundance* mindset and a *scarcity* mindset, the more likely we’ll make *principled* decisions from a place of *abundance*!
 

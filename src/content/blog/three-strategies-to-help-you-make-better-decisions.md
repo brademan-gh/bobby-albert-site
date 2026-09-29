@@ -71,7 +71,7 @@ Another key to making **principled** decisions is to evaluate opportunities in l
 
 > Insight:  When our employees in our company knew our core values, it also became easier as a TEAM to consistently make principled decisions.
 
-I’ve made a simple ***Values Discovery Worksheet*** for you to use in your own ***core values*** journey. It’s **FREE**, and you can download it immediately by \<clicking here\>. Feel free to print it or save it for your own use.
+I’ve made a simple ***Values Discovery Worksheet*** for you to use in your own ***core values*** journey. It’s **FREE**, and you can download it immediately by [clicking here](/resources/tnb-core-values-discovery-guide/). Feel free to print it or save it for your own use.
 
 ### Prepare a Plan
 

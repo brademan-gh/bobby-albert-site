@@ -17,7 +17,7 @@ To further her **dream**, she even wrote a high school term-paper on Thomas Jeff
 
 Even though her path of life changed along the way, her **dream** still lived on.  And this past summer, she was able to check-off a dream-inspired “bucket-list” item as we traveled to see Monticello.
 
-In my **[previous blog post](/blog/your-first-step-to-an-extraordinary-2016/){target="_blank"}** I suggested you **pause and reflect** and consider, “Where have I been? and “Where am I now?”
+In my **[previous blog post](/blog/your-first-step-to-an-extraordinary-2016/)** I suggested you **pause and reflect** and consider, “Where have I been? and “Where am I now?”
 
 Effective, personal goal setting also requires us to start *thinking* and asking ourselves “Where am I going?”  What are my 2016 plans and goals? What do I ***dream to accomplish***?
 
@@ -99,6 +99,6 @@ As you can see, the way we *think* can be just the ticket we need to achieve our
 
 A goal is more than a dream; it’s a dream being acted upon. –David Schwartz
 
-Want an easy way to get started on your goals for 2016? Simply download my personal **Goal Setting Workbook**!  Get yours FREE by \<clicking here\>.
+Want an easy way to get started on your goals for 2016? Simply download my personal **Goal Setting Workbook**!  Get yours FREE by [clicking here](/resources/gps-goal-planning-workbook/).
 
 *Could you* *share how you have changed the way you* *think* *about setting your goals?  Click \<*[*here*](/blog/what-do-you-dream-to-accomplish-in-2016/#comments)*\> to share your thoughts. Also, please feel free to* *share this blog post with family, friends, or co-workers.*
