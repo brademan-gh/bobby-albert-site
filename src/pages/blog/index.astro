@@ -1,113 +1,181 @@
 ---
-import { Image } from 'astro:assets';
+// The blog landing page: twelve topics, not 289 dated titles.
+//
+// Why topics and not a reverse-chronological list: this archive spans 2014–2022
+// and almost none of it is time-sensitive. A date-ordered wall of 289 headings
+// tells a reader — and a crawler — nothing about what is here. Twelve pages, each
+// densely about one subject, do.
+//
+// No dates on this page or on the topic pages, on purpose. Browsing by subject is
+// not browsing by time, and the date forced two-line rows that made the old list
+// hard to scan. Dates are still on every post page, where they are provenance.
+//
+// The complete dated index, including the 25 posts that carry no topic, lives at
+// /blog/archive/.
 import { getCollection } from 'astro:content';
 import BaseHead from '../../components/BaseHead.astro';
 import Footer from '../../components/Footer.astro';
-import FormattedDate from '../../components/FormattedDate.astro';
 import Header from '../../components/Header.astro';
-import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
+import { POST_TOPIC } from '../../data/postTopics';
+import { TOPICS } from '../../data/topics';
 
 const posts = (await getCollection('blog', ({ data }) => !data.draft)).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
+const byTopic = new Map(TOPICS.map((t) => [t.id, [] as typeof posts]));
+for (const p of posts) {
+	const t = POST_TOPIC[p.id];
+	if (t) byTopic.get(t)?.push(p);
+}
+const grouped = posts.filter((p) => POST_TOPIC[p.id]).length;
+
+const title = 'Blog';
+const description = `${grouped} posts by Bobby Albert on leading a values-driven business, grouped into ${TOPICS.length} topics — from participative decision-making and core values to quality, goal setting and working ON the business.`;
 ---
 
 <!doctype html>
 <html lang="en">
 	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<BaseHead title={title} description={description} />
 		<style>
 			main {
-				width: 960px;
+				width: 900px;
 			}
-			ul {
-				display: flex;
-				flex-wrap: wrap;
-				gap: 2rem;
-				list-style-type: none;
-				margin: 0;
-				padding: 0;
-			}
-			ul li {
-				width: calc(50% - 1rem);
-			}
-			ul li * {
-				text-decoration: none;
-				transition: 0.2s ease;
-			}
-			ul li:first-child {
-				width: 100%;
-				margin-bottom: 1rem;
-				text-align: center;
-			}
-			ul li:first-child img {
-				width: 100%;
-			}
-			ul li:first-child .title {
-				font-size: 2.369rem;
-			}
-			ul li img {
-				margin-bottom: 0.5rem;
-				border-radius: 12px;
-			}
-			ul li a {
-				display: block;
-			}
-			.title {
-				margin: 0;
-				color: rgb(var(--black));
-				line-height: 1;
-			}
-			.date {
-				margin: 0;
+			.lede {
+				margin: 0 0 0.5em 0;
+				font-size: 1.05rem;
 				color: rgb(var(--gray));
 			}
-			ul li a:hover h4,
-			ul li a:hover .date {
-				color: rgb(var(--accent));
+			.archive-link {
+				display: inline-block;
+				margin-bottom: 3em;
+				font-size: 0.9rem;
 			}
-			ul a:hover img {
-				box-shadow: var(--box-shadow);
+			.topics {
+				display: grid;
+				grid-template-columns: 1fr 1fr;
+				gap: 1.5rem;
+				margin: 0;
+				padding: 0;
+				list-style: none;
+			}
+			/* The li is a grid so the card can stretch to the full row height; without
+			   it, a card with a short blurb floats and the row looks broken. */
+			.topics li {
+				display: grid;
+			}
+			.card {
+				display: flex;
+				flex-direction: column;
+				height: 100%;
+				box-sizing: border-box;
+				padding: 1.4em 1.5em;
+				border: 1px solid rgb(var(--gray-light));
+				border-radius: 12px;
+				background: white;
+				text-decoration: none;
+				transition:
+					border-color 0.15s ease,
+					box-shadow 0.15s ease;
+			}
+			.card:hover,
+			.card:focus-visible {
+				border-color: rgba(35, 55, 255, 0.35);
+				box-shadow: 0 4px 16px rgba(var(--gray), 14%);
+			}
+			.name {
+				display: block;
+				font-size: 1.15rem;
+				font-weight: 700;
+				line-height: 1.25;
+				color: rgb(var(--black));
+			}
+			.n {
+				display: inline-block;
+				margin-left: 0.5em;
+				padding: 0.05em 0.55em;
+				font-size: 0.72rem;
+				font-weight: 700;
+				vertical-align: 0.22em;
+				color: rgb(var(--gray));
+				background: rgba(var(--gray-light), 75%);
+				border-radius: 999px;
+			}
+			.blurb {
+				margin: 0.5em 0 0.9em;
+				font-size: 0.92rem;
+				line-height: 1.5;
+				color: rgb(var(--gray-dark));
+			}
+			.peek {
+				margin: 0;
+				padding: 0;
+				list-style: none;
+				border-top: 1px solid rgba(var(--gray-light), 80%);
+			}
+			.peek li {
+				padding: 0.42em 0;
+				font-size: 0.86rem;
+				line-height: 1.35;
+				color: rgb(var(--gray));
+				border-bottom: 1px solid rgba(var(--gray-light), 55%);
+			}
+			.peek li:last-child {
+				border-bottom: none;
+			}
+			.more {
+				display: block;
+				margin-top: auto;
+				padding-top: 0.9em;
+				font-size: 0.82rem;
+				font-weight: 700;
+				letter-spacing: 0.04em;
+				text-transform: uppercase;
+				color: var(--accent);
 			}
 			@media (max-width: 720px) {
-				ul {
-					gap: 0.5em;
-				}
-				ul li {
-					width: 100%;
-					text-align: center;
-				}
-				ul li:first-child {
-					margin-bottom: 0;
-				}
-				ul li:first-child .title {
-					font-size: 1.563em;
+				.topics {
+					grid-template-columns: 1fr;
+					gap: 1rem;
 				}
 			}
 		</style>
 	</head>
 	<body>
 		<Header />
-		<main>
-			<section>
-				<ul>
-					{
-						posts.map((post) => (
+		<main data-pagefind-body data-pagefind-filter="Section:Topics" data-pagefind-meta="section:Topics">
+			<h1>{title}</h1>
+			<p class="lede">
+				{grouped} posts on leading a values-driven business, grouped by what they are about.
+			</p>
+			<a class="archive-link" href="/blog/archive/">Or browse all {posts.length} posts by date &rarr;</a>
+
+			<ul class="topics">
+				{
+					TOPICS.map((t) => {
+						const list = byTopic.get(t.id) ?? [];
+						return (
 							<li>
-								<a href={`/blog/${post.id}/`}>
-									{post.data.heroImage && (
-										<Image width={720} height={360} src={post.data.heroImage} alt="" />
-									)}
-									<h4 class="title">{post.data.title}</h4>
-									<p class="date">
-										<FormattedDate date={post.data.pubDate} />
-									</p>
+								<a class="card" href={`/topics/${t.id}/`}>
+									<span class="name">
+										{t.name}
+										<span class="n">{list.length}</span>
+									</span>
+									<p class="blurb">{t.blurb}</p>
+									{/* The preview titles are indexed on their own post pages; repeating
+									    them here would return this page as a near-duplicate result. */}
+									<ul class="peek" data-pagefind-ignore>
+										{list.slice(0, 3).map((p) => (
+											<li>{p.data.title}</li>
+										))}
+									</ul>
+									<span class="more">All {list.length} posts &rarr;</span>
 								</a>
 							</li>
-						))
-					}
-				</ul>
-			</section>
+						);
+					})
+				}
+			</ul>
 		</main>
 		<Footer />
 	</body>

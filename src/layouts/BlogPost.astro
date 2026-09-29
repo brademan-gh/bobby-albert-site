@@ -5,15 +5,19 @@ import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
+import type { Topic } from '../data/topics';
 
 // pubDate is optional so this layout can also serve dateless pages (About).
 // heroImageAlt is optional; decorative hero images keep the empty default.
 // searchSection labels the page in search results and in the "Everything /
 // Blog posts / Resources" filter; About overrides it.
+// topic, when present, renders a link back to the browse topic this post belongs
+// to. The 25 NOT-CONTENT posts have none, and neither does About.
 type Props = Omit<CollectionEntry<'blog'>['data'], 'pubDate'> & {
 	pubDate?: CollectionEntry<'blog'>['data']['pubDate'];
 	heroImageAlt?: string;
 	searchSection?: string;
+	topic?: Topic;
 };
 
 const {
@@ -24,6 +28,7 @@ const {
 	heroImage,
 	heroImageAlt = '',
 	searchSection = 'Blog posts',
+	topic,
 } = Astro.props;
 
 // Pagefind reads these off the rendered HTML at build time. The ISO date is
@@ -73,6 +78,16 @@ const searchDate = pubDate ? pubDate.toISOString().slice(0, 10) : '';
 			.last-updated-on {
 				font-style: italic;
 			}
+			.topic {
+				margin-top: 3em;
+				padding-top: 1.2em;
+				font-size: 0.9rem;
+				color: rgb(var(--gray));
+				border-top: 1px solid rgb(var(--gray-light));
+			}
+			.topic a {
+				font-weight: 700;
+			}
 		</style>
 	</head>
 
@@ -111,6 +126,15 @@ const searchDate = pubDate ? pubDate.toISOString().slice(0, 10) : '';
 						<hr />
 					</div>
 					<slot />
+					{/* Ignored by the index: the topic name belongs to the topic page, and
+					    repeating it on all 264 posts would skew every search for it. */}
+					{
+						topic && (
+							<p class="topic" data-pagefind-ignore>
+								Filed under <a href={`/topics/${topic.id}/`}>{topic.name}</a>
+							</p>
+						)
+					}
 				</div>
 			</article>
 		</main>

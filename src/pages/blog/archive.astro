@@ -1,0 +1,180 @@
+---
+// The complete chronological index — every post, including the 25 that carry no
+// browse topic (holiday greetings, quote cards, promo stubs). /blog groups by
+// subject; this page is the record.
+//
+// Dates ARE shown here, unlike the topic pages. That is not an inconsistency: on
+// this page the date is the organising principle, so hiding it would leave a
+// year-grouped list with nothing to sort by.
+import { getCollection } from 'astro:content';
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import Header from '../../components/Header.astro';
+
+const posts = (await getCollection('blog', ({ data }) => !data.draft)).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+);
+const years = [...new Set(posts.map((p) => p.data.pubDate.getUTCFullYear()))];
+// UTC everywhere: pubDate is a bare date, so a local-timezone format can shift a
+// post back a day and, on 1 January, into the wrong year heading entirely.
+const shortDate = (d: Date) =>
+	d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', timeZone: 'UTC' });
+
+const title = 'Blog archive';
+const description = `Every one of Bobby Albert's ${posts.length} posts, newest first, from ${years[years.length - 1]} to ${years[0]}.`;
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={title} description={description} />
+		<style>
+			main {
+				width: 860px;
+			}
+			.crumb {
+				margin: 0 0 0.8em;
+				font-size: 0.85rem;
+				color: rgb(var(--gray));
+			}
+			.crumb a {
+				color: rgb(var(--gray));
+			}
+			.lede {
+				margin: 0 0 1.5em 0;
+				color: rgb(var(--gray));
+			}
+			.jump {
+				position: sticky;
+				top: 0;
+				z-index: 5;
+				display: flex;
+				flex-wrap: wrap;
+				gap: 0.15em;
+				margin: 0 -0.6em 2.5em;
+				padding: 0.7em 0.6em;
+				background: rgba(255, 255, 255, 0.93);
+				backdrop-filter: blur(6px);
+				border-bottom: 1px solid rgb(var(--gray-light));
+			}
+			.jump a {
+				padding: 0.25em 0.7em;
+				font-size: 0.85rem;
+				font-variant-numeric: tabular-nums;
+				color: rgb(var(--gray));
+				text-decoration: none;
+				border-radius: 999px;
+			}
+			.jump a:hover,
+			.jump a:focus-visible {
+				background: rgba(var(--gray-light), 70%);
+				color: var(--accent);
+			}
+			h2.year {
+				margin: 2.4em 0 0.2em;
+				padding-bottom: 0.3em;
+				/* Clears the sticky jump bar when a year anchor is followed. */
+				scroll-margin-top: 4em;
+				font-size: 0.95rem;
+				font-weight: 700;
+				letter-spacing: 0.12em;
+				color: rgb(var(--gray));
+				border-bottom: 1px solid rgb(var(--gray-light));
+			}
+			h2.year:first-of-type {
+				margin-top: 0;
+			}
+			ul {
+				display: grid;
+				grid-template-columns: 1fr 1fr;
+				column-gap: 2.5rem;
+				margin: 0;
+				padding: 0;
+				list-style: none;
+			}
+			/* Both columns share a grid row, so the link must fill its cell or the
+			   rules stop lining up across the gutter wherever a title wraps. */
+			li {
+				display: grid;
+			}
+			li a {
+				display: grid;
+				grid-template-columns: 4.6rem 1fr;
+				gap: 1rem;
+				align-items: baseline;
+				align-content: start;
+				height: 100%;
+				box-sizing: border-box;
+				padding: 0.55em 0.4em;
+				margin: 0 -0.4em;
+				border-radius: 6px;
+				text-decoration: none;
+				border-bottom: 1px solid rgba(var(--gray-light), 70%);
+			}
+			.date {
+				font-size: 0.78rem;
+				font-variant-numeric: tabular-nums;
+				color: rgb(var(--gray));
+				white-space: nowrap;
+			}
+			.title {
+				font-size: 1rem;
+				font-weight: 500;
+				line-height: 1.35;
+				color: rgb(var(--black));
+			}
+			li a:hover,
+			li a:focus-visible {
+				background: rgba(var(--gray-light), 45%);
+			}
+			li a:hover .title,
+			li a:focus-visible .title {
+				color: var(--accent);
+			}
+			@media (max-width: 720px) {
+				ul {
+					grid-template-columns: 1fr;
+				}
+				li a {
+					grid-template-columns: 1fr;
+					gap: 0.15rem;
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<p class="crumb"><a href="/blog/">Blog</a> &nbsp;/&nbsp; Archive</p>
+			<h1>Archive</h1>
+			<p class="lede">
+				All {posts.length} posts, newest first. <a href="/blog/">Browse by topic instead &rarr;</a>
+			</p>
+			<nav class="jump" aria-label="Jump to year">
+				{years.map((y) => <a href={`#y${y}`}>{y}</a>)}
+			</nav>
+			{
+				years.map((y) => (
+					<>
+						<h2 class="year" id={`y${y}`}>
+							{y}
+						</h2>
+						<ul>
+							{posts
+								.filter((p) => p.data.pubDate.getUTCFullYear() === y)
+								.map((post) => (
+									<li>
+										<a href={`/blog/${post.id}/`}>
+											<span class="date">{shortDate(post.data.pubDate)}</span>
+											<span class="title">{post.data.title}</span>
+										</a>
+									</li>
+								))}
+						</ul>
+					</>
+				))
+			}
+		</main>
+		<Footer />
+	</body>
+</html>

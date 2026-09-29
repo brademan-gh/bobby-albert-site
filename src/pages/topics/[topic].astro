@@ -1,0 +1,171 @@
+---
+// One page per browse topic: /topics/<id>/.
+//
+// These pages are the point of the whole exercise. A crawler or an AI assistant
+// reading this site used to see 289 individually-titled posts with no signal that
+// forty-seven of them are one sustained argument about participative leadership.
+// A topic page states the subject in a heading, describes it in a sentence, and
+// links every post that makes it.
+//
+// Posts are listed newest-first but WITHOUT dates — see the note in
+// src/pages/blog/index.astro.
+import type { GetStaticPaths } from 'astro';
+import { getCollection } from 'astro:content';
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import Header from '../../components/Header.astro';
+import { POST_TOPIC } from '../../data/postTopics';
+import { TOPICS } from '../../data/topics';
+
+export const getStaticPaths: GetStaticPaths = async () => {
+	const posts = (await getCollection('blog', ({ data }) => !data.draft)).sort(
+		(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+	);
+	return TOPICS.map((topic) => ({
+		params: { topic: topic.id },
+		props: { topic, posts: posts.filter((p) => POST_TOPIC[p.id] === topic.id) },
+	}));
+};
+
+const { topic, posts } = Astro.props;
+const others = TOPICS.filter((t) => t.id !== topic.id);
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={topic.name} description={topic.blurb} />
+		<style>
+			main {
+				width: 820px;
+			}
+			.crumb {
+				margin: 0 0 0.8em;
+				font-size: 0.85rem;
+				color: rgb(var(--gray));
+			}
+			.crumb a {
+				color: rgb(var(--gray));
+			}
+			h1 {
+				margin-bottom: 0.25em;
+				font-size: 2.3rem;
+			}
+			.blurb {
+				margin: 0 0 0.4em;
+				max-width: 40em;
+				font-size: 1.1rem;
+				line-height: 1.55;
+				color: rgb(var(--gray-dark));
+			}
+			.count {
+				margin: 0 0 2.5em;
+				font-size: 0.88rem;
+				color: rgb(var(--gray));
+			}
+			ul.posts {
+				display: grid;
+				grid-template-columns: 1fr 1fr;
+				column-gap: 2.5rem;
+				margin: 0 0 4em;
+				padding: 0;
+				list-style: none;
+				border-top: 1px solid rgb(var(--gray-light));
+			}
+			/* Both columns share a grid row, so the link has to fill its cell or the
+			   rules stop lining up across the gutter wherever a title wraps. */
+			ul.posts li {
+				display: grid;
+			}
+			ul.posts a {
+				display: block;
+				height: 100%;
+				box-sizing: border-box;
+				padding: 0.65em 0.4em;
+				margin: 0 -0.4em;
+				font-size: 1.02rem;
+				font-weight: 500;
+				line-height: 1.35;
+				color: rgb(var(--black));
+				text-decoration: none;
+				border-radius: 6px;
+				border-bottom: 1px solid rgba(var(--gray-light), 70%);
+			}
+			ul.posts a:hover,
+			ul.posts a:focus-visible {
+				background: rgba(var(--gray-light), 45%);
+				color: var(--accent);
+			}
+			.next h2 {
+				margin: 0 0 0.7em;
+				font-size: 0.9rem;
+				font-weight: 700;
+				letter-spacing: 0.1em;
+				text-transform: uppercase;
+				color: rgb(var(--gray));
+			}
+			.next ul {
+				display: flex;
+				flex-wrap: wrap;
+				gap: 0.5em;
+				margin: 0;
+				padding: 0;
+				list-style: none;
+			}
+			.next a {
+				display: inline-block;
+				padding: 0.4em 0.9em;
+				font-size: 0.88rem;
+				color: rgb(var(--gray-dark));
+				text-decoration: none;
+				border: 1px solid rgb(var(--gray-light));
+				border-radius: 999px;
+			}
+			.next a:hover,
+			.next a:focus-visible {
+				border-color: rgba(35, 55, 255, 0.4);
+				color: var(--accent);
+			}
+			@media (max-width: 720px) {
+				ul.posts {
+					grid-template-columns: 1fr;
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main data-pagefind-body data-pagefind-filter="Section:Topics" data-pagefind-meta="section:Topics">
+			<p class="crumb"><a href="/blog/">Blog</a> &nbsp;/&nbsp; Topics</p>
+			<h1>{topic.name}</h1>
+			<p class="blurb">{topic.blurb}</p>
+			<p class="count">{posts.length} posts</p>
+
+			{/* Each title is already indexed on its own post page. Indexing the list
+			    again here would make this page a near-duplicate of every post in it. */}
+			<ul class="posts" data-pagefind-ignore>
+				{
+					posts.map((p) => (
+						<li>
+							<a href={`/blog/${p.id}/`}>{p.data.title}</a>
+						</li>
+					))
+				}
+			</ul>
+
+			<div class="next" data-pagefind-ignore>
+				<h2>Other topics</h2>
+				<ul>
+					{
+						others.map((t) => (
+							<li>
+								<a href={`/topics/${t.id}/`}>{t.name}</a>
+							</li>
+						))
+					}
+				</ul>
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>

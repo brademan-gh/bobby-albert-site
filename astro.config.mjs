@@ -14,6 +14,12 @@ export default defineConfig({
 		// noindex tag of its own.
 		sitemap({ filter: (page) => !page.includes('/search/') }),
 	],
+	// /topics/ has no index page of its own — /blog is the topic hub. Without this,
+	// trimming a topic URL back to its parent, which people and crawlers both do,
+	// lands on the 404.
+	redirects: {
+		'/topics': '/blog/',
+	},
 	fonts: [
 		{
 			provider: fontProviders.local(),

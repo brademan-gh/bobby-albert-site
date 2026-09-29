@@ -1,5 +1,7 @@
 ---
 import { type CollectionEntry, getCollection, render } from 'astro:content';
+import { POST_TOPIC } from '../../data/postTopics';
+import { TOPIC_BY_ID } from '../../data/topics';
 import BlogPost from '../../layouts/BlogPost.astro';
 
 export async function getStaticPaths() {
@@ -13,8 +15,11 @@ type Props = CollectionEntry<'blog'>;
 
 const post = Astro.props;
 const { Content } = await render(post);
+// Undefined for the 25 posts that carry no browse topic; the layout then omits
+// the "Filed under" line rather than printing a broken link.
+const topic = TOPIC_BY_ID.get(POST_TOPIC[post.id]);
 ---
 
-<BlogPost {...post.data}>
+<BlogPost {...post.data} topic={topic}>
 	<Content />
 </BlogPost>
