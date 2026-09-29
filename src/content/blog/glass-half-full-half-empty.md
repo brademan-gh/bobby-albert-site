@@ -45,4 +45,4 @@ The freedom and success enjoyed by *abundant* thinkers becomes obvious when 
 
 People with a *scarcity* mindset see their glass as half *empty* and never let go of what they have – and when they don’t let go of what they have, they can never fully reach out for and grab hold of a greater **vision** of what could be.  Therefore, they wear a blindfold and can’t see where they are going – their **vision**.
 
-*Do you see your glass as half full or half empty? * *Do you have an abundance mindset or a scarcity mindset? * *Please share your* *comments \<**[here](/blog/glass-half-full-half-empty/#comments)**\> and share this blog post with friends, family and co-workers.*
+*Do you see your glass as half full or half empty? * *Do you have an abundance mindset or a scarcity mindset? * *Please share your* *comments **[here](/blog/glass-half-full-half-empty/#comments)** and share this blog post with friends, family and co-workers.*

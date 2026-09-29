@@ -63,4 +63,4 @@ Not only do you get *more* **results** and success, but also, *better* **results
 
 In my next blog post, I will share perhaps the most important thing I’ve ever written.
 
-*Do you want to lift your success lid? Are you ready to grow YOU? How can you use leadership math to multiply your effectiveness? Please share your comments [\<here\>](/blog/use-leadership-math-to-multiply-your-effectiveness/#comments).*
+*Do you want to lift your success lid? Are you ready to grow YOU? How can you use leadership math to multiply your effectiveness? Please share your comments [here](/blog/use-leadership-math-to-multiply-your-effectiveness/#comments).*

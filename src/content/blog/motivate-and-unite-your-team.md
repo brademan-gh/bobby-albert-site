@@ -88,4 +88,4 @@ Can you just imagine what your relationship would be like with your *external* c
 
 The **Nside/Outside** principle is a unique approach to customer service. I have found that you can achieve the excellent levels of customer service that you long to deliver, if you take time to roll out and fully implement the truths shared here.
 
-*Do you struggle to motivate and unite your team to consistently deliver excellent customer service? What impact do you think the **Nside/Outside** principle would have in your organization? I would love to hear your thoughts. You can share them \<[here](http://www.bobbyalbert.infusionstage.com/motivate-and-unite-your-team/#comments)\>. Please share this post with someone who would benefit from this powerful concept.*
+*Do you struggle to motivate and unite your team to consistently deliver excellent customer service? What impact do you think the **Nside/Outside** principle would have in your organization? I would love to hear your thoughts. You can share them [here](http://www.bobbyalbert.infusionstage.com/motivate-and-unite-your-team/#comments). Please share this post with someone who would benefit from this powerful concept.*

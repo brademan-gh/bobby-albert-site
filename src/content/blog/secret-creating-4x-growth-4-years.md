@@ -83,8 +83,8 @@ The leader must still decide the future direction for the organization.
 
 I can confidently say from experience that the increases in morale and TEAMWORK will lead to improved performance and results through the *participative leadership style* called **Engage2Lead** and the use of the three question tool, “**1-2-3**”.
 
-*Do you* *make* *a decision* *and* *then* *dictate* *the operating instructions to* *your followers?  Or do you engage your people at the beginning of the decision-making process?  Please share your comments \<**[here](/blog/secret-creating-4x-growth-4-years/#comments)**\> and share this blog posts with your family, friends, and co-workers.*
+*Do you* *make* *a decision* *and* *then* *dictate* *the operating instructions to* *your followers?  Or do you engage your people at the beginning of the decision-making process?  Please share your comments **[here](/blog/secret-creating-4x-growth-4-years/#comments)** and share this blog posts with your family, friends, and co-workers.*
 
 ![bobby-albert-e2l-final-color-170px](/images/2016/11/Bobby-Albert-E2L-Final-color-170px.png)
 
-> How are you doing on your personal goals? If you are stuck and need a plan, consider my **Goal Planning Success** course, Where Dreams Become Destinations – **It’s like a GPS for your life.** \<**click here**\> to see a preview and learn more.
+> How are you doing on your personal goals? If you are stuck and need a plan, consider my **Goal Planning Success** course, Where Dreams Become Destinations – **It’s like a GPS for your life.** **click here** to see a preview and learn more.

@@ -72,4 +72,4 @@ As you sort and rank the cards, you ultimately narrow your focus to the “most 
 
 If you have used “value cards” before, could I suggest you read my previous blog post, [See How Easily You Can Validate Your Values!](/blog/see-how-easily-you-can-validate-your-values/)?  In that post, you’ll find the seven questions you can ask yourself to validate your **core values.**
 
-*Have you ever used “value cards” to find your core values? What was the outcome of that experience? Do you sense the core values you found by using “value cards” are truly authentic? Please share your comments [\<here\>](/blog/how-could-value-cards-be-so-dangerous/#comments "Please leave a comment").*
+*Have you ever used “value cards” to find your core values? What was the outcome of that experience? Do you sense the core values you found by using “value cards” are truly authentic? Please share your comments [here](/blog/how-could-value-cards-be-so-dangerous/#comments "Please leave a comment").*

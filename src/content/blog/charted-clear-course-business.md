@@ -88,7 +88,7 @@ For many years prior to selling my company in 2011, I was an avid student of tre
 
 As the leader, you must see ahead *where you are going* so you can power paddle and steer your business through all of the hazards and the twists and turns to your destination – your **vision**.
 
-*Does your organization have a* ***vision*** *statement?  Do you have the passion and the faith that you will prevail in the end as you confront the most brutal facts of your current reality?  Please share your comments* *\<**[here](/blog/charted-clear-course-business/#comments)**\> and share this blog post with a friend or co-worker.*
+*Does your organization have a* ***vision*** *statement?  Do you have the passion and the faith that you will prevail in the end as you confront the most brutal facts of your current reality?  Please share your comments* ***[here](/blog/charted-clear-course-business/#comments)** and share this blog post with a friend or co-worker.*
 
 Save
 

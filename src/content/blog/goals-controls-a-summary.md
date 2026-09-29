@@ -152,4 +152,4 @@ Clearly, **goals** are necessary if we are to reach our full potential.  *How* 
 
 Do you want your organization to achieve more?  If so, then the ideas discussed above can serve as your launchpad to greater success!
 
-*How do you set and use* ***goals*** *in your business? How do you monitor your progress as you work toward your* ***goals****?* *Please share your comments \<[here](/blog/goals-controls-a-summary/#comments)\> and share this blog post with a co-worker and friend.*
+*How do you set and use* ***goals*** *in your business? How do you monitor your progress as you work toward your* ***goals****?* *Please share your comments [here](/blog/goals-controls-a-summary/#comments) and share this blog post with a co-worker and friend.*

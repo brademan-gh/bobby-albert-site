@@ -94,6 +94,6 @@ I’m talking about you, as the leader, beginning to change yourself\! 
 
 For most people, becoming an effective leader requires some changes and some work to get there, but leadership effectiveness is within your reach! When you enhance your relationships, you’ll raise your leadership “lid”. And when you raise your leadership “lid”, your people will thrive and your profits will soar. 
 
-*Are there limits to your leadership lid?  Are* *you* *open* *to change your leadership style?  Please share your thoughts **\<[here](/blog/need-change-leadership/#comments)\>,** and share this article with* *your* *friends and co-workers.* 
+*Are there limits to your leadership lid?  Are* *you* *open* *to change your leadership style?  Please share your thoughts **[here](/blog/need-change-leadership/#comments),** and share this article with* *your* *friends and co-workers.* 
 
-Are your leading your organization toward growth? Take my FREE Lead2Grow Assessment \<here\> to understand more. (plus – you’ll receive custom-tailored suggestions about next steps to take, starting today)
+Are your leading your organization toward growth? Take my FREE Lead2Grow Assessment here to understand more. (plus – you’ll receive custom-tailored suggestions about next steps to take, starting today)

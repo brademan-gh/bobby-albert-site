@@ -49,4 +49,4 @@ Find out more here at **[PrincipledProfitsBook.com](http://principledprofitsbook
 
 CEO of The John Maxwell Company
 
-Read the introduction and learn more about Principled Profits \<[here](http://principledprofitsbook.com)\>.
+Read the introduction and learn more about Principled Profits [here](http://principledprofitsbook.com).

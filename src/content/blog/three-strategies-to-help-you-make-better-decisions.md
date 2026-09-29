@@ -98,4 +98,4 @@ Of the things we think, say, or do:
 
 When we protect our minds, know our values, and prepare a plan, we’ll be positioned to make better decisions!
 
-*What do you do to protect your mind? Are you willing to change your behavior in order to make better decisions? Please share your comments [\<here\>](/blog/three-strategies-to-help-you-make-better-decisions/#comments "Click here to leave a comment") and share this blog post with a friend or co-worker.*
+*What do you do to protect your mind? Are you willing to change your behavior in order to make better decisions? Please share your comments [here](/blog/three-strategies-to-help-you-make-better-decisions/#comments "Click here to leave a comment") and share this blog post with a friend or co-worker.*

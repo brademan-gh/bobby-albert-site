@@ -100,4 +100,4 @@ I have learned that you need a **plan** to maximize your *personal growth*
 
 As a start, commit that you will choose to learn something new every day. Also, think about setting a goal for the number of books you will read this year. Remember the common (and true) adage: Leaders are Readers. 
 
-*Do you want to grow your business? What are* *you* *doing to “lift the lid” to your personal growth?  Please share your thoughts \<**[here](/blog/why-some-leaders-can-never-grow-their-business/#comments)**\>.*
+*Do you want to grow your business? What are* *you* *doing to “lift the lid” to your personal growth?  Please share your thoughts **[here](/blog/why-some-leaders-can-never-grow-their-business/#comments)**.*

@@ -30,4 +30,4 @@ draft: false
 
 Use the buttons above to share this message with friends and followers.
 
-click \<[here](/blog/memorial-day-isnt-over-be-gratefu/#comments)\> to leave a comment
+click [here](/blog/memorial-day-isnt-over-be-gratefu/#comments) to leave a comment

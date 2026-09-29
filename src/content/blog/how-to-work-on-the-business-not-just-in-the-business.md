@@ -72,7 +72,7 @@ So what is working **ON**, not just working **IN**, the business? It involves e
 But after all is said and done, the real key to success is to be able to complete what you are doing on-time and with results that meet or exceed expectations.\
 And successful completions require working **ON** (planning) the project – not just **IN** it.
 
-*What percentage of your time are you working **IN** your business? What percentage of your time are you working **ON** your business? Please let me hear your comments \<[here](/blog/how-to-work-on-the-business-not-just-in-the-business/#comments)\> and share this blog post with a friend or co-worker.*
+*What percentage of your time are you working **IN** your business? What percentage of your time are you working **ON** your business? Please let me hear your comments [here](/blog/how-to-work-on-the-business-not-just-in-the-business/#comments) and share this blog post with a friend or co-worker.*
 
 ![On_in_color_trans-170px](/images/2016/07/On_in_color_trans-170px.png)
 

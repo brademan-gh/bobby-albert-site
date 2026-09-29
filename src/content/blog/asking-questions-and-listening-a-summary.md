@@ -109,4 +109,4 @@ We all *ask questions* and *listen*, but we typically ignore their importance! 
 
 *What aspect of asking questions and listening needs your attention? Do you need to consider changing basic approach to communication?  *
 
-*Do you usually listen to truly understand, or simply wait for an opportunity to respond? I’d really like to hear from you on this important topic.  You can leave your comments \<[here](/blog/asking-questions-and-listening-a-summary/#comments)\>.  Consider sharing this* ***AQL****TM* *summary with a friend or co-worker!*
+*Do you usually listen to truly understand, or simply wait for an opportunity to respond? I’d really like to hear from you on this important topic.  You can leave your comments [here](/blog/asking-questions-and-listening-a-summary/#comments).  Consider sharing this* ***AQL****TM* *summary with a friend or co-worker!*

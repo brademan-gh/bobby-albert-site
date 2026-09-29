@@ -91,4 +91,4 @@ Notice that if you take action too early in the process, you wind up merely addr
 
 When we pursue freedoms without regard to the principles, like responsibility, that anchor our country, we encounter the emptiness and frustration that is so evident in our nation today. Could I suggest the reason our country’s ladder is leaning against the wrong wall is because we have lost the healthy tension between our “freedom and responsibility”.
 
-*Have you used the* *“why” questions to uncover the root cause to a problem?  Will you challenge our country’s leaders to abide by our founding values?  Please send me your* *comments \<**[here](/blog/climbing-wrong-ladder/#comments)**\> and share this blog post with family, a* *friend and co-worker.*
+*Have you used the* *“why” questions to uncover the root cause to a problem?  Will you challenge our country’s leaders to abide by our founding values?  Please send me your* *comments **[here](/blog/climbing-wrong-ladder/#comments)** and share this blog post with family, a* *friend and co-worker.*

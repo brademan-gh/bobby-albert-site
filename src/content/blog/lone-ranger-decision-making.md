@@ -44,7 +44,7 @@ But think about it, even the Lone Ranger wasn’t really a loner. Everywhere he 
 
 ### **Motivation Survey**
 
-In a previous blog post, I offered you a simple survey about our *motivations*.  You can easily record your own answers by downloading the **FREE** survey \<**[here](/resources/tnb-motivation-survey/)**\>.
+In a previous blog post, I offered you a simple survey about our *motivations*.  You can easily record your own answers by downloading the **FREE** survey **[here](/resources/tnb-motivation-survey/)**.
 
 I have found that this survey is one of the most powerful tools that you have for discovery and learning.  The statements in the survey ask you to think more deeply about this important topic of *motivation*.
 
@@ -70,8 +70,8 @@ When you lay down your Lone Ranger mask and *engage* your people to **participat
 
 Are you curious about the rest of survey? The two blog posts below break down the first eight statements of the survey:
 
--   Survey statements 1 through 4 \<**[click here](/blog/volunteer-leadership/)**\>
+-   Survey statements 1 through 4 **[click here](/blog/volunteer-leadership/)**
 
--   Survey statements 5 through 8 \<**[click here](/blog/public-bad-decision/)**\>
+-   Survey statements 5 through 8 **[click here](/blog/public-bad-decision/)**
 
-*Are you a Lone Ranger when* *making decisions and* *setting goals? * *Would you like to have a more team-oriented approach to your* *decision-making and goal-setting* *process?  Please share your thoughts \<**[here](/blog/lone-ranger-decision-making/#comments)**\> and share this blog post with a friend and a co-worker.*
+*Are you a Lone Ranger when* *making decisions and* *setting goals? * *Would you like to have a more team-oriented approach to your* *decision-making and goal-setting* *process?  Please share your thoughts **[here](/blog/lone-ranger-decision-making/#comments)** and share this blog post with a friend and a co-worker.*

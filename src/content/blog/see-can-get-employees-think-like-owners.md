@@ -84,7 +84,7 @@ By contrast, if you lead like a lone ranger, your strengths and weaknesses are m
 
 You too can achieve positive outcomes and *extraordinary* results by tapping this important principle – enhancing your relationships (engaging employees) as you drive for results through *participative* decision making – **Engage2Lead** employing the **1-2-3 leadership tool**.  
 
-*Do your employees think like owners? Have you struggled to get your people to support your decisions? * *What might happen in your organization if you started to make decisions with the help of your team as described above?  Please share your thoughts \<**[here](/blog/see-can-get-employees-think-like-owners/#comments)**\> and share this blog post with a co-worker and friend.* 
+*Do your employees think like owners? Have you struggled to get your people to support your decisions? * *What might happen in your organization if you started to make decisions with the help of your team as described above?  Please share your thoughts **[here](/blog/see-can-get-employees-think-like-owners/#comments)** and share this blog post with a co-worker and friend.* 
 
  **Learn more about Principled Profits [here](http://principledprofitsbook.com).**
 

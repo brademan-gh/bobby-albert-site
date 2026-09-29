@@ -55,12 +55,12 @@ When we choose to set goals, we crystallize our desires into achievable outcomes
 
 Goal setting has been key to my success, year after year.  *If* you set goals and *how* you set them will have a direct impact on what you accomplish and who you’ll become in 2017.
 
-If you’re interested in setting *and achieving* goals in 2017, we’ve created a FREE downloadable Goal Tip-Sheet that might interest you. You can download this free tip sheet, by \<**[clicking here](https://values-driven.leadpages.co/goal-tips-pdf/?thesource=bp3predictions)**\>.
+If you’re interested in setting *and achieving* goals in 2017, we’ve created a FREE downloadable Goal Tip-Sheet that might interest you. You can download this free tip sheet, by **[clicking here](https://values-driven.leadpages.co/goal-tips-pdf/?thesource=bp3predictions)**.
 
 Now, going back to Peter Drucker, he also talked about predicting the future from another perspective.  He said, “The best way to predict the future is to create it.” And you’ll be well on your way to creating your future in 2017 by 1) *changing* the way you think and live 2) choosing to *plan* for the future today and 3) setting meaningful and achievable *goals* that challenge and inspire you toward greater growth and impact.
 
 ![Bobby Albert's Goal Tip Sheet](/images/2016/12/Goal-Tip-Sheet-Cover-3D1.png "Bobby Albert: Goal Tip Sheet - 5 Proven Strategies to Achieve Your Goals")
 
-*Are you willing to change what you do this year to achieve different results? * *Planning and setting goals might be the first step to your best year ever!  You can leave your comments* *\<**[here](/blog/three-bold-predictions-2017/#comments)**\>, and please pass this blog post along to* *friends, family, and co-workers.*
+*Are you willing to change what you do this year to achieve different results? * *Planning and setting goals might be the first step to your best year ever!  You can leave your comments* ***[here](/blog/three-bold-predictions-2017/#comments)**, and please pass this blog post along to* *friends, family, and co-workers.*
 
-> Are you looking for a proven method to set and achieve meaningful goals? Consider my **Goal Planning Success** course, *Where Dreams Become Destinations* – ***it’s like a GPS for your life***! For a limited time, you can enjoy a significant \$40 discount by using coupon code “40OFF” -\<**[click here](http://values-driven-leadership-institute.teachable.com/p/goal-planning-success-2017-edition/)**\> to learn more!
+> Are you looking for a proven method to set and achieve meaningful goals? Consider my **Goal Planning Success** course, *Where Dreams Become Destinations* – ***it’s like a GPS for your life***! For a limited time, you can enjoy a significant \$40 discount by using coupon code “40OFF” -**[click here](http://values-driven-leadership-institute.teachable.com/p/goal-planning-success-2017-edition/)** to learn more!

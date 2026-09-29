@@ -75,4 +75,4 @@ And best of all…the customer wins!
 
 > **Tip: Use measurable goals/feedback to un-emotionally highlight problems and motivate those involved to provide the solutions.**
 
-*Would you like to be more effective in solving complaints/problems?  How about learning of opportunities?  Are you using measurable goals/feedback?  Please leave your comment \<[here](/blog/leaders-must-distinguish-symptoms-vs-the-root-cause/#comments)\> and share this blog post. *
+*Would you like to be more effective in solving complaints/problems?  How about learning of opportunities?  Are you using measurable goals/feedback?  Please leave your comment [here](/blog/leaders-must-distinguish-symptoms-vs-the-root-cause/#comments) and share this blog post. *

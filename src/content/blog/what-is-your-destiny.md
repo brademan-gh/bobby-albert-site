@@ -122,7 +122,7 @@ The **vision** statement as discovered and defined by my moving and storage comp
 
 And we truly lived it out.  Just ask about my company’s reputation in our industry over the past 20 years.
 
-*What is your* *destiny? Is now the time to clearly define your vision and ask your people to help? Click \<**[here](/blog/what-is-your-destiny/#comments)**\> to share your thoughts* *and pass this blog post to your friends and co-workers.*
+*What is your* *destiny? Is now the time to clearly define your vision and ask your people to help? Click **[here](/blog/what-is-your-destiny/#comments)** to share your thoughts* *and pass this blog post to your friends and co-workers.*
 
 Save
 

@@ -85,4 +85,4 @@ Every leader can develop a more effective and efficient TEAM by asking these thr
 
 Fruit trees usually take 2 to 5 years to produce their first fruit. As a leader, though, you can begin the process today when you engage your employees. By consistently using the **Engage2Lead** *participative leadership style* and the **1-2-3 leadership tool**, in time, the process will produce delicious fruit.
 
-*How would you describe your workplace culture? Do you have a culture that produces undesirable fruit?  When you look at your employees do you see what you can get from them or what you can give to them?  Please share your thoughts \<**[here](/blog/key-great-workplace-culture/#comments)**\>, and share this blog post with a friend and co-worker. *
+*How would you describe your workplace culture? Do you have a culture that produces undesirable fruit?  When you look at your employees do you see what you can get from them or what you can give to them?  Please share your thoughts **[here](/blog/key-great-workplace-culture/#comments)**, and share this blog post with a friend and co-worker. *

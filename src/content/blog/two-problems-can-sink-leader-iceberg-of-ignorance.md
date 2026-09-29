@@ -74,4 +74,4 @@ The bad news is that most leaders don’t notice these fundamental problems with
 
 The good news is that there is a lifeline of valuable information and insights right under the nose of most leaders—in their front-line employees. Changing the way you lead takes some intentional decisions on your part. Be assured that I will be here, to show you what worked for me and explain how it can work for you!
 
-*Is your leadership jeopardized by the Iceberg of Ignorance?  What* *about* *the second problem?* *You can share your comments \<**[here](/blog/two-problems-can-sink-leader-iceberg-of-ignorance/#comments)**\>.* *Please share this blog post with a co-worker and a friend. *
+*Is your leadership jeopardized by the Iceberg of Ignorance?  What* *about* *the second problem?* *You can share your comments **[here](/blog/two-problems-can-sink-leader-iceberg-of-ignorance/#comments)**.* *Please share this blog post with a co-worker and a friend. *

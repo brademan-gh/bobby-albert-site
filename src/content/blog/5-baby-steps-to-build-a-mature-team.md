@@ -69,4 +69,4 @@ This is the type of leadership planning that can transform your people into a ma
 
 “Stay tuned” for more on this important topic!
 
-*Have you ever had your employees rally around an organizational theme?  Have you ever used fun team-building events in your organization?  Please share your comments \<[here](/blog/5-baby-steps-to-build-a-mature-team/#comments)\> and share this blog post with a friend or co-worker.*
+*Have you ever had your employees rally around an organizational theme?  Have you ever used fun team-building events in your organization?  Please share your comments [here](/blog/5-baby-steps-to-build-a-mature-team/#comments) and share this blog post with a friend or co-worker.*

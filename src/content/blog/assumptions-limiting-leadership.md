@@ -90,6 +90,6 @@ The following are five reasons why many leaders don’t pursue the **1-2-3** *pr
 
 There are many concerns that get in the way of leaders, such as the president of the mid-size organization mentioned above, to fully applying this **Engage2Lead** principle. Anyone can, however, make conscious decisions to learn and leverage this powerful principle of *participative leadership*. And the best, most practical way I’ve discovered to employ this approach is the **1-2-3 leadership tool**. 
 
-*Which incorrect assumptions* *do you have? * *What* *changes can you make regarding* *how* *you* *do things to become the most effective leader?  Please share your thoughts \<**[here](/blog/assumptions-limiting-leadership/#comments)**\> and share this article with a friend and/or co-worker.* 
+*Which incorrect assumptions* *do you have? * *What* *changes can you make regarding* *how* *you* *do things to become the most effective leader?  Please share your thoughts **[here](/blog/assumptions-limiting-leadership/#comments)** and share this article with a friend and/or co-worker.* 
 
-Are your leading your organization toward growth? Take my **FREE Lead2Grow Assessment** \<**here**\> to understand more. (PLUS – you’ll receive custom-tailored suggestions about next steps to take, starting today!)
+Are your leading your organization toward growth? Take my **FREE Lead2Grow Assessment** **here** to understand more. (PLUS – you’ll receive custom-tailored suggestions about next steps to take, starting today!)

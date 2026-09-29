@@ -135,4 +135,4 @@ How do you move from where you are now to a place of impactful leadership **AND*
 
 I’ll dig into that topic in my next blog post!
 
-*Would you like to learn how to lead like George Washington? Would you like to take your leading and managing to the next level? What did you learn about yourself today? Could I hear your comments by clicking [\<here\>](/blog/give-me-5-minutes-leader-manager/#comments "Click here to comment")?*
+*Would you like to learn how to lead like George Washington? Would you like to take your leading and managing to the next level? What did you learn about yourself today? Could I hear your comments by clicking [here](/blog/give-me-5-minutes-leader-manager/#comments "Click here to comment")?*

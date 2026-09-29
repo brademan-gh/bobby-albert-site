@@ -75,7 +75,7 @@ Over the years, I have seen a similar pattern as I’ve mentored struggling lead
 
 Eventually, I discovered a better way to spend my time that helped me, along with my team, build a highly successful business of over 150 employees. Stay tuned for more details on this better way to lead\! 
 
-*Have you ever been in a season of your life were everything was going well, and then* *suddenly,* *your world collapsed?  Are* *you* *becoming worn out working harder and harder and feeling you are barely treading water?  Have you reached a point where you are open to a change?  Please leave a comment **\<[here](/blog/life-good-everything-changed/#comments)\>** and share this article with a friend or co-worker. *
+*Have you ever been in a season of your life were everything was going well, and then* *suddenly,* *your world collapsed?  Are* *you* *becoming worn out working harder and harder and feeling you are barely treading water?  Have you reached a point where you are open to a change?  Please leave a comment **[here](/blog/life-good-everything-changed/#comments)** and share this article with a friend or co-worker. *
 
 ------------------------------------------------------------------------
 

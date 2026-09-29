@@ -62,7 +62,7 @@ We headed back to the operating room (place of business) to handle the quality e
 
 Our leaders **followed-up** with every employee, using a *specific procedure* that helped them identify who their *internal customer* was, and establish how to serve them in the best possible way.
 
-I would like to share with you the procedure that we used with our people! I have prepared a downloadable **Internal** **Customer/Supplier** **Alignment Guide** for you to use as you follow-up with your own *team* members. It’s **FREE**, and you can download it immediately by \<clicking here\>. Feel free to print it or save it for your own use.
+I would like to share with you the procedure that we used with our people! I have prepared a downloadable **Internal** **Customer/Supplier** **Alignment Guide** for you to use as you follow-up with your own *team* members. It’s **FREE**, and you can download it immediately by clicking here. Feel free to print it or save it for your own use.
 
 *The internal customer concept is one of the more interesting* *paradoxical truths of leadership:*
 
@@ -70,4 +70,4 @@ Focus on the inside people and processes – and reap the rewards on the outside
 
 Well…you too can spread the quality epidemic in your organization by prescribing to the four simple questions above.
 
-*How do you enhance teamwork in your organization?  Do you have a people-first culture?  What are your people doing to be* *better team players?  Please share comments \<[here](/blog/catch-the-quality-epidemic-by-scoping-out-four-questions/#comments)\> and share this blog post with your friends and co-workers.*
+*How do you enhance teamwork in your organization?  Do you have a people-first culture?  What are your people doing to be* *better team players?  Please share comments [here](/blog/catch-the-quality-epidemic-by-scoping-out-four-questions/#comments) and share this blog post with your friends and co-workers.*

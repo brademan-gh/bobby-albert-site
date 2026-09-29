@@ -88,4 +88,4 @@ Do you find yourself triangulating here and then there, back and forth, and maki
 
 We Texans know how to 2-step on the dance floor, but I’ve discovered a “Business 2-Step” that will help you “cut a rug” in life and business!
 
-*In your life and business,* *do you* *lead first,* *before you* *start* *managing it?  Please share your comments \<**[here](/blog/business-2-step-lead-first-manage-second/#comments)**\> and share with your family, friends, and co-workers.*
+*In your life and business,* *do you* *lead first,* *before you* *start* *managing it?  Please share your comments **[here](/blog/business-2-step-lead-first-manage-second/#comments)** and share with your family, friends, and co-workers.*

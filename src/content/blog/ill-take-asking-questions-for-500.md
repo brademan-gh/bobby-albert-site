@@ -115,6 +115,6 @@ Finally, we went through the same “Record, Share & Play” sequence and focuse
 
 *Learning* occurs when we *listen*.  And thoughtful questions almost always create opportunities to *listen*.  It all starts with *asking* *questions*!
 
-Don’t forget to download the instruction sheets for the games that we played by clicking \<here\>.  I even included some sample questions to get you started!
+Don’t forget to download the instruction sheets for the games that we played by clicking here.  I even included some sample questions to get you started!
 
-*How well do you ask questions and listen?  How well do the people in your organization ask questions and listen?  Please leave your comments \<[here](/blog/ill-take-asking-questions-for-500/#comments)\> and share this blog post with a friend and co-worker.*
+*How well do you ask questions and listen?  How well do the people in your organization ask questions and listen?  Please leave your comments [here](/blog/ill-take-asking-questions-for-500/#comments) and share this blog post with a friend and co-worker.*

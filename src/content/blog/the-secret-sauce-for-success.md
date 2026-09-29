@@ -125,6 +125,6 @@ Once I began to encourage our people to be actively involved and participated in
 
 And you too can achieve positive outcomes and *extraordinary* results by tapping this important principle – *How* you *do* things (enhance relationships).
 
-*Can* *you* *just taste success and victory? * *What is your secret sauce…* *your secret ingredients?  Could* *you* *share your comments* *\<[here](/blog/the-secret-sauce-for-success/#comments)\> and share this blog post with a friend and co-worker?*
+*Can* *you* *just taste success and victory? * *What is your secret sauce…* *your secret ingredients?  Could* *you* *share your comments* *[here](/blog/the-secret-sauce-for-success/#comments) and share this blog post with a friend and co-worker?*
 
 ![People_png_color-170px](/images/2016/07/People_png_color-170px.png)

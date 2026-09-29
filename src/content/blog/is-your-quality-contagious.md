@@ -73,7 +73,7 @@ Meetings like this require some time and effort to pull off, but the results are
 
  
 
-*When was the last time you involved your employees in the decision-making process?  Would you like to tap into the wealth of your employees’ customer-centric quality improvement ideas?  Please share your comments \<[here](/blog/is-your-quality-contagious/#comments)\> and share this blog post with a friend or co-worker.*
+*When was the last time you involved your employees in the decision-making process?  Would you like to tap into the wealth of your employees’ customer-centric quality improvement ideas?  Please share your comments [here](/blog/is-your-quality-contagious/#comments) and share this blog post with a friend or co-worker.*
 
 ![QIC_color_trans-170px](/images/2016/07/QIC_color_trans-170px.png)
 

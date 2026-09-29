@@ -69,6 +69,6 @@ Following these five practical tips will help you plan your personal goals and g
 
 Want an easy way to get started on your goals for 2016? Simply download my **Goal Setting Workbook**! Get yours FREE by [**clicking here**](/resources/gps-goal-planning-workbook/).
 
-*Could you share* *your experiences when you staggered your start dates?  What happened when you got really focused on the most important goal?  Have you ever prepared a “Stop Doing” list?  How successful were you?  * *Click* **[*\<here\>*](/blog/5-tips-to-get-more-done-in-2016/#comments)** *to share your thoughts.  *
+*Could you share* *your experiences when you staggered your start dates?  What happened when you got really focused on the most important goal?  Have you ever prepared a “Stop Doing” list?  How successful were you?  * *Click* **[*here*](/blog/5-tips-to-get-more-done-in-2016/#comments)** *to share your thoughts.  *
 
 *Do you know someone who would enjoy this blog post? –Feel free to share it on social media or forward it to* *your family, friends, and co-workers.*

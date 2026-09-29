@@ -77,7 +77,7 @@ Employees want more than just being told, told, told!
 
 They want to be asked to think. They want to be involved in the decision-making process. They want access to their supervisors, input into the setting of objectives, and recognition for their achievements.
 
-I have prepared an **Employee Performance Evaluation Guide** my company used to give to prospective and current employees to summarize how their performance was going to be evaluated. It is separated into two sections, Relationships and Results. It’s **FREE**, and you can download it immediately by \<clicking here\>. Feel free to print it or save it for your own use.
+I have prepared an **Employee Performance Evaluation Guide** my company used to give to prospective and current employees to summarize how their performance was going to be evaluated. It is separated into two sections, Relationships and Results. It’s **FREE**, and you can download it immediately by clicking here. Feel free to print it or save it for your own use.
 
 ### Bonus: Four Questions that Leaders Need to Ask
 
@@ -97,6 +97,6 @@ What are you doing to work **ON**, not just **IN**, your business?
 
 By the way in my first triathlon, I finished in next-to-last place. I would have gotten last place, if not for the encouragement I received from my good friend. When I was a great distance from the finished line, he started hollering at me to pick-up the pace because a girl was right behind me!
 
-*How well do you, as the leader, answer the five employee questions? Do your employees work well as a team? How would you like to work for you? Please share your comments \<[here](/blog/what-are-five-essential-questions-all-great-leaders-must-answer-for-their-employees/#comments)\> and share this blog post with a friend and co-worker.*
+*How well do you, as the leader, answer the five employee questions? Do your employees work well as a team? How would you like to work for you? Please share your comments [here](/blog/what-are-five-essential-questions-all-great-leaders-must-answer-for-their-employees/#comments) and share this blog post with a friend and co-worker.*
 
 ![On_in_color_trans-170px](/images/2016/07/On_in_color_trans-170px.png)

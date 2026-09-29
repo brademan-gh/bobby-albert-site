@@ -78,7 +78,7 @@ As the leader, you don’t have to “know it all” any longer.  You can becom
 
 > **Insight: These principles can be applied in your family as well.**
 
-*Do you feel you are drowning in a sea of warp-speed change?  Do you feel you have to be Mr. or Mrs. or Ms. “know it all”?  Have you considered that better decision-making leads to better results?Please share your thoughts \<**[here](/blog/tired-trying-know/#comments)**\> and share this blog post with your friends and co-workers.*
+*Do you feel you are drowning in a sea of warp-speed change?  Do you feel you have to be Mr. or Mrs. or Ms. “know it all”?  Have you considered that better decision-making leads to better results?Please share your thoughts **[here](/blog/tired-trying-know/#comments)** and share this blog post with your friends and co-workers.*
 
 ## Read the [intro](http://principledprofitsbook.com) to my new book…
 

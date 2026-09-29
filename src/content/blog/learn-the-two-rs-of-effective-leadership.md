@@ -89,4 +89,4 @@ Now you have just *exponentially* increased your *original* (of 5.5) effectivene
 
 When leaders learn the skills to develop and emphasize BOTH **relationships** *AND* **results** (**leading** *AND* **managing**), their effectiveness is multiplied, not just added.
 
-*What kind of books are you reading and webinars are you attending? Are they about how to manage the things of your business? Or how to lead your people? Please let me hear your comments by clicking [\<here\>](/blog/learn-the-two-rs-of-effective-leadership/#comments "Click here to leave a comment").*
+*What kind of books are you reading and webinars are you attending? Are they about how to manage the things of your business? Or how to lead your people? Please let me hear your comments by clicking [here](/blog/learn-the-two-rs-of-effective-leadership/#comments "Click here to leave a comment").*

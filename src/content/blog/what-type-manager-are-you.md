@@ -90,4 +90,4 @@ Only a *few* people learn the skills to BOTH build **relationships** (*how* they
 
 This is the leader that employees long to work for, and when they find one, they usually make that job a career.
 
-*Have others asked you to take on a leadership role not only at work but outside your work life? Which manager/leader above fits you? Would you like to learn the skills to be an effective leader? Please let me hear your thoughts by clicking [\<here\>](/blog/what-type-manager-are-you/#comments).  *
+*Have others asked you to take on a leadership role not only at work but outside your work life? Which manager/leader above fits you? Would you like to learn the skills to be an effective leader? Please let me hear your thoughts by clicking [here](/blog/what-type-manager-are-you/#comments).  *

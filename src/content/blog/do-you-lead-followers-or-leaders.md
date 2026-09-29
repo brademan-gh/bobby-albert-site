@@ -89,4 +89,4 @@ Do you lead followers or leaders?  Your answer will determine the potential of 
 
 In my next blog post, I’ll share an actual example of how a **participative**-oriented leader achieved positive outcomes and **results** by tapping this important principle.
 
-*Are you leading followers or are you developing leaders around you? What is your motive? Do you have a missing crucial leadership component? Let me hear your comments by clicking [\<here\>](/blog/do-you-lead-followers-or-leaders/#comments "Click to leave a comment").*
+*Are you leading followers or are you developing leaders around you? What is your motive? Do you have a missing crucial leadership component? Let me hear your comments by clicking [here](/blog/do-you-lead-followers-or-leaders/#comments "Click to leave a comment").*

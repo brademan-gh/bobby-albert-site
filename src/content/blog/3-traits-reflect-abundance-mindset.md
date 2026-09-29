@@ -55,4 +55,4 @@ In the workplace, *scarcity* thinkers teach their followers that life’s *abund
 
 You too, regardless of age, have so much more room to grow personally – who you are *becoming*.  And when you do, you will have an *abundance* mindset that will help you see where you are going – your **vision**.
 
-*Are you open to grow personally? * *What challenge or opportunity are you facing today that would benefit from a shift toward greater abundance thinking?  Please share your comments \<**[here](/blog/3-traits-reflect-abundance-mindset/#comments)**\> and share this blog post with friends, family and co-workers.*
+*Are you open to grow personally? * *What challenge or opportunity are you facing today that would benefit from a shift toward greater abundance thinking?  Please share your comments **[here](/blog/3-traits-reflect-abundance-mindset/#comments)** and share this blog post with friends, family and co-workers.*

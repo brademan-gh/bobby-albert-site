@@ -61,4 +61,4 @@ We have learned that empowerment “gets people going”. And now we see how *fe
 
 Solving the mystery of *quality* improvements can be challenging. Often, we are distracted by the mere *symptoms* of our problem. In this blog post, I share a simple way to get to the *root* *cause* of the problem.
 
-*How do you improve quality in your organization?  What one concept from the above posts could you add to your quality improvement program? You can let me know by leaving a comment \<[here](/blog/quality-is-contagious-a-summary-2/#comments)\>.  Who do you know that could benefit from this blog post?  Please take a moment to share it with them!*
+*How do you improve quality in your organization?  What one concept from the above posts could you add to your quality improvement program? You can let me know by leaving a comment [here](/blog/quality-is-contagious-a-summary-2/#comments).  Who do you know that could benefit from this blog post?  Please take a moment to share it with them!*

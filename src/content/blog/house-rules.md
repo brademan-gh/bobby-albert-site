@@ -73,7 +73,7 @@ Treat an employee like a robot, however, and watch production and satisfaction p
 
 Every manager can become a more effective leader of their business as well as their family with some effort, a willingness to change, and acceptance of the *participative leadership style*, **Engage2Lead**, using the **[1-2-3 leadership tool](/blog/tired-trying-know/).**
 
-*Are you preparing your employees* *for the path or the path for your employees?  What steps can you take today to start earning the enthusiasm, initiative, and devotion of your employees?  Please share your thoughts \<**[here](/blog/house-rules/#comments)**\> and share this blog post with your family, co-worker, or friend.*
+*Are you preparing your employees* *for the path or the path for your employees?  What steps can you take today to start earning the enthusiasm, initiative, and devotion of your employees?  Please share your thoughts **[here](/blog/house-rules/#comments)** and share this blog post with your family, co-worker, or friend.*
 
 **Learn more about my new book, [Principled Profits – Outward Success Is an Inside Job](http://principledprofitsbook.com).**
 

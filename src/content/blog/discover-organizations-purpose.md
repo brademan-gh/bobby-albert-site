@@ -34,7 +34,7 @@ When your people buy into the changeless *purpose* (***why*** we exist), they wi
 
 It is important to remember that this *process* is as important as the end product – the *purpose* statement.
 
-**Do you want help discovering** ***Why*** **your organization exists?  Please download** **FREE** **my** **expanded version of a** [**Discovery Guide for** **Your Organization’s Purpose**](/resources/tnb-discovery-guide-organizations-purpose/) **by \<[clicking here](/resources/tnb-discovery-guide-organizations-purpose/)\>.  **
+**Do you want help discovering** ***Why*** **your organization exists?  Please download** **FREE** **my** **expanded version of a** [**Discovery Guide for** **Your Organization’s Purpose**](/resources/tnb-discovery-guide-organizations-purpose/) **by [clicking here](/resources/tnb-discovery-guide-organizations-purpose/).  **
 
 ### ****1. Understand the** **Criteria** **
 
@@ -72,6 +72,6 @@ How do you know if you have truly discovered the *purpose* of your organization?
 
 After you complete these six simple steps, it is time for you to have a celebration announcement and begin to live out your *purpose*.
 
-**The best way to walk through these six steps** **is to** **use my** **FREE** [**Discovery Guide for** **Your Organization’s Purpose**](/resources/tnb-discovery-guide-organizations-purpose/)**. You can download it** **by \<[clicking here](/resources/tnb-discovery-guide-organizations-purpose/)\>.  **
+**The best way to walk through these six steps** **is to** **use my** **FREE** [**Discovery Guide for** **Your Organization’s Purpose**](/resources/tnb-discovery-guide-organizations-purpose/)**. You can download it** **by [clicking here](/resources/tnb-discovery-guide-organizations-purpose/).  **
 
-*Are you ready to discover your organization’s purpose?  Have you arranged for your people as a team to help you discover your purpose?  Please share your thoughts \<**[here](/blog/discover-organizations-purpose/#comments)**\> and share this blog post with a friend and/or co-worker.   *
+*Are you ready to discover your organization’s purpose?  Have you arranged for your people as a team to help you discover your purpose?  Please share your thoughts **[here](/blog/discover-organizations-purpose/#comments)** and share this blog post with a friend and/or co-worker.   *

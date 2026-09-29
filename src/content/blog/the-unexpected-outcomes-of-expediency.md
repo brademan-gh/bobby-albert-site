@@ -99,7 +99,7 @@ When these unhealthy consequences occur, do you “blow them off” with excuses
 
 > Insanity: doing the same thing over and over again and expecting different results. – Albert Einstein
 
-*How often do you find yourself “mending fences”? Are you learning from your failures so you can move forward? Please share your thoughts [\<here\>](/blog/the-unexpected-outcomes-of-expediency/#comments "Click here to leave a comment"), and please share this blog post with a friend.*
+*How often do you find yourself “mending fences”? Are you learning from your failures so you can move forward? Please share your thoughts [here](/blog/the-unexpected-outcomes-of-expediency/#comments "Click here to leave a comment"), and please share this blog post with a friend.*
 
 ![Principle_vs_Expedience_color-170px](/images/2016/06/Principle_vs_Expedience_color-170px.png)
 

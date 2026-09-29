@@ -143,7 +143,7 @@ Intentional communication is the only way to ensure alignment between daily work
 
 When your team’s daily efforts are aligned with these overarching cornerstones, then you can spend more time defining your strategic objectives and executing on the tactics to achieve them.
 
-*How* *do you communicate with your people:  Where is the company headed?  What is their role in this effort?  Please share your comments \<[here](/blog/7-communication-opportunities-for-every-leader/#comments)\> and share this blog post with a co-worker and friend.*
+*How* *do you communicate with your people:  Where is the company headed?  What is their role in this effort?  Please share your comments [here](/blog/7-communication-opportunities-for-every-leader/#comments) and share this blog post with a co-worker and friend.*
 
 ![Goals_controls_color-170px](/images/2016/06/Goals_controls_color-170px.png)
 

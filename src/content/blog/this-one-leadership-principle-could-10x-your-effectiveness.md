@@ -84,4 +84,4 @@ Why? Because when I trust good *process*, I **always** get good *results* – pl
 -   Ownership  
 -   People become cheerleaders of the decision. 
 
-*Will you try this approach to leading and experience the Leadership Paradox? * *What steps can you take today to start earning the enthusiasm, initiative, and devotion of your employees?  Please share your thoughts \<**[here](/blog/this-one-leadership-principle-could-10x-your-effectiveness/#comments)**\> and share this blog post with a co-worker and friend.*
+*Will you try this approach to leading and experience the Leadership Paradox? * *What steps can you take today to start earning the enthusiasm, initiative, and devotion of your employees?  Please share your thoughts **[here](/blog/this-one-leadership-principle-could-10x-your-effectiveness/#comments)** and share this blog post with a co-worker and friend.*

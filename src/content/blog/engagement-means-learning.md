@@ -81,4 +81,4 @@ Ben Franklin was right, everyone learns when you *involve* your TEAM in the deci
 
 *Would you agree that more engagement means more learning? Are you ready to use the **1-2-3 Decision-Making** tool? *
 
-*Please leave a comment \<**[here](/blog/engagement-means-learning/#comments)**\> and share this blog post with family, a friend, or co-worker.*
+*Please leave a comment **[here](/blog/engagement-means-learning/#comments)** and share this blog post with family, a friend, or co-worker.*

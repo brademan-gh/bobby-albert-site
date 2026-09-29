@@ -67,4 +67,4 @@ And as the leader, you can avoid having those who:
 
 When you lay down your Lone Ranger mask and give your people a chance to participate in the decision-making and **goal**–**setting** process, they have a real opportunity to gain experience and grow professionally.
 
-*Are you a Lone Ranger when setting* ***goals****?  Would you like to have a more team approach to your* *goal-setting* process?*  Please share your thoughts \<[here](/blog/are-you-a-lone-ranger-when-setting-goals/#comments)\> and share this blog post with a friend and co-worker.*
+*Are you a Lone Ranger when setting* ***goals****?  Would you like to have a more team approach to your* *goal-setting* process?*  Please share your thoughts [here](/blog/are-you-a-lone-ranger-when-setting-goals/#comments) and share this blog post with a friend and co-worker.*

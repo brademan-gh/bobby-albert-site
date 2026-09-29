@@ -146,6 +146,6 @@ Once everyone understood without any doubt… 
 
 And once we applied the process of **effective leadership** and we lived out the four truths listed above, we saw extraordinary results beyond our imagination.  And you can too\! 
 
-*Does your organization have a purpose and/or mission statement?* *Please share your purpose and/or mission in the comment section \<**[here](/blog/is-it-purpose-or-mission/#comments)**\>.* 
+*Does your organization have a purpose and/or mission statement?* *Please share your purpose and/or mission in the comment section **[here](/blog/is-it-purpose-or-mission/#comments)**.* 
 
-*You may not call them super-objectives, but have you* *defined* *what you want to accomplish by* *the end of every day?* *Do your employees* *know?     Please share your* *thoughts* *\<**[here](/blog/is-it-purpose-or-mission/#comments)**\>.*
+*You may not call them super-objectives, but have you* *defined* *what you want to accomplish by* *the end of every day?* *Do your employees* *know?     Please share your* *thoughts* ***[here](/blog/is-it-purpose-or-mission/#comments)**.*

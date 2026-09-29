@@ -60,6 +60,6 @@ Focus on the inside people and processes – and reap the rewards on the outside
 
 \[Tweet “Focus on the inside people and processes – and reap the rewards on the outside, with enhanced customer service and delight! \@bobbyalbert”\]
 
-I have made it easy for you to do this in your own organization. I’ve prepared an **Internal Customer Questionnaire**, complete with instructions. It’s **FREE**, and you can download it immediately by \<clicking here\>. Feel free to print it or save it for your own use.
+I have made it easy for you to do this in your own organization. I’ve prepared an **Internal Customer Questionnaire**, complete with instructions. It’s **FREE**, and you can download it immediately by clicking here. Feel free to print it or save it for your own use.
 
-*Will you consider using the internal customer questionnaire? What are some of the possible outcomes? Please share your thoughts \<[here](/blog/magically-transform-your-customer-service/#comments)\> and share this blog post with a friend or co-worker.*
+*Will you consider using the internal customer questionnaire? What are some of the possible outcomes? Please share your thoughts [here](/blog/magically-transform-your-customer-service/#comments) and share this blog post with a friend or co-worker.*

@@ -98,4 +98,4 @@ The answer is *YES*!
 
 It might be helpful to observe that in order to get the *power* in em-POWER-ing to work, it is necessary to recognize the “*we”* within poWEr.
 
-*Have you surrounded yourself with highly motivated people who form a high-performance team and who have a “can-do” spirit?  Would you like to become an empowering leader?  Please share your thoughts \<[here](/blog/is-setting-goals-top-down-or-bottom-up-the-answer-may-surprise-you/#comments)\> and share this blog post with a friend and co-worker.*
+*Have you surrounded yourself with highly motivated people who form a high-performance team and who have a “can-do” spirit?  Would you like to become an empowering leader?  Please share your thoughts [here](/blog/is-setting-goals-top-down-or-bottom-up-the-answer-may-surprise-you/#comments) and share this blog post with a friend and co-worker.*

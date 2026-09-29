@@ -86,4 +86,4 @@ Well, *asking questions* ***and*** *listening* takes practice, discipline, and p
 
 Start asking more questions and boost your effectiveness today. If you ask the right questions, *and* listen to the replies, you’ll connect with people, find the answers, and generate great ideas!
 
-*Have you ever had a misunderstanding with anyone* *– perhaps a spouse, boss, or friend?  How have you used asking questions to build mutual understanding?  Please leave your thoughts \<[here](/blog/three-reasons-you-should-ask-questions-like-columbo/#comments)\> and share this blog post with someone.*
+*Have you ever had a misunderstanding with anyone* *– perhaps a spouse, boss, or friend?  How have you used asking questions to build mutual understanding?  Please leave your thoughts [here](/blog/three-reasons-you-should-ask-questions-like-columbo/#comments) and share this blog post with someone.*

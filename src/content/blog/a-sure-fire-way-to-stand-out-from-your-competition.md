@@ -80,4 +80,4 @@ This simple phrase is the reason why I still remember my first *training* progra
 
 Whether you have a bent toward learning/*training* technical job skills, or a bent toward personal *development*/people skills, one thing is for sure that every organization needs both *training* AND *development.* 
 
-*What is your bent – training or development?  Do you have a plan for training?  Do you have a plan for development?  Please share your thoughts \<**[here](/blog/a-sure-fire-way-to-stand-out-from-your-competition/#comments)**\>. Is there someone in your human resource department who would enjoy this article?*
+*What is your bent – training or development?  Do you have a plan for training?  Do you have a plan for development?  Please share your thoughts **[here](/blog/a-sure-fire-way-to-stand-out-from-your-competition/#comments)**. Is there someone in your human resource department who would enjoy this article?*

@@ -53,7 +53,7 @@ I have identified ***seven main areas*** of my life that I rate on a yearly basi
 
 My newly updated personal **Goal Setting Workbook** has a convenient self-evaluation form with all seven areas laid out in a simple, clickable review page.  Seven clicks (one for each area), and you’re done!
 
-If you want help with your personal goal setting, or would just like to see the process that I use, simply  \<**click here**\>, and I will send you my popular Goal Setting Workbook FREE!
+If you want help with your personal goal setting, or would just like to see the process that I use, simply  **click here**, and I will send you my popular Goal Setting Workbook FREE!
 
 Even if you have an earlier version of the workbook, feel free to click the above link (or you can click the image below) and get the ***new**ly updated*** workbook to use now.
 

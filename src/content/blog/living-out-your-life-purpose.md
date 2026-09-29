@@ -19,7 +19,7 @@ Recently I’ve been writing about the ***why*** question, and now, I want to as
 
 In my **[previous blog post](/blog/discover-the-compass-for-your-life/)**, I wrote about discovering ***why*** you exist (your life purpose).
 
-If you’d like to discover your life purpose, you can download my simple **[Life Purpose Discovery Worksheet](/resources/tnb-life-purpose-discovery-worksheet/)** FREE by \<[**clicking here**](/resources/tnb-life-purpose-discovery-worksheet/)\>.
+If you’d like to discover your life purpose, you can download my simple **[Life Purpose Discovery Worksheet](/resources/tnb-life-purpose-discovery-worksheet/)** FREE by [**clicking here**](/resources/tnb-life-purpose-discovery-worksheet/).
 
 Like me, after you have discovered your *life purpose*, it’s time to ask yourself “What now?”  And, “***H**ow*** do I live out my *life purpose*?”
 
@@ -91,4 +91,4 @@ The greatest pleasure and joy of achievement comes from accomplishing what you s
 
 And being true to yourself, you will say, “I was born to do this.”
 
-*Have you* *discovered* ***why*** *you exist?  Are you ready to live your life purpose?  Please share your comments* *\<**[here](/blog/living-out-your-life-purpose/#comments)**\>, and please share this blog post with family, friends, and co-workers.*
+*Have you* *discovered* ***why*** *you exist?  Are you ready to live your life purpose?  Please share your comments* ***[here](/blog/living-out-your-life-purpose/#comments)**, and please share this blog post with family, friends, and co-workers.*

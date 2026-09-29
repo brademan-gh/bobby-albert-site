@@ -87,4 +87,4 @@ If I say something to you and just assume that you have *understood* me, neither
 
 If you a) start off right b) receive and repeat and c) deliberately send, you’ll boost the quality of your **communication** and the effectiveness of your leadership!
 
-*Do you **communicate** effectively?  How well do you give feedback?  Would you mind sharing your experiences of misunderstandings \<[here](/blog/you-dont-have-to-be-a-speech-writer-to-communicate-effectively/#comments)\>?  Could you share this blog post* *with* *a friend or co-worker?*
+*Do you **communicate** effectively?  How well do you give feedback?  Would you mind sharing your experiences of misunderstandings [here](/blog/you-dont-have-to-be-a-speech-writer-to-communicate-effectively/#comments)?  Could you share this blog post* *with* *a friend or co-worker?*

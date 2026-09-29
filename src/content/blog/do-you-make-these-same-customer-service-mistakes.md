@@ -104,7 +104,7 @@ The essence is not that you agree with someone.  It’s that you fully, deeply
 
 > **“Seek first to understand, then to be understood.” – Stephen Covey**
 
-Click \<here\> to download a printable page with this quote!
+Click here to download a printable page with this quote!
 
 Until the complaining customer (or anyone else) *feels understood*, they are *not*…
 
@@ -144,4 +144,4 @@ Click this image to download a printable page to help remind you of this importa
 
 ![A quote by Stephen Covey about understanding and listening](/images/2015/11/162rsrs-small-image-quote-seek-first-to-understand.png ""Seek first to understand, then to be understood"")
 
-*What has been your method of handling customer complaints?  Do you first gather all of the facts?  Do you ask questions and listen?  Please share your comments \<[here](/blog/do-you-make-these-same-customer-service-mistakes/#comments)\> and share this blog post with a friend and co-worker.*
+*What has been your method of handling customer complaints?  Do you first gather all of the facts?  Do you ask questions and listen?  Please share your comments [here](/blog/do-you-make-these-same-customer-service-mistakes/#comments) and share this blog post with a friend and co-worker.*

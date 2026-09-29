@@ -40,7 +40,7 @@ However, John also explains that the **process** encourages development, matures
 
 When I began this process to discover “who I was”, I first learned what *core values* were and what they were *not*.
 
-I wrote about it [\<here\>](/blog/what-core-values-are/) and explained this very important lesson that prepared me for the next phase in the **process**.
+I wrote about it [here](/blog/what-core-values-are/) and explained this very important lesson that prepared me for the next phase in the **process**.
 
 ### Phase 2 – Start by Reflecting and Then Go Deeper
 
@@ -50,13 +50,13 @@ Remember this is a ***process*** *not* an ***event***. This **process** should t
 
 It is important to understand to not skip the **process,** but follow these phases.
 
-In a previous blog post, [\<click here to view\>](/blog/key-steps-core-values-journey/), I shared some of the most difficult questions I had ever asked myself.
+In a previous blog post, [click here to view](/blog/key-steps-core-values-journey/), I shared some of the most difficult questions I had ever asked myself.
 
 ### Phase 3 – Ask Two Questions to Help You Discover Your Core Values
 
 Finally I got a break-through! By asking those previous questions, I was beginning to understand a few things about myself…characteristics that I could trace back to my childhood.
 
-In another blog post [\<click here to view\>](/blog/two-questions-will-help-discover-core-values/), I explained two important questions that helped me in my values-discovery process. I was learning that there is something inside me that’s expressed in my passions.
+In another blog post [click here to view](/blog/two-questions-will-help-discover-core-values/), I explained two important questions that helped me in my values-discovery process. I was learning that there is something inside me that’s expressed in my passions.
 
 > Insight: Core values are essential, but everyone doesn’t share the same set of core values. The point is not what core values you have, but that you acknowledge them, that you know what they are, that you (as the leader) build them explicitly into the organization, and that you preserve them over time.
 
@@ -66,4 +66,4 @@ I have learned that everyone must discover their own *core values*. And we each 
 
 I’ve made a simple ***Values Discovery Worksheet*** for you to use in your own *core values* journey. It’s **FREE**, and you can download it immediately by [clicking here](/resources/tnb-core-values-discovery-guide/). Feel free to print it or save it for your own use.
 
-*What are your **core values**? What process have you used to discover your **core values**? Please comment by [\<clicking here\>](/blog/super-bowl-core-values-wins-championships/#comments).*
+*What are your **core values**? What process have you used to discover your **core values**? Please comment by [clicking here](/blog/super-bowl-core-values-wins-championships/#comments).*

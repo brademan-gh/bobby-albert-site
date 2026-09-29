@@ -103,4 +103,4 @@ The **vision** statement as discovered and defined by my moving and storage comp
 
 And we truly lived it out.  Just ask about my company’s reputation in our industry over the past 20 years.
 
-*What is your organization’s vision statement? Is now the time to clearly define your vision and ask your people to help? Click \<[here](/blog/leaders-cast-your-vision-in-3-simple-steps/#comments)\> to share your thoughts. *
+*What is your organization’s vision statement? Is now the time to clearly define your vision and ask your people to help? Click [here](/blog/leaders-cast-your-vision-in-3-simple-steps/#comments) to share your thoughts. *

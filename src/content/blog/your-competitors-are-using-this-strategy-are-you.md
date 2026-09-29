@@ -186,8 +186,8 @@ Afterward, one by one, each table was asked to share their best idea with the en
 
 Then we played the game **Lean** ***QIC*-ARDY** with the “Becoming a Lean Enterprise” topic that was focused on “waste”.
 
-You can click \<here\> for a FREE download of the instructions for the **Lean** ***QIC*-ARDY** game.
+You can click here for a FREE download of the instructions for the **Lean** ***QIC*-ARDY** game.
 
 > **Warning: Be prepared for a new paradigm, big changes, new thinking, and new habits. And you, as the leader, will be expected to navigate your organization through this new period of change.**
 
-*Does your organization* *maximize* *customer delight? How well have you eliminated waste in your organization?  Could your people claim to be “waste detectors” or “waste-ologists”?  Please share your comments \<[here](/blog/your-competitors-are-using-this-strategy-are-you/#comments)\> and share this blog post with a friend or co-worker.*
+*Does your organization* *maximize* *customer delight? How well have you eliminated waste in your organization?  Could your people claim to be “waste detectors” or “waste-ologists”?  Please share your comments [here](/blog/your-competitors-are-using-this-strategy-are-you/#comments) and share this blog post with a friend or co-worker.*

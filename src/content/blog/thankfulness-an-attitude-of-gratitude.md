@@ -129,4 +129,4 @@ This **principled** process strengthens and fosters team-building and creative
 
  
 
-*What do those closest to you say about your attitude? Is your gratefulness evident to everyone around you? Please share your comments \<here\> and share this blog post with a friend or co-worker.*
+*What do those closest to you say about your attitude? Is your gratefulness evident to everyone around you? Please share your comments here and share this blog post with a friend or co-worker.*

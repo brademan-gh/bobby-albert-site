@@ -29,7 +29,7 @@ Isn’t it interesting that we bring to our workplace a diversity of perspective
 
 What is your bent/leaning? Is it managing or leading? You can find out now!
 
-*Simply download your own copy of my* ***Managing and*** ***Leading*** ***Assessment*** *by* ***\<clicking here\>****.* *It takes less than five minutes to complete.*
+*Simply download your own copy of my* ***Managing and*** ***Leading*** ***Assessment*** *by* ***clicking here****.* *It takes less than five minutes to complete.*
 
 ### **What is the goal?**
 
@@ -125,4 +125,4 @@ Leaders and managers make great teammates. They need each other.
 
 Leaders without managers cannot keep what they grow, and managers without leaders cannot grow what they keep!
 
-*As the leader, what is the goal?  And are you making progress?  Please share your comments \<[here](/blog/goals-have-different-meaning-to-different-people/#comments)\> and share this blog post with a friend and co-worker.*
+*As the leader, what is the goal?  And are you making progress?  Please share your comments [here](/blog/goals-have-different-meaning-to-different-people/#comments) and share this blog post with a friend and co-worker.*

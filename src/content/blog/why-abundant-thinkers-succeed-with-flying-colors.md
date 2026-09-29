@@ -111,4 +111,4 @@ The freedom and success enjoyed by *abundant* thinkers becomes obvious when we c
 
 Just like Kryptonite affects Superman, *scarcity thinking* weakens our effectiveness and keeps us from realizing our full potential.
 
-*What do those closest to you say about you? Do you have an abundance mindset or a scarcity mindset? Please share your comments [\<here\>](/blog/why-abundant-thinkers-succeed-with-flying-colors/#comments "Click here to leave a comment") and share this blog post with a friend or co-worker.*
+*What do those closest to you say about you? Do you have an abundance mindset or a scarcity mindset? Please share your comments [here](/blog/why-abundant-thinkers-succeed-with-flying-colors/#comments "Click here to leave a comment") and share this blog post with a friend or co-worker.*

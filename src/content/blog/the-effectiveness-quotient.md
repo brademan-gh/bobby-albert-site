@@ -59,7 +59,7 @@ For we’ve just seen how focusing on *results* and *relationships* can multiply
 
 And one of the best ways, as to how you can begin to see truly amazing gains by multiplying not just your individual effectiveness but also the effectiveness of your whole *team,* is by employing the **Engage2Lead** *participative leadership style* and using the [**1-2-3 leadership tool**](/blog/tired-trying-know/)**.**
 
-*Do you focus* *solely* *on* *driving for results* ***or*** *enhancing relationships?   Or, do you focus on* *enhancing relationships as you drive for results?  How* *might* *do you multiply your leadership effectiveness?  Please share your comments \<**[here](/blog/the-effectiveness-quotient/#comments)**\> and share this blog post with a co-worker and friend.*
+*Do you focus* *solely* *on* *driving for results* ***or*** *enhancing relationships?   Or, do you focus on* *enhancing relationships as you drive for results?  How* *might* *do you multiply your leadership effectiveness?  Please share your comments **[here](/blog/the-effectiveness-quotient/#comments)** and share this blog post with a co-worker and friend.*
 
 **Coming Soon!**
 

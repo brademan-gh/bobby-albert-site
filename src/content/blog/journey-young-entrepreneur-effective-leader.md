@@ -94,7 +94,7 @@ Did you download the FREE printable survey? You can download it for your own use
 
 **[Click Here to Download My Free Motivation Survey](/resources/tnb-motivation-survey/)**
 
-*Well, how did you do?  What road are you traveling on?  Have you learned something about yourself?  Please share your thoughts \<**[here](/blog/journey-young-entrepreneur-effective-leader/#comments)**\> and share this blog post with a friend or co-worker.*
+*Well, how did you do?  What road are you traveling on?  Have you learned something about yourself?  Please share your thoughts **[here](/blog/journey-young-entrepreneur-effective-leader/#comments)** and share this blog post with a friend or co-worker.*
 
 ![bobby-albert-e2l-final-color-170px](/images/2016/11/Bobby-Albert-E2L-Final-color-170px.png)
 

@@ -108,7 +108,7 @@ So stop rushing around as I did. Pause, reflect, and evaluate so that you are re
 
 To dig more into Discovering Your Life Purpose, you can check out True North Business.
 
-*Please share your thoughts \<**[here](/blog/why-most-people-dont-discover-their-life-purpose/#comments)**\> and share this blog post with family, friends, and co-workers.*
+*Please share your thoughts **[here](/blog/why-most-people-dont-discover-their-life-purpose/#comments)** and share this blog post with family, friends, and co-workers.*
 
  
 

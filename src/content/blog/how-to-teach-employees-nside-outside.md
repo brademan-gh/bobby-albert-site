@@ -43,7 +43,7 @@ It is these people, working together, who ensure that our external customer expe
 
 The bible also gives us wisdom on the importance of working together for good. In Paul’s letter to the Ephesians, he says, “From him, the whole body, joined and held together by every supporting ligament, grows and builds itself up in love, as each part does its work. Ephesians 4:16 NIV
 
-I’ve made a **Baton Exercise Instruction Sheet** that you can use to clarify the relationships between your organization’s internal customers and internal suppliers. It’s **FREE**, and you can download this leadership tool immediately by \<clicking here\>. Feel free to print it or save it for your own use.
+I’ve made a **Baton Exercise Instruction Sheet** that you can use to clarify the relationships between your organization’s internal customers and internal suppliers. It’s **FREE**, and you can download this leadership tool immediately by clicking here. Feel free to print it or save it for your own use.
 
 ### The Promise
 
@@ -55,4 +55,4 @@ Remember:
 
 In my next blog post, I’ll describe how you can leverage your team’s newly clarified workflow to boost the service to your *external* customers!
 
-*How do you involve your people to deepen their learning? Would you consider introducing the baton exercise to your organization? Please share your thoughts \<[here](/blog/how-to-teach-employees-nside-outside/#comments)\> and share this blog post with a friend or co-worker.*
+*How do you involve your people to deepen their learning? Would you consider introducing the baton exercise to your organization? Please share your thoughts [here](/blog/how-to-teach-employees-nside-outside/#comments) and share this blog post with a friend or co-worker.*

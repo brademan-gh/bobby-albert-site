@@ -128,7 +128,7 @@ But most of all while they were having “a ball of fun” and using the positiv
 
 In my next blog post, I will talk about the second half of our WOW! QIC-day agenda – and describe how we introduced and reinforced our **vision** – Where do we want to be?
 
-*Do you know why you exist as a person and as an organization? * *How could you use a similar game-based discovery approach with your people to deeply communicate your message to them?* *Please share your comments \<**[here](/blog/communicate-and-project-your-purpose/)**\> and share this blog post with family,* *a* *friend, and/or co-worker.*
+*Do you know why you exist as a person and as an organization? * *How could you use a similar game-based discovery approach with your people to deeply communicate your message to them?* *Please share your comments **[here](/blog/communicate-and-project-your-purpose/)** and share this blog post with family,* *a* *friend, and/or co-worker.*
 
 Save
 

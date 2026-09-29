@@ -70,4 +70,4 @@ I have learned that you need a **plan** to maximize your and your people’s
 
 As a start, commit that you will choose to put near the top of your daily task list to learn something new every day\! 
 
-*Do you have a short daily task list?  Do you prioritize your list?  Do you include personal growth on your daily list?  Please share your comments \<**[here](/blog/the-six-figure-productivity-technique/#comments)**\>.*
+*Do you have a short daily task list?  Do you prioritize your list?  Do you include personal growth on your daily list?  Please share your comments **[here](/blog/the-six-figure-productivity-technique/#comments)**.*

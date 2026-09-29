@@ -79,4 +79,4 @@ Can you handle the truth?  The truth is no matter what work you do or where you
 
 Are you willing to change?  For without change, there can be no growth.  Then commit yourself to not only accept change but to seek it.  And commit yourself to become a great leader by investing in the *personal growth* for yourself and your people. 
 
-*In what ways have* *you put your business inside* *of* *a Mason* *jar? * *What* *can you do to remove* *the limits on* *the size of your business?  Are you willing to change and invest in personal growth for yourself and your people?  Please share your* *reply* *\<**[here](/blog/are-these-personal-growth-myths-limiting-your-leadership/#comments)**\>. I’d love to hear your thoughts.*
+*In what ways have* *you put your business inside* *of* *a Mason* *jar? * *What* *can you do to remove* *the limits on* *the size of your business?  Are you willing to change and invest in personal growth for yourself and your people?  Please share your* *reply* ***[here](/blog/are-these-personal-growth-myths-limiting-your-leadership/#comments)**. I’d love to hear your thoughts.*

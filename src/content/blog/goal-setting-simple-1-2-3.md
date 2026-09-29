@@ -40,7 +40,7 @@ The first thing that I do when I set goals is [**reflect**](/blog/the-secret-of
 
 I think about what happened, both positive and negative. I ask myself, “What worked?” and also “What didn’t work?”.
 
-I evaluate myself in seven key areas and score myself in each area. \<click here to get the rate sheet that I use\> (This is a link to download my Goal Setting Workbook)
+I evaluate myself in seven key areas and score myself in each area. click here to get the rate sheet that I use (This is a link to download my Goal Setting Workbook)
 
 We have all heard that “experience is the best teacher”. However, experience is NOT the best teacher…***Evaluated*** experience is!
 
@@ -88,7 +88,7 @@ I write a goal for each of the following areas:
 
 **So let’s get started – I’ve developed a simple way to help you identify and record your own goals.** It’s all found in my FREE **Goal Setting Workbook.** You can get yours today by [clicking here](/resources/gps-goal-planning-workbook/) to go to my download page.
 
-*Could you share how you set goals – or how my Goal Setting Workbook has impacted your goal setting?* Click [\<here\>](/blog/goal-setting-simple-1-2-3/#comments "Leave a comment") to share your thoughts in my comment section.
+*Could you share how you set goals – or how my Goal Setting Workbook has impacted your goal setting?* Click [here](/blog/goal-setting-simple-1-2-3/#comments "Leave a comment") to share your thoughts in my comment section.
 
 For more on goal setting, see the following posts:
 

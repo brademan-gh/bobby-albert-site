@@ -42,7 +42,7 @@ When I introduced the **Nside/Outside** principle, we closed our business for ha
 
 And I started the morning out with a game that I called “**One Body, Many Parts.**” The name is inspired by 1 Corinthians 12:12 which reads: “Just as a body, though one, has many parts, but all its many parts form one body, so it is with Christ.” NIV
 
-I’ve made a simple **game instruction sheet** that describes the game in detail. It’s **FREE**, and you can download it immediately by \<clicking here\>.  Feel free to print it or save it for your own use.
+I’ve made a simple **game instruction sheet** that describes the game in detail. It’s **FREE**, and you can download it immediately by clicking here.  Feel free to print it or save it for your own use.
 
 We formed teams to play the game.  The objective of the game was for each team to put a child’s eight-piece puzzle together within a short time limit.  The game had specific rules that required teamwork to get the job done.
 
@@ -98,4 +98,4 @@ This understanding enables us to “delight” *external* customers with excep
 
 Don’t forget to download my **FREE printable instruction sheet** that describes the game mentioned above.  This game is a *leadership tool* that you can use to encourage discovery and deeper learning throughout your organization.
 
-*Have you ever considered the I**nternal Customer Principle**? Who is your **internal customer**? Please share your thoughts \<[here](/blog/who-is-your-internal-customer/#comments)\> and share this blog post with a friend or co-worker.*
+*Have you ever considered the I**nternal Customer Principle**? Who is your **internal customer**? Please share your thoughts [here](/blog/who-is-your-internal-customer/#comments) and share this blog post with a friend or co-worker.*

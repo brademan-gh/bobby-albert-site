@@ -71,7 +71,7 @@ Many organizations lack a clear **vision,** and they tend to jump from task to t
 
 Ask the right question – “Where do we want to be?” Once you define your **vision** and your team clearly understands it, your vision will inspire and motivate everyone in the organization!
 
-*Do you know where have you been and where are you now?* *Do you know where you want to be* *as a person and as an organization? Please share your comments \<**[here](/blog/unveil-vision-inspire-team/#comments)**\> and share this blog post with family,* *a* *friend, and/or co-worker. *
+*Do you know where have you been and where are you now?* *Do you know where you want to be* *as a person and as an organization? Please share your comments **[here](/blog/unveil-vision-inspire-team/#comments)** and share this blog post with family,* *a* *friend, and/or co-worker. *
 
 Save
 

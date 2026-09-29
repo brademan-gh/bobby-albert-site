@@ -33,7 +33,7 @@ For me, it was not until 1989 that I finally learned the better way. But you don
 
 ### **Motivation Survey**
 
-In my previous blog posts, I offered you a simple survey about our *motivations*.  You can download the FREE survey \<**[here](/resources/tnb-motivation-survey/)**\> so you can easily record your own answers.
+In my previous blog posts, I offered you a simple survey about our *motivations*.  You can download the FREE survey **[here](/resources/tnb-motivation-survey/)** so you can easily record your own answers.
 
 **[Click Here to Download My Free Motivation Survey](%20https://values-driven.leadpages.co/leadbox/1412d5b23f72a2%3A145b8c4a3b46dc/5684318433181696/)**
 
@@ -69,5 +69,5 @@ There’s one thing I learned for sure as a leader when serving in my Rotary Clu
 
 Volunteer leadership is certainly a challenge, but the insights we are discovering in the motivation survey are clues to leading anyone, even volunteers!
 
-*Do you like achieving goals and receiving recognition for achievement? Do you like being asked for your opinion and advice? When someone orders you to do a task, how does that make you feel? Please leave for me your comments \<**[here](/blog/volunteer-leadership/#comments)**\> and share this blog posts with a friend or co-worker.\
+*Do you like achieving goals and receiving recognition for achievement? Do you like being asked for your opinion and advice? When someone orders you to do a task, how does that make you feel? Please leave for me your comments **[here](/blog/volunteer-leadership/#comments)** and share this blog posts with a friend or co-worker.\
 *

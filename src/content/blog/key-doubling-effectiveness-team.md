@@ -87,8 +87,8 @@ As you can see, it’s important for leaders to fully tap the power of the **1
 
 **– Vince Lombardi** 
 
-*How might ****1-2-3**** help you make better decisions and ease implementation of decisions you make so your people will “*want to*”?  How well do you give your people feedback once you make a decision?  Please give us your comments \<here\> and share this article with a friend or co-worker.* 
+*How might ****1-2-3**** help you make better decisions and ease implementation of decisions you make so your people will “*want to*”?  How well do you give your people feedback once you make a decision?  Please give us your comments here and share this article with a friend or co-worker.* 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
 
-**My new book is FINALLY here!** . If you’re reading this, you are most likely focused on learning and living leadership, so you’ll want to read this book. It’s the most comprehensive collection of the leadership principles that enabled my personal growth and business success. \<[click here to learn more](http://principledprofitsbook.com)\> ![Principled Profits by Bobby Albert](/images/2017/07/Principled_Profits_600x600-300x300.png "Principled Profits - Outward Success in an Inside Job")
+**My new book is FINALLY here!** . If you’re reading this, you are most likely focused on learning and living leadership, so you’ll want to read this book. It’s the most comprehensive collection of the leadership principles that enabled my personal growth and business success. [click here to learn more](http://principledprofitsbook.com) ![Principled Profits by Bobby Albert](/images/2017/07/Principled_Profits_600x600-300x300.png "Principled Profits - Outward Success in an Inside Job")

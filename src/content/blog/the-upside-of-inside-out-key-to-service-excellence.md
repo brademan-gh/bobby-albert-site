@@ -24,11 +24,11 @@ I have found that, in the case with running an organization as well as with wash
 
 ### Identify your internal customer
 
-First, we talked about how to identify your **internal customers** and *suppliers*. Here’s a link to that blog post \<[here](/blog/how-to-teach-employees-nside-outside/)\>. Don’t miss the leadership tool that’s free to download from within that post.
+First, we talked about how to identify your **internal customers** and *suppliers*. Here’s a link to that blog post [here](/blog/how-to-teach-employees-nside-outside/). Don’t miss the leadership tool that’s free to download from within that post.
 
 ### Interview your internal customer
 
-Next, we talked about how to determine the true needs of your **internal customers**. You can jump to that blog post \<[by clicking here](/blog/magically-transform-your-customer-service/)\>, where you’ll get access to another leadership tool, the **Internal Customer Questionnaire,** that helps your people discover how to function better as a team!
+Next, we talked about how to determine the true needs of your **internal customers**. You can jump to that blog post [by clicking here](/blog/magically-transform-your-customer-service/), where you’ll get access to another leadership tool, the **Internal Customer Questionnaire,** that helps your people discover how to function better as a team!
 
 Everything that I’ve learned points us back to the truth:
 
@@ -62,4 +62,4 @@ Every leader and every employee, both **internal customers** and internal *su
 
 This understanding paves the way for the entire organization to provide service excellence!
 
-*What methods do you use to ensure top-notch customer service at your organization? What has worked best for you? Please share your thoughts \<*[*here*](/blog/the-upside-of-inside-out-key-to-service-excellence/#comments)*\> and share this blog post with a friend or co-worker.*
+*What methods do you use to ensure top-notch customer service at your organization? What has worked best for you? Please share your thoughts *[*here*](/blog/the-upside-of-inside-out-key-to-service-excellence/#comments)* and share this blog post with a friend or co-worker.*

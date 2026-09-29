@@ -144,4 +144,4 @@ When families, organizations, or teams of any kind enjoy **communicative** inter
 
 What a deal – achieving inspiration as well as information with so little extra cost or effort!
 
-*How well do you listen* *…really listen from the heart?  Could you improve your listening skills?  What did you learn about why it is important to listen?  Please share your thoughts \<[here](/blog/5-timeless-truths-about-listening/#comments)\> and share this blog post with* *your* *family, friend, or co-worker.*
+*How well do you listen* *…really listen from the heart?  Could you improve your listening skills?  What did you learn about why it is important to listen?  Please share your thoughts [here](/blog/5-timeless-truths-about-listening/#comments) and share this blog post with* *your* *family, friend, or co-worker.*

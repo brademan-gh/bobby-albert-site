@@ -76,10 +76,10 @@ Every leader can use this policy to improve his or her leadership while also sav
 
 It encourages mutual accountability, and it can help you orchestrate your company’s branding and team’s efforts. 
 
-*How do you address these situations mentioned above in your organization?* *Will you consider adopting this HR policy in your own organization? Please share your comments \<**[here](/blog/simple-way-protect-brand-without-discouraging-team/#comments)**\> and share this article with* *your* *supervisor(s), friend and/or co-worker.* 
+*How do you address these situations mentioned above in your organization?* *Will you consider adopting this HR policy in your own organization? Please share your comments **[here](/blog/simple-way-protect-brand-without-discouraging-team/#comments)** and share this article with* *your* *supervisor(s), friend and/or co-worker.* 
 
 **P.S.**  I am often asked if decision-making is *top-down* or *bottom-up*.  The answer is both! The *participative leadership style* that I call [**Engage2Lead**](/blog/see-can-get-employees-think-like-owners/) and employs the [**1-2-3 leadership tool**](/blog/see-can-get-employees-think-like-owners/) is usually considered a *top-down* decision-making process.   
 
 However, the **One-Over-One** policy is an example of a bottom-up decision-making process by using the **1-2-3** **process** where the employee obtains the approval from their supervisor and that supervisor obtains the approval from their supervisor one level above them.    
 
-Are your leading your organization toward growth? Take my **FREE Lead2Grow Assessment** \<**here**\> to understand more. (PLUS – you’ll receive custom-tailored suggestions about next steps to take, starting today!)
+Are your leading your organization toward growth? Take my **FREE Lead2Grow Assessment** **here** to understand more. (PLUS – you’ll receive custom-tailored suggestions about next steps to take, starting today!)

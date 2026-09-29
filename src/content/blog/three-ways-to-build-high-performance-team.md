@@ -21,7 +21,7 @@ The foundation to dealing with a low-performing team may come as a surprise to y
 
 It’s about determining your **core values**! When you determine and communicate your **core values** to your people, you create a guide, or model for them to aspire to.
 
-This gives them a common way to view, and serve your customers, suppliers, and even their co-workers. The **values** of an organization are the core and catalyst of all that you do. You can read about how I determined my **values** [\<here\>](/blog/key-steps-core-values-journey/) and [\<here\>](/blog/two-questions-will-help-discover-core-values/).
+This gives them a common way to view, and serve your customers, suppliers, and even their co-workers. The **values** of an organization are the core and catalyst of all that you do. You can read about how I determined my **values** [here](/blog/key-steps-core-values-journey/) and [here](/blog/two-questions-will-help-discover-core-values/).
 
 Once your values are identified and effectively communicated to your team, you’re ready to start building momentum and building that high-performing team!
 
@@ -65,4 +65,4 @@ When your people understand that part of their performance will be evaluated aga
 
 You CAN build the high-performance team you’ve been longing for – by interviewing, onboarding, and evaluating based on your values!
 
-*How have you successfully hired a high-performance team? Please leave your comment [\<here\>](/blog/three-ways-to-build-high-performance-team/#comments).*
+*How have you successfully hired a high-performance team? Please leave your comment [here](/blog/three-ways-to-build-high-performance-team/#comments).*

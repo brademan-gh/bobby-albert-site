@@ -72,4 +72,4 @@ They also choose to *trust* the process which leads to the *right*/**principled
 
 Do you want to make better decisions?  It’s possible ***if*** you focus on making character-driven decisions based on principle, instead of expedient, emotion-driven decisions.
 
-*How do you make decisions? Are they based on the situation? Are they character-driven or emotion-driven? Please share your thoughts [\<here\>](/blog/learn-how-successful-people-make-better-decisions/#comments "Click here to leave a comment") and pass this blog post to a friend or co-worker.*
+*How do you make decisions? Are they based on the situation? Are they character-driven or emotion-driven? Please share your thoughts [here](/blog/learn-how-successful-people-make-better-decisions/#comments "Click here to leave a comment") and pass this blog post to a friend or co-worker.*

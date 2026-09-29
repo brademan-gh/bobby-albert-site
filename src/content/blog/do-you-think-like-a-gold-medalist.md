@@ -42,4 +42,4 @@ If we choose “that”, the positive perspective, we’ll be setting ourselves 
 
 The choice is simple, the results are real, which will you choose, “this” or “that”?
 
-*Do you think like a gold medalist? Do you find yourself blaming circumstances and others, or do you approach life with the positivity of a world-class athlete? Please share your thoughts \<**[here](/blog/do-you-think-like-a-gold-medalist/#comments)**\>.*
+*Do you think like a gold medalist? Do you find yourself blaming circumstances and others, or do you approach life with the positivity of a world-class athlete? Please share your thoughts **[here](/blog/do-you-think-like-a-gold-medalist/#comments)**.*

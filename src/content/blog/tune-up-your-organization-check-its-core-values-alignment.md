@@ -79,4 +79,4 @@ Remember, you never attain absolute alignment. But you can make meaningful progr
 
 It’s not just the big pieces, but also the itty-bitty details that make a big impression. Together, big and small efforts combine to create an overall effect that leads to enduring greatness.
 
-*How’s your company performing? Is it time for a core values alignment? What progress are you making on eliminating your misalignments? Please let me hear your comments [\<here\>](/blog/tune-up-your-organization-check-its-core-values-alignment/#comments "Leave comments here").*
+*How’s your company performing? Is it time for a core values alignment? What progress are you making on eliminating your misalignments? Please let me hear your comments [here](/blog/tune-up-your-organization-check-its-core-values-alignment/#comments "Leave comments here").*

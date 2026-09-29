@@ -100,7 +100,7 @@ Continuous improvement means preventing problems before they happen and looking 
 
 And the result when the product or service reaches the external customer, quality is built in at every step and becomes a permanent fixture.
 
-*Do you measure quality in your organization?* *If so, how?* *How* *you* *do simplify business processes in your organization?  Please leave me your comments \<[here](/blog/3-simple-principles-to-help-you-do-quality-not-just-talk-it/#comments)\>* *(I read every comment)* *and share this blog post with a friend or co-worker.*
+*Do you measure quality in your organization?* *If so, how?* *How* *you* *do simplify business processes in your organization?  Please leave me your comments [here](/blog/3-simple-principles-to-help-you-do-quality-not-just-talk-it/#comments)* *(I read every comment)* *and share this blog post with a friend or co-worker.*
 
 ![QIC_color_trans-170px](/images/2016/07/QIC_color_trans-170px.png)
 

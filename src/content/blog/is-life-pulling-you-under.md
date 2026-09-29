@@ -87,4 +87,4 @@ And you can replace the troubled ocean waters of expedited behaviors with the ca
 
 In my next blog post, I will explore more deeply *principled* *vs. expedient* behaviors and how *principled* decision-making will set the stage for you to cast your **vision** – where are you going.
 
-*Has your life been like the* *raging waters of the* *ocean?  What have you experienced when you behaved in an* *expedient way?  Please share your comments \<**[here](/blog/is-life-pulling-you-under/#comments)**\> and share this blog post with family, friends or co-workers.*
+*Has your life been like the* *raging waters of the* *ocean?  What have you experienced when you behaved in an* *expedient way?  Please share your comments **[here](/blog/is-life-pulling-you-under/#comments)** and share this blog post with family, friends or co-workers.*

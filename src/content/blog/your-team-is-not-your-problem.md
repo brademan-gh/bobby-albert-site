@@ -51,7 +51,7 @@ I have learned that you need a **plan** to maximize your *personal growth*
 
 As a start, commit that you will choose to learn something new every day. Also, think about setting a goal for the number of books you will read this year. Remember the common (and true) adage: Leaders are Readers.  
 
-Many leaders feel overwhelmed and isolated. If that sounds like you, you’ll want to check out my Leadership Edge virtual mentoring groups. We’re forming groups now. Learn more \<here\>.
+Many leaders feel overwhelmed and isolated. If that sounds like you, you’ll want to check out my Leadership Edge virtual mentoring groups. We’re forming groups now. Learn more here.
 
 *Have you been looking in the mirror?  What do you see?  Do you see the reflection of your people in you?* *What are you doing to “lift the lid” to your personal growth? * 
 

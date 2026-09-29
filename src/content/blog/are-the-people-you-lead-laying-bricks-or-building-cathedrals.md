@@ -145,4 +145,4 @@ If you fail to do this for your organization, it will be like you are driving a 
 
 If you don’t know *where* you want to be, or *how* you can get there, then *where* you end up will most likely *not* be *where* you hope.
 
-*Are the people you lead laying bricks or building cathedrals?  Do you have a strategic plan?  Tactical plan?  Please share your thoughts \<[here](/blog/are-the-people-you-lead-laying-bricks-or-building-cathedrals/#comments)\> and share this blog post with a friend or co-worker.*
+*Are the people you lead laying bricks or building cathedrals?  Do you have a strategic plan?  Tactical plan?  Please share your thoughts [here](/blog/are-the-people-you-lead-laying-bricks-or-building-cathedrals/#comments) and share this blog post with a friend or co-worker.*

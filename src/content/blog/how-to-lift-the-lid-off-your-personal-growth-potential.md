@@ -84,6 +84,6 @@ As a start, commit that you will choose to learn something new every day!
 
 To help with your *personal growth* journey, I have created a simple **Goal Setting Workbook**. It’s **FREE**, and you can download it immediately by [clicking here](/resources/gps-goal-planning-workbook/). Feel free to print it or save it for your own use.
 
-If you would like to go to a summary blog post about personal growth goal setting, you can \<[click here](/blog/goal-setting-simple-1-2-3/)\>.
+If you would like to go to a summary blog post about personal growth goal setting, you can [click here](/blog/goal-setting-simple-1-2-3/).
 
-*Do you want to grow your business? What are doing to “lift the lid” to your personal growth? Please share your comments \<[here](/blog/how-to-lift-the-lid-off-your-personal-growth-potential/#comments)\> and share this blog post with a friend and co-workers.*
+*Do you want to grow your business? What are doing to “lift the lid” to your personal growth? Please share your comments [here](/blog/how-to-lift-the-lid-off-your-personal-growth-potential/#comments) and share this blog post with a friend and co-workers.*

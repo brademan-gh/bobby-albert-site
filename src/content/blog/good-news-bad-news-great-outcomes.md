@@ -88,7 +88,7 @@ And their knowledge and ownership of the project and energy propel them to imple
 
 With good up-front coordination, adopting a participative **Engage2Lead** *leadership style* that employs the **1-2-3** **leadership tool** can guide *teams* to discover ideas that far exceed any one leader’s expectations or abilities.  And that’s exactly what happened when we invited the participation of all our people to help make the decisions associated with our big move!
 
-*Do you have an upcoming decision to make? Do you see how* *employing* *the* ***Engage2Lead*** *leadership approach* *can help you make better decisions and confront changes facing your organization?  Please share your comments \<**[here](/blog/good-news-bad-news-great-outcomes/#comments)**\> and share this blog post with a co-worker and friend.*
+*Do you have an upcoming decision to make? Do you see how* *employing* *the* ***Engage2Lead*** *leadership approach* *can help you make better decisions and confront changes facing your organization?  Please share your comments **[here](/blog/good-news-bad-news-great-outcomes/#comments)** and share this blog post with a co-worker and friend.*
 
 #### **Learn more about my new book, [Principled Profits – Outward Success Is an Inside Job](http://principledprofitsbook.com).**
 

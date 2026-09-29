@@ -104,7 +104,7 @@ By doing so, every leader can develop a more effective and efficient TEAM while 
 
 Mr. or Ms. CEO/leader, you can still drive for *results* AND at the same time enhance *relationships* with your people by *engaging* your employees with a *participative leadership style* – like **Engage2Lead.** And one of the best Engage2Lead tools at your disposal is the **1-2-3 leadership tool.**
 
-*Every CEO wants three things: results, results, results. But the research says employees want something different.* *As* *a* *leader, are you driving so hard for results that your employees have become disengaged or actively disengaged? Are you open to a participative leadership style?  Please share your thoughts \<**[here](/blog/every-ceo-wants-three-things/#comments)**\> and please share this blog post with a friend* *or co-worker.*
+*Every CEO wants three things: results, results, results. But the research says employees want something different.* *As* *a* *leader, are you driving so hard for results that your employees have become disengaged or actively disengaged? Are you open to a participative leadership style?  Please share your thoughts **[here](/blog/every-ceo-wants-three-things/#comments)** and please share this blog post with a friend* *or co-worker.*
 
  
 

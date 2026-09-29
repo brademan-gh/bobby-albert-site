@@ -14,7 +14,7 @@ Recently, a friend and I were talking about setting goals for the new year. One 
 
 ![Bobby Albert asks the question, "What are your dreams for 2017?"](/images/2017/01/What-are-your-dreams-for-2017-with-border.jpg "Bobby Albert: What Are Your Dreams for 2017?") 
 
-> Are thinking about your goals for 2017? You can download my FREE Goal-Setting Tip Sheet by \<**[clicking here](https://values-driven.leadpages.co/goal-tips-pdf/?thesource=blogpost)**\>.
+> Are thinking about your goals for 2017? You can download my FREE Goal-Setting Tip Sheet by **[clicking here](https://values-driven.leadpages.co/goal-tips-pdf/?thesource=blogpost)**.
 
 Every new year, after I have **[reflected over the last year](/blog/the-first-step-toward-a-successful-2017/)**, I shift toward thinking about the future.  There is a whole series of questions that I ask myself about the coming year, but right now, I’d like to focus on two.
 
@@ -40,10 +40,10 @@ When I think about “who I want to become”, I think about my entire being: **
 
 **Spiritual**:  Directing our attention to our spiritual life allows us to connect with a greater purpose beyond ourselves. I find that my spiritual life is the foundation for the rest of my life.  If our spiritual life is aligned with our greater purpose, I believe we work and live with deeper connections and greater meaning.
 
-Are you thinking about your goals for 2017?  I have created a **Goal-Setting Tip Sheet** that outlines five proven goal-setting strategies.  These strategies have helped me set and achieve my goals year after year, and they can help you too! Download my FREE Goal Setting Tip Sheet by \<**[*clicking here*](https://values-driven.leadpages.co/goal-tips-pdf/?thesource=blogpost)**\>.
+Are you thinking about your goals for 2017?  I have created a **Goal-Setting Tip Sheet** that outlines five proven goal-setting strategies.  These strategies have helped me set and achieve my goals year after year, and they can help you too! Download my FREE Goal Setting Tip Sheet by **[*clicking here*](https://values-driven.leadpages.co/goal-tips-pdf/?thesource=blogpost)**.
 
 *What about you?  What do you dream to accomplish in 2017?  Who do you want to become in 2017? * *These questions, and your answers to them, will help you define the dreams that you dream for the new year!  *
 
-*You can leave your comments \<**[here](/blog/what-are-your-dreams-for-2017/#comments)**\>, and please pass this blog post along to friends, family and co-workers who you want to dream big dreams for 2017.*
+*You can leave your comments **[here](/blog/what-are-your-dreams-for-2017/#comments)**, and please pass this blog post along to friends, family and co-workers who you want to dream big dreams for 2017.*
 
-> Do you want to set and achieve meaningful goals in 2017? Consider my Goal Planning Success course, Where Dreams Become Destinations – it’s like a GPS for your life! For a limited time, you can enjoy a significant \$40 discount by using coupon code “40OFF” -\<**[click here](http://values-driven-leadership-institute.teachable.com/p/goal-planning-success-2017-edition/)**\> to review the course outline and enroll!
+> Do you want to set and achieve meaningful goals in 2017? Consider my Goal Planning Success course, Where Dreams Become Destinations – it’s like a GPS for your life! For a limited time, you can enjoy a significant \$40 discount by using coupon code “40OFF” -**[click here](http://values-driven-leadership-institute.teachable.com/p/goal-planning-success-2017-edition/)** to review the course outline and enroll!

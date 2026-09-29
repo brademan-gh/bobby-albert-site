@@ -93,8 +93,8 @@ The key is to:
 
 2\) Involve your entire team in a collaborative effort to find the answers.
 
-I have created a special 1-page printable that lists all **8 Questions That Will Grow Your Business**! There is no charge and you may download it by clicking \<here\>.
+I have created a special 1-page printable that lists all **8 Questions That Will Grow Your Business**! There is no charge and you may download it by clicking here.
 
-*Have you ever struggled to grow your business? Would you consider involving your entire team as you answer the eight questions above? Please share your comments \<[here](/blog/8-simple-questions-that-will-dramatically-grow-your-business/#comments)\> and share this blog posts with a friend or co-worker.*
+*Have you ever struggled to grow your business? Would you consider involving your entire team as you answer the eight questions above? Please share your comments [here](/blog/8-simple-questions-that-will-dramatically-grow-your-business/#comments) and share this blog posts with a friend or co-worker.*
 
 P.S. – I have shared how the **ON/IN** principle actually evolved in our business. But, a more logical ordering of the questions would place the last two questions mentioned above as the first two questions for you to consider. My **FREE** download lists the questions in the preferred order.

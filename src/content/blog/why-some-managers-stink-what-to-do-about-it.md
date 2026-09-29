@@ -89,4 +89,4 @@ Ask, *“How well do I…”*
 
 If you **really** want to understand where you rank in the above areas, ask a trusted friend to gather anonymous feedback on these questions from your co-workers, supervisors and direct reports. The results have the potential to transform your leadership! (It did for me.)
 
-*How did you rate? Did you learn something about yourself?* *What steps can you take today to start earning the enthusiasm, initiative and devotion of your employees? Please let me hear your thoughts by clicking [\<here\>](/blog/why-some-managers-stink-what-to-do-about-it/#comments).*
+*How did you rate? Did you learn something about yourself?* *What steps can you take today to start earning the enthusiasm, initiative and devotion of your employees? Please let me hear your thoughts by clicking [here](/blog/why-some-managers-stink-what-to-do-about-it/#comments).*

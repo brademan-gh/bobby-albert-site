@@ -110,4 +110,4 @@ Taking the “low road” means that you succumb to fear and selfishly respond w
 
 Are you willing to give-up to go-up?  Which road will you take? The choice is yours!
 
-*How do* *you react when you lose a top performer? * *Are you willing to lose a star performer to gain more top talent?  Please share your comments \<**[here](/blog/does-anyone-in-america-remember-the-high-road/#comments)**\>, and share this blog post with a friend or co-worker.*
+*How do* *you react when you lose a top performer? * *Are you willing to lose a star performer to gain more top talent?  Please share your comments **[here](/blog/does-anyone-in-america-remember-the-high-road/#comments)**, and share this blog post with a friend or co-worker.*

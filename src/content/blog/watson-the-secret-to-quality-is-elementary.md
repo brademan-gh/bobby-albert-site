@@ -87,4 +87,4 @@ When people can analyze their business processes, learn quickly from their exper
 
 Just like Sherlock, we need to tap the power of curiosity and observation when it comes to improving our organizations.  When we do, we’ll ask “why” questions to identify and solve our *quality* problems!
 
-*Have you discovered the secret to quality in your organization? Do you know the difference between a symptom and a root cause?  Have you used* *the* *“why”* *questions to uncover the root cause of a problem?  Please send me your comments \<[here](/blog/watson-the-secret-to-quality-is-elementary/#comments)\> and share this blog post with a friend and co-worker.*
+*Have you discovered the secret to quality in your organization? Do you know the difference between a symptom and a root cause?  Have you used* *the* *“why”* *questions to uncover the root cause of a problem?  Please send me your comments [here](/blog/watson-the-secret-to-quality-is-elementary/#comments) and share this blog post with a friend and co-worker.*

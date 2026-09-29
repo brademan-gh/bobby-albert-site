@@ -52,4 +52,4 @@ Lastly, I asked an open-ended question about how I could make my blog better. Yo
 
 Thank you, thank you, for participating in this survey. Your responses and feedback will help me better serve and add value to you.
 
-Now, here’s a question for you: *What questions do you think I should have asked in my reader survey, but didn’t?* You can chime in and leave a comment [\<here\>](/blog/results-from-2015-reader-survey/#comments "Click to leave your comment").
+Now, here’s a question for you: *What questions do you think I should have asked in my reader survey, but didn’t?* You can chime in and leave a comment [here](/blog/results-from-2015-reader-survey/#comments "Click to leave your comment").

@@ -70,14 +70,14 @@ Imagine being able to better manage the *expectations* of your supervisors and e
 
 The **One-Over-One** policy will help you prevent “spilled milk” and reduce misguided efforts in your organization, thus creating more time for you to proactively build and grow your business and guide your team to move forward not backward. 
 
-*Are you experiencing more than your share of leadership headaches? Perhaps adopting the One-Over-One policy will alleviate much of your pain.* *  How do you handle this type of situation in your own organization? Please share your comments \<**here**\> and share this article with* *your* *supervisor(s), friend or co-worker.* 
+*Are you experiencing more than your share of leadership headaches? Perhaps adopting the One-Over-One policy will alleviate much of your pain.* *  How do you handle this type of situation in your own organization? Please share your comments **here** and share this article with* *your* *supervisor(s), friend or co-worker.* 
 
 **P.S.**  I am often asked if decision-making is *top-down* or *bottom-up*.  The answer is both!  The *participative leadership style* that I call **Engage2Lead** and employs the [**1-2-3 leadership tool**](/blog/see-can-get-employees-think-like-owners/) is usually considered a *top-down* decision-making process.   
 
 However, the **One-Over-One** policy is an example of a bottom-up decision-making process by using the [**1-2-3** **process**](/blog/see-can-get-employees-think-like-owners/) where a supervisor obtains the approval from their supervisor one level above them.    
 
-Need help setting your personal goals for 2018? – Take a look at my online Goal Planning Success course \<here\>!
+Need help setting your personal goals for 2018? – Take a look at my online Goal Planning Success course here!
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
 
-*Are your leading your organization toward growth? Take my FREE Lead2Grow Assessment \<**here**\> to understand more. (PLUS – you’ll receive custom-tailored suggestions about next steps to take, starting today!)*
+*Are your leading your organization toward growth? Take my FREE Lead2Grow Assessment **here** to understand more. (PLUS – you’ll receive custom-tailored suggestions about next steps to take, starting today!)*

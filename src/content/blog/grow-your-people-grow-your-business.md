@@ -72,4 +72,4 @@ I felt so strongly about growing our people, that we would have half-day company
 
 I also led our people and our leadership team in book reviews. Typically, we would review one chapter per month. Some of the best and impactful book reviews we ever did were *The 21 Irrefutable Laws of Leadership* by John Maxwell, and both *Built to Last* and *Good to Great* by Jim Collins.
 
-*Do you want to grow your business? What are you doing to invest in your people’s personal growth? Please share your comments \<[here](http://www.bobbyalbert.infusionstage.com/grow-your-people-grow-your-business/#comments)\> and share this blog post with a friend and co-workers.*
+*Do you want to grow your business? What are you doing to invest in your people’s personal growth? Please share your comments [here](http://www.bobbyalbert.infusionstage.com/grow-your-people-grow-your-business/#comments) and share this blog post with a friend and co-workers.*

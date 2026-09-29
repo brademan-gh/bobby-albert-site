@@ -79,4 +79,4 @@ Leaders earn respect by…
 
 A leader must first believe in their people before their people will believe in the leader. And a leader must believe in and live out the organization’s *purpose* as well.  You can’t lead in something you don’t believe and practice yourself.
 
-*Have you found meaningful work?  Are the people in* *your organization laying bricks or building a cathedral?  Have you become a worthy leader that your people truly desire to* *follow?  Please share your comments \<**[here](/blog/meaningful-work/#comments)**\> and share this blog post with friends and co-workers.*
+*Have you found meaningful work?  Are the people in* *your organization laying bricks or building a cathedral?  Have you become a worthy leader that your people truly desire to* *follow?  Please share your comments **[here](/blog/meaningful-work/#comments)** and share this blog post with friends and co-workers.*

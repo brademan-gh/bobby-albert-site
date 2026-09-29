@@ -59,4 +59,4 @@ In fact, in these types of situations, non-disclosure or confidentiality agreeme
 
 When you embrace **Engage2Lead ***participative leadership *and use the **1-2-3** decision-making tool, your people will embrace your transparency, and they get real excited to help you achieve managing your flat organization in a complex business world for *results.*
 
-*What important decision can you make today using the ****1-2-3**** decision-making process?  What goals do you want to achieve?  Please share your comments \<**[here](/blog/simple-way-empower-team/#comments)**\> and share this blog post with a friend or co-worker.*
+*What important decision can you make today using the ****1-2-3**** decision-making process?  What goals do you want to achieve?  Please share your comments **[here](/blog/simple-way-empower-team/#comments)** and share this blog post with a friend or co-worker.*

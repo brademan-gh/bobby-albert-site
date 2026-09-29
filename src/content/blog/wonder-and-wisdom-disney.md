@@ -28,7 +28,7 @@ The next thing you may be thinking is, “***I’m not sure if I really know my 
 
 I write about my journey and findings in my new book, *Principled Profits – Outward Success Is an Inside Job*.  In fact, the bonus that I am giving away to anyone who orders my book is my ***Values Discovery Worksheet***.  This worksheet is a proven guide that will help you discover your values. 
 
-Remember the wisdom of Roy Disney. Discovering your values will simplify and clarify your decision making! My new book [***Principled Profits*, and the Bonus offer \<here\>**](http://principledprofitsbook.com/) can help you discover your own core values\! 
+Remember the wisdom of Roy Disney. Discovering your values will simplify and clarify your decision making! My new book [***Principled Profits*, and the Bonus offer here**](http://principledprofitsbook.com/) can help you discover your own core values\! 
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* 
 

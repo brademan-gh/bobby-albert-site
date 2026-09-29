@@ -61,6 +61,6 @@ And if you want to build a TEAM that moves forward together toward your goals, u
 
 I have much more to share about **Engage2Lead™**.  Stay tuned for more blog posts on this important topic.
 
-*Why do you think we tend to overestimate the value of* *the results we want to accomplish* *and* *underestimate the value of the* *relationships we* *need to enhance to build a team? * *Can you identify one way that you can tap the power of* *participative leadership* *with your team today?  Please share your comments \<**[here](/blog/get-team-board/#comments)**\> and share this blog post with friends and co-workers.*
+*Why do you think we tend to overestimate the value of* *the results we want to accomplish* *and* *underestimate the value of the* *relationships we* *need to enhance to build a team? * *Can you identify one way that you can tap the power of* *participative leadership* *with your team today?  Please share your comments **[here](/blog/get-team-board/#comments)** and share this blog post with friends and co-workers.*
 
-> Are you looking for a proven method to set and achieve meaningful goals? Consider my **Goal Planning Success** course, Where Dreams Become Destinations – **It’s like a GPS for your life!** \<**Click here**\> to learn more.
+> Are you looking for a proven method to set and achieve meaningful goals? Consider my **Goal Planning Success** course, Where Dreams Become Destinations – **It’s like a GPS for your life!** **Click here** to learn more.

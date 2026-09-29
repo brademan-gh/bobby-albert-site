@@ -57,8 +57,8 @@ If you are willing to invest in and grow your people, you will experience signif
 
 Most of us are so busy working **IN** our business that we take little time to work **ON** our business. Even when we slow down a bit and pull away from the hectic daily grind, we don’t know what to do that will really amp up our leadership and impact our business.
 
-The eight simple questions that I share in this blog post can be an excellent guide – showing you some concrete ways to lead your own organization. You can click \<here\> for the free leadership download **“8 Questions That Will Grow Your Business”, **and start growing your business today!
+The eight simple questions that I share in this blog post can be an excellent guide – showing you some concrete ways to lead your own organization. You can click here for the free leadership download **“8 Questions That Will Grow Your Business”, **and start growing your business today!
 
 Join me and climb off the gerbil wheel today, by embracing the important principle of **ON/IN**!
 
-*Do you work **ON** your business, while you work **IN** it? What is one thing mentioned in the posts above, that you could implement to help grow your business? What has worked for you in the past? I’d love to hear your thoughts and ideas. You can continue the discussion by posting a comment \<[here](/blog/a-summary-of-onin-principle-with-free-leadership-downloads/#comments)\>. Also, please share this blog post with a friend or colleague.*
+*Do you work **ON** your business, while you work **IN** it? What is one thing mentioned in the posts above, that you could implement to help grow your business? What has worked for you in the past? I’d love to hear your thoughts and ideas. You can continue the discussion by posting a comment [here](/blog/a-summary-of-onin-principle-with-free-leadership-downloads/#comments). Also, please share this blog post with a friend or colleague.*

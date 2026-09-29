@@ -44,4 +44,4 @@ As you sit in your living room and watch the world’s top athletes compete, rem
 
 The same principles apply to you and me.  They’re available to the common man and woman who desire to leave an uncommon mark on their organization, community or world.  Let’s go for the Gold!
 
-*Click \<**[here](/blog/four-qualities-olympians/#comments)**\> to share your thoughts about this blog post (or the Olympics)!*
+*Click **[here](/blog/four-qualities-olympians/#comments)** to share your thoughts about this blog post (or the Olympics)!*

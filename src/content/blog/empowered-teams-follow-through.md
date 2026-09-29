@@ -83,4 +83,4 @@ Because the t-shirts only had **Operation QIC**, customers were always asking, �
 
 When you ask your employees for input on key decisions, you win in two ways. First, you get quality input from people who often know more about the challenges and improvements possible in your industry. Secondly, you energize them with the will to follow through on their own suggestions!
 
-*How do you involve your* *employees in decision-making?  Once you make a decision are your people empowered to follow* *through?  Please share your comments \<[here](/blog/empowered-teams-follow-through/#comments)\> and share this blog post with a friend or co-worker.*
+*How do you involve your* *employees in decision-making?  Once you make a decision are your people empowered to follow* *through?  Please share your comments [here](/blog/empowered-teams-follow-through/#comments) and share this blog post with a friend or co-worker.*

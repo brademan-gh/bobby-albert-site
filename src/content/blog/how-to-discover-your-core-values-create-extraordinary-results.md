@@ -150,4 +150,4 @@ For the past several weeks, I have been talking about discovering your **core va
 
 Don’t forget, I’ve made a simple ***Values Discovery Worksheet*** for you to use in your own ***core values*** journey. It’s **FREE**, and you can download it immediately by [clicking here](/resources/tnb-core-values-discovery-guide/).
 
-*Are you ready to discover “who you are?” Are your core values truly authentic? Are your organizational practices aligned with your core values? Could you share your comments [\<here\>](/blog/how-to-discover-your-core-values-create-extraordinary-results/#comments "Click to leave a comment") and share this blog posts with a friend and/or co-worker?*
+*Are you ready to discover “who you are?” Are your core values truly authentic? Are your organizational practices aligned with your core values? Could you share your comments [here](/blog/how-to-discover-your-core-values-create-extraordinary-results/#comments "Click to leave a comment") and share this blog posts with a friend and/or co-worker?*

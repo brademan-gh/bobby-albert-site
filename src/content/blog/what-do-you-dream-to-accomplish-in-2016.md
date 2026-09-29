@@ -101,4 +101,4 @@ A goal is more than a dream; it’s a dream being acted upon. –David Schwartz
 
 Want an easy way to get started on your goals for 2016? Simply download my personal **Goal Setting Workbook**!  Get yours FREE by [clicking here](/resources/gps-goal-planning-workbook/).
 
-*Could you* *share how you have changed the way you* *think* *about setting your goals?  Click \<*[*here*](/blog/what-do-you-dream-to-accomplish-in-2016/#comments)*\> to share your thoughts. Also, please feel free to* *share this blog post with family, friends, or co-workers.*
+*Could you* *share how you have changed the way you* *think* *about setting your goals?  Click *[*here*](/blog/what-do-you-dream-to-accomplish-in-2016/#comments)* to share your thoughts. Also, please feel free to* *share this blog post with family, friends, or co-workers.*

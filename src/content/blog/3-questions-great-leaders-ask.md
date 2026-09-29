@@ -52,7 +52,7 @@ I found that the effectiveness and efficiency of my team soared when they embrac
 
 We discovered that…\
 \[Tweet “Our service to our external customer can only be as good as our service to each other.     -Bobby Albert #NsideOutside”\]\
-In my previous blog post \<[click here](/blog/who-is-your-internal-customer/)\>, I described the internal customer as anyone inside your organization who must rely on you for information, help, support, cooperation, resources and the like.
+In my previous blog post [click here](/blog/who-is-your-internal-customer/), I described the internal customer as anyone inside your organization who must rely on you for information, help, support, cooperation, resources and the like.
 
 **Great leaders can prevent dysfunction in their organization by asking three questions.**
 
@@ -100,4 +100,4 @@ As you go through these questions below, remember it is not only what you say an
 
 -   When doing things for my personal convenience collides with doing things that are convenient for my internal customer, which has the priority?
 
-*In summary, would they say I am careful, quick and kind? Is your organization dysfunctional like four year olds playing soccer? Are you ready to ask yourself the questions above? Please share your comments \<[here](/blog/3-questions-great-leaders-ask/#comments)\> and share this blog post with a friend and co-worker.*
+*In summary, would they say I am careful, quick and kind? Is your organization dysfunctional like four year olds playing soccer? Are you ready to ask yourself the questions above? Please share your comments [here](/blog/3-questions-great-leaders-ask/#comments) and share this blog post with a friend and co-worker.*

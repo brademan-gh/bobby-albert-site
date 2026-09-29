@@ -101,4 +101,4 @@ We can choose to…
 
 In fact, since things compound, (like compounding interest income/expense) if you choose to play now and pay later, you will pay *more* later.
 
-*Would you throw one birthday party, or two? Which do you prefer… to play now and pay more later, or, pay now and play more later? Please share your thoughts [\<here\>](/blog/the-hallmarks-of-principled-behavior/#comments "Click here and leave a comment"), and please share this blog post with a friend or co-worker.*
+*Would you throw one birthday party, or two? Which do you prefer… to play now and pay more later, or, pay now and play more later? Please share your thoughts [here](/blog/the-hallmarks-of-principled-behavior/#comments "Click here and leave a comment"), and please share this blog post with a friend or co-worker.*

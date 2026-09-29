@@ -136,4 +136,4 @@ Most organizations are experiencing rapid change, and even internal functions (l
 
 Top salespeople use open-ended, exploratory questions every day.  I believe that questions can help you build lasting relationships with your customers, learn about their needs and desires, and offer solutions to their problems.
 
-*Do you ask questions when you are selling or do you just* *“do the product dump”?  How well do you ask questions to build relationships with your customers?  Please leave me your thoughts \<[here](/blog/the-secret-of-top-salespeople/#comments)\> and share this blog post with a friend and co-worker.*
+*Do you ask questions when you are selling or do you just* *“do the product dump”?  How well do you ask questions to build relationships with your customers?  Please leave me your thoughts [here](/blog/the-secret-of-top-salespeople/#comments) and share this blog post with a friend and co-worker.*

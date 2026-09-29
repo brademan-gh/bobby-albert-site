@@ -76,6 +76,6 @@ And as you saw in the scenario of Company A, when you pay your people a fair wag
 
 *Which* *leader* *would you want to work for –* *in* *Company A or Company B?* 
 
-*Which perspective do your employees* *have when* *you give them* *extra* *pay or* *benefits?  Please share your comments \<**[here](/blog/tale-two-companies/#comments)**\> and share this article with your co-workers and friends.* 
+*Which perspective do your employees* *have when* *you give them* *extra* *pay or* *benefits?  Please share your comments **[here](/blog/tale-two-companies/#comments)** and share this article with your co-workers and friends.* 
 
-Are your leading your organization toward growth? Take my **FREE Lead2Grow Assessment** \<**here**\> to understand more. (PLUS – you’ll receive custom-tailored suggestions about next steps to take, starting today!)
+Are your leading your organization toward growth? Take my **FREE Lead2Grow Assessment** **here** to understand more. (PLUS – you’ll receive custom-tailored suggestions about next steps to take, starting today!)

@@ -93,4 +93,4 @@ There are four criteria:
 
 *Cause* – You are out of gas.  *Effect* – Your car won’t start.
 
-*Would you like to be more effective in solving complaints/problems?  How about learning of opportunities? * *How could you use* *measurable goals/feedback* *in your organization?  Please leave your comment \<[here](/blog/how-anyone-can-identify-cause-and-effect/#comments)\> and share this blog post. *
+*Would you like to be more effective in solving complaints/problems?  How about learning of opportunities? * *How could you use* *measurable goals/feedback* *in your organization?  Please leave your comment [here](/blog/how-anyone-can-identify-cause-and-effect/#comments) and share this blog post. *

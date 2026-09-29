@@ -89,4 +89,4 @@ Leaders of this type of organization have learned what is more important *than* 
 
 And the people KNOW *how* to behave as they pursue the organization’s purpose, vision, strategies, tactics, and performance goals.
 
-*What is keeping you up at night? Would you like to sleep great tonight? Do you know “who you are?” Please share your thoughts and leave a comment [\<here\>](/blog/what-sleep-reveals-about-leadership/#comments "Leave a comment").*
+*What is keeping you up at night? Would you like to sleep great tonight? Do you know “who you are?” Please share your thoughts and leave a comment [here](/blog/what-sleep-reveals-about-leadership/#comments "Leave a comment").*

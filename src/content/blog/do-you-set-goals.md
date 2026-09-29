@@ -27,7 +27,7 @@ Goal setting is a choice that’s up to you.  “Thou shalt set goals” is not
 
 ### ***Can you do me a favor?***
 
-I would really like to know more about you and goal setting.  Will you click on \<**this link**\> and take my quick, six-question survey on goals?
+I would really like to know more about you and goal setting.  Will you click on **this link** and take my quick, six-question survey on goals?
 
 It’s anonymous and quick – the survey will take about a minute to complete.
 

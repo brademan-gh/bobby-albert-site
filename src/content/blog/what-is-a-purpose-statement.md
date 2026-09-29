@@ -92,4 +92,4 @@ You too can have meaningful work and build a cathedral by first being a worthy l
 
 You may be thinking, “I don’t have time for this stuff, I need my people to sell, sell, sell!” Well, you might have some good short term results with that approach, but what we’re talking about is intentional work that positions you and your organization to truly achieve lasting greatness!
 
-*Do your people work hard and have fun doing so?  What do you think about the most?  What do you talk about the most with your employees?  Is about money?* *Have you considered a purpose-centered approach?* *Please share your thoughts \<[here](/blog/what-is-a-purpose-statement/#comments)\> and share this blog post with a friend and co-worker.  *
+*Do your people work hard and have fun doing so?  What do you think about the most?  What do you talk about the most with your employees?  Is about money?* *Have you considered a purpose-centered approach?* *Please share your thoughts [here](/blog/what-is-a-purpose-statement/#comments) and share this blog post with a friend and co-worker.  *

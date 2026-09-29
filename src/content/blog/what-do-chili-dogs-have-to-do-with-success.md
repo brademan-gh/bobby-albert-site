@@ -67,8 +67,8 @@ And I am excited to share with you the details in future blog posts actually imp
 
 This approach becomes even more important as an organization grows, and the leader gets farther and farther away from the *people* on the front line. That’s when the problems really begin to crop up.
 
-*What sets your organization apart from the competition?* *Do you know what’s in your* *secret sauce? * *Have you struggled to get your people to support your decisions?  Please share your comments* *\<**[here](/blog/what-do-chili-dogs-have-to-do-with-success/#comments)**\>* *and share this blog post with a friend and/or a co-worker.*
+*What sets your organization apart from the competition?* *Do you know what’s in your* *secret sauce? * *Have you struggled to get your people to support your decisions?  Please share your comments* ***[here](/blog/what-do-chili-dogs-have-to-do-with-success/#comments)*** *and share this blog post with a friend and/or a co-worker.*
 
-> Are you looking for a proven method to set and achieve meaningful goals? Consider my **Goal Planning Success** course, Where Dreams Become Destinations – **It’s like a GPS for your life!** Click \<here\> for more information.
+> Are you looking for a proven method to set and achieve meaningful goals? Consider my **Goal Planning Success** course, Where Dreams Become Destinations – **It’s like a GPS for your life!** Click here for more information.
 
 ![GPS - Where Dreams Become Destinations!](/images/2016/12/GPS-Course-Main-Title-Page-c.png "Bobby Albert - Goal Planning Success")

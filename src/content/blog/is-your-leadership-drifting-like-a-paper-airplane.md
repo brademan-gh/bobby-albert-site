@@ -137,4 +137,4 @@ It is *not* the size of the **vision** or project that determines success.  It
 >
 > **– John Maxwell**
 
-*Are you living out being the leader required for your* *team’s success?  Which leadership quality* *listed above* *could you improve upon?  Please share your comments \<**[here](/blog/is-your-leadership-drifting-like-a-paper-airplane/#comments)**\> and share this blog post with a co-worker and friend.*
+*Are you living out being the leader required for your* *team’s success?  Which leadership quality* *listed above* *could you improve upon?  Please share your comments **[here](/blog/is-your-leadership-drifting-like-a-paper-airplane/#comments)** and share this blog post with a co-worker and friend.*

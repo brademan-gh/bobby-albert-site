@@ -106,4 +106,4 @@ Mixing future “aspirations” into your truly authentic **core values** could 
 
 The seven questions above help us validate our values – they help us really test to determine if a value is truly one of our **core values!**
 
-*With each of your **core values,** can you answer these seven questions with a resounding and unqualified “Yes!”?  If you can’t, you may need to reconsider if it is truly core. Please let me hear your comments [\<here\>](/blog/see-how-easily-you-can-validate-your-values/#comments "Leave a comment").*
+*With each of your **core values,** can you answer these seven questions with a resounding and unqualified “Yes!”?  If you can’t, you may need to reconsider if it is truly core. Please let me hear your comments [here](/blog/see-how-easily-you-can-validate-your-values/#comments "Leave a comment").*

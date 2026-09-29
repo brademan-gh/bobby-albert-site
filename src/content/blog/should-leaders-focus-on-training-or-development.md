@@ -67,9 +67,9 @@ And once *development* has occurred in the leader and their employees, they are 
 
 And, enhancing emotional maturity along with achieving a greater professional edge is what *development* is all about. 
 
-As our company kept growing over the years, I observed that the returns on investment in *training* AND *development* to *grow myself* and to *grow our people* gave us extraordinary business growth and results.  And you can do it as well. Click \<[**here**](https://values-driven.lpages.co/training-and-development-comparison-table-leadpage/)\> or on the image below to download my detailed chart defining the differences between training and development.  
+As our company kept growing over the years, I observed that the returns on investment in *training* AND *development* to *grow myself* and to *grow our people* gave us extraordinary business growth and results.  And you can do it as well. Click [**here**](https://values-driven.lpages.co/training-and-development-comparison-table-leadpage/) or on the image below to download my detailed chart defining the differences between training and development.  
 
-*Are you ready to begin to work* ***ON****, not just* ***IN****, the business?  How do you plan to apply training AND development in your business?  Please share your comments \<**[here](/blog/should-leaders-focus-on-training-or-development/#comments)**\>. Would someone in your human resource department enjoy reading this article? * 
+*Are you ready to begin to work* ***ON****, not just* ***IN****, the business?  How do you plan to apply training AND development in your business?  Please share your comments **[here](/blog/should-leaders-focus-on-training-or-development/#comments)**. Would someone in your human resource department enjoy reading this article? * 
 
  
 

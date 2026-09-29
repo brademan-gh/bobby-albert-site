@@ -94,7 +94,7 @@ Then each employee placed their *Plans* inside a sealed self-addressed envelope 
 
 We mailed the envelopes by the end of December, when people consider their New Year resolutions, as a timely reminder of their *Personal Action* *Plans*.
 
-Click \<here\> to download a sample of our GIVERS Core Values Personal Action Plan. Feel free to use it as a template for your own **Core Values** roll out!
+Click here to download a sample of our GIVERS Core Values Personal Action Plan. Feel free to use it as a template for your own **Core Values** roll out!
 
 ### Celebrate!
 

@@ -120,4 +120,4 @@ Business Reviews…
 
 The emphasis in our Business Reviews was on the progress of our tactical plans. But I continually coached our people on how the progress showed us living out our Values, and how the progress tied back to our Purpose, our Vision, our Super-Objectives, and our strategic objectives.
 
-*Do you have monthly Business Review process?  What has been the impact on your organization?  Could you share your experience \<[here](/blog/how-business-reviews-can-help-leaders-achieve-better-results/#comments)\> and share this blog post with a friend and co-worker?*
+*Do you have monthly Business Review process?  What has been the impact on your organization?  Could you share your experience [here](/blog/how-business-reviews-can-help-leaders-achieve-better-results/#comments) and share this blog post with a friend and co-worker?*

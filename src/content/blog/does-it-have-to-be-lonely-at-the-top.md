@@ -67,6 +67,6 @@ Before I sold our successful business in 2011, we incorporated the **1-2-3**�
 
 When you embrace **Engage2Lead ***participative leadership* and use the **1-2-3** decision-making process tool, you will never again feel, “It’s lonely at the top”!
 
-*How do you make decisions?  Do you make decisions alone? * *What process does your* *organization use to promote* *TEAMwork* *when facing* *challenges, opportunities,* *making decisions, or setting goals?  Please make a comment \<**[here](/blog/does-it-have-to-be-lonely-at-the-top/#comments)**\> and share this blog post with your friends and co-workers.  *
+*How do you make decisions?  Do you make decisions alone? * *What process does your* *organization use to promote* *TEAMwork* *when facing* *challenges, opportunities,* *making decisions, or setting goals?  Please make a comment **[here](/blog/does-it-have-to-be-lonely-at-the-top/#comments)** and share this blog post with your friends and co-workers.  *
 
 ![Bobby Albert - E2L Final Trans with R -170px](/images/2017/03/Bobby-Albert-E2L-Final-Trans-with-R-170px.png)

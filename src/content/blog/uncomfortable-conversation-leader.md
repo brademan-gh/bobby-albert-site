@@ -49,8 +49,8 @@ I have used this illustration for all these years to help our employees understa
 
 Well, you no longer need to feel like you’re sinking in an ocean of despair. Instead of working harder and harder **IN** your business there is a better way! A different approach allowed me to rise above the choppy waters and achieve better results for myself and my company. In future articles, I’ll share more about this new approach. 
 
-*Have you had seasons of despair with your work or career?  How did you overcome* *them?  Have you ever had an uncomfortable* *conversation with* *an* *employee?  How did you handle it?  Please* *leave* *your comments \<**[here](/blog/uncomfortable-conversation-leader/#comments)**\> and share this article with a friend or coworker.* 
+*Have you had seasons of despair with your work or career?  How did you overcome* *them?  Have you ever had an uncomfortable* *conversation with* *an* *employee?  How did you handle it?  Please* *leave* *your comments **[here](/blog/uncomfortable-conversation-leader/#comments)** and share this article with a friend or coworker.* 
 
-Click \<**[here](/resources/tnb-organizational-hierarchy/)**\> or the image below to download a free copy of my Values-Driven Organizational Hierarchy. 
+Click **[here](/resources/tnb-organizational-hierarchy/)** or the image below to download a free copy of my Values-Driven Organizational Hierarchy. 
 
 ![All leaders can use the Values-Driven Organizational Hierarchy Diagram to achieve better results for themselves and their companies!](/images/2018/04/241rsrc-Values-Driven-Organizational-Hiearchy-thumbnail-image.png "Bobby Albert - Values-Driven Organizational Hierarchy")

@@ -98,7 +98,7 @@ A part of your mind loves to be busy working on significant tasks that can reall
 
 **I’ve developed a simple way to help you identify and record your goals for 2015!** I walk you through three simple steps in my **Goal Setting Workbook.** It’s FREE to download by “clicking here”.
 
-*Could you share what have been your experiences when you wrote down your goals versus when you didn’t?* Click [\<here\>](/blog/silver-bullet-effective-goal-setting/#comments "Leave a comment") to share your thoughts in my comment section.
+*Could you share what have been your experiences when you wrote down your goals versus when you didn’t?* Click [here](/blog/silver-bullet-effective-goal-setting/#comments "Leave a comment") to share your thoughts in my comment section.
 
  
 

@@ -80,4 +80,4 @@ I also propose that your people, especially those who are on the front lines of 
 
 Based on my own experience, I can say that when leaders fail to listen to their employees, they create an environment that frustrates both leader and employee alike.
 
-*Are you frustrated? What is the shape of your org-chart? Do you truly listen to everyone on your team? Could you share your comments \<[here](/blog/servant-leadership/#comments)\> and share this blog post with a friend or co-worker?*
+*Are you frustrated? What is the shape of your org-chart? Do you truly listen to everyone on your team? Could you share your comments [here](/blog/servant-leadership/#comments) and share this blog post with a friend or co-worker?*

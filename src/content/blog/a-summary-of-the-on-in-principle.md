@@ -166,4 +166,4 @@ Does your organization have a purpose or a mission statement? What about super-o
 
 Join me and climb off the gerbil wheel today. Embrace the important principle of **ON/IN**\! 
 
-*Do you work ****ON**** your business, while you work ****IN**** it? What is one thing mentioned in the* *article* *above, that you could implement to help grow your business?* *Please share your thoughts \<**[here](/blog/a-summary-of-the-on-in-principle/#comments)**\>.*
+*Do you work ****ON**** your business, while you work ****IN**** it? What is one thing mentioned in the* *article* *above, that you could implement to help grow your business?* *Please share your thoughts **[here](/blog/a-summary-of-the-on-in-principle/#comments)**.*

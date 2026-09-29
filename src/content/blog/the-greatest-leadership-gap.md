@@ -108,4 +108,4 @@ Once you embrace this thinking for a change process you will discover why… 
 
 I believe you, as the leader, are now ready to get working **ON**, not just **IN**, the business.  Let’s first “fix” *you*, then focus on your *people*, and finally, you will be able to turn your attention toward your *business*. 
 
-*Have you been looking in* *the* *mirror?  What do you see?  Do you see the reflection of your people in you?  Please* *leave* *a* *comment \<**[here](/blog/the-greatest-leadership-gap/#comments)**\>.*
+*Have you been looking in* *the* *mirror?  What do you see?  Do you see the reflection of your people in you?  Please* *leave* *a* *comment **[here](/blog/the-greatest-leadership-gap/#comments)**.*

@@ -135,4 +135,4 @@ Think only about what the other person is saying.  And concentrate on key words
 
 And don’t spend the time planning what you want to say next.  You can’t rehearse and *listen* at the same time.
 
-*Do you have a model for good listening skills?  Who is that person?  Would your spouse or close friend say that you have listening problems? Which one of* *these four model listening skills* *could you* *improve upon?  Please share your thoughts \<[here](/blog/get-rid-of-your-listening-problems-once-and-for-all/#comments)\> and share this blog post with someone.*
+*Do you have a model for good listening skills?  Who is that person?  Would your spouse or close friend say that you have listening problems? Which one of* *these four model listening skills* *could you* *improve upon?  Please share your thoughts [here](/blog/get-rid-of-your-listening-problems-once-and-for-all/#comments) and share this blog post with someone.*

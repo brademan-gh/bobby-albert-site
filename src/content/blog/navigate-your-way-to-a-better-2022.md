@@ -31,7 +31,7 @@ Everyone can live a better year by taking the following three goal-setting steps
 
 Think about the last time you were in a shopping mall looking for a particular store. Most likely, you found one of those mall map kiosks to find the store location. But locating store #1138 on the mall map wasn’t enough information. An essential step in your search was identifying the “You are Here” icon on the map. Only then, could you plot your course toward your desired location.
 
-The same applies to our personal goal setting. To chart our course with properly set goals, we need to pause and take a look back at the previous twelve months to see where we are and how we got here. I’ve published an article that explains more about this important step \<[her](/blog/preparing-for-success-in-2022/)[e](/blog/preparing-for-success-in-2022/)\>.
+The same applies to our personal goal setting. To chart our course with properly set goals, we need to pause and take a look back at the previous twelve months to see where we are and how we got here. I’ve published an article that explains more about this important step [her](/blog/preparing-for-success-in-2022/)[e](/blog/preparing-for-success-in-2022/).
 
 ## Step 2 – Dare to Dream
 
@@ -47,7 +47,7 @@ Most children have grand dreams, but somewhere along the way, as we grow into ad
 
 > –Robin Sharma
 
-Considering what we want to achieve is fairly easy for most people, but pondering who we want to become can be more challenging. I’ve written a blog post about how to tackle this step \<[here](/blog/dare-to-dream/)\>.
+Considering what we want to achieve is fairly easy for most people, but pondering who we want to become can be more challenging. I’ve written a blog post about how to tackle this step [here](/blog/dare-to-dream/).
 
 ## Step 3 – Write it down
 
@@ -66,7 +66,7 @@ This is the time to think through the major areas of your life and develop goals
 -   Emotional
 -   Spiritual
 
-You can find more guidance on this process in an article that I wrote \<[here](/blog/preparing-for-success-in-2022-2/)\>.
+You can find more guidance on this process in an article that I wrote [here](/blog/preparing-for-success-in-2022-2/).
 
 ***“So teach us to number our days that we may get a heart of wisdom.” Ps. 90:12 ESV***
 

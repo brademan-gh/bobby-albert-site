@@ -59,6 +59,6 @@ If there was a way for you to gain soaring profits, would you be interested? 
 
 Involve your people with an **Engage2Lead** *participative leadership style* and employ the **1-2-3 leadership tool**. 
 
-*Does leadership style encourage your employees* *to be engaged,* *or* *are they* *disengaged?  How could you start today* *to improve upon your leadership style?  Please share your comments \<**[here](/blog/ineffective-leadership-stifling-profits/#comments)**\> and share this article with a friend and co-worker.* 
+*Does leadership style encourage your employees* *to be engaged,* *or* *are they* *disengaged?  How could you start today* *to improve upon your leadership style?  Please share your comments **[here](/blog/ineffective-leadership-stifling-profits/#comments)** and share this article with a friend and co-worker.* 
 
- Are your leading your organization toward growth? Take my FREE Lead2Grow Assessment \<**here**\> to understand more. (plus – you’ll receive custom-tailored suggestions about next steps to take, starting today)
+ Are your leading your organization toward growth? Take my FREE Lead2Grow Assessment **here** to understand more. (plus – you’ll receive custom-tailored suggestions about next steps to take, starting today)

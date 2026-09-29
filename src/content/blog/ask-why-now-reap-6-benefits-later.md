@@ -107,4 +107,4 @@ Well, it’s time to get on your bicycle and explore your neighborhood of life. 
 
  
 
-*Please share your thoughts \<**[here](/blog/ask-why-now-reap-6-benefits-later/#comments)**\> and share this blog post with your family, friends, and co-workers.*
+*Please share your thoughts **[here](/blog/ask-why-now-reap-6-benefits-later/#comments)** and share this blog post with your family, friends, and co-workers.*

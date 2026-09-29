@@ -105,4 +105,4 @@ How wonderful the world might be if everyone shifted to higher levels of **liste
 
  
 
-*Are you ready to improve your* ***listening*** *skills?  Where could make your first improvement?  Could you share your comments \<[here](/blog/4-ways-to-listen-that-fall-short-and-the-1-powerful-way-to-listen-like-a-pro/#comments)\> and share this blog post with a friend or co-worker?*
+*Are you ready to improve your* ***listening*** *skills?  Where could make your first improvement?  Could you share your comments [here](/blog/4-ways-to-listen-that-fall-short-and-the-1-powerful-way-to-listen-like-a-pro/#comments) and share this blog post with a friend or co-worker?*

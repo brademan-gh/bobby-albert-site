@@ -30,7 +30,7 @@ With the help of a lot of very good people over many years, I was able to grow o
 
 In my [previous blog post](/blog/give-me-5-minutes-leader-manager/ "Give Me Five Minutes and You Will KNOW if You Are a Leader or a Manager"), I asked you what was your life *bent* or bias. And in our work, I have found that there are two main leanings: **Leading** and **Managing**.
 
-If you did not read my previous blog post, could I suggest you go there now [\<click here\>](/blog/give-me-5-minutes-leader-manager/ "Give Me 5 Minutes and You’ll KNOW if You’re a Leader or a Manager!") and answer the seven questions to help you find your life *bent*? Just answering the questions themselves will take you about 60 seconds.
+If you did not read my previous blog post, could I suggest you go there now [click here](/blog/give-me-5-minutes-leader-manager/ "Give Me 5 Minutes and You’ll KNOW if You’re a Leader or a Manager!") and answer the seven questions to help you find your life *bent*? Just answering the questions themselves will take you about 60 seconds.
 
 What have you discovered about your *bent* or bias? Do you lean more toward **managing** or **leading**?
 
@@ -117,7 +117,7 @@ As you have gone through these examples, do you see the difference between the d
 
 The key to becoming the most effective leader is to employ BOTH **leading** *AND* **managing** (enhance **relationships** *AND* drive for **results**).
 
-*What is your bent? Do you have a bent toward managing or leading? Are you ready to commit to becoming a more effective leader? Please share your feedback and leave a comment by clicking [\<here\>](/blog/truth-about-leading-and-managing/#comments "Click here to leave a comment")*?
+*What is your bent? Do you have a bent toward managing or leading? Are you ready to commit to becoming a more effective leader? Please share your feedback and leave a comment by clicking [here](/blog/truth-about-leading-and-managing/#comments "Click here to leave a comment")*?
 
 ![LandM_color-170px](/images/2016/06/LandM_color-170px.png)
 

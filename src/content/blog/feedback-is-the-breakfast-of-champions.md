@@ -85,4 +85,4 @@ The following is a sample of ways our employees received *feedback* that further
 
 This is just a short list of the *feedback* *mechanisms* and *practices* that we employed at our company. You, too, can put similar *practices* in place within your organization to further a *quality* epidemic and the **QIC** spirit.
 
-*What ideas or tips do you have about empowering employees?  What kind of feedback do you give your employees?  Please share your comments \<[here](/blog/feedback-is-the-breakfast-of-champions/#comments)\> and share this blog post with a friend or co-worker. *
+*What ideas or tips do you have about empowering employees?  What kind of feedback do you give your employees?  Please share your comments [here](/blog/feedback-is-the-breakfast-of-champions/#comments) and share this blog post with a friend or co-worker. *

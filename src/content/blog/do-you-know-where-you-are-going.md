@@ -85,4 +85,4 @@ You and they also need a clear path for where you and they are going.
 
 Einstein is best known for his ground breaking work in physics.  But his reaction to a lost train ticket reflected an even more fundamental truth:  knowing your destination is of utmost importance.  We can apply the same truth to our life and leadership.
 
-*Where does your ticket say you are going? Do you have* *a* *clearly defined vision* *in your life and in your workplace? Please send to me your comments \<[here](/blog/do-you-know-where-you-are-going/#comments)\> and share this blog post with a family, friend, and co-worker.*
+*Where does your ticket say you are going? Do you have* *a* *clearly defined vision* *in your life and in your workplace? Please send to me your comments [here](/blog/do-you-know-where-you-are-going/#comments) and share this blog post with a family, friend, and co-worker.*

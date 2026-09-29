@@ -89,4 +89,4 @@ Wow! Now that’s a paradox for you. If we truly want to find what’s right, we
 
 * *Personal Growth Challenge: ***Will* *you intentionally ask three questions today* *in order to clarify or affirm your level of understanding?**** *
 
-*What has been your experience when you did not ask questions when you should have? Please share your thoughts \<[here](/blog/why-most-people-never-ask-the-right-questions/#comments)\>* *and share this blog post with* *family or friends.*
+*What has been your experience when you did not ask questions when you should have? Please share your thoughts [here](/blog/why-most-people-never-ask-the-right-questions/#comments)* *and share this blog post with* *family or friends.*

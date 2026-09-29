@@ -16,7 +16,7 @@ Are you a frustrated leader?  Are you frustrated with your employees, with your
 
 Do you want to grow your business? Do you want to achieve successful results that you have never seen before?  
 
-I’ve discovered that success is a multi-step undertaking.  First, you need to grow YOU (a wrote about this step \<**[here](/blog/your-team-is-not-your-problem/)**\>). After you have committed to grow yourself, it is time for you, as the leader, to *grow your people, * and it means you need to… 
+I’ve discovered that success is a multi-step undertaking.  First, you need to grow YOU (a wrote about this step **[here](/blog/your-team-is-not-your-problem/)**). After you have committed to grow yourself, it is time for you, as the leader, to *grow your people, * and it means you need to… 
 
 **Work ON the business while we work IN the business.** 
 

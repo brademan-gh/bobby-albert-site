@@ -44,7 +44,7 @@ Since our company had several different business functions and business units or
 
 ***Every leader can achieve tremendous*** ***growth*** ***by*** ***answering*** ***eight key questions.*** 
 
-I’ve prepared a special printable one-sheet download that contains all of these business growth questions. Click \<***[here](https://values-driven.lpages.co/9-questions-that-will-grow-your-business-leadpg/)***\> to download. 
+I’ve prepared a special printable one-sheet download that contains all of these business growth questions. Click ***[here](https://values-driven.lpages.co/9-questions-that-will-grow-your-business-leadpg/)*** to download. 
 
 ### **First Three Questions** 
 
@@ -100,6 +100,6 @@ The key is to: 
 
 **Leadership Tip:**  We learned that the more our people participated in the decision-making process, the greater that they felt they knew where our company was headed, and they grew by their involvement.
 
-*Have you ever struggled to grow your business? Would you consider involving your entire team as you answer the eight questions above?  Please share your comments \<**[here](/blog/heres-how-to-grow-your-business/#comments)**\>.* 
+*Have you ever struggled to grow your business? Would you consider involving your entire team as you answer the eight questions above?  Please share your comments **[here](/blog/heres-how-to-grow-your-business/#comments)**.* 
 
-P.S. – I have shared how the **ON/IN** principle evolved in our business. But, a more logical ordering of the questions would place the last two questions mentioned above as the first two questions for you to consider.  Also, I would have added another question after those last two questions: What are the obstacles in our company that keeps us from delivering what the customer wants from us?  Do you want all of these questions on a one-sheet printable PDF? Click \<[here](https://values-driven.lpages.co/9-questions-that-will-grow-your-business-leadpg/)\> to download now.
+P.S. – I have shared how the **ON/IN** principle evolved in our business. But, a more logical ordering of the questions would place the last two questions mentioned above as the first two questions for you to consider.  Also, I would have added another question after those last two questions: What are the obstacles in our company that keeps us from delivering what the customer wants from us?  Do you want all of these questions on a one-sheet printable PDF? Click [here](https://values-driven.lpages.co/9-questions-that-will-grow-your-business-leadpg/) to download now.

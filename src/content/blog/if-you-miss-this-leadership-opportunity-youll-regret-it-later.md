@@ -78,7 +78,7 @@ As the leader of your organization, I don’t want that for you, and I want to e
 
 Oh, by the way, devoting time and resources to grow your team will improve the engagement of your people – which will positively impact your entire organization! According to Culture Amp, one of the top three drivers for employee engagement in 2018 is “learning and development.”¹\
 
-*Do you want to grow your business? What are you doing to invest in your people’s personal growth?  Please share your comments \<**[here](/blog/if-you-miss-this-leadership-opportunity-youll-regret-it-later/#comments)**\> and share this article with a friend or co-worker.* 
+*Do you want to grow your business? What are you doing to invest in your people’s personal growth?  Please share your comments **[here](/blog/if-you-miss-this-leadership-opportunity-youll-regret-it-later/#comments)** and share this article with a friend or co-worker.* 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
 

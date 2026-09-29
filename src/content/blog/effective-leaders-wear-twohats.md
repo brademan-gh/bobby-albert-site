@@ -75,4 +75,4 @@ In short, we, as leaders, should see ourselves as *servant* leaders.
 
 And the *key* to becoming the most effective leader is to employ BOTH **relationships** *AND* **results** (**leading** *AND* **managing**).
 
-*Do you find yourself wearing only one hat? –the hat to drive for results? Have you accepted the fact that you can learn how to improve and enhance relationships? Please share your comments by clicking [\<here\>](/blog/effective-leaders-wear-twohats/#comments).*
+*Do you find yourself wearing only one hat? –the hat to drive for results? Have you accepted the fact that you can learn how to improve and enhance relationships? Please share your comments by clicking [here](/blog/effective-leaders-wear-twohats/#comments).*

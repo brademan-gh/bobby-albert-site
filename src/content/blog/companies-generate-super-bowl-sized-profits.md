@@ -90,4 +90,4 @@ What I have now learned is that *every* company has values, even if they haven�
 
 I have also found that most companies are ***Results***-Driven and *not* ***Values***-Driven.
 
-*Is your organization competing at the Super Bowl level? How do you keep your focus on values while you strive for results?* Please let me here your thoughts by leaving a comment [\<here\>](/blog/companies-generate-super-bowl-sized-profits/#comments "Leave comments here").
+*Is your organization competing at the Super Bowl level? How do you keep your focus on values while you strive for results?* Please let me here your thoughts by leaving a comment [here](/blog/companies-generate-super-bowl-sized-profits/#comments "Leave comments here").

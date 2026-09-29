@@ -35,7 +35,7 @@ I later called these our **Super–Objectives**, because they became the two hig
 
 Then I started to think about how I could show a visual picture of how *our Values*, *our Purpose*, *our Vision*, and *our* ***Super**–**Objectives*** work together in the overall Albert Moving and Storage business planning.
 
-To help your planning for your own business, I have reproduced the [**Albert Business Planning** **Model**](/images/2015/08/143rsrc-Albert-Companies-Business-Planning-Model.pdf) on a single sheet. It’s FREE, and you can download it immediately by \<[clicking here](/images/2015/08/143rsrc-Albert-Companies-Business-Planning-Model.pdf)\>. Feel free to print it or save it for your own use.
+To help your planning for your own business, I have reproduced the [**Albert Business Planning** **Model**](/images/2015/08/143rsrc-Albert-Companies-Business-Planning-Model.pdf) on a single sheet. It’s FREE, and you can download it immediately by [clicking here](/images/2015/08/143rsrc-Albert-Companies-Business-Planning-Model.pdf). Feel free to print it or save it for your own use.
 
 ***Every leader can successfully achieve the organization**’**s goals by*** ***championing*** ***these two Super**–**Objectives.***
 
@@ -87,4 +87,4 @@ This transparency was important for two reasons…
 
 > **Insight: I found that there was a direct relationship between my transparency with our business financials, and our success as an organization. More transparency created more success!**
 
-*Do you have somewhere you go for just* *your* *thinking time?  Could you apply these two* ***Super**–**Objectives*** *in your own organization?  Please share your thoughts \<[here](/blog/two-guiding-objectives-for-every-business/#comments)\> and share this blog post with a friend or co-worker.*
+*Do you have somewhere you go for just* *your* *thinking time?  Could you apply these two* ***Super**–**Objectives*** *in your own organization?  Please share your thoughts [here](/blog/two-guiding-objectives-for-every-business/#comments) and share this blog post with a friend or co-worker.*

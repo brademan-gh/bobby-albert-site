@@ -117,4 +117,4 @@ A SWOT analysis is a structured planning method used to find your competitive ad
 
 External Factors may include macroeconomic matters, technological changes, legislation, and sociocultural changes, as well as changes in the marketplace (customers and suppliers) or in competitive position.
 
-*Does your organization have a* ***vision*** *statement?  Do you have* *the passion and* *the faith that you will prevail in the end as you confront the most brutal facts of your current* *reality?  Please share your comments \<[here](/blog/every-leader-needs-a-vision-statement-heres-where-to-start/#comments)\> and share this blog post with a friend or co-worker.*
+*Does your organization have a* ***vision*** *statement?  Do you have* *the passion and* *the faith that you will prevail in the end as you confront the most brutal facts of your current* *reality?  Please share your comments [here](/blog/every-leader-needs-a-vision-statement-heres-where-to-start/#comments) and share this blog post with a friend or co-worker.*

@@ -101,7 +101,7 @@ The answers to these two questions are the only thing an organization should **n
 
 I have used so many profound questions to advance myself and my company forward. Profound questions can help you understand where you are, where you want to go, and how to get there!
 
-In fact, I’ve compiled a page of questions that will help *you* grow *your* business.  You can \<[click here](/resources/aql-12-profound-questions-grow-your-business/)\> to download the document “12 Profound Questions to Grow Your Business”.  These additional questions won’t cost you a dime to download, and I promise that the thoughts and plans that these questions will stimulate and help you grow your organization!
+In fact, I’ve compiled a page of questions that will help *you* grow *your* business.  You can [click here](/resources/aql-12-profound-questions-grow-your-business/) to download the document “12 Profound Questions to Grow Your Business”.  These additional questions won’t cost you a dime to download, and I promise that the thoughts and plans that these questions will stimulate and help you grow your organization!
 
 Even if you are not a leader in your organization, you can use this handy set of questions to “lead from behind” and influence those who lead you.
 
@@ -113,4 +113,4 @@ Click the image below to download the printable: “12 Profound Questions to Gro
 
 ![The 12 profound questions to grow your business](/images/2015/10/158rsrc-thumbnail-image-12-Questions-For-Your-Business.png "Bobby Albert: 12 Questions to Grow Your Business")
 
-*Have you ever asked these or other profound questions?  What were the results from asking profound questions?  Please share your comments \<[here](/blog/you-too-can-ask-profound-questions/#comments)\> and share this blog posts with family and/or a friend.*
+*Have you ever asked these or other profound questions?  What were the results from asking profound questions?  Please share your comments [here](/blog/you-too-can-ask-profound-questions/#comments) and share this blog posts with family and/or a friend.*

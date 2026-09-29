@@ -83,4 +83,4 @@ Every person can get off the merry-go-round and know where they are going – th
 
 People who behave in a *principled***  **way make better decisions as they seek what is *right* and then hold to those convictions. They are *pro-active* and focus on what is *important* vs. the urgent things in life and business.
 
-*Has your life been like riding a merry-go-round? * *Is there one* *decision that you’re considering today that you can approach in a more principled way?* *How so?  Please share your* *thoughts \<**[here](/blog/people-almost-never-know-going/#comments)**\> and share this blog post with friend, family, and co-workers.*
+*Has your life been like riding a merry-go-round? * *Is there one* *decision that you’re considering today that you can approach in a more principled way?* *How so?  Please share your* *thoughts **[here](/blog/people-almost-never-know-going/#comments)** and share this blog post with friend, family, and co-workers.*

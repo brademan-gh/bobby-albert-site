@@ -117,4 +117,4 @@ It is *not* the size of the goal or project that determines success.  It is the
 
 > **“Anyone can steer the ship, but it takes a leader to chart the course.” – John Maxwell**
 
-*Are you* *living out* *being the leader required for* *your* *team’s success?  Which leadership quality could you improve upon?  Please share your* *comments* *\<[here](/blog/do-you-have-these-4-key-leadership-qualities/#comments)\> and share this blog post with a co-worker and friend.*
+*Are you* *living out* *being the leader required for* *your* *team’s success?  Which leadership quality could you improve upon?  Please share your* *comments* *[here](/blog/do-you-have-these-4-key-leadership-qualities/#comments) and share this blog post with a co-worker and friend.*

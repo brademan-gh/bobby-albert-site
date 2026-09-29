@@ -109,6 +109,6 @@ As you can see, it’s often easy to justify excluding others in our decision-ma
 
 When we recognize and avoid these common excuses, we’re more likely to adopt the powerful approach of *participative* *leadership*. And there’s no better way to engage with and lead your people than the **1-2-3 leadership tool**\! 
 
-*What is your excuse for not employing a more participative leadership style? * *How does your organization encourage teamwork and collaboration in its decision-making process? * *Please share your comments \<**[here](/blog/4-excuses-destroy-leaders-effectiveness/#comments)**\> and share this article with family, friends, and/or co-workers.* 
+*What is your excuse for not employing a more participative leadership style? * *How does your organization encourage teamwork and collaboration in its decision-making process? * *Please share your comments **[here](/blog/4-excuses-destroy-leaders-effectiveness/#comments)** and share this article with family, friends, and/or co-workers.* 
 
-Are you leading your organization toward growth? Take my FREE Lead2Grow Assessment \<**here**\> to understand more. (PLUS – you’ll receive custom-tailored suggestions about next steps to take, starting today!)
+Are you leading your organization toward growth? Take my FREE Lead2Grow Assessment **here** to understand more. (PLUS – you’ll receive custom-tailored suggestions about next steps to take, starting today!)

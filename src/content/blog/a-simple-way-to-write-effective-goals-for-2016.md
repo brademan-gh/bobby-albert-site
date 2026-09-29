@@ -93,9 +93,9 @@ Set aside time to write a goal for each of the seven life areas that I have **de
 
 **Why don’t you get started?** The hardest part of any important task is getting started. Once you actually begin work on a valuable task, you will be naturally motivated to continue.
 
-Get started now by \<**clicking here**\> to download my **FREE Goal Setting Workbook**!
+Get started now by **clicking here** to download my **FREE Goal Setting Workbook**!
 
-*Could you share what have been your experiences when you wrote down your goals versus when you didn’t?* *Click* **[*\<here\>*](/blog/a-simple-way-to-write-effective-goals-for-2016/#comments)** *to share your thoughts* *and leave a comment. * *Please* *share this blog post with your family, friends, and co-workers.*
+*Could you share what have been your experiences when you wrote down your goals versus when you didn’t?* *Click* **[*here*](/blog/a-simple-way-to-write-effective-goals-for-2016/#comments)** *to share your thoughts* *and leave a comment. * *Please* *share this blog post with your family, friends, and co-workers.*
 
 ------------------------------------------------------------------------
 

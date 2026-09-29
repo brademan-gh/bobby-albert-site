@@ -78,4 +78,4 @@ Depending on my answers to the questions above, I would determine my next steps
 
 I hope you’ll find some ideas above that will stimulate your thinking as you lead your team. Leading people is one of the most challenging, and rewarding aspects to business!
 
-*When you* *are* *faced with the possible firing of an employee, do you first go through a self-examination process?  If* *so,* *could you share how it has worked for you?  Please share your comments \<**[here](/blog/fire-not-fire/#comments)**\> and share this blog post with* *a friend or co-worker.  *
+*When you* *are* *faced with the possible firing of an employee, do you first go through a self-examination process?  If* *so,* *could you share how it has worked for you?  Please share your comments **[here](/blog/fire-not-fire/#comments)** and share this blog post with* *a friend or co-worker.  *

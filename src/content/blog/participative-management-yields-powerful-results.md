@@ -69,4 +69,4 @@ When challenges/opportunities like this arise, you have a choice to make. You ca
 
 Here’s the take-away: When it comes to trying participative management, there’s more risk in the known normal than the sometimes uncomfortable extraordinary!
 
-***Do you have* *individuals* *on your team or do you have a TEAM of individuals? Do you use the participative management style? Could you share your comments by [\<clicking here\>](/blog/participative-management-yields-powerful-results/#comments "Click here to leave a comment")?***
+***Do you have* *individuals* *on your team or do you have a TEAM of individuals? Do you use the participative management style? Could you share your comments by [clicking here](/blog/participative-management-yields-powerful-results/#comments "Click here to leave a comment")?***

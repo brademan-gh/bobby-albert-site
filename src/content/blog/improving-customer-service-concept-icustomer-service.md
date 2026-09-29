@@ -36,7 +36,7 @@ I’ve been writing in recent blog posts about how my company implemented the **
 
 > **Our service to our external customers can only be as good as our service to each other.- Bobby Albert**
 
-Also, in a previous blog post \<[click here](/blog/servant-leadership/)\>, I wrote about how my company took on the attitude of an upside-down organization chart.
+Also, in a previous blog post [click here](/blog/servant-leadership/), I wrote about how my company took on the attitude of an upside-down organization chart.
 
 As the President/CEO, I took on the attitude that every employee was my **internal customer**.
 
@@ -80,4 +80,4 @@ That is why I call this principle the **Nside/Outside** because…
 
 \[Tweet “*Outward* success is an *inside* job! – Bobby Albert #NsideOutside #customerservice “\]
 
-*As an internal or external customer, do you have a covenant relationship with your internal and external suppliers? Would your internal or external suppliers value you as their best internal or external customer they have? Could you share your comments \<[here](/blog/improving-customer-service-concept-icustomer-service/#comments)\> and share this blog post with a co-worker or friend?*
+*As an internal or external customer, do you have a covenant relationship with your internal and external suppliers? Would your internal or external suppliers value you as their best internal or external customer they have? Could you share your comments [here](/blog/improving-customer-service-concept-icustomer-service/#comments) and share this blog post with a co-worker or friend?*

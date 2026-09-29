@@ -121,4 +121,4 @@ The above examples of **principled** decisions require the *faith* and *discipli
 
  
 
-*Do you like eating Krispy Kreme donuts? Do you have the consistent discipline to make principled decisions? Which example from above are you going to put into practice? Please share your comments [\<here\>](/blog/learn-to-lead-examples-expedient-and-principled-behavior/#comments "click here to leave a comment") and share this blog post with a friend or co-worker.*
+*Do you like eating Krispy Kreme donuts? Do you have the consistent discipline to make principled decisions? Which example from above are you going to put into practice? Please share your comments [here](/blog/learn-to-lead-examples-expedient-and-principled-behavior/#comments "click here to leave a comment") and share this blog post with a friend or co-worker.*

@@ -92,4 +92,4 @@ The “my pleasure” policy instituted by the company founder, Truett Cathy, wa
 
 Out of this exchange, Chick-fil-A’s novel idea was born:  treat customers as if they’re at a luxury establishment.  This model continues to distinguish Chick-fil-A from its competitors, highlighting the importance of the little ways you communicate with customers. 
 
-*Have you found it difficult to lead* *your* *employees* *to* *deliver world-class results? * *Are you open to serve first, then lead second?  What has been your experience at Chick-fil-A?  Please share* *your thoughts \<**[here](/blog/serve-first-lead-second/#comments)**\>.*
+*Have you found it difficult to lead* *your* *employees* *to* *deliver world-class results? * *Are you open to serve first, then lead second?  What has been your experience at Chick-fil-A?  Please share* *your thoughts **[here](/blog/serve-first-lead-second/#comments)**.*

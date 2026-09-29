@@ -37,7 +37,7 @@ One last thing.  Do you get overwhelmed with the whole thought of setting goals
 
 You can download my *updated* **Goal Setting Workbook [here](/resources/gps-goal-planning-workbook/)**.  It guides you through the simple, but effective goal setting process that I’ve used for years. There is ***no charge*** for the workbook, but the difference well-set goals can make in your life is ***priceless***.
 
-*Could you* *share how setting goals has affected your life? Click *[***\<here\>***](/blog/goal-setting-your-gps-to-success/#comments)* to share your thoughts and leave a comment. * *Please pass* *this blog post* *along to* *your family, friends, and co-workers.*
+*Could you* *share how setting goals has affected your life? Click *[***here***](/blog/goal-setting-your-gps-to-success/#comments)* to share your thoughts and leave a comment. * *Please pass* *this blog post* *along to* *your family, friends, and co-workers.*
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

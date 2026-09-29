@@ -92,4 +92,4 @@ What are you doing to work **ON**, not just **IN**, your business? 
 
 By the way in my first triathlon, I finished next-to-last place. I would have gotten last place, if not for the encouragement I received from my good friend. When I was some distance from the finished line, he started hollering at me to pick-up the pace because a girl was right behind me\! 
 
-*How well do you, as the leader, answer the five employee questions* *listed above? Do your employees work well as a team? How would you like to work for you?  Please share your thoughts \<**[here](/blog/every-employee-asks-these-5-questions/#comments)**\>.*
+*How well do you, as the leader, answer the five employee questions* *listed above? Do your employees work well as a team? How would you like to work for you?  Please share your thoughts **[here](/blog/every-employee-asks-these-5-questions/#comments)**.*

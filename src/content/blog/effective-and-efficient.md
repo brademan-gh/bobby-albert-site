@@ -87,4 +87,4 @@ Having a roadmap by working **ON**, *not* just **IN**, the business helps you, a
 
 By the way, after that individual time-trial, I did win the prize in another contest for being able to stand still on my bicycle the longest without my feet touching the ground!
 
-*How about you? Do you have a roadmap? Do you ever spend time working **ON** your business or are you too busy working **IN** your business? Please share your thoughts \<[here](/blog/effective-and-efficient/#comments)\> – and pass on this blog post to a friend or co-worker.*
+*How about you? Do you have a roadmap? Do you ever spend time working **ON** your business or are you too busy working **IN** your business? Please share your thoughts [here](/blog/effective-and-efficient/#comments) – and pass on this blog post to a friend or co-worker.*

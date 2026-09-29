@@ -73,4 +73,4 @@ Within a couple of years after taking this *proactive* approach to work **ON** 
 
 Once we discovered this better approach to business, we kept employing it year after year and eventually grew our fledgling company to an organization with over 150 employees. And the good news is that any leader can tap the power of the **ON/IN** principle to tame the alligators and grow their business\! 
 
-*What percentage of your time do you work  ****IN**** your business? What percentage of your time do you work ****ON**** your business?  Please* *share* *your thoughts \<**[here](/blog/i-had-to-hitch-a-ride-from-my-own-employee-for-2-years/#comments)**\>.*
+*What percentage of your time do you work  ****IN**** your business? What percentage of your time do you work ****ON**** your business?  Please* *share* *your thoughts **[here](/blog/i-had-to-hitch-a-ride-from-my-own-employee-for-2-years/#comments)**.*

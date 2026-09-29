@@ -104,4 +104,4 @@ From 2005 (that fall I introduced our company core values and showed how they fi
 
 Our company experienced significant growth during a time when many other companies were declining. Not surprisingly, when we got crystal clear about who we were, ***why*** we existed, and where we were going, extraordinary results followed. Won’t you consider tapping the ***power of purpose*** to propel your organization faster and farther than the Dynamic Duo ever dreamed?
 
-*Are you ready to put “power” in your people?  Are you ready for your people to be intentional for a worthy cause beyond making money?  Are you ready to discover your purpose for your organization?  Please leave your* *comment \<[here](/blog/the-power-of-purpose/#comments)\> and share this blog post with a friend and co-worker.*
+*Are you ready to put “power” in your people?  Are you ready for your people to be intentional for a worthy cause beyond making money?  Are you ready to discover your purpose for your organization?  Please leave your* *comment [here](/blog/the-power-of-purpose/#comments) and share this blog post with a friend and co-worker.*

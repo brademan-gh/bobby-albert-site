@@ -115,4 +115,4 @@ As you can see, the way we **think** can be just the ticket we need to achieve o
 
 Want an easy way to get started on your goals for 2015? Simply download my Goal Setting Workbook! Get yours FREE by “clicking here”.
 
-*Could you share how you have changed the way you **think** about setting your goals?* Click \<[here](/blog/10-ways-change-thinking-set-better-goals-2015/#comments "Click to leave a comment")\> to share your thoughts in my comment section.
+*Could you share how you have changed the way you **think** about setting your goals?* Click [here](/blog/10-ways-change-thinking-set-better-goals-2015/#comments "Click to leave a comment") to share your thoughts in my comment section.

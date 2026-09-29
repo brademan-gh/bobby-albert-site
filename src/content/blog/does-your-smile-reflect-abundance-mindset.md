@@ -78,8 +78,8 @@ Would you like to have a simple reminder of the important concept of the *abunda
 
 If you’re like me, you could benefit from a visual reminder of this important principle.   I have created a printable page that highlights the differences in *scarcity* and *abundance* mindsets.
 
-Click **\<here\>** to download my **Abundance vs. Scarcity Mindset** *printable*.
+Click **here** to download my **Abundance vs. Scarcity Mindset** *printable*.
 
 The more we understand the differences between an *abundance* mindset and a *scarcity* mindset, the more likely we’ll make **principled** decisions from a place of *abundance*!
 
-*Do you smile when you meet people? Do you ask, “Can I” or “How can I”? Please share your comments [\<here\>](/blog/does-your-smile-reflect-abundance-mindset/#comments "Click here to leave your comment") and share this blog post with a friend or co-worker.*
+*Do you smile when you meet people? Do you ask, “Can I” or “How can I”? Please share your comments [here](/blog/does-your-smile-reflect-abundance-mindset/#comments "Click here to leave your comment") and share this blog post with a friend or co-worker.*

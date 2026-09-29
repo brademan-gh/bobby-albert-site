@@ -92,4 +92,4 @@ As adults and as leaders, let’s learn from children and ask perhaps the most i
 
  
 
-*Please share your comments* *\<**[here](/blog/why-do-we-stop-asking-why/#comments)**\>,* *and share this blog post with your family, friends, and co-workers.*
+*Please share your comments* ***[here](/blog/why-do-we-stop-asking-why/#comments)**,* *and share this blog post with your family, friends, and co-workers.*

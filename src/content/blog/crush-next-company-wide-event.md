@@ -148,7 +148,7 @@ WOW!!! Lots of details to think through and plan for a successful event.
 
 I start planning for an event like this by pulling out our all-inclusive QIC-Day preparation *Checklist*.
 
-You can download a copy of my actual checklist for Our Values QIC-Day by clicking \<here\>. Feel free to save it as a reference when you are planning your next event.
+You can download a copy of my actual checklist for Our Values QIC-Day by clicking here. Feel free to save it as a reference when you are planning your next event.
 
 It is designed to identity every possible task that needs to be done, who has agreed to do the task, and a column to check when it was done.
 

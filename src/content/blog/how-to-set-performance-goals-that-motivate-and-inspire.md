@@ -109,4 +109,4 @@ Also, people can work together as an effective *team* when they have a clear pic
 
 And they can maximize their *feeling* of achievement when they have pre-determined **goals** – the achievement of which is the definition of *success!*
 
-*What* *are* *your goals?  Are you making progress?  When will you get started? * *Please* *leave a comment \<[here](/blog/how-to-set-performance-goals-that-motivate-and-inspire/#comments)\> to continue the discussion!*
+*What* *are* *your goals?  Are you making progress?  When will you get started? * *Please* *leave a comment [here](/blog/how-to-set-performance-goals-that-motivate-and-inspire/#comments) to continue the discussion!*

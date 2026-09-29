@@ -119,7 +119,7 @@ Sadly, I’ve seen this happen many times at my own company. Fortunately, we dev
 
 *Which article attracted you the most?  What one thing* *did* *you learn about Engage2Lead participative leadership style and the 1-2-3 Leadership Tool?* 
 
-*Please share your thoughts \<**[here](/blog/engage2lead-summary-participative-leadership/#comments)**\> and share this article with co-workers and friends.* 
+*Please share your thoughts **[here](/blog/engage2lead-summary-participative-leadership/#comments)** and share this article with co-workers and friends.* 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
 

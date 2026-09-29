@@ -46,12 +46,10 @@ When I understand where I have been and where I am now, it is easier to chart th
 
 Each year about this time, I start my goal setting process – and it begins with Reflecting Back on the past year.  Then I progress on toward setting my goals for the coming year.
 
-Do you set goals? If you do, or if you would like to start, I have a FREE resource on goal setting for you.  I call it my ***Goal Tip Sheet with Five Proven Strategies to Achieve Your Goals*** – and you can get it by \<[Clicking Here](https://values-driven.leadpages.co/leadbox/1462d5223f72a2%3A145b8c4a3b46dc/5702652574826496/)
-
-\>.  I truly believe that you’ll be better positioned to set AND achieve meaningful goals for 2017, if you follow the straight-forward tips in this free document!
+Do you set goals? If you do, or if you would like to start, I have a FREE resource on goal setting for you.  I call it my ***Goal Tip Sheet with Five Proven Strategies to Achieve Your Goals*** – and you can get it by [Clicking Here](https://values-driven.leadpages.co/leadbox/1462d5223f72a2%3A145b8c4a3b46dc/5702652574826496/).  I truly believe that you’ll be better positioned to set AND achieve meaningful goals for 2017, if you follow the straight-forward tips in this free document!
 
 ![](https://lh3.googleusercontent.com/pLYQjNn8J-D7k06L9-BpA8Mjd6hqnXV-qbu5WpLvCRpgf-YPvPmBJm6URBIEFtjN2G2QqjvbfeU6l0YofH3Q=s0)
 
-*Do you take time to pause and reflect on your business and life?  When do you typically take time for this important endeavor? Have you started to think about what you want to accomplish and who you want to be for 2017? You can leave comments by \<[clicking here](/blog/the-first-step-toward-a-successful-2017/#comments)\>.*
+*Do you take time to pause and reflect on your business and life?  When do you typically take time for this important endeavor? Have you started to think about what you want to accomplish and who you want to be for 2017? You can leave comments by [clicking here](/blog/the-first-step-toward-a-successful-2017/#comments).*
 
 **Do you know someone who could benefit from my free Goal Tip Sheet resource? Embrace the generosity of the season and share or forward this blog post to them. You’ll be glad you did.**

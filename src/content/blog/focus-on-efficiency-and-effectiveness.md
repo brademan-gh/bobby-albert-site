@@ -118,4 +118,4 @@ Leaders and managers make great teammates. They need each other – and they can
 
 Don’t forget to view today through the complimentary lenses of **efficiency** and **effectiveness**, I guarantee it will improve your vision!
 
-*What is your primary lens? Are you restricting your potential by being stuck in an extreme position? Please share your comments [\<here\>](/blog/focus-on-efficiency-and-effectiveness/#comments "Please click to leave a comment!"), and share this blog post with a friend.*
+*What is your primary lens? Are you restricting your potential by being stuck in an extreme position? Please share your comments [here](/blog/focus-on-efficiency-and-effectiveness/#comments "Please click to leave a comment!"), and share this blog post with a friend.*

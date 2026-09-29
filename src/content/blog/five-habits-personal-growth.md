@@ -74,8 +74,8 @@ Then focus on growing in the area where you can add value to your greatest stren
 
 Begin filing quotes, stories, and ideas that you find as you learn. This habit will yield a great harvest of material for your future use. It will keep you highly focused to go for the good stuff that will stimulate you and help your personal growth.  
 
-As we grew our company, I developed specific strategies and plans to stimulate the personal growth of our people. I’ve developed a **one-page printable sheet** that details these strategies with recommendations on how to begin your employee growth plan. ***You can download it by clicking \<[here](https://values-driven.lpages.co/3-ways-to-stimulate-employee-growth-tipsheet/)\>.** *
+As we grew our company, I developed specific strategies and plans to stimulate the personal growth of our people. I’ve developed a **one-page printable sheet** that details these strategies with recommendations on how to begin your employee growth plan. ***You can download it by clicking [here](https://values-driven.lpages.co/3-ways-to-stimulate-employee-growth-tipsheet/).** *
 
 Let’s get going to unleash the chains of the myths to *personal growth* and experience exponential business growth. The first step is to start working **ON**, not just **IN**, your business. 
 
-*Has your* *personal growth been bound by chains? * *What* *are* *you* *doing to unleash those chains? * *Please* *share your thoughts \<**here**\>.*
+*Has your* *personal growth been bound by chains? * *What* *are* *you* *doing to unleash those chains? * *Please* *share your thoughts **here**.*

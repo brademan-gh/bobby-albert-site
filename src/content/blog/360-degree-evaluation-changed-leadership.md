@@ -83,8 +83,8 @@ The results were transformational. I made better decisions, *and* we created
 
 Do you want to hear more about **Engage2Lead**?  Stay tuned for more blog posts to come.
 
-*Have you ever received honest (anonymous) feedback from your team?* *Do you make decisions* *and* *then tell your people what to do?  Please leave your comments \<**[here](/blog/360-degree-evaluation-changed-leadership/#comments)**\>, and please share this blog posts with a friend or co-worker.*
+*Have you ever received honest (anonymous) feedback from your team?* *Do you make decisions* *and* *then tell your people what to do?  Please leave your comments **[here](/blog/360-degree-evaluation-changed-leadership/#comments)**, and please share this blog posts with a friend or co-worker.*
 
-> Are you looking for a proven method to set and achieve meaningful goals? Consider my **Goal Planning Success** course, Where Dreams Become Destinations – **It’s like a GPS for your life.**  \<click here\> to see a preview and learn more.
+> Are you looking for a proven method to set and achieve meaningful goals? Consider my **Goal Planning Success** course, Where Dreams Become Destinations – **It’s like a GPS for your life.**  click here to see a preview and learn more.
 
 ![gps-full-logo](/images/2016/12/GPS-Full-Logo-300x188.png)

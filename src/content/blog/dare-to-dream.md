@@ -57,8 +57,8 @@ And the Psalmist reflects his focus on God:
 
 **I stretch out my hands to you; my soul thirsts for you like a parched land. *Selah    Ps. 143:4-5 ESV***
 
-You can download my FREE **Good to Great Goal Setting Tip Sheet** \<[here](https://values-driven.lpages.co/good-to-great-goal-setting-tips-lead-page/?variation=YdBShsuLiLSXawkBnwLctn)\>. This downloadable PDF contains five tips that can help you set and achieve your goals!![](/images/2017/11/Good-to-Great-Goal-Setting-Cover-page-small-image.png)
+You can download my FREE **Good to Great Goal Setting Tip Sheet** [here](https://values-driven.lpages.co/good-to-great-goal-setting-tips-lead-page/?variation=YdBShsuLiLSXawkBnwLctn). This downloadable PDF contains five tips that can help you set and achieve your goals!![](/images/2017/11/Good-to-Great-Goal-Setting-Cover-page-small-image.png)
 
 *What about you?  What do* *you dream to accomplish in the coming year?  Who do you want to become?  These questions, and your answers to them, will help you define the dreams that you dream for the new year!  * 
 
-*You can leave your comments \<*[***here***](/blog/dare-to-dream/#comments)*\>, and please pass this blog post along to friends, family,* *and co-workers who you want to dream big dreams for 2022.*
+*You can leave your comments *[***here***](/blog/dare-to-dream/#comments)*, and please pass this blog post along to friends, family,* *and co-workers who you want to dream big dreams for 2022.*

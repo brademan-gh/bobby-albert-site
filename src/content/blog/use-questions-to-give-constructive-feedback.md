@@ -86,7 +86,7 @@ Optimal work relationships can’t prevail unless those involved in the organiza
 
 *Mutually* respectful relationships can be built and lead to effective team performance if those involved provide *feedback* to one another in a calm, constructive, sensitive manner.
 
-When my company kicked off our **AQL**^TM^**** (***A****sk* ***Q****uestions* and ***L****isten*) *QIC*-Day, I introduced *asking questions* by using the following free download (click \<[here](/resources/aql-give-and-receive-feedback-questions/)\>) provided by my good friend and mentor Jim Lundy on…
+When my company kicked off our **AQL**^TM^**** (***A****sk* ***Q****uestions* and ***L****isten*) *QIC*-Day, I introduced *asking questions* by using the following free download (click [here](/resources/aql-give-and-receive-feedback-questions/)) provided by my good friend and mentor Jim Lundy on…
 
 -   *How to *give* constructive *feedback**
 
@@ -166,6 +166,6 @@ Don’t forget to download the list of **[34 Questions to Help You Give and Rece
 
 ![Questions to Help Give and Receive Feedback](/images/2015/10/160rsrc-leadpage-image-Questions-to-Give-and-Receive-Feedback.png "Bobby Albert: Questions to Help You Give and Receive Feedback")
 
-*How well do you give feedback?  How well do you receive feedback? * *Wherein* *do you need to make improvements?  Please share your thoughts \<[here](/blog/use-questions-to-give-constructive-feedback/#comments)\> and share this blog post with a friend.*
+*How well do you give feedback?  How well do you receive feedback? * *Wherein* *do you need to make improvements?  Please share your thoughts [here](/blog/use-questions-to-give-constructive-feedback/#comments) and share this blog post with a friend.*
 
 ![AQL_color_trans-170px](/images/2016/07/AQL_color_trans-170px.png)

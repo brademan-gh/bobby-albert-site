@@ -128,12 +128,12 @@ Management must understand that to refuse to involve employees, even in the simp
 
 **Leadership Question:**  What are you doing to motivate your employees?  –So they don’t say, “You won’t believe what they did to us at work today!”
 
-*Has a primarily* *results-focused approach trapped you into strained relationships and disappointing* *outcomes?*  *Based on your calendar and daily agenda, which do you value more—people or things?  Please share* *your comments \<**[here](/blog/recognize-6-consequences-poor-leadership/#comments)**\> and share this article with your friends and/or co-workers.* 
+*Has a primarily* *results-focused approach trapped you into strained relationships and disappointing* *outcomes?*  *Based on your calendar and daily agenda, which do you value more—people or things?  Please share* *your comments **[here](/blog/recognize-6-consequences-poor-leadership/#comments)** and share this article with your friends and/or co-workers.* 
 
-Are you leading your organization toward growth? Take my **FREE Lead2Grow Assessment** \<**here**\> to understand more. (PLUS – you’ll receive custom-tailored suggestions about next steps to take, starting today!) 
+Are you leading your organization toward growth? Take my **FREE Lead2Grow Assessment** **here** to understand more. (PLUS – you’ll receive custom-tailored suggestions about next steps to take, starting today!) 
 
 \*\*\*\*\*\*\*\*\*\*
 
-Goal setting has been so instrumental to my success. I’ve prepared a special PDF document with additional goal-setting insights. You can download my FREE download [**Good to Great Goal Setting**](https://values-driven.lpages.co/good-to-great-goal-setting-tips-lead-page/?source=post) \<**[here](https://values-driven.lpages.co/good-to-great-goal-setting-tips-lead-page/?source=post)**\>.  
+Goal setting has been so instrumental to my success. I’ve prepared a special PDF document with additional goal-setting insights. You can download my FREE download [**Good to Great Goal Setting**](https://values-driven.lpages.co/good-to-great-goal-setting-tips-lead-page/?source=post) **[here](https://values-driven.lpages.co/good-to-great-goal-setting-tips-lead-page/?source=post)**.  
 
 ![](/images/2017/11/Good-to-Great-Goal-Setting-Cover-page-small-image.png)

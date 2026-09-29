@@ -73,4 +73,4 @@ They experience not only more **results** and success, but also, better **result
 
 In my next blog post, I will show the *exponential* impact an effective leader has on an organization…And you will see for yourself the *benefits* of an effective leader.
 
-*Who are your leadership role models?  How have they had a positive impact on your life? Please share your comments by clicking [\<here\>](/blog/who-are-your-leadership-role-models/#comments "Please click here to leave a comment").*
+*Who are your leadership role models?  How have they had a positive impact on your life? Please share your comments by clicking [here](/blog/who-are-your-leadership-role-models/#comments "Please click here to leave a comment").*

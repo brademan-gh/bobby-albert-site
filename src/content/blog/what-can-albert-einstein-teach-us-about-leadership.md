@@ -87,4 +87,4 @@ But first, the **goal(s)** of where you are going must be clearly defined, under
 
 Employees need **goals** so they can correct their actions when targets are missed, and so they can feel the deserved satisfaction when targets are hit.
 
-*Where does your ticket say you are going to? Do you have goals in your life and in your workplace? Please send to me your comments \<[here](/blog/what-can-albert-einstein-teach-us-about-leadership/#comments)\> and share this blog post with a friend and co-worker.*
+*Where does your ticket say you are going to? Do you have goals in your life and in your workplace? Please send to me your comments [here](/blog/what-can-albert-einstein-teach-us-about-leadership/#comments) and share this blog post with a friend and co-worker.*

@@ -48,7 +48,7 @@ The answer, of course, is to ***not*** do anything ***to* **them, but start 
 
 ### **Motivation Survey**
 
-In previous blog posts, I offered you a simple survey about our *motivations*.  You can download the FREE survey \<**[here](/resources/tnb-motivation-survey/)**\> so you can easily record your own answers.
+In previous blog posts, I offered you a simple survey about our *motivations*.  You can download the FREE survey **[here](/resources/tnb-motivation-survey/)** so you can easily record your own answers.
 
 I have found that this survey is one of the most powerful tools that is available for discovery and learning.  The statements in the survey ask you to think more deeply about this important topic on *motivation*.
 
@@ -76,12 +76,12 @@ You may be thinking, “That’s it?”  Well…There is more to leading a peak
 
 Are you curious about the rest of survey? The three blog posts below break down the first ten statements of the survey:
 
--   **Blog post on statements 1-4** **\<[click here](/blog/volunteer-leadership/)\>**
+-   **Blog post on statements 1-4** **[click here](/blog/volunteer-leadership/)**
 
--   **Blog post on statements 5-8** **\<[click here](/blog/public-bad-decision/)\>**
+-   **Blog post on statements 5-8** **[click here](/blog/public-bad-decision/)**
 
--   **Blog post on statements 9 & 10** **\<[click here](/blog/lone-ranger-decision-making/)\>**
+-   **Blog post on statements 9 & 10** **[click here](/blog/lone-ranger-decision-making/)**
 
-*How are you doing when it comes to employee motivation?* *Are your people just laying bricks?  Or are they enthusiastically building cathedrals?  Please share your thoughts \<**[here](/blog/secret-employee-motivation/#comments)**\> and share this blog post with a friend or co-worker.*
+*How are you doing when it comes to employee motivation?* *Are your people just laying bricks?  Or are they enthusiastically building cathedrals?  Please share your thoughts **[here](/blog/secret-employee-motivation/#comments)** and share this blog post with a friend or co-worker.*
 
-> Are you looking for a proven method to set and achieve meaningful goals? Consider my **Goal Planning Success** course, *Where Dreams Become Destinations* – ***it’s like a GPS for your life***! For a limited time, you can enjoy a significant \$40 discount by using coupon code “40OFF” -\<**[click here](http://values-driven-leadership-institute.teachable.com/p/goal-planning-success-2017-edition/)**\> to learn more!
+> Are you looking for a proven method to set and achieve meaningful goals? Consider my **Goal Planning Success** course, *Where Dreams Become Destinations* – ***it’s like a GPS for your life***! For a limited time, you can enjoy a significant \$40 discount by using coupon code “40OFF” -**[click here](http://values-driven-leadership-institute.teachable.com/p/goal-planning-success-2017-edition/)** to learn more!

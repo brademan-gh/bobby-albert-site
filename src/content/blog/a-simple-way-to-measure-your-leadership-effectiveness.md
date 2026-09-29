@@ -78,4 +78,4 @@ Even if it requires extra effort and time, even if it takes you out of your comf
 
 As can be seen above, you can achieve amazing gains in your effectiveness and outcomes when you grow *yourself* and grow your *people* in both *training* AND *development*. 
 
-*Where is your focus?  Is* *it* *on relationships (development) or results (training)?  How would you rate your effectiveness?  Please share your comments \<**[here](/blog/a-simple-way-to-measure-your-leadership-effectiveness/#comments)**\>.*
+*Where is your focus?  Is* *it* *on relationships (development) or results (training)?  How would you rate your effectiveness?  Please share your comments **[here](/blog/a-simple-way-to-measure-your-leadership-effectiveness/#comments)**.*

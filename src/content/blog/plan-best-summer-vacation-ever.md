@@ -86,9 +86,9 @@ Today, at the very *beginning* of your decision-making process for your fami
 
 ![Family Vacation Discussion Guide-thumbnail-400x518px](/images/2017/05/Family-Vacation-Discussion-Guide-thumbnail-400x518px-232x300.png)
 
-You can download your free **Family** **Vacation Discussion Guide** \<[**here**](/resources/tnb-family-vacation-discussion-guide/)\>. I’m confident that if you *engage* your family in the decision-making process, you’ll plan your best summer vacation ever!
+You can download your free **Family** **Vacation Discussion Guide** [**here**](/resources/tnb-family-vacation-discussion-guide/). I’m confident that if you *engage* your family in the decision-making process, you’ll plan your best summer vacation ever!
 
-*Have you every engaged your children in the family vacation decision-making process?  What were the results?  Do* *you engage your employees in your business decision-making process?  Please share your thoughts \<**[here](/blog/plan-best-summer-vacation-ever/#comments)**\> and share this blog post with your family, friends, and co-workers!*
+*Have you every engaged your children in the family vacation decision-making process?  What were the results?  Do* *you engage your employees in your business decision-making process?  Please share your thoughts **[here](/blog/plan-best-summer-vacation-ever/#comments)** and share this blog post with your family, friends, and co-workers!*
 
  
 

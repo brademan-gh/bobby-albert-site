@@ -100,9 +100,9 @@ If you have not yet, set aside time to write a goal for each of the seven life a
 
 **Why don’t you get started?** The hardest part of any important task is getting started. Once you actually begin work on a valuable task, you will be naturally motivated to continue.
 
-*Could you share what have been your experiences when* *you* *took action toward your goals? Click* [***\<here\>***](/blog/now-is-the-time-to-act-on-your-goals/#comments) *to share your thoughts and leave a comment. * *Please share this blog post with your family, friends, and co-workers.*
+*Could you share what have been your experiences when* *you* *took action toward your goals? Click* [***here***](/blog/now-is-the-time-to-act-on-your-goals/#comments) *to share your thoughts and leave a comment. * *Please share this blog post with your family, friends, and co-workers.*
 
-Get started now by \<**clicking here**\> to download my **FREE Goal Setting Workbook**!
+Get started now by **clicking here** to download my **FREE Goal Setting Workbook**!
 
 Have you read my earlier blog posts on goal setting? Here’s a list with a link to each post:
 

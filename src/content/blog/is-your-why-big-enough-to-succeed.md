@@ -100,4 +100,4 @@ As a steward of our family business, it was the right thing to do. And I’m con
 
  
 
-*Please share your comments \<**[here](/blog/is-your-why-big-enough-to-succeed/#comments)**\> and share this blog post with co-workers and friends.*
+*Please share your comments **[here](/blog/is-your-why-big-enough-to-succeed/#comments)** and share this blog post with co-workers and friends.*

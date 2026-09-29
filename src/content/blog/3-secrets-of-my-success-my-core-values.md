@@ -70,7 +70,7 @@ I’ve made a simple ***Values Discovery Worksheet*** for you to use in your own
 
 If you would like to go to a summary blog post about core values, you can [click here](/blog/how-to-discover-your-core-values-create-extraordinary-results/).
 
-*Do you know your core values? If not, are you ready to discover your core values? Please share your comments \<[here](/blog/3-secrets-of-my-success-my-core-values/#comments)\> and share this blog post with a friend or co-worker.*
+*Do you know your core values? If not, are you ready to discover your core values? Please share your comments [here](/blog/3-secrets-of-my-success-my-core-values/#comments) and share this blog post with a friend or co-worker.*
 
 ![people-from-dc-color](/images/2016/10/People-from-DC-color.png)
 
