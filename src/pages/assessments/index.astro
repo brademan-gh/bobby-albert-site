@@ -1,0 +1,165 @@
+---
+// /assessments — the hub the "Assessments" nav item opens.
+//
+// Added 2026-10-05 when the site gained a second assessment. The two assessments
+// themselves stay where they are: /assessment/ (ON&IN) is linked from over a dozen
+// blog posts, and /assessment/lead2grow/ from eight. Do not move them to sit under
+// this URL — that would break those links for no gain.
+//
+// Taglines and blurbs come from each assessment's own tagline and intro (Bobby's
+// wording); the Lead2Grow blurb adds the names of its four sections.
+// The nav dropdown still offers both directly on desktop; on phones (no dropdown)
+// this page is the way in.
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import Header from '../../components/Header.astro';
+
+const title = 'Assessments';
+const description =
+	'Two free leadership assessments from Bobby Albert: the ON&IN Leadership Assessment, about how you lead, and the Lead2Grow Assessment, about how your organization is positioned to grow. Instant results, no email required.';
+
+const ASSESSMENTS = [
+	{
+		href: '/assessment/',
+		name: 'The ON&IN Leadership Assessment',
+		tagline: 'What’s standing between you and the growth of your business?',
+		blurb:
+			'This assessment has helped hundreds of leaders shift their thinking and learn to work ON their business as they work IN their business.',
+		focus: 'About you as a leader',
+		facts: '7 questions',
+	},
+	{
+		href: '/assessment/lead2grow/',
+		name: 'The Lead2Grow Assessment',
+		tagline: 'Are you leading your organization toward growth?',
+		blurb:
+			'The assessment covers fundamental topics of leadership and organizational growth: your growth indicators, foundational beliefs, team engagement and strategic plan.',
+		focus: 'About your organization',
+		facts: '8 questions',
+	},
+];
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={title} description={description} />
+		<style>
+			main {
+				width: 900px;
+			}
+			.lede {
+				margin: 0 0 2.5em 0;
+				font-size: 1.05rem;
+				color: rgb(var(--gray));
+			}
+			.cards {
+				display: grid;
+				grid-template-columns: 1fr 1fr;
+				gap: 1.5rem;
+				margin: 0;
+				padding: 0;
+				list-style: none;
+			}
+			/* The li is a grid so the card stretches to the full row height. */
+			.cards li {
+				display: grid;
+			}
+			.card {
+				display: flex;
+				flex-direction: column;
+				height: 100%;
+				box-sizing: border-box;
+				padding: 1.5em 1.6em;
+				border: 1px solid rgb(var(--gray-light));
+				border-radius: 12px;
+				background: white;
+				text-decoration: none;
+				transition:
+					border-color 0.15s ease,
+					box-shadow 0.15s ease;
+			}
+			.card:hover,
+			.card:focus-visible {
+				border-color: rgba(35, 55, 255, 0.35);
+				box-shadow: 0 4px 16px rgba(var(--gray), 14%);
+			}
+			.focus {
+				margin: 0 0 0.6em 0;
+				font-size: 0.75rem;
+				font-weight: 700;
+				letter-spacing: 0.05em;
+				text-transform: uppercase;
+				color: rgb(var(--gray));
+			}
+			.name {
+				display: block;
+				font-size: 1.3rem;
+				font-weight: 700;
+				line-height: 1.25;
+				color: rgb(var(--black));
+			}
+			.tagline {
+				margin: 0.5em 0 0.6em;
+				font-style: italic;
+				color: rgb(var(--gray-dark));
+			}
+			.blurb {
+				margin: 0 0 1em;
+				font-size: 0.95rem;
+				line-height: 1.55;
+				color: rgb(var(--gray-dark));
+			}
+			.facts {
+				margin: 0;
+				font-size: 0.85rem;
+				color: rgb(var(--gray));
+			}
+			.go {
+				display: block;
+				margin-top: auto;
+				padding-top: 1.1em;
+				font-size: 0.85rem;
+				font-weight: 700;
+				letter-spacing: 0.04em;
+				text-transform: uppercase;
+				color: var(--accent);
+			}
+			@media (max-width: 720px) {
+				.cards {
+					grid-template-columns: 1fr;
+					gap: 1rem;
+				}
+			}
+		</style>
+	</head>
+
+	<body>
+		<Header />
+		<main data-pagefind-body data-pagefind-filter="Section:Pages" data-pagefind-meta="section:Pages">
+			<h1>{title}</h1>
+			<p class="lede">
+				Two free assessments from Bobby Albert. Each takes a few minutes, shows your personalized
+				results right on the page, and asks for no email address.
+			</p>
+
+			<ul class="cards">
+				{
+					ASSESSMENTS.map((a) => (
+						<li>
+							<a class="card" href={a.href}>
+								<p class="focus">{a.focus}</p>
+								<span class="name">{a.name}</span>
+								<p class="tagline">{a.tagline}</p>
+								<p class="blurb">{a.blurb}</p>
+								<p class="facts">{a.facts} · instant results</p>
+								<span class="go">Take the assessment &rarr;</span>
+							</a>
+						</li>
+					))
+				}
+			</ul>
+		</main>
+		<Footer />
+	</body>
+</html>
