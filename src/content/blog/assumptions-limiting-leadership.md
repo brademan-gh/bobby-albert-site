@@ -92,4 +92,4 @@ There are many concerns that get in the way of leaders, such as the president of
 
 *Which incorrect assumptions* *do you have? * *What* *changes can you make regarding* *how* *you* *do things to become the most effective leader?  Please share your thoughts **[here](/blog/assumptions-limiting-leadership/#comments)** and share this article with a friend and/or co-worker.* 
 
-Are your leading your organization toward growth? Take my **FREE Lead2Grow Assessment** **here** to understand more. (PLUS – you’ll receive custom-tailored suggestions about next steps to take, starting today!)
+Are you leading your organization toward growth? Take my **FREE Lead2Grow Assessment** [**here**](/assessment/lead2grow/) to understand more. (PLUS – you’ll receive custom-tailored suggestions about next steps to take, starting today!)

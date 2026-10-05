@@ -82,4 +82,4 @@ It encourages mutual accountability, and it can help you orchestrate your compan
 
 However, the **One-Over-One** policy is an example of a bottom-up decision-making process by using the **1-2-3** **process** where the employee obtains the approval from their supervisor and that supervisor obtains the approval from their supervisor one level above them.    
 
-Are your leading your organization toward growth? Take my **FREE Lead2Grow Assessment** **here** to understand more. (PLUS – you’ll receive custom-tailored suggestions about next steps to take, starting today!)
+Are you leading your organization toward growth? Take my **FREE Lead2Grow Assessment** [**here**](/assessment/lead2grow/) to understand more. (PLUS – you’ll receive custom-tailored suggestions about next steps to take, starting today!)

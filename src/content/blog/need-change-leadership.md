@@ -96,4 +96,4 @@ For most people, becoming an effective leader requires some changes and some wor
 
 *Are there limits to your leadership lid?  Are* *you* *open* *to change your leadership style?  Please share your thoughts **[here](/blog/need-change-leadership/#comments),** and share this article with* *your* *friends and co-workers.* 
 
-Are your leading your organization toward growth? Take my FREE Lead2Grow Assessment here to understand more. (plus – you’ll receive custom-tailored suggestions about next steps to take, starting today)
+Are you leading your organization toward growth? Take my FREE Lead2Grow Assessment [here](/assessment/lead2grow/) to understand more. (plus – you’ll receive custom-tailored suggestions about next steps to take, starting today)

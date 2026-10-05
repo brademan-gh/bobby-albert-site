@@ -80,4 +80,4 @@ Need help setting your personal goals for 2018? – Take a look at my online Goa
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
 
-*Are your leading your organization toward growth? Take my FREE Lead2Grow Assessment **here** to understand more. (PLUS – you’ll receive custom-tailored suggestions about next steps to take, starting today!)*
+*Are you leading your organization toward growth? Take my FREE Lead2Grow Assessment [**here**](/assessment/lead2grow/) to understand more. (PLUS – you’ll receive custom-tailored suggestions about next steps to take, starting today!)*

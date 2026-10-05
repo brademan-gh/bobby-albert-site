@@ -15,7 +15,13 @@ import HeaderLink from './HeaderLink.astro';
 					<li><a href="/resources/true-north-business/">True North Business</a></li>
 				</ul>
 			</div>
-			<HeaderLink href="/assessment">Assessment</HeaderLink>
+			<div class="has-submenu">
+				<HeaderLink href="/assessment">Assessment</HeaderLink>
+				<ul class="submenu">
+					<li><a href="/assessment/">ON&amp;IN Leadership Assessment</a></li>
+					<li><a href="/assessment/lead2grow/">Lead2Grow Assessment</a></li>
+				</ul>
+			</div>
 			<HeaderLink href="/about">About</HeaderLink>
 			<HeaderLink href="/search" class="search-link">
 				<svg
@@ -134,7 +140,8 @@ import HeaderLink from './HeaderLink.astro';
 	}
 
 	/* A hover dropdown is the wrong interaction on touch, so below 720px the
-	   submenu is dropped — /resources groups the same links by category. */
+	   submenu is dropped — /resources groups the same links by category, and the
+	   two assessment pages link to each other near the top. */
 	@media (max-width: 720px) {
 		.submenu {
 			display: none;

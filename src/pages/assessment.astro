@@ -42,6 +42,10 @@ const description =
 				font-size: 1.1em;
 				color: rgb(var(--gray));
 			}
+			.sibling {
+				margin: 0 0 1.5em 0;
+				font-size: 0.95em;
+			}
 			.intro p {
 				margin: 0 0 1em 0;
 			}
@@ -162,6 +166,11 @@ const description =
 		<main data-pagefind-body data-pagefind-filter="Section:Pages" data-pagefind-meta="section:Pages">
 			<h1>{title}</h1>
 			<p class="tagline">What&rsquo;s standing between you and the growth of your business?</p>
+			<p class="sibling">
+				Looking at your organization rather than your own style? Try the <a
+					href="/assessment/lead2grow/">Lead2Grow Assessment</a
+				>.
+			</p>
 
 			<div class="intro">
 				{INTRO.map((p, i) => <p class={i === 0 ? 'lead' : undefined} set:html={p} />)}

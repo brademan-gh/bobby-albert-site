@@ -130,7 +130,7 @@ Management must understand that to refuse to involve employees, even in the simp
 
 *Has a primarily* *results-focused approach trapped you into strained relationships and disappointing* *outcomes?*  *Based on your calendar and daily agenda, which do you value more—people or things?  Please share* *your comments **[here](/blog/recognize-6-consequences-poor-leadership/#comments)** and share this article with your friends and/or co-workers.* 
 
-Are you leading your organization toward growth? Take my **FREE Lead2Grow Assessment** **here** to understand more. (PLUS – you’ll receive custom-tailored suggestions about next steps to take, starting today!) 
+Are you leading your organization toward growth? Take my **FREE Lead2Grow Assessment** [**here**](/assessment/lead2grow/) to understand more. (PLUS – you’ll receive custom-tailored suggestions about next steps to take, starting today!) 
 
 \*\*\*\*\*\*\*\*\*\*
 

@@ -1,0 +1,326 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import Header from '../../components/Header.astro';
+import {
+	INSTRUCTIONS,
+	POINTS,
+	QUESTIONS,
+	RESULTS_CLOSING,
+	RESULTS_INTRO,
+	SECTIONS,
+	SIGNOFF,
+} from '../../data/lead2growAssessment';
+
+// The Lead2Grow Assessment.
+//
+// Rebuilt 2026-10-05 from Bobby's 2017 question sheet (v1.2) and scoring matrix (v4).
+// See claude/lead2grow-assessment-findings-2026-10-05.md in the project notes.
+// Built on the same pattern as /assessment/ (ON&IN) — and the same two rules apply:
+//
+// 1. Every feedback paragraph — all 12, four sections × three bands — is rendered into
+//    the HTML and merely HIDDEN when it doesn't apply. It is NOT injected by JavaScript.
+//    The original sat behind an email gate and was invisible to search; making the
+//    feedback crawlable is the point of rebuilding it.
+//
+// 2. No gate. The original collected name, email, job title and company size before
+//    emailing the results. None of those affected the feedback; Brady dropped them.
+//
+// Bobby's instruction was "Do not reveal their actual score", so the sums are never
+// shown. The band labels below exist only for no-JS readers and crawlers, who see all
+// three paragraphs and need to know which is which; interactive mode hides them.
+
+const title = 'The Lead2Grow Assessment';
+const description =
+	"Bobby Albert's eight-question Lead2Grow Assessment. Check your organization's growth indicators, foundational beliefs, team engagement and strategic plan — and get tailored next steps for each. Instant results, no email required.";
+const BAND_LABEL = {
+	low: 'Getting started',
+	mid: 'Making progress',
+	high: 'Well established',
+} as const;
+const LETTERS = ['a', 'b', 'c'];
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={title} description={description} />
+		<style>
+			main {
+				width: 820px;
+			}
+			.tagline {
+				margin: 0 0 1.5em 0;
+				font-size: 1.1em;
+				color: rgb(var(--gray));
+			}
+			.sibling {
+				margin: 0 0 1.5em 0;
+				font-size: 0.95em;
+			}
+			.section-head {
+				margin: 1.6em 0 0.6em 0;
+				font-size: 1.15em;
+				color: rgb(var(--gray-dark));
+			}
+			fieldset {
+				margin: 0 0 1.25em 0;
+				padding: 1.25em 1.5em;
+				border: 1px solid rgb(var(--gray-light));
+				border-radius: 10px;
+				background: white;
+			}
+			legend {
+				padding: 0 0.5em;
+				font-weight: 700;
+				color: rgb(var(--black));
+			}
+			.choice {
+				display: flex;
+				gap: 0.6em;
+				align-items: baseline;
+				margin: 0.4em 0;
+				padding: 0.5em 0.6em;
+				border-radius: 8px;
+				cursor: pointer;
+			}
+			.choice:hover {
+				background: rgba(var(--gray-light), 55%);
+			}
+			.actions {
+				margin: 2em 0;
+				text-align: center;
+			}
+			button {
+				padding: 0.7em 1.6em;
+				font-family: inherit;
+				font-size: 1em;
+				color: white;
+				background: var(--accent);
+				border: none;
+				border-radius: 8px;
+				cursor: pointer;
+			}
+			button:hover {
+				background: var(--accent-dark);
+			}
+			button.secondary {
+				color: var(--accent);
+				background: white;
+				border: 1px solid rgb(var(--gray-light));
+			}
+			.result {
+				margin: 0 0 2em 0;
+				padding-bottom: 1.5em;
+				border-bottom: 1px solid rgb(var(--gray-light));
+			}
+			.result h3 {
+				margin-bottom: 0.1em;
+				font-size: 1.35em;
+			}
+			.covers {
+				margin: 0 0 0.8em 0;
+				font-size: 0.9em;
+				color: rgb(var(--gray));
+			}
+			.band-label {
+				margin: 1em 0 0.3em 0;
+				font-size: 0.85em;
+				text-transform: uppercase;
+				letter-spacing: 0.04em;
+				color: rgb(var(--gray));
+			}
+			.signoff p {
+				margin: 0;
+			}
+			.provenance {
+				margin-top: 3em;
+				padding-top: 1.5em;
+				border-top: 1px solid rgb(var(--gray-light));
+				font-size: 0.9em;
+				color: rgb(var(--gray));
+			}
+			/* Interactive mode only — set by the script below. With JS off, everything
+			   stays visible, which is both accessible and crawlable. */
+			:global([data-interactive]) #results[hidden],
+			:global([data-interactive]) .band[hidden] {
+				display: none;
+			}
+			:global([data-interactive]) .band-label {
+				display: none;
+			}
+			@media (max-width: 720px) {
+				fieldset {
+					padding: 1em;
+				}
+			}
+		</style>
+	</head>
+
+	<body>
+		<Header />
+		<main data-pagefind-body data-pagefind-filter="Section:Pages" data-pagefind-meta="section:Pages">
+			<h1>{title}</h1>
+			<p class="tagline">Are you leading your organization toward growth?</p>
+			<p class="sibling">
+				Looking at your own leadership style instead? Try the <a href="/assessment/"
+					>ON&amp;IN Leadership Assessment</a
+				>.
+			</p>
+
+			<p>{INSTRUCTIONS}</p>
+
+			<form id="assessment">
+				{
+					SECTIONS.map((s) => (
+						<>
+							<h2 class="section-head">{s.title}</h2>
+							{QUESTIONS.filter((q) => q.section === s.id).map((q) => (
+								<fieldset>
+									<legend>
+										{q.n}. {q.q}
+									</legend>
+									{q.options.map((opt, i) => (
+										<label class="choice">
+											<input type="radio" name={`q${q.n}`} value={POINTS[i]} />
+											<span>
+												{LETTERS[i]}. {opt}
+											</span>
+										</label>
+									))}
+								</fieldset>
+							))}
+						</>
+					))
+				}
+				<p class="actions">
+					<button type="submit">Show my results</button>
+				</p>
+			</form>
+
+			<!-- NOT hidden in the markup on purpose: the script hides this on load.
+			     A static `hidden` attribute would keep Pagefind and crawlers out of the
+			     feedback, which is the content worth having. -->
+			<section id="results">
+				<h2>Your Lead2Grow insights</h2>
+				<p>{RESULTS_INTRO}</p>
+
+				{
+					SECTIONS.map((s) => (
+						<div
+							class="result"
+							data-section={s.id}
+							data-questions={QUESTIONS.filter((q) => q.section === s.id)
+								.map((q) => q.n)
+								.join(',')}
+						>
+							<h3>{s.title}</h3>
+							<p class="covers">{s.covers}</p>
+							{(['low', 'mid', 'high'] as const).map((b) => (
+								<div class="band" data-band={b}>
+									<p class="band-label">{BAND_LABEL[b]}</p>
+									<p set:html={s.feedback[b]} />
+								</div>
+							))}
+						</div>
+					))
+				}
+
+				<p>{RESULTS_CLOSING}</p>
+				<div class="signoff">
+					{SIGNOFF.map((l) => <p>{l}</p>)}
+				</div>
+
+				<p class="actions">
+					<button type="button" class="secondary" id="again">Start over</button>
+				</p>
+			</section>
+
+			<p class="provenance">
+				Bobby Albert created this assessment in 2017. It originally asked for your contact
+				details and emailed your results; this version gives them to you straight away, and
+				nothing you select leaves your browser. The questions and all of the feedback are his own
+				words.
+			</p>
+		</main>
+		<Footer />
+
+		<script is:inline>
+			(() => {
+				const form = document.getElementById('assessment');
+				const results = document.getElementById('results');
+				if (!form || !results) return;
+
+				// Only now do we take over the layout. Until this line runs, the page is a
+				// plain readable document — which is what crawlers and no-JS visitors get.
+				document.documentElement.setAttribute('data-interactive', '');
+
+				const blocks = [...results.querySelectorAll('.result')];
+				const total = form.querySelectorAll('fieldset').length;
+				const reset = () => {
+					results.hidden = true;
+					for (const b of results.querySelectorAll('.band')) b.hidden = false;
+				};
+				reset();
+
+				// Bobby's bands — keep in step with band() in src/data/lead2growAssessment.ts.
+				// Answers score a=0, b=15, c=33. A one-question section maps straight across;
+				// a three-question section's sum is low ≤30, mid 33–48, high 63+.
+				// (48 fell in no band in Bobby's v4 matrix; mid was agreed 2026-10-05.)
+				const band = (sum, n) =>
+					n === 1
+						? sum === 0 ? 'low' : sum === 15 ? 'mid' : 'high'
+						: sum <= 30 ? 'low' : sum <= 48 ? 'mid' : 'high';
+
+				form.addEventListener('submit', (e) => {
+					e.preventDefault();
+					const data = new FormData(form);
+					const fieldsets = [...form.querySelectorAll('fieldset')];
+					const blank = fieldsets.filter((f) => !f.querySelector('input:checked'));
+					if (blank.length) {
+						notice(
+							`Please answer all ${total} questions — ${blank.length} ${blank.length === 1 ? 'is' : 'are'} still blank.`,
+						);
+						blank[0].scrollIntoView({ behavior: 'smooth', block: 'center' });
+						return;
+					}
+					notice('');
+
+					for (const b of blocks) {
+						const qs = b.dataset.questions.split(',');
+						const sum = qs.reduce((t, n) => t + Number(data.get('q' + n)), 0);
+						const pick = band(sum, qs.length);
+						// Per Bobby: "Do not reveal their actual score." Only the paragraph shows.
+						for (const p of b.querySelectorAll('.band')) p.hidden = p.dataset.band !== pick;
+					}
+
+					results.hidden = false;
+					results.scrollIntoView({ behavior: 'smooth', block: 'start' });
+				});
+
+				document.getElementById('again')?.addEventListener('click', () => {
+					form.reset();
+					reset();
+					form.scrollIntoView({ behavior: 'smooth', block: 'start' });
+				});
+
+				// A small inline notice rather than window.alert, which is disruptive.
+				function notice(msg) {
+					let el = document.getElementById('formnotice');
+					if (!msg) {
+						el?.remove();
+						return;
+					}
+					if (!el) {
+						el = document.createElement('p');
+						el.id = 'formnotice';
+						el.style.cssText =
+							'margin:1em 0;padding:.7em 1em;border-radius:8px;background:rgba(35,55,255,.08);';
+						form.querySelector('.actions')?.before(el);
+					}
+					el.textContent = msg;
+				}
+			})();
+		</script>
+	</body>
+</html>

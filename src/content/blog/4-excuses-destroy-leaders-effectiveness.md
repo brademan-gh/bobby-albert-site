@@ -111,4 +111,4 @@ When we recognize and avoid these common excuses, we’re more likely to adopt t
 
 *What is your excuse for not employing a more participative leadership style? * *How does your organization encourage teamwork and collaboration in its decision-making process? * *Please share your comments **[here](/blog/4-excuses-destroy-leaders-effectiveness/#comments)** and share this article with family, friends, and/or co-workers.* 
 
-Are you leading your organization toward growth? Take my FREE Lead2Grow Assessment **here** to understand more. (PLUS – you’ll receive custom-tailored suggestions about next steps to take, starting today!)
+Are you leading your organization toward growth? Take my FREE Lead2Grow Assessment [**here**](/assessment/lead2grow/) to understand more. (PLUS – you’ll receive custom-tailored suggestions about next steps to take, starting today!)
